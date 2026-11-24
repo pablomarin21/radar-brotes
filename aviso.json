@@ -1,90 +1,84 @@
 {
- "ts": "2026-11-25T00:00:46+01:00",
+ "ts": "2026-11-25T00:34:04+01:00",
  "fichas": [
-  "wallstreet",
-  "city",
-  "pacific",
-  "kansas"
+  "alverde",
+  "santander",
+  "angel",
+  "mexico"
  ],
- "medios": 65,
- "normal": 0,
- "red": "investing",
- "titular": "S&P sube la calificación de Canadian Pacific Kansas City a A- por su crecimiento transfronterizo",
- "medio": "Investing.com España",
- "link": "https://es.investing.com/news/stock-market-news/sp-sube-la-calificacion-de-canadian-pacific-kansas-city-a-a-por-su-crecimiento-transfronterizo-3942771",
+ "medios": 12,
+ "normal": 0.5,
+ "titular": "Ángel Alverde Losada será el nuevo presidente del Consejo de Santander México",
+ "medio": "Revista Merca2.0",
+ "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1J4VC1tZ0xRNG9NcWlzM00zTE1IU3NkZlhqbWFuNV85aVdkb05Yc3lheW0xdFE4N0F5dnlqYTl5QTVVNktzd2NEenJweXhmN2t4MjVZMmk4SnFUbDc3N0N5ekpMNHA4MEV0czNCckNrdURTMlhqYVBlVHg1aXlSdWRNTTdRU1F4X0stTW00WXZ1elhwZFZzSENrbERnS3FRNFlBeQ?oc=5",
  "titulares": [
   {
-   "o": "Investing.com España",
-   "t": "S&P sube la calificación de Canadian Pacific Kansas City a A- por su crecimiento transfronterizo",
-   "link": "https://es.investing.com/news/stock-market-news/sp-sube-la-calificacion-de-canadian-pacific-kansas-city-a-a-por-su-crecimiento-transfronterizo-3942771"
-  },
-  {
-   "o": "El Horizonte",
-   "t": "Wall Street cierra mixto ante caída de Nvidia y Anthropic",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPenUxaW1HQWp5enlBczREOGxUaFkyZ01VUnNJUUdnTGVQenJTZnY0cnBzVEZ3WldrcWktNlRqcDJXLVpabUI0NjlIUjAyR0p3ZGJNM0RoWVJrVWRNb1BSbnc0RTFVZkxHOWUtRkIxZ01xejM3MVFRMFgtaldsNlBVQzRjUXR5RS0tbWZVSm41a2J1WHBrX3ZOeU9oc1BaNnNHd3pJbVlyVQ?oc=5"
-  },
-  {
-   "o": "The Globe and Mail",
-   "t": "Stock Market Today, Nov. 24: AMD Plunges 9% as 337 Million-Share Resale Filing Adds to AI Sell-Off",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQY1E0cXd0TjdpdndEc1N2WThseDJ4cXgtTWFjYjRZNHItVl85SVdnVWFWUktMalhrazhfbEpZLUlTYTBUdmdYNm9NTGI5djQ4NHBROWhQZVZkanpUUjFRSVlENlVpRXVGd0dNYzA3U0NKLUhicGozMG5NOExwTmx0Q0cxR0l0bnYydWFqM29BeVQ5NGk0aVNXU2xLbGxLeWd0Y0F4dHRmaHc5Njl4VFJXMU9fM3lFUFN2VFBJMmRfeVNpTmFZa0dfUWxtdGk4TXp2TXV5R2x0ZDh3VmFMalhLT0FoZFcwcXItTDd2STRxUm1nblhZNFJhaDh1U0VNdmd1c3FkLXlSd3EzUjQ?oc=5"
-  },
-  {
-   "o": "Investing.com España",
-   "t": "iSpecimen Inc recupera el cumplimiento del requisito de acciones de Nasdaq",
-   "link": "https://es.investing.com/news/sec-filings/ispecimen-inc-recupera-el-cumplimiento-del-requisito-de-acciones-de-nasdaq-93CH-3942775"
-  },
-  {
-   "o": "cwibc.co.id",
-   "t": "Dow Jones Reclaims 50000 as Nvidia Shares Lead Tech Selloff",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yTzhyQnlFVGVGSDY3cTduVE5pQmpXMkw4WlNsTjhaMklfWjlaWm1Hc01JWTZYWEZiMl9yWGhqNWd3WS1lVDRXcklkd3JrNDY0WVJlYlBVSjRSc0k?oc=5"
-  },
-  {
-   "o": "NotiCel",
-   "t": "Wall Street cierra en terreno mixto con nuevas caídas de Anthropic y Nvidia",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOHhjaEVhM002TE9FOTJlVDU5ZDdHTFFCR2xrUGJ3OHFpdUNENmYtbkFfWVh0TTgxcmpJcUF2bmZ6Q2tJeW96VEJ1TmF5ZmJnT0RDM1FaTU9UUXVZS2pRNDhTdXBBbDkzUGw2SEtORHBub2lfUHFKam5SakwxbHJFQm8xTHZNVVdjTGhjSFhhQ1FOWHM5VHdobVhRa2dwRzVsVmxUTGd1NjhvdHpGT0tfODFyS04?oc=5"
-  },
-  {
-   "o": "The Motley Fool",
-   "t": "Stock Market Today, Nov. 24: Bitmine Shares Sink 8.6% as Confidence Wanes",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZGw5LVdvY2VVNVp5cUg2eUVlaVhyTGFwMlJHM1FVU2x5SnJrQUgtNFQwbHBUWWZOemhCaFk2bVpfUmZJR2I3Qm1weEU3WlY5OS1mT3NYSjl2OTNOcFlRZ2RCLS1ROW0xWmhXN3ROcVZzSkItN1ZkRDB0SzZZWG96WEgtRGxlaU1VS0VtUG1NLXVxQVVZTUtmNVU1c1dkWXQ2QV9OSkg3cGhjRE5qNENoS2k0UFZLRFRhZ1VyMUFnMTcwZ3E5dnNhcHB3?oc=5"
-  },
-  {
-   "o": "www.tmgm.com",
-   "t": "El Dow Jones Industrial Average vuelve a los 50.000 puntos mientras Nvidia lidera las caídas del sector tecnológico",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaXFWclRsMS1CMTVxVnR6LWszSnktakEtTlAxcnBIRkNpWjd1X01WSEd5YUtSTmRvX0lBYndpdGVWVlhLRklUVXJ1dW1EYl9FeFFLbFo4cmtnaGlBQjNwcnZ0LUNzRVJWNDJpQXlkcTA2WW9oRDh2bkxGSHZDZjNZQ2N2RHA2Q2xkZmJOOHp1YWV5TDJRSVNNbHdPYlEzZjg0NTliSE81ZWpMYTZWNXdXaG9JOVE3NG9GbkxtblpyVjVadGtGWHEtRlpBeUNRTjEt?oc=5"
-  },
-  {
    "o": "Expansión",
-   "t": "Wall Street cae más de un 1% tras el estreno de Anthropic",
-   "link": "https://www.expansion.com/mercados/2026/11/19/wall-street-cae-1-estreno-anthropic.html"
+   "t": "Designa Santander a Ángel Alverde Losada como presidente de su Consejo de Administración",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSl9mSEIwN3JwT3BJckRnVU0zLUM1T2VOeTFoMjI0MDRzYjc5XzIxWmoyU3VKMVJfa3N2b1BDaFJYWmNkZ3pCUW1WczVhejRQbjdzYkx4ZDJJMTlQcmdkNmF1RFlPNXZKOV8wakpJSnQyXzk3RHpiYU5udlg0amZMMzBDUGJPOWVVTjR2T0lpaWZxTnNYTUlOd2JJbVB1eU1iVXpiLWZlYWQxejhDeGc3Umd5cXE0TFozNWNnQkJ4UW04XzN1MkJsWNIB1gFBVV95cUxOMGdDSkhpcWVIdkZ3X3J4UzlhMWVWR2RZZ3ZoMVZmYlZtQnM3N01tTXVBenlGVERjSTRmRlA1ZUpGSk5WaHJhVHZST3lGSDRsQTRfMnhVS0QzSFNDUGFCeTNDUXVzWEhyWXdrMUxoVWVBb0xJWHRrc1YtdjRjcVFFVVZOcG1EaEFKSHhsdWNOQTdWeHVUVWo5cTlxWGhLdjlQWHMtcmpOYjVkYzQ4dzV0SF9VY0FJWnEzRnZNbnhZUXFqNFpUUWpnWC1idlNlZ2FtZUVpTEFn?oc=5"
   },
   {
-   "o": "Expansión",
-   "t": "La IA se estrena en Wall Street: Anthropic protagoniza la mayor salida a Bolsa de la historia",
-   "link": "https://www.expansion.com/mercados/2026/11/19/ia-estrena-wall-street-anthropic-protagoniza-mayor-salida-bolsa-historia.html"
+   "o": "Revista Merca2.0",
+   "t": "Ángel Alverde Losada será el nuevo presidente del Consejo de Santander México",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1J4VC1tZ0xRNG9NcWlzM00zTE1IU3NkZlhqbWFuNV85aVdkb05Yc3lheW0xdFE4N0F5dnlqYTl5QTVVNktzd2NEenJweXhmN2t4MjVZMmk4SnFUbDc3N0N5ekpMNHA4MEV0czNCckNrdURTMlhqYVBlVHg1aXlSdWRNTTdRU1F4X0stTW00WXZ1elhwZFZzSENrbERnS3FRNFlBeQ?oc=5"
   },
   {
-   "o": "Expansión",
-   "t": "Wall Street espera que el crecimiento de los beneficios empresariales se reduzca a la mitad el próximo año",
-   "link": "https://www.expansion.com/economia/financial-times/2026/11/18/wall-street-espera-crecimiento-beneficios-empresariales-reduzca-mitad-proximo-ano.html"
+   "o": "Milenio",
+   "t": "Ángel Alverde Losada relevará a Laura Diez Barroso en presidencia de Santander México",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdjd1NmMwT3RPdjhzd0JKUG9KNGVrR0dMaHlvZVNWUUxXUUZvWVZ1ay1lbDhaZVAyQTBvUmV1LVJFWnFCTEl5dzZ1Q1RaRUEzWmFjZVN2ZW9tX0lnV3FFaGhOTUVkX0dCTElBb18wejc5Q0lZWHNaY3NMVlpJcm1vcnphcExfdzB3b2xYUXlqOUpZZ9IBkgFBVV95cUxOUDIxclU3WnJ4V2NCakFGaGRtNGl3Y2VNd0NjZXUtN2swRlZfTFRUQXBfNGlaUFV2TlV3YkdnNVE1U1ZiZ0d3T25kOGdmM25JT081ZFBNdWJEcmxyUkhYRXd0bEhsZVhIS0pYcE5OM0dmSkcxY3dzbWxnVi1wYnY0bmlKUkxVZzRRcFlfQmV1aWV2Zw?oc=5"
   },
   {
-   "o": "Yahoo Finance",
-   "t": "Suze Orman warns retirees against one costly stock market mistake",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnI3dlh4VkxFbHVsMHQycElaM3UyOVhGMXliWUJqYmVoMVZVQ1FtMmt4WFZTczhucWxJTXJkVEViX21mOXkzS2xBTHN3Z3V0Y2pnMDc1a2ZwS1EzYXJfb01pTGFxY1FhT2VRdG5tYldKMldhZFJhbUNYNDZhZ0VkbkRITllkNzdhQ0RUbkVVa2NrTGVYRE9ockt1S3ZlN0U?oc=5"
+   "o": "El Financiero",
+   "t": "Santander México nombra a Ángel Alverde como nuevo presidente de Consejo",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQTVBMC0yRVk3czN0RmVzc253TjRXTk5vcnFQTW00aGxQdDhGNmx4RVBJZGw3bDg1Si0tZnNIeG9iT3V6RnAyTTNIM3VrS281aThVaUtmM045aS1XaFRWWlRUdURHODZrUllmcW9GUWdjZV9PaS1ick9sbDlCWGp2ZE0yTjNzU0gxLUdGMmpFMS1wcDJsaXpDN1hUY1I0SHA1elN0VHBxQ1FKcHFEZUo1VW1zSGFpNWxFeHhUZjRJc2ZSU0E?oc=5"
+  },
+  {
+   "o": "Yahoo",
+   "t": "Santander México nombra a Ángel Alverde Losada como presidente del Consejo de Administración",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTmJ3NGcxam10elcwOHF4Y3ZuTnEzMUx3cWN3UGh0Tks0SzZRbXlpeVVBQkVxcGtRUjJXU1A1STViaDhOOGJMZHQ0RTRrYmVxZFF5aGZNakdxQ29ORXNjRXNBWTlqc2lxaVlWaXV0bVdocDk2ODhYMHFuUnhCdGNreGtObEhQQS00VlNvLTNLSnpRcjFWdGxlZEQ0RQ?oc=5"
+  },
+  {
+   "o": "El Economista",
+   "t": "Santander México nombra a Ángel Alverde Losada como presidente del Consejo de Administración",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaDdZbXVBRE1IMlVrRlZWeFZDVW1aVUg0a2lBNHBtS2t0ako3UWJCV09HaUhBMmxmZzJMZFI4OXR3Z1RsR2hvXzE4NU5aZkZHZkJoRXhod0hodlhUMkxfS01xYVUyU3JzSDBBQmVKcGFSRnEyMmhENFlPTDdMNnZVaGRreUlaNkNuUHJKZW5HdG1oOWlxekpYVXhwWWc4UEotMUVoSk5qcEkwaTdXU1hZY3RpUE1VNUE3YVZkd3J5aGRvSTBhOU5TU3M0bWoyY1pVbTl3VkZsX29hSEZwWnJ4VmR30gHnAUFVX3lxTE03YndCZzF1UnB4SkxrWUNOSERWVFZNdjQ1aVFUYjk2WHg1ay1GMlE2X3hZYVoyOEdKcUs5YjZReWZQdGJ2QzF1TmdIcTNaZjlzUHQwcXRKLTg4VTJVVzhpS3BCN2F1REl5UldickRjTnhVWVJGWDZGc2F2bWVmOWxoRHpaMzM4cl85NjVydU1va2VTNWxhVHRnZ0ZjanVxb21ENXlmSXU4VE4wUlZQVktGbVB6YVFBN2Fob0Q1eldEeTlMdTFUd05aamh1bHZfcHhkZUVWR1dzeDF2c1ZvVTNNSzJDWEN3aw?oc=5"
+  },
+  {
+   "o": "EL CEO",
+   "t": "Santander México cambia de presidente: Ángel Alverde Losada sustituirá a Laura Diez Barroso",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU0xOSWltUzVQMVRnQWoya0N0X1g2dWIxRnc3MlNBMWhjTzJmTTBzcnFLXy1MdGJCUTY3TFdjY1lMYi1mT3Itb2pTaWl3eVZYTmtULWJzdjVKYlhxRE9zeEt3U3U1WTUwYWNnYnN1UWRtcnFJN2xNSUFUMG53SG04ZTRYZ2hsRFJtM1dpVEpMeS1VNkpTZ2dkYmJrU09RanQ1V2RKa29razN0YWtYbTVLai1XYUE4UU55NXc?oc=5"
+  },
+  {
+   "o": "El Congresista",
+   "t": "Ángel Alverde Losada es nombrado presidente del Consejo de Administración de Banco Santander en México.",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUHdrTEdWUzBrTzlJbjdNdWlVdTl1bEhPWEdhZnFiUnlpWldHVzFPMnVOMHFkS0ZnQWVyczM2ZnhabGRjc2Zrdkg3V1MtSVBlc3UzUmh2SHREenBOUjZVZG4zcmVjbGpBbHNhRlVYWUVEX2tEeGJtc3J6RDBDdlJnUlFjWTliTWpfRjhr?oc=5"
+  },
+  {
+   "o": "ExpokNews",
+   "t": "Angel Alverde nombrado presidente del Consejo de Santander México en sustitución de Laura Diez Barroso Azcárraga",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd1F0NUNXcHlFckU5VlBmdUNDa0VoV2Y0bVprckJiZmNzQ2dkbUs1NkNSSEpsZWlSdmJ6RTFEV2M2N29xdXBLb1VmNTh3V2VpQ1VHWFluUHNUeDlLd01OVWs4RUI2bV90aFR6XzlaVFpiZGwyUjFWSlF4QWRCX21CODdKV2NROVBVR0YyajAwNll1WEdURWRR?oc=5"
+  },
+  {
+   "o": "Consulta Monterrey",
+   "t": "Ángel Alverde asumirá presidencia de Santander México en 2027",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVGplMWl6enhhVWN3UmFsd2ExRHJIamVGS0NoaDNHdGR2dUhNamdhRmlNaHNzMnY3YXBXSDJtQlE1ckUwTVpOOXBGZDNDZkVkcXZmbVAzN3FnQndYaHVYRFVqbTVBeXEyR2s1WXJwaXZFWlg0Tzh0ZmowUEh3elpSWW9yX2J5c3dGVGFSZUg5aw?oc=5"
+  },
+  {
+   "o": "Fortuna y Poder",
+   "t": "Ángel Alverde Losada, nuevo presidente del Consejo de Santander México",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnltN2xJMmNWVGtabUFrdFNoc211MmxBM3U2WWlyNEdMd1k2YkZjR1UwTzlFUDNVT1FmUjJmQnVsblNNNUxBbzd1bnFaTGUtNHFEVDlPYlpPUHUyRENzT3lRdTltaFFTYjBpaDJ2NlZZNkExVFpCYlJzNEk0MHV6TGRqcWQ3VVgtSjc0T0Q0TXYxb252TG14WGh2dFRHaXJOdkVUQko0aThucWR4?oc=5"
+  },
+  {
+   "o": "El Norte",
+   "t": "Designa Santander a Ángel Alverde presidente de su Consejo",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObWtQOGNWeHJNWFVHRmFPZ1U4dmhSX0ZiX1F4bXZYV3d2VEkyNk03aW5xbGYwMmNpY01ZMkkxQXB3VUMyUHU5WEN0MUVEeVlFdlY1c3dLU2VlWWFLUmFacWJnU0VfZUh1dk8xWnpWNTFDWEhPMkZnanVicFpZV2FoYTZaOWt2cHNseF9vbmlXdUlqYUNpRGlj?oc=5"
   }
  ],
  "en_espanol": [
-  "S&P sube la calificación de Canadian Pacific Kansas City a A- por su crecimiento transfronterizo",
-  "Wall Street cierra mixto ante caída de Nvidia y Anthropic",
-  "iSpecimen Inc recupera el cumplimiento del requisito de acciones de Nasdaq",
-  "Wall Street cierra en terreno mixto con nuevas caídas de Anthropic y Nvidia",
-  "El Dow Jones Industrial Average vuelve a los 50.000 puntos mientras Nvidia lidera las caídas del sector tecnológico"
+  "Designa Santander a Ángel Alverde Losada como presidente de su Consejo de Administración",
+  "Ángel Alverde Losada será el nuevo presidente del Consejo de Santander México",
+  "Ángel Alverde Losada relevará a Laura Diez Barroso en presidencia de Santander México",
+  "Santander México nombra a Ángel Alverde como nuevo presidente de Consejo",
+  "Santander México nombra a Ángel Alverde Losada como presidente del Consejo de Administración"
  ],
- "investing": [
-  {
-   "t": "S&P sube la calificación de Canadian Pacific Kansas City a A- por su crecimiento transfronterizo",
-   "link": "https://es.investing.com/news/stock-market-news/sp-sube-la-calificacion-de-canadian-pacific-kansas-city-a-a-por-su-crecimiento-transfronterizo-3942771"
-  }
- ]
+ "investing": []
 }
