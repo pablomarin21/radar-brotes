@@ -21,13 +21,15 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import entidades as R
+import populares as P  # 24-nov: solo noticias de nombres que el público conoce (ver populares.py)
+P.aplicar(R)
 
 TZ = ZoneInfo("Europe/Madrid")
 UA = {"User-Agent": "news-burst-radar/1.0"}
 AQUI = Path(__file__).resolve().parent
 ESTADO = Path(os.environ.get("RADAR_ESTADO", AQUI / "estado.json"))
 SEMILLA = AQUI / "semilla.json.gz"  # solo se usa si no hay estado (primer arranque o caché perdida)
-VENTANA, MIN_MEDIOS, FACTOR, ENFRIAR_H, TOPE_DIA, ESCALADA = 20, 8, 4.0, 48, 12, 15  # 24-nov: 12→8 medios y tope 3→12 (se escapaban Tesla–SpaceX, Fed Williams…)
+VENTANA, MIN_MEDIOS, FACTOR, ENFRIAR_H, TOPE_DIA, ESCALADA = 20, 8, 4.0, 48, 8, 15  # 24-nov tarde: tope 12→8 (Pablo: menos y más gordas). 24-nov: 12→8 medios y tope 3→12 (se escapaban Tesla–SpaceX, Fed Williams…)
 
 GN = "https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={gl}:{lang}"
 Q_EN = '(stock OR shares OR CEO OR "Wall Street" OR earnings OR merger OR acquisition OR IPO OR "Federal Reserve" OR bankruptcy OR tariffs)'
@@ -139,6 +141,8 @@ def _nombres(t):
         for a in al:
             if R.norm(a) in fichas and " " not in a:
                 fichas.discard(R.norm(a)); fichas.add(c)
+    if "fed" in fichas and P.NO_FED.search(n) and not any(R.has(a, n) for a in P.FED_SEGURO):
+        fichas.discard("fed")  # «Man Who Fed Him», «fed up»… no es la Reserva Federal
     return fichas
 
 
@@ -153,6 +157,9 @@ def es_finanzas(t):
 # feeds en español; ojo: Google News llama «Investing.com» a la web inglesa, que NO cuenta aquí) y en 2 h recogen
 # ≥ 3 medios más (4 en total), a ≥ 3× lo normal. Pablo: «me llega una noticia de investing, pum, contenido». Su titular (en español) va de principal en el aviso.
 VENTANAS = [(VENTANA, None, None, None), (120, 12, 3.0, None)]  # la red floja de Investing (4 medios) se quitó el 24-nov: 11 avisos en 15 min; la sustituye investing_directo
+
+
+POPULAR = set(R.ENT) - GEN  # empresas y bancos centrales conocidos (los temas de fondo no cuentan)
 
 
 def evaluar(items, ahora, E):
@@ -196,20 +203,31 @@ def evaluar(items, ahora, E):
             for g in nombres(x["t"]) - {f}:
                 junto[g] = junto.get(g, 0) + 1
         socios = [g for g, c in sorted(junto.items(), key=lambda kv: -kv[1]) if c >= max(2, len(xs) // 3)][:3]
+        # 24-nov (Pablo: «noticias que impacten de verdad al mercado… más populares»): solo si va de un nombre conocido
+        # (o lo lleva al menos la mitad de los titulares); una empresa desconocida, solo si la cuenta todo el mundo.
+        if f not in POPULAR and not any(g in POPULAR and junto[g] * 2 >= len(xs) for g in socios) and len(medios) < P.MEGA:
+            continue
         # Ya avisado = mismo nombre Y algo más en común (SpaceX+IPO ≠ SpaceX+fusión con Tesla: otra noticia). 24-nov.
         # Escalada: la misma historia vuelve con el DOBLE de medios (y ≥ ESCALADA) → se avisa otra vez.
         clave = {f} | set(socios)
         frio = [d for d in E["disparos"] if f in d["fichas"] and (len(clave & set(d["fichas"])) >= 2 or len(d["fichas"]) == 1 or not socios)
                 and (ahora - datetime.fromisoformat(d["ts"])).total_seconds() < ENFRIAR_H * 3600]
-        if frio and not (len(medios) >= ESCALADA and len(medios) >= 2 * max(d["medios"] for d in frio)):
+        # (una sola escalada por historia: el 24-nov Anthropic salió 3 veces, 13 → 27 → 57 medios)
+        if frio and (any(d.get("escalada") for d in frio) or not (len(medios) >= ESCALADA and len(medios) >= 2 * max(d["medios"] for d in frio))):
             continue
         rep = max(xs, key=lambda x: (len(nombres(x["t"]) & ({f} | set(socios))), x["o"] == "Investing.com España", "newsroom" in x["o"].lower() or "press" in x["o"].lower(), x["o"] in ("Investing.com", "Expansión", "Cinco Días", "EL PAÍS", "Europa Press", "Investing.com España")))
+        # La escalada tiene que traer algo NUEVO: el 23-nov «La Fed debate un nuevo alza…» salió dos veces con el mismo titular
+        if frio and any(len(_palabras(rep["t"]) & _palabras(u)) / max(1, len(_palabras(rep["t"]) | _palabras(u))) >= 0.25
+                        for d in frio for u in [d["titular"]] + [y["t"] for y in d.get("titulares", [])]):
+            continue
         es = [x for x in xs if re.search(r"[áéíóúñ¿¡]| (el|la|los|las|del|tras) ", x["t"])]
         d = {"ts": ahora.isoformat(timespec="seconds"), "fichas": [f] + socios, "medios": len(medios), "normal": round(normal, 1),
              "titular": rep["t"], "medio": rep["o"], "link": rep.get("link", ""),
              "titulares": [{"o": x["o"], "t": x["t"], "link": x.get("link", "")} for x in sorted(xs, key=lambda x: x["ts"])][:12],
              "en_espanol": [x["t"] for x in es][:5],
              "investing": [{"t": x["t"], "link": x.get("link", "")} for x in xs if x["o"] == "Investing.com España"][:5]}
+        if frio:
+            d["escalada"] = True
         E["disparos"].append(d)
         nuevos.append(d)
         hechos_hoy += 1
@@ -230,7 +248,7 @@ MACRO_ES = {"oro": ["oro"], "petroleo": ["petroleo", "crudo", "brent", "opep"], 
 INV_RELLENO = re.compile(r"^¿por qué (sube|cae|se dispara|se desploma|repunta)|52 semanas|máximos? históricos?|mínimos? históricos?|"
                          r"precio objetivo|(eleva|rebaja|mejora|recorta|reitera|inicia).{0,30}(recomendación|calificación|cobertura)|"
                          r"(compra|vende) .{0,40}acciones|director|consejero|insider|conferencia|transcripción|earnings call|"
-                         r"presentación de resultados|calendario|en directo|webinar|lanzamiento|oferta|black friday", re.I)
+                         r"presentación de resultados|calendario|en directo|webinar|lanzamiento|oferta|black friday|\b\d+ (mejores|acciones|oportunidades|valores|claves|razones|cosas)\b", re.I)  # listas tipo «5 acciones a evitar»
 _VACIAS = set("el la los las un una unos unas y o de del al en por para con sin sobre tras ante que se su sus es son fue ha han "
               "lo como más mas pero muy ya hoy este esta estos estas the a an and or of to in on for at by with from as is are".split())
 
@@ -254,12 +272,14 @@ def investing_directo(items, ahora, E):
         if x["o"] != INV_MEDIO or x["ts"] <= ahora - timedelta(minutes=INV_FRESCO) or x.get("link") in usados or INV_RELLENO.search(x["t"]):
             continue
         n_t = R.norm(x["t"])
+        if not P.IMPACTO.search(n_t):  # 24-nov: solo si mueve el mercado (ver populares.py)
+            continue
         claves = [f for f in nombres(x["t"]) if f in CLAVE and (f not in MACRO_ES or any(R.has(a, n_t) for a in MACRO_ES[f]))]
         if not claves:
             continue
         cobertura = {f: {y["o"] for y in dos_h if y["o"] != INV_MEDIO and f in nombres(y["t"])} for f in claves}
         f = max(claves, key=lambda k: len(cobertura[k]))
-        if len(cobertura[f]) < 2:
+        if len(cobertura[f]) < P.INV_MIN:
             continue
         pal = _palabras(x["t"])
         repetida = False
