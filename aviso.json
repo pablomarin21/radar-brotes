@@ -1,54 +1,55 @@
 {
  "ts": "2026-11-24T16:25:19+01:00",
  "fichas": [
-  "applied",
-  "optoelectronics"
+  "broadcom",
+  "nvidia",
+  "ia",
+  "amd"
  ],
  "medios": 4,
  "normal": 1.0,
- "titular": "Las acciones de Applied Optoelectronics suben por acuerdo con datacenter",
- "medio": "Investing.com España",
- "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTZxWXBFdWpJakU0aGUtbFl2RkFjckhaa016MGNqM0p6dlpURkY2UWJtSVRSWDFSamJ1NmZ1cFlTYlZBR2JXOFZxaXB3cW9qSUN3Qm9zYXBNRUNFMzVUaFR0VDVxTS1aOFRIM2o0YkV4ZEhVaFUteURuSjhldzNLZWJVSHJQVmp2QW01TTQxRW13dlh2SWx3Q2VNZFQwaG5UcXJDVF93aFR5Y0pTVF8zNlJiQVNSNEdyYnVyWU16NU1nSEphMmVZ?oc=5",
+ "titular": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
+ "medio": "Yahoo Finance Singapore",
+ "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdm05OGFRX2VxTWZnUVdJbWRVY19MV2RIQXNnTW5JbWFiZWx2ZGRnRTRBX2xzaVd5dGZfeTBETTNudk9vYW5FMC1aaU9IZXAzU25jRXZQRWdZMGw1ay1FWmNLa21tc2dDMkpOUXZFT0dyRG8zSmYtS19kVUxCMExEempkR0lFaHlWUjh3Z1p3Z2QzLXZ3VXFUS2U0X1JjZy0zQWdoRWdzRjRWMkdvZ1NOV1J1MEdhR1ZMdjdscU9YQm41UQ?oc=5",
  "titulares": [
   {
+   "o": "Yahoo Finance Singapore",
+   "t": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdm05OGFRX2VxTWZnUVdJbWRVY19MV2RIQXNnTW5JbWFiZWx2ZGRnRTRBX2xzaVd5dGZfeTBETTNudk9vYW5FMC1aaU9IZXAzU25jRXZQRWdZMGw1ay1FWmNLa21tc2dDMkpOUXZFT0dyRG8zSmYtS19kVUxCMExEempkR0lFaHlWUjh3Z1p3Z2QzLXZ3VXFUS2U0X1JjZy0zQWdoRWdzRjRWMkdvZ1NOV1J1MEdhR1ZMdjdscU9YQm41UQ?oc=5"
+  },
+  {
+   "o": "Yahoo Finance",
+   "t": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZlFHMUxxYkptX1RuUVVSbmwzSTJzY1R3N0VHQnBxakF2TzQwY1lheWFLSVhlSkY5TnJlaVBlZlpMTFo3Sml1M1ZEQnZ5VHZYekVpRHV0YTk3UnNvbUZzVzA1S201NkdCSjRvc0c4NXNtSkFBSFZTYUg0U1dlXzJsMXFrbUFQYm1DN1dHYW00eUR0Mjl2YlBRb3ZTams1ekNlNlBVaFpoaEx6d19mNVlyMmRuanM1Z1JQbmFBdGo0Nm02N2VLZGVBSHA3N0E?oc=5"
+  },
+  {
+   "o": "Benzinga",
+   "t": "Why Is Broadcom Stock Sliding Today Alongside Nvidia’s Post-Rally Dip?",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSEt5Q1dlaVByTXJKQVVQR2dObG9YYUhaWXFqaE1ZaVh0WWo5enBDQk52dThTYzNValRSNVp3SFdTOWZkR2lhSkZSeXEwSXdzZmJCYzNMVko3Q001WHJ4cTNxZGRzY1FqZGFkX0ZlWFVHSllzeHVFWlB0dmhpczYtLW45b3dvczdzZUF0bFl3MGxNaXZlRjloNW4tTnJ5bGI2R1hUZUZBVFFyeVYwUWV0eTN5UGZheU1pREVKRGpn?oc=5"
+  },
+  {
    "o": "Investing.com España",
-   "t": "Las acciones de Applied Optoelectronics suben por acuerdo con datacenter",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTZxWXBFdWpJakU0aGUtbFl2RkFjckhaa016MGNqM0p6dlpURkY2UWJtSVRSWDFSamJ1NmZ1cFlTYlZBR2JXOFZxaXB3cW9qSUN3Qm9zYXBNRUNFMzVUaFR0VDVxTS1aOFRIM2o0YkV4ZEhVaFUteURuSjhldzNLZWJVSHJQVmp2QW01TTQxRW13dlh2SWx3Q2VNZFQwaG5UcXJDVF93aFR5Y0pTVF8zNlJiQVNSNEdyYnVyWU16NU1nSEphMmVZ?oc=5"
+   "t": "¿Por qué caen hoy las acciones de Broadcom Inc?",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZkdiR0VSVVdYMEFod0pyUWVISzRSMVNsUUg3bTZ6VGpsRTI2cXExOWc3bnFHTlpBaGxSTW1Fa3hpbmVkdU5td0xyeEVSZFNZaUtQYTYyUUhNQWdBNWI4amdIVGZVdnVxTkNQVG5lWW5TTTdfM0d1VkJ2MnF5LUxwWU1SYzB1LU9NVllobEVFbXdvYlljS0xCOWg1X3JCdHdFUGh6ZTN2T044dw?oc=5"
   },
   {
-   "o": "Investing.com México - Finanzas, Bolsa y Forex",
-   "t": "Acciones de Applied Optoelectronics suben por acuerdo con datacenter - Investing.com México",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSU9HY0tGRUlpVmlXM1JQZ0JFaHpMUVd3RUp0aWo4QWU0SXFwa0otd1hlaUhTeGJKcmI4VDdLeDlvSUsxeldyVmNCazJKTjVlb3EtY3FXa3Bwd0g3U3NnMGtCUldqelBfREFQYTVjSWNETUJWbWNlYm5hYWpwRUl0VnF4TkgyX2xYRkk5T3R1X3NNZFUyeHRTZkJTVTNwVWNKbnk2dTVJUEZGdnpqR1JsMklRUHNvb2c3M0hSb1FxWC1UZw?oc=5"
-  },
-  {
-   "o": "Investing.com",
-   "t": "Why is Applied Optoelectronics stock rallying today?",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc0JHUXJIRDhlVFFaSW9iMkJYVHUxMFFGNndWX05kTU9TZ2N0eC1IRHNYakFzcWQtZlhRWkpCQUFYcVJ5WDNyVGFFalRmOS1Ua2duRnlqaGV6OEdDcXJ4bUFMUGNCSW1rdlZabHdoTkswd1B4dzBHMXN4bVVkY2lOc1BxMXI5TzlHSUllcHEzZVlJcHBMamltSFB3SjFUaXVaclV0V1Z1VUVkUU9fQm5UdmVQbw?oc=5"
-  },
-  {
-   "o": "Investing.com",
-   "t": "Applied Optoelectronics stock rises on datacenter deal",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSklrNFJoMGtrZnpXck53aHB3dDdZTDIyLWw5UE5VVzBERERGZG56TG5JU3NzSlhLTzN1Nk8yWHUxT01NQTVOdmxnbG1lVzFxOVRkVXR1cENpa3ByWVVlZmdSeGlyRmRPZ2FxTkZVTDBjZjF1VUJrcVQ5cEk1dVFsZmtXVEcwYm1vRTJnOG9Kd2VJbTNVTF9PN0xFNG4wc3c0T19NZlJtdFVRMndBVXAyTQ?oc=5"
-  },
-  {
-   "o": "Investing.com",
-   "t": "¿Por qué sube hoy la acción de Applied Opt?",
-   "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-applied-opt-93CH-3942292"
-  },
-  {
-   "o": "24/7 Wall St.",
-   "t": "Marvell Drops 6% as Oppenheimer Cuts Target to $325 Ahead of Earnings; Arm Slides 6%, Applied Materials Falls 5%",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLU1nYzBWSEE3c0ZKRjVLX25Na3FmUmlXWG9Gakc1VWxqUWxwcUtIdDB1VVNnY0IwbVNFYTZiRzdEamNQeDRWVER3TVZpR1NYNVBUOTNGa3dpaXhha1Utd3JyNFQyZnNRYWZubXVZMWIyb2R0bDc1QWU4Q0VmcFljM3FXN21td2FWYTRTeFVNaldSaTlDYU5mWEZYa05QeDl4dDlRZDVGc01HRVJJaXJmRldGd0p4UWJudzZlQldvejR4SGtOaE1HZ05tVzdHSkZRUW1OTFVSenljT3A4eUFoSTBiZUY?oc=5"
+   "o": "Investing.com España",
+   "t": "¿Por qué caen hoy las acciones de Broadcom Inc?",
+   "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-broadcom-inc-93CH-3942383"
   }
  ],
  "en_espanol": [
-  "Acciones de Applied Optoelectronics suben por acuerdo con datacenter - Investing.com México",
-  "¿Por qué sube hoy la acción de Applied Opt?"
+  "¿Por qué caen hoy las acciones de Broadcom Inc?",
+  "¿Por qué caen hoy las acciones de Broadcom Inc?"
  ],
  "investing": [
   {
-   "t": "Las acciones de Applied Optoelectronics suben por acuerdo con datacenter",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTZxWXBFdWpJakU0aGUtbFl2RkFjckhaa016MGNqM0p6dlpURkY2UWJtSVRSWDFSamJ1NmZ1cFlTYlZBR2JXOFZxaXB3cW9qSUN3Qm9zYXBNRUNFMzVUaFR0VDVxTS1aOFRIM2o0YkV4ZEhVaFUteURuSjhldzNLZWJVSHJQVmp2QW01TTQxRW13dlh2SWx3Q2VNZFQwaG5UcXJDVF93aFR5Y0pTVF8zNlJiQVNSNEdyYnVyWU16NU1nSEphMmVZ?oc=5"
+   "t": "¿Por qué caen hoy las acciones de Broadcom Inc?",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZkdiR0VSVVdYMEFod0pyUWVISzRSMVNsUUg3bTZ6VGpsRTI2cXExOWc3bnFHTlpBaGxSTW1Fa3hpbmVkdU5td0xyeEVSZFNZaUtQYTYyUUhNQWdBNWI4amdIVGZVdnVxTkNQVG5lWW5TTTdfM0d1VkJ2MnF5LUxwWU1SYzB1LU9NVllobEVFbXdvYlljS0xCOWg1X3JCdHdFUGh6ZTN2T044dw?oc=5"
+  },
+  {
+   "t": "¿Por qué caen hoy las acciones de Broadcom Inc?",
+   "link": "https://es.investing.com/news/stock-market-news/por-que-caen-hoy-las-acciones-de-broadcom-inc-93CH-3942383"
   }
  ]
 }
