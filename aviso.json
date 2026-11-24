@@ -1,45 +1,50 @@
 {
  "ts": "2026-11-24T16:34:50+01:00",
  "fichas": [
-  "williams",
-  "fed",
-  "rate",
-  "york"
+  "devices",
+  "analog"
  ],
- "medios": 4,
- "normal": 1.0,
- "titular": "The New York Fed’s John Williams Won’t Rule Out Back-to-Back Rate Hikes",
+ "medios": 5,
+ "normal": 1.3,
+ "titular": "Why Is Analog Devices Stock Falling 7.6% Today?",
  "medio": "Yahoo Finance",
- "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFNWbXdIQl9FaWhqMEpBNlNhc1Y2bHN4MWlWSGpMWUJ2elhHRC1LRi1JdVFoY1BVNUwtUDk3cUxSNmMyUWFKNHhvT2JqTTNZcE5McklVMFhZemlYRTJ5Q09uZGRLN0xiTUllRFdVY2k0SUZKTVhDMU9FMG5vUzdsSkc1OUdfLVNNVFpRNGJSdzRvdHcwNEE?oc=5",
+ "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeE5QVC14eThhbmhDVmRkVGU3VDZIX1VjUU5pUnRmNG9aNk9JeUZ2elFCOGpSRjdIWGl2UG05TnUxZ0d4dWlpdloyVmJueVVSUjloSGZSWEktckgzQkZXbEhfMWpsTG1sY2ZqX0hkVmVJUWl2VlFwZ1Q0Y0llNnJWcUtMa0MxbTNFeS1zaXVxQlo4OW1KMEprTDVFTGlzUQ?oc=5",
  "titulares": [
   {
-   "o": "24/7 Wall St.",
-   "t": "The New York Fed’s John Williams Won’t Rule Out Back-to-Back Rate Hikes",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWlCc2tRcGt0d191SHcxaVhjaFBwR204Um01Y3N3eTIzd0hRWlZEMTRBUWctYkxUYUFoN2hZcjVLenBzU1pveHNmVU9DLXpZUFljSXByLXlJTm9WUGgxNDRPMFFOeUJuQ3pFbjNSZWExSnVTd3ZzeGl4VHNycW1vNGFVbjV4SDVqazFucTR1a0w2dm9VYWtTLWtlOGp6bzZVWm85QVR0bDZQR3R2Z1BzQ3Vrcw?oc=5"
+   "o": "MarketScreener España",
+   "t": "Analog Devices, Inc. presenta los resultados del cuarto trimestre y del ejercicio completo cerrado el 31 de octubre de 2026",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNnZPTXNMVVNTRTE5N25jQ1hpNzBDNHFfS3lPNXJrQ3hsQjFRRWozazBmV092NVJFbUVhVXVYWXc5eWVaVnozblpSbnROb045NFUxR3d6SGtQM3BzTGpkaEZsdnZLVUJ0bTZyOWtxR1JPYnpKTTF5OHA4S19QM0JPdmZ5NE9QTTcxTTZVMjZXVVI3Z0pLVE02ZzhoSVctckpDSlZQbEd0ZTZTSXd1ekpGVHRXZ3IwellwZnRETlJZQlE0WjZzSks2ZzMxYVRBZTc4SzBGckk5MGY5LU9GODVwdjk0UTRfNkJ6a1E?oc=5"
   },
   {
    "o": "Yahoo Finance",
-   "t": "The New York Fed’s John Williams Won’t Rule Out Back-to-Back Rate Hikes",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFNWbXdIQl9FaWhqMEpBNlNhc1Y2bHN4MWlWSGpMWUJ2elhHRC1LRi1JdVFoY1BVNUwtUDk3cUxSNmMyUWFKNHhvT2JqTTNZcE5McklVMFhZemlYRTJ5Q09uZGRLN0xiTUllRFdVY2k0SUZKTVhDMU9FMG5vUzdsSkc1OUdfLVNNVFpRNGJSdzRvdHcwNEE?oc=5"
+   "t": "Why Is Analog Devices Stock Falling 7.6% Today?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeE5QVC14eThhbmhDVmRkVGU3VDZIX1VjUU5pUnRmNG9aNk9JeUZ2elFCOGpSRjdIWGl2UG05TnUxZ0d4dWlpdloyVmJueVVSUjloSGZSWEktckgzQkZXbEhfMWpsTG1sY2ZqX0hkVmVJUWl2VlFwZ1Q0Y0llNnJWcUtMa0MxbTNFeS1zaXVxQlo4OW1KMEprTDVFTGlzUQ?oc=5"
   },
   {
-   "o": "FlipItMoney",
-   "t": "Treasury yields dip after NY Fed's Williams warns on inflation; 5-year auction eyed",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNVhCSmxCQ2Q3bDkybFo3S3A0bUoyZFBlNGtsMllnYTl1enE4b3AwVVZmWm1BM3d6dXNHTTdMaGZfSUwxSlFYQzItbUpIRm5aT01CV2oyQWlRR0xGZUNBR2pSenNlMXJUNF9TZGVNbE5zanN1QnNlM0lzQkNEZkpXYmZXTGhvdG9haGk4MVBpcFdOX0NrMndlYl84b0FFYUZvaG94cHMzUUFqa2dO?oc=5"
+   "o": "Quartz",
+   "t": "Analog Devices registró ingresos récord en los resultados del cuarto trimestre de 2026.",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOU92VGU4UWVwaXBJNWNXN2d4VmZTdEJ0MThWcUNzZ2wtalJBdUxJUUgwZGlvOGRRaGxuUU90U0xvanUxbmFIZXNiTkhSeU9ERzRjcEQtQmd0b0h6Wi1BSnhTMVUyNXNMaDBhdllvdHkzTzVzbXo2ZmIwc3p2M0loVU5lcw?oc=5"
+  },
+  {
+   "o": "TradingView",
+   "t": "Analog Devices Q4 2026 Earnings Call Is Live",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU1lNbU45eGc4NTZOLUdCMWdFajI1UDFua3NKZTZodldnX25PQmxHUzlKLTRydGVoS1k5TGp3UFlnX3gzZkdZR09kVUtxMV9acXIwSnYxQ1g0YmtsSDVFYlA0RHRvWWlPb0QybFZtdzJmVVN4R2JlSHNxaGFHRHhXZzMxZGpvZDZlSDQ2aGY4Q0xzYTBwSEN0ZVJObThDQnFxR04yRGhZZXlQQjRyYkpscFZYUQ?oc=5"
   },
   {
    "o": "Investing.com España",
-   "t": "La vuelta de Huang centra la atención; Williams habla sobre los tipos",
-   "link": "https://es.investing.com/news/economy-news/el-regreso-de-huang-en-el-punto-de-mira-williams-habla-sobre-los-tipos-de-interes-3941429"
+   "t": "¿Por qué cae hoy la acción de Advanced Micro Devices Inc?",
+   "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-advanced-micro-devices-inc-93CH-3942406"
   }
  ],
  "en_espanol": [
-  "La vuelta de Huang centra la atención; Williams habla sobre los tipos"
+  "Analog Devices, Inc. presenta los resultados del cuarto trimestre y del ejercicio completo cerrado el 31 de octubre de 2026",
+  "Analog Devices registró ingresos récord en los resultados del cuarto trimestre de 2026.",
+  "¿Por qué cae hoy la acción de Advanced Micro Devices Inc?"
  ],
  "investing": [
   {
-   "t": "La vuelta de Huang centra la atención; Williams habla sobre los tipos",
-   "link": "https://es.investing.com/news/economy-news/el-regreso-de-huang-en-el-punto-de-mira-williams-habla-sobre-los-tipos-de-interes-3941429"
+   "t": "¿Por qué cae hoy la acción de Advanced Micro Devices Inc?",
+   "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-advanced-micro-devices-inc-93CH-3942406"
   }
  ]
 }
