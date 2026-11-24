@@ -104,10 +104,14 @@ def leer(url, fijo):
     out = []
     for it in ET.fromstring(raw).findall(".//item"):
         t, link = (it.findtext("title") or "").strip(), (it.findtext("link") or "").strip()
+        pd = (it.findtext("pubDate") or "").strip()
         try:
-            pub = email.utils.parsedate_to_datetime(it.findtext("pubDate")).astimezone(TZ).isoformat(timespec="seconds")
+            pub = email.utils.parsedate_to_datetime(pd).astimezone(TZ).isoformat(timespec="seconds")
         except Exception:
-            pub = None
+            try:  # Investing.com da «2026-11-24 07:57:56» sin zona: es hora UTC
+                pub = datetime.strptime(pd, "%Y-%m-%d %H:%M:%S").replace(tzinfo=ZoneInfo("UTC")).astimezone(TZ).isoformat(timespec="seconds")
+            except Exception:
+                pub = None
         if t and link:
             out.append({"t": limpia(t), "o": medio_de(it, fijo), "link": link, "pub": pub})
     return out
