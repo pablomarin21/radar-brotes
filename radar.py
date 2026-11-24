@@ -216,6 +216,74 @@ def evaluar(items, ahora, E):
     return nuevos
 
 
+# 4.ª red (24-nov), INVESTING DIRECTO. Pablo: «investing.com ha publicado que Nvidia, con la subida, ha arrastrado a todo
+# el sector de chips… me gustaría que lo hicieras solo». No espera a un estallido: cada titular NUEVO de Investing.com
+# España sobre una empresa o tema clave, que al menos 2 medios más estén contando, se convierte en aviso.
+# Como mucho uno cada INV_CADA min; no repite la misma historia (palabras del titular), sí un ángulo nuevo.
+INV_MEDIO, INV_CADA, INV_FRESCO = "Investing.com España", 45, 30
+CLAVE = set(R.ENT) - {"iran", "ucrania", "rusia", "israel", "trump", "china", "ia", "ipo"}
+# Temas generales: solo si el titular lo dice EN ESPAÑOL («Fury Gold informa…» no es una noticia del oro)
+MACRO_ES = {"oro": ["oro"], "petroleo": ["petroleo", "crudo", "brent", "opep"], "bitcoin": ["bitcoin", "cripto", "criptomonedas"],
+            "inflacion": ["inflacion", "ipc", "precios"], "empleo": ["empleo", "paro", "desempleo"], "aranceles": ["arancel", "aranceles"],
+            "pib": ["pib", "recesion"], "vivienda": ["vivienda", "hipoteca", "euribor"], "bonos": ["bono", "bonos", "deuda"],
+            "wallstreet": ["wall street", "s&p", "nasdaq", "dow jones"]}
+INV_RELLENO = re.compile(r"^¿por qué (sube|cae|se dispara|se desploma|repunta)|52 semanas|máximos? históricos?|mínimos? históricos?|"
+                         r"precio objetivo|(eleva|rebaja|mejora|recorta|reitera|inicia).{0,30}(recomendación|calificación|cobertura)|"
+                         r"(compra|vende) .{0,40}acciones|director|consejero|insider|conferencia|transcripción|earnings call|"
+                         r"presentación de resultados|calendario|en directo|webinar|lanzamiento|oferta|black friday", re.I)
+_VACIAS = set("el la los las un una unos unas y o de del al en por para con sin sobre tras ante que se su sus es son fue ha han "
+              "lo como más mas pero muy ya hoy este esta estos estas the a an and or of to in on for at by with from as is are".split())
+
+
+def _palabras(t):
+    return {w for w in re.findall(r"[a-z0-9]{4,}", R.norm(t)) if w not in _VACIAS}
+
+
+def investing_directo(items, ahora, E):
+    """Un aviso como mucho por pasada: el mejor titular nuevo de Investing.com España (ver arriba)."""
+    hoy = ahora.strftime("%Y-%m-%d")
+    if sum(d["ts"][:10] == hoy for d in E["disparos"]) >= TOPE_DIA:
+        return []
+    if any(d.get("red") == "investing" and (ahora - datetime.fromisoformat(d["ts"])).total_seconds() < INV_CADA * 60 for d in E["disparos"]):
+        return []
+    dos_h = [x for x in items if ahora - timedelta(hours=2) < x["ts"] <= ahora]
+    usados = {x.get("link") for d in E["disparos"] for x in d.get("investing", [])}
+    previos = [d for d in E["disparos"] if (ahora - datetime.fromisoformat(d["ts"])).total_seconds() < 24 * 3600]
+    cands = []
+    for x in dos_h:
+        if x["o"] != INV_MEDIO or x["ts"] <= ahora - timedelta(minutes=INV_FRESCO) or x.get("link") in usados or INV_RELLENO.search(x["t"]):
+            continue
+        n_t = R.norm(x["t"])
+        claves = [f for f in nombres(x["t"]) if f in CLAVE and (f not in MACRO_ES or any(R.has(a, n_t) for a in MACRO_ES[f]))]
+        if not claves:
+            continue
+        cobertura = {f: {y["o"] for y in dos_h if y["o"] != INV_MEDIO and f in nombres(y["t"])} for f in claves}
+        f = max(claves, key=lambda k: len(cobertura[k]))
+        if len(cobertura[f]) < 2:
+            continue
+        pal = _palabras(x["t"])
+        repetida = False
+        for d in previos:  # misma historia = misma ficha y titulares parecidos
+            if f in d["fichas"]:
+                for t in [d["titular"]] + [y["t"] for y in d.get("titulares", [])]:
+                    q = _palabras(t)
+                    if pal and q and len(pal & q) / len(pal | q) >= 0.25:
+                        repetida = True
+        if not repetida:
+            cands.append((len(cobertura[f]), x["ts"], x, f, cobertura[f]))
+    if not cands:
+        return []
+    n, _, x, f, otros = max(cands, key=lambda c: (c[0], c[1]))
+    rel = sorted([y for y in dos_h if f in nombres(y["t"]) and y is not x], key=lambda y: y["ts"], reverse=True)[:11]
+    d = {"ts": ahora.isoformat(timespec="seconds"), "fichas": [f] + [g for g in nombres(x["t"]) if g != f][:3], "medios": n + 1,
+         "normal": 0, "red": "investing", "titular": x["t"], "medio": INV_MEDIO, "link": x.get("link", ""),
+         "titulares": [{"o": x["o"], "t": x["t"], "link": x.get("link", "")}] + [{"o": y["o"], "t": y["t"], "link": y.get("link", "")} for y in rel],
+         "en_espanol": [x["t"]] + [y["t"] for y in rel if re.search(r"[áéíóúñ¿¡]| (el|la|los|las|del|tras) ", y["t"])][:4],
+         "investing": [{"t": x["t"], "link": x.get("link", "")}]}
+    E["disparos"].append(d)
+    return [d]
+
+
 def a_items(vistos):
     out = []
     for x in vistos.values():
@@ -344,7 +412,10 @@ def vivo():
     # sin 6 h de historia (estado perdido y sin semilla) no hay «lo normal» con qué comparar: aprende, no avisa
     mas_viejo = min((v["visto"] for v in E["vistos"].values()), default=ahora.isoformat())
     aprendiendo = datetime.fromisoformat(mas_viejo) > ahora - timedelta(hours=6)
-    nuevos = [] if aprendiendo else evaluar(a_items(E["vistos"]), ahora, E)
+    its = a_items(E["vistos"])
+    nuevos = [] if aprendiendo else evaluar(its, ahora, E)
+    if not aprendiendo:
+        nuevos += investing_directo(its, ahora, E)
     notas = []
     if "--avisar-git" in sys.argv:
         dir_avisos = sys.argv[sys.argv.index("--avisar-git") + 1]
