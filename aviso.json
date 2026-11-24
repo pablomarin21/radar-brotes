@@ -1,43 +1,45 @@
 {
  "ts": "2026-11-24T16:34:50+01:00",
  "fichas": [
-  "kohl"
+  "williams",
+  "fed",
+  "rate",
+  "york"
  ],
  "medios": 4,
- "normal": 0.5,
- "titular": "Informe de resultados: Kohl’s Corp supera estimaciones del Q3 2026 y sus acciones suben un 12,6%",
- "medio": "Investing.com España",
- "link": "https://es.investing.com/news/transcripts/informe-de-resultados-kohls-corp-supera-estimaciones-del-q3-2026-y-sus-acciones-suben-un-126-93CH-3942413",
+ "normal": 1.0,
+ "titular": "The New York Fed’s John Williams Won’t Rule Out Back-to-Back Rate Hikes",
+ "medio": "Yahoo Finance",
+ "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFNWbXdIQl9FaWhqMEpBNlNhc1Y2bHN4MWlWSGpMWUJ2elhHRC1LRi1JdVFoY1BVNUwtUDk3cUxSNmMyUWFKNHhvT2JqTTNZcE5McklVMFhZemlYRTJ5Q09uZGRLN0xiTUllRFdVY2k0SUZKTVhDMU9FMG5vUzdsSkc1OUdfLVNNVFpRNGJSdzRvdHcwNEE?oc=5",
  "titulares": [
   {
-   "o": "Yahoo Finance",
-   "t": "Why Is Kohl’s Stock Rising 7.7% Today?",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc1NGSXROY0xoNktqNkVETUZ1T3RrZ284SlJVOXN1cUJGN2hSbU5uU1hGNFRrd1NXVjBqQTNDclZkb3JnR182WDlrdlkxbzVTZlY0OTFsMGxJMkJqRGkyb241ZEI2Z1l6U29zLXBrRThOQ1FUQ1hPUml4VUcyWDEwTDJTcGlnWVBDRnBJdk1GSHhkdw?oc=5"
+   "o": "24/7 Wall St.",
+   "t": "The New York Fed’s John Williams Won’t Rule Out Back-to-Back Rate Hikes",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWlCc2tRcGt0d191SHcxaVhjaFBwR204Um01Y3N3eTIzd0hRWlZEMTRBUWctYkxUYUFoN2hZcjVLenBzU1pveHNmVU9DLXpZUFljSXByLXlJTm9WUGgxNDRPMFFOeUJuQ3pFbjNSZWExSnVTd3ZzeGl4VHNycW1vNGFVbjV4SDVqazFucTR1a0w2dm9VYWtTLWtlOGp6bzZVWm85QVR0bDZQR3R2Z1BzQ3Vrcw?oc=5"
   },
   {
-   "o": "MarketScreener España",
-   "t": "Kohl's Corporation presenta sus resultados del tercer trimestre y de los nueve primeros meses cerrados el 31 de octubre de 2026",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZjdwbWx4V3M4T2pWU1NuNXVlRWlpQXp1eHo1bXMtSzZpTFVKV0ZhSnZCYTh4MFBLVzg4bW1taktEdndnc2Q2a2c3NnZQYUFQZV9VRjZhYW9leVdKcERjeXZlbnp5QllTTy1tY21KbEtQNEJucTdvLXVHdGtENzJpdDk4bVpvSWhGTi1iZW1SLUZ4cHdPY0dvSVYzeDJfVjZXSTIzeEZWd2Y2bDdSaDlzWVpQMEZmVWI3Z0VMcV9YcEtJVGZNbXktaFVuc3RyUGdjcXQ0ZWFKaXRranNsWE9uOEhHLTVqMEU2eERxcQ?oc=5"
+   "o": "Yahoo Finance",
+   "t": "The New York Fed’s John Williams Won’t Rule Out Back-to-Back Rate Hikes",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFNWbXdIQl9FaWhqMEpBNlNhc1Y2bHN4MWlWSGpMWUJ2elhHRC1LRi1JdVFoY1BVNUwtUDk3cUxSNmMyUWFKNHhvT2JqTTNZcE5McklVMFhZemlYRTJ5Q09uZGRLN0xiTUllRFdVY2k0SUZKTVhDMU9FMG5vUzdsSkc1OUdfLVNNVFpRNGJSdzRvdHcwNEE?oc=5"
+  },
+  {
+   "o": "FlipItMoney",
+   "t": "Treasury yields dip after NY Fed's Williams warns on inflation; 5-year auction eyed",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNVhCSmxCQ2Q3bDkybFo3S3A0bUoyZFBlNGtsMllnYTl1enE4b3AwVVZmWm1BM3d6dXNHTTdMaGZfSUwxSlFYQzItbUpIRm5aT01CV2oyQWlRR0xGZUNBR2pSenNlMXJUNF9TZGVNbE5zanN1QnNlM0lzQkNEZkpXYmZXTGhvdG9haGk4MVBpcFdOX0NrMndlYl84b0FFYUZvaG94cHMzUUFqa2dO?oc=5"
   },
   {
    "o": "Investing.com España",
-   "t": "Informe de resultados: Kohl’s Corp supera estimaciones del Q3 2026 y sus acciones suben un 12,6%",
-   "link": "https://es.investing.com/news/transcripts/informe-de-resultados-kohls-corp-supera-estimaciones-del-q3-2026-y-sus-acciones-suben-un-126-93CH-3942413"
-  },
-  {
-   "o": "Investing.com",
-   "t": "Earnings call transcript: Kohl’s tops Q3 2026 estimates, shares jump 12.6%",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORzVYN2poQmZVS1dxdTdjMVNBc0ZCZm0yU1ZCNlBRT2EtNlFoUHpWeFQ3anR6Z1VCVmlaUFBrWkNOOUpYckZXQUNtTDVxX01hMk96Z1kwR3hrLTN4Z1RaUXhpRHN6R2JvU1NOTE1zRGhoMWhoaGNtcTVxUVlJckRWREt4ckpBVGxkTHJnbzhlQmpvYi1mTktlMlBIVkdHMkdsb1NjUU1XeEdsZU02enNaSnhSNWNZTWV6VnNscFpvTjFXc28?oc=5"
+   "t": "La vuelta de Huang centra la atención; Williams habla sobre los tipos",
+   "link": "https://es.investing.com/news/economy-news/el-regreso-de-huang-en-el-punto-de-mira-williams-habla-sobre-los-tipos-de-interes-3941429"
   }
  ],
  "en_espanol": [
-  "Kohl's Corporation presenta sus resultados del tercer trimestre y de los nueve primeros meses cerrados el 31 de octubre de 2026",
-  "Informe de resultados: Kohl’s Corp supera estimaciones del Q3 2026 y sus acciones suben un 12,6%"
+  "La vuelta de Huang centra la atención; Williams habla sobre los tipos"
  ],
  "investing": [
   {
-   "t": "Informe de resultados: Kohl’s Corp supera estimaciones del Q3 2026 y sus acciones suben un 12,6%",
-   "link": "https://es.investing.com/news/transcripts/informe-de-resultados-kohls-corp-supera-estimaciones-del-q3-2026-y-sus-acciones-suben-un-126-93CH-3942413"
+   "t": "La vuelta de Huang centra la atención; Williams habla sobre los tipos",
+   "link": "https://es.investing.com/news/economy-news/el-regreso-de-huang-en-el-punto-de-mira-williams-habla-sobre-los-tipos-de-interes-3941429"
   }
  ]
 }
