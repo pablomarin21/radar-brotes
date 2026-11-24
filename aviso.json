@@ -1,44 +1,43 @@
 {
- "ts": "2026-11-24T16:32:25+01:00",
+ "ts": "2026-11-24T16:34:50+01:00",
  "fichas": [
-  "salesforce"
+  "kohl"
  ],
  "medios": 4,
- "normal": 0.7,
- "titular": "¿Por qué sube hoy la acción de Salesforce Inc?",
+ "normal": 0.5,
+ "titular": "Informe de resultados: Kohl’s Corp supera estimaciones del Q3 2026 y sus acciones suben un 12,6%",
  "medio": "Investing.com España",
- "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-salesforce-inc-93CH-3942405",
+ "link": "https://es.investing.com/news/transcripts/informe-de-resultados-kohls-corp-supera-estimaciones-del-q3-2026-y-sus-acciones-suben-un-126-93CH-3942413",
  "titulares": [
   {
-   "o": "Traders Union",
-   "t": "Pronóstico semanal de las acciones de Salesforce: la caída alcanza niveles de sobreventa y aumenta el riesgo de rebote",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRVRVSl9xZmtHWHJYanZqNTg1WlhuNVowck9xUkpEUFpXNFNOdHBhZTVpdTc2UHdSb0E0X0NUckttMnByNUZRVkRUTGVxdk1CeGQxMnJsX1BuLTZWZUpOcGl2aVg4YUZraEpoMU5PeUh0S2RYc2NmaFFvSFZuc3huRWd1SlRZcW1lVU54WUFrY2dUb2FEMVJV?oc=5"
+   "o": "Yahoo Finance",
+   "t": "Why Is Kohl’s Stock Rising 7.7% Today?",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc1NGSXROY0xoNktqNkVETUZ1T3RrZ284SlJVOXN1cUJGN2hSbU5uU1hGNFRrd1NXVjBqQTNDclZkb3JnR182WDlrdlkxbzVTZlY0OTFsMGxJMkJqRGkyb241ZEI2Z1l6U29zLXBrRThOQ1FUQ1hPUml4VUcyWDEwTDJTcGlnWVBDRnBJdk1GSHhkdw?oc=5"
+  },
+  {
+   "o": "MarketScreener España",
+   "t": "Kohl's Corporation presenta sus resultados del tercer trimestre y de los nueve primeros meses cerrados el 31 de octubre de 2026",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZjdwbWx4V3M4T2pWU1NuNXVlRWlpQXp1eHo1bXMtSzZpTFVKV0ZhSnZCYTh4MFBLVzg4bW1taktEdndnc2Q2a2c3NnZQYUFQZV9VRjZhYW9leVdKcERjeXZlbnp5QllTTy1tY21KbEtQNEJucTdvLXVHdGtENzJpdDk4bVpvSWhGTi1iZW1SLUZ4cHdPY0dvSVYzeDJfVjZXSTIzeEZWd2Y2bDdSaDlzWVpQMEZmVWI3Z0VMcV9YcEtJVGZNbXktaFVuc3RyUGdjcXQ0ZWFKaXRranNsWE9uOEhHLTVqMEU2eERxcQ?oc=5"
   },
   {
    "o": "Investing.com España",
-   "t": "¿Por qué sube hoy la acción de Salesforce Inc?",
-   "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-salesforce-inc-93CH-3942405"
+   "t": "Informe de resultados: Kohl’s Corp supera estimaciones del Q3 2026 y sus acciones suben un 12,6%",
+   "link": "https://es.investing.com/news/transcripts/informe-de-resultados-kohls-corp-supera-estimaciones-del-q3-2026-y-sus-acciones-suben-un-126-93CH-3942413"
   },
   {
    "o": "Investing.com",
-   "t": "Why is Salesforce stock rallying today?",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaDdKam85QXJhYVVSWFBTa04weHpCbTBnUndxRjlsbnhlOUVtN2VZcFY0emN6YlRkTUlsZnZxSHNFVDRuS3BGaThpR1I5Tk1iVWJHRG9aVmxPMFhPU2s2VXVrN0JtWGtFS0N1U2NvTkkxYnlCX0x1aml0dHVrWDl6aXRmOF9RSjY2aElpdE0xcXNrN0lNb1VkT09iNWFfdTB4cEE?oc=5"
-  },
-  {
-   "o": "Investing.com México - Finanzas, Bolsa y Forex",
-   "t": "¿Por qué las acciones de Salesforce Inc suben hoy? - Investing.com México",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdGxjX2ltSHZuNGpRX2Y2WGYxOHRBZHYtZEVfWWVRM3Vzc0pqRmJuUWctSUNycWZKWGJSYW5yWjN6VVo2U2xlcjRnZUlEekN0QXJ3XzVRME9VdXhpMkI2NGdpT2xQZlhINEcwMVpWOVVVNFVnc2d0VjR2LUdGMG9RdTc0TTh2eGdvUm9hTERmNEdTY3FSTS1TRmFnUEZIMmJEaDBQSjFrQWZqQ3dYWkE?oc=5"
+   "t": "Earnings call transcript: Kohl’s tops Q3 2026 estimates, shares jump 12.6%",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORzVYN2poQmZVS1dxdTdjMVNBc0ZCZm0yU1ZCNlBRT2EtNlFoUHpWeFQ3anR6Z1VCVmlaUFBrWkNOOUpYckZXQUNtTDVxX01hMk96Z1kwR3hrLTN4Z1RaUXhpRHN6R2JvU1NOTE1zRGhoMWhoaGNtcTVxUVlJckRWREt4ckpBVGxkTHJnbzhlQmpvYi1mTktlMlBIVkdHMkdsb1NjUU1XeEdsZU02enNaSnhSNWNZTWV6VnNscFpvTjFXc28?oc=5"
   }
  ],
  "en_espanol": [
-  "¿Por qué sube hoy la acción de Salesforce Inc?",
-  "Pronóstico semanal de las acciones de Salesforce: la caída alcanza niveles de sobreventa y aumenta el riesgo de rebote",
-  "¿Por qué las acciones de Salesforce Inc suben hoy? - Investing.com México"
+  "Kohl's Corporation presenta sus resultados del tercer trimestre y de los nueve primeros meses cerrados el 31 de octubre de 2026",
+  "Informe de resultados: Kohl’s Corp supera estimaciones del Q3 2026 y sus acciones suben un 12,6%"
  ],
  "investing": [
   {
-   "t": "¿Por qué sube hoy la acción de Salesforce Inc?",
-   "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-salesforce-inc-93CH-3942405"
+   "t": "Informe de resultados: Kohl’s Corp supera estimaciones del Q3 2026 y sus acciones suben un 12,6%",
+   "link": "https://es.investing.com/news/transcripts/informe-de-resultados-kohls-corp-supera-estimaciones-del-q3-2026-y-sus-acciones-suben-un-126-93CH-3942413"
   }
  ]
 }
