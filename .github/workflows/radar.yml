@@ -1,0 +1,38 @@
+name: radar
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: radar
+  cancel-in-progress: false
+jobs:
+  pasada:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rama de avisos
+        run: |
+          git fetch -q --depth=30 origin avisos:refs/remotes/origin/avisos
+          git worktree add -q -B avisos /tmp/avisos origin/avisos
+      - uses: actions/cache/restore@v4
+        with:
+          path: estado.json
+          key: estado-${{ github.run_id }}
+          restore-keys: estado-
+      - name: Pasada
+        run: python3 radar.py --avisar-git /tmp/avisos
+      - uses: actions/cache/save@v4
+        if: always()
+        continue-on-error: true
+        with:
+          path: estado.json
+          key: estado-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Mantener vivo el cron (GitHub lo apaga tras 60 dias sin actividad)
+        run: |
+          if [ $(( $(date +%s) - $(git log -1 --format=%ct) )) -gt 2592000 ]; then
+            date -u > .vivo && git add .vivo && git -c user.name=radar -c user.email=radar@users.noreply.github.com commit -q -m "vivo" && git push -q
+          fi
