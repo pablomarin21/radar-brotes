@@ -9,8 +9,8 @@ Una noticia gorda se nota porque de golpe la cuentan muchos medios a la vez. Sal
      tope del día.
 
     python3 radar.py              # una pasada: lee titulares, guarda el estado e imprime los disparos nuevos (JSON)
-    python3 radar.py --avisar     # además deja cada disparo en aviso.json del repo de avisos (variables de entorno:
-                                  #   GH_TOKEN_AVISOS, REPO_AVISOS, RAMA_AVISOS) si no se avisó ya en las últimas 48 h
+    python3 radar.py --avisar-git DIR   # además deja cada disparo en DIR/aviso.json (copia de trabajo de la rama de
+                                        #   avisos) y hace commit + push, si no se avisó ya en las últimas 48 h
 
 Solo lee titulares + medio + hora de feeds RSS públicos: no baja artículos.
 """
@@ -247,6 +247,41 @@ def avisar(d):
     return "ok"
 
 
+def _git(d, *args, **kw):
+    import subprocess
+    return subprocess.run(["git", "-C", str(d), *args], capture_output=True, text=True, timeout=60, **kw)
+
+
+def avisos_git(d):
+    """Avisos ya enviados (por cualquier radar): los mensajes de los últimos commits de la rama de avisos."""
+    out = []
+    for msg in _git(d, "log", "-20", "--format=%B%x00").stdout.split("\x00"):
+        try:
+            out.append(json.loads(msg[msg.index("{"):]))
+        except Exception:
+            pass
+    return out
+
+
+def avisar_git(disp, d):
+    """Escribe aviso.json en la copia de la rama de avisos (d) y hace commit + push. Reintenta si otro radar empujó antes."""
+    for intento in range(3):
+        _git(d, "pull", "-q", "--rebase", "origin", "avisos")
+        if ya_avisado(disp, avisos_git(d)):
+            return "ya avisado"
+        js = json.dumps(disp, ensure_ascii=False, indent=1)
+        (Path(d) / "aviso.json").write_text(js)
+        _git(d, "add", "aviso.json")
+        _git(d, "-c", "user.name=radar", "-c", "user.email=radar@users.noreply.github.com", "commit", "-q",
+             "-m", f"AVISO {disp['ts'][11:16]} · {disp['titular'][:120]}", "-m", js)
+        r = _git(d, "push", "-q", "origin", "HEAD:avisos")
+        if r.returncode == 0:
+            return "ok"
+        _git(d, "reset", "-q", "--hard", "origin/avisos")
+        time.sleep(3)
+    return "FALLO push: " + r.stderr[-200:]
+
+
 # ---------- pasada ----------
 def cargar():
     if ESTADO.exists():
@@ -276,6 +311,13 @@ def vivo():
     aprendiendo = datetime.fromisoformat(mas_viejo) > ahora - timedelta(hours=6)
     nuevos = [] if aprendiendo else evaluar(a_items(E["vistos"]), ahora, E)
     notas = []
+    if "--avisar-git" in sys.argv:
+        dir_avisos = sys.argv[sys.argv.index("--avisar-git") + 1]
+        for d in nuevos:
+            try:
+                notas.append(f"aviso {d['ts'][11:16]} → {avisar_git(d, dir_avisos)}")
+            except Exception as e:
+                notas.append(f"aviso {d['ts'][11:16]} → FALLO {str(e)[:120]}")
     if "--avisar" in sys.argv:
         for d in nuevos:
             try:
