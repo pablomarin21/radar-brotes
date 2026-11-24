@@ -1,44 +1,54 @@
 {
  "ts": "2026-11-24T16:25:19+01:00",
  "fichas": [
-  "micro",
-  "advanced",
-  "devices"
+  "applied",
+  "optoelectronics"
  ],
  "medios": 4,
- "normal": 0.5,
- "titular": "¿Por qué cae hoy la acción de Advanced Micro Devices Inc?",
+ "normal": 1.0,
+ "titular": "Las acciones de Applied Optoelectronics suben por acuerdo con datacenter",
  "medio": "Investing.com España",
- "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-advanced-micro-devices-inc-93CH-3942406",
+ "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTZxWXBFdWpJakU0aGUtbFl2RkFjckhaa016MGNqM0p6dlpURkY2UWJtSVRSWDFSamJ1NmZ1cFlTYlZBR2JXOFZxaXB3cW9qSUN3Qm9zYXBNRUNFMzVUaFR0VDVxTS1aOFRIM2o0YkV4ZEhVaFUteURuSjhldzNLZWJVSHJQVmp2QW01TTQxRW13dlh2SWx3Q2VNZFQwaG5UcXJDVF93aFR5Y0pTVF8zNlJiQVNSNEdyYnVyWU16NU1nSEphMmVZ?oc=5",
  "titulares": [
   {
-   "o": "24/7 Wall St.",
-   "t": "Super Micro Falls 5% After Monday's Server-Pricing Surge; Hewlett Packard Enterprise Plunges 13% Despite Earnings Beat, Dell Drops 7% Ahead of Earnings",
-   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWGZicXM4V05QVUd3QWNubjFXTHBPTnJ0dUFlMzIxcVNwNjBzaWd3UFBodnFBTWtibU5yNk9mcXJsQl9nbXJGTDNQNU1ZRGljMmJWUE5ZNXp4b0lWV09IbU84YnhoWTBNM2hGWlBOMGlEYm5oRHdqWEM2MV9RR2RwWmJMYzRTam5QRkp0YTdlNzhBRHZaakpUakdBZmItQXh2alJ0Y0U5UjFmSHFKRjZGdTFlTWw5R0dWYnhzYmF4QVotNkRkSjFyUWU2RDVuaVR2NU5mWkZVSV9JMGtXdXNPR2k3VGlSMXlXQklHNkZmelFwRTc2bUE3bVZWUlpRcG51RnhVa0dVNEhkUGZ2b2dLX3pnS2JzRjIt?oc=5"
-  },
-  {
-   "o": "Seeking Alpha",
-   "t": "Advanced Micro Devices falls 8% amid semiconductor and AI pullback (AMD:NASDAQ)",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUg2QWlJLTRKcVhjVDhsSkEzY3Z1RHpyMHZ6U0dDUy04TkxiejBIYndFQU9xYXR5REU3X21JcWxuNDlMZTJXV0VDazdkWVFUcFFyOUp5aXFoelVhd19MTG5HSVBHc09VMjRxY0Y4THF1eE1TVXMyU3pnMU9DelZISzJheTUyVXRRY2dFb3hNTU1XcU1fQ1gyOEY1NmpaTFRSLURlSjA0VFpabDlzcnpUdQ?oc=5"
-  },
-  {
    "o": "Investing.com España",
-   "t": "¿Por qué cae hoy la acción de Advanced Micro Devices Inc?",
-   "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-advanced-micro-devices-inc-93CH-3942406"
+   "t": "Las acciones de Applied Optoelectronics suben por acuerdo con datacenter",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTZxWXBFdWpJakU0aGUtbFl2RkFjckhaa016MGNqM0p6dlpURkY2UWJtSVRSWDFSamJ1NmZ1cFlTYlZBR2JXOFZxaXB3cW9qSUN3Qm9zYXBNRUNFMzVUaFR0VDVxTS1aOFRIM2o0YkV4ZEhVaFUteURuSjhldzNLZWJVSHJQVmp2QW01TTQxRW13dlh2SWx3Q2VNZFQwaG5UcXJDVF93aFR5Y0pTVF8zNlJiQVNSNEdyYnVyWU16NU1nSEphMmVZ?oc=5"
+  },
+  {
+   "o": "Investing.com México - Finanzas, Bolsa y Forex",
+   "t": "Acciones de Applied Optoelectronics suben por acuerdo con datacenter - Investing.com México",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSU9HY0tGRUlpVmlXM1JQZ0JFaHpMUVd3RUp0aWo4QWU0SXFwa0otd1hlaUhTeGJKcmI4VDdLeDlvSUsxeldyVmNCazJKTjVlb3EtY3FXa3Bwd0g3U3NnMGtCUldqelBfREFQYTVjSWNETUJWbWNlYm5hYWpwRUl0VnF4TkgyX2xYRkk5T3R1X3NNZFUyeHRTZkJTVTNwVWNKbnk2dTVJUEZGdnpqR1JsMklRUHNvb2c3M0hSb1FxWC1UZw?oc=5"
   },
   {
    "o": "Investing.com",
-   "t": "Why is Advanced Micro Devices stock sliding today?",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ3RNb0dWZ2dQd014alpjSlZYenFMR0lvR0dnMjI1OUJRTVV3djNQS0xJVnVQSWVidFl5QXlCWWRBNjBJVWFobHJ3bFE4WXVjSDFtZHZDWkJKMTFhZXpSTmR3eDh5YkZkRjg2cmZnRWZHWnF3N2JJLXZ4R1BxSEcxX3NmcVFUX3h6SkRzSkNCeVdJVnBudk5VRW9jTXBybE5KNVhVZ1JnWXBwOGJfNmZ1cQ?oc=5"
+   "t": "Why is Applied Optoelectronics stock rallying today?",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc0JHUXJIRDhlVFFaSW9iMkJYVHUxMFFGNndWX05kTU9TZ2N0eC1IRHNYakFzcWQtZlhRWkpCQUFYcVJ5WDNyVGFFalRmOS1Ua2duRnlqaGV6OEdDcXJ4bUFMUGNCSW1rdlZabHdoTkswd1B4dzBHMXN4bVVkY2lOc1BxMXI5TzlHSUllcHEzZVlJcHBMamltSFB3SjFUaXVaclV0V1Z1VUVkUU9fQm5UdmVQbw?oc=5"
+  },
+  {
+   "o": "Investing.com",
+   "t": "Applied Optoelectronics stock rises on datacenter deal",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSklrNFJoMGtrZnpXck53aHB3dDdZTDIyLWw5UE5VVzBERERGZG56TG5JU3NzSlhLTzN1Nk8yWHUxT01NQTVOdmxnbG1lVzFxOVRkVXR1cENpa3ByWVVlZmdSeGlyRmRPZ2FxTkZVTDBjZjF1VUJrcVQ5cEk1dVFsZmtXVEcwYm1vRTJnOG9Kd2VJbTNVTF9PN0xFNG4wc3c0T19NZlJtdFVRMndBVXAyTQ?oc=5"
+  },
+  {
+   "o": "Investing.com",
+   "t": "¿Por qué sube hoy la acción de Applied Opt?",
+   "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-applied-opt-93CH-3942292"
+  },
+  {
+   "o": "24/7 Wall St.",
+   "t": "Marvell Drops 6% as Oppenheimer Cuts Target to $325 Ahead of Earnings; Arm Slides 6%, Applied Materials Falls 5%",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLU1nYzBWSEE3c0ZKRjVLX25Na3FmUmlXWG9Gakc1VWxqUWxwcUtIdDB1VVNnY0IwbVNFYTZiRzdEamNQeDRWVER3TVZpR1NYNVBUOTNGa3dpaXhha1Utd3JyNFQyZnNRYWZubXVZMWIyb2R0bDc1QWU4Q0VmcFljM3FXN21td2FWYTRTeFVNaldSaTlDYU5mWEZYa05QeDl4dDlRZDVGc01HRVJJaXJmRldGd0p4UWJudzZlQldvejR4SGtOaE1HZ05tVzdHSkZRUW1OTFVSenljT3A4eUFoSTBiZUY?oc=5"
   }
  ],
  "en_espanol": [
-  "¿Por qué cae hoy la acción de Advanced Micro Devices Inc?"
+  "Acciones de Applied Optoelectronics suben por acuerdo con datacenter - Investing.com México",
+  "¿Por qué sube hoy la acción de Applied Opt?"
  ],
  "investing": [
   {
-   "t": "¿Por qué cae hoy la acción de Advanced Micro Devices Inc?",
-   "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-advanced-micro-devices-inc-93CH-3942406"
+   "t": "Las acciones de Applied Optoelectronics suben por acuerdo con datacenter",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTZxWXBFdWpJakU0aGUtbFl2RkFjckhaa016MGNqM0p6dlpURkY2UWJtSVRSWDFSamJ1NmZ1cFlTYlZBR2JXOFZxaXB3cW9qSUN3Qm9zYXBNRUNFMzVUaFR0VDVxTS1aOFRIM2o0YkV4ZEhVaFUteURuSjhldzNLZWJVSHJQVmp2QW01TTQxRW13dlh2SWx3Q2VNZFQwaG5UcXJDVF93aFR5Y0pTVF8zNlJiQVNSNEdyYnVyWU16NU1nSEphMmVZ?oc=5"
   }
  ]
 }
