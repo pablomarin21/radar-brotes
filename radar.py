@@ -47,7 +47,15 @@ VIVO = {
     "bbg_te": ("https://feeds.bloomberg.com/technology/news.rss", "Bloomberg"),
     "cnbc": ("https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114", "CNBC"),
     "mw_bul": ("https://feeds.content.dowjones.io/public/rss/mw_bulletins", "MarketWatch"),
-    "inv": ("https://es.investing.com/rss/news.rss", "Investing.com"),
+    "inv": ("https://es.investing.com/rss/news.rss", "Investing.com España"),
+    "inv_25": ("https://es.investing.com/rss/news_25.rss", "Investing.com España"),
+    "inv_1": ("https://es.investing.com/rss/news_1.rss", "Investing.com España"),
+    "inv_11": ("https://es.investing.com/rss/news_11.rss", "Investing.com España"),
+    "inv_14": ("https://es.investing.com/rss/news_14.rss", "Investing.com España"),
+    "inv_95": ("https://es.investing.com/rss/news_95.rss", "Investing.com España"),
+    "inv_301": ("https://es.investing.com/rss/news_301.rss", "Investing.com España"),
+    "inv_287": ("https://es.investing.com/rss/news_287.rss", "Investing.com España"),
+    "inv_288": ("https://es.investing.com/rss/news_288.rss", "Investing.com España"),  # 24-nov: a Pablo le gustan sus noticias
     "exp": ("https://e00-expansion.uecdn.es/rss/mercados.xml", "Expansión"),
     "cinco": ("https://feeds.elpais.com/mrss-s/pages/ep/site/cincodias.elpais.com/portada", "Cinco Días"),
     "ep": ("https://www.europapress.es/rss/rss.aspx?ch=00136", "Europa Press"),
@@ -69,7 +77,8 @@ bolsa acciones mercado mercados hoy ayer este esta lunes martes miercoles jueves
 consejero delegado presidente ejecutivo director sube suben cae caen dispara disparan desploma vuelve vuelta regreso
 here heres what's whats inc corp co ltd plc sa group holdings
 earnings call price below above chart analysis shows trading premarket results reports sales net tech just cup
-billion billions million millions tokenized artificial intelligence deals best picks sale incredible happens calculator ondo buy convierte invest""".split())
+billion billions million millions tokenized artificial intelligence deals best picks sale incredible happens calculator ondo buy convierte invest
+usd acquisition corporation technologies commerce revenue stifel upgrades downgrades rating target""".split())
 GEN = R.ENT_GEN | {"wallstreet", "ia", "trump", "china", "ipo", "oro", "petroleo", "pib", "inflacion", "empleo", "vivienda",
                    "bonos", "aranceles", "bitcoin", "pce", "rising", "prices", "falling", "growth", "outlook", "forecast",
                    "analysts", "investors", "europe", "european", "asia", "asian", "america", "american", "global", "black", "friday"}
@@ -135,7 +144,10 @@ def es_finanzas(t):
 
 # Dos redes (24-nov): el ESTALLIDO (≥ MIN_MEDIOS en 20 min) y la noticia que corre MÁS DESPACIO (≥ 12 medios en 2 h,
 # ≥ 3× lo normal). Ej.: la fusión Tesla–SpaceX se contó poco a poco (15 titulares de 11:26 a 14:44) y la red rápida no la vio.
-VENTANAS = [(VENTANA, None, None), (120, 12, 3.0)]
+# 3.ª red (24-nov, Pablo: «me gustan mucho las noticias de investing.com»): lo que publica Investing.com ESPAÑA (sus
+# feeds en español; ojo: Google News llama «Investing.com» a la web inglesa, que NO cuenta aquí) y en 2 h recogen
+# ≥ 7 medios más (8 en total), a ≥ 4× lo normal. Su titular (en español) va de principal en el aviso.
+VENTANAS = [(VENTANA, None, None, None), (120, 12, 3.0, None), (120, 8, 4.0, "Investing.com España")]
 
 
 def evaluar(items, ahora, E):
@@ -143,7 +155,7 @@ def evaluar(items, ahora, E):
     hoy = ahora.strftime("%Y-%m-%d")
     hechos_hoy = sum(d["ts"][:10] == hoy for d in E["disparos"])
     nuevos, cands, ya = [], [], set()
-    for ven, minimo, factor in VENTANAS:
+    for ven, minimo, factor, exige in VENTANAS:
         minimo, factor = minimo or MIN_MEDIOS, factor or FACTOR
         v0 = ahora - timedelta(minutes=ven)
         b0 = ahora - timedelta(hours=6) if ven == VENTANA else v0 - timedelta(hours=6)
@@ -161,7 +173,7 @@ def evaluar(items, ahora, E):
             if f in GEN or f in ya:
                 continue
             medios = {x["o"] for x in xs}
-            if len(medios) < minimo:
+            if len(medios) < minimo or (exige and exige not in medios):
                 continue
             normal = max(0.5, len(base.get(f, ())) / ((b0 - v0).total_seconds() / -60 / ven))
             if len(medios) < factor * normal:
@@ -186,12 +198,13 @@ def evaluar(items, ahora, E):
                 and (ahora - datetime.fromisoformat(d["ts"])).total_seconds() < ENFRIAR_H * 3600]
         if frio and not (len(medios) >= ESCALADA and len(medios) >= 2 * max(d["medios"] for d in frio)):
             continue
-        rep = max(xs, key=lambda x: (len(nombres(x["t"]) & ({f} | set(socios))), "newsroom" in x["o"].lower() or "press" in x["o"].lower(), x["o"] in ("Expansión", "Cinco Días", "EL PAÍS", "Europa Press", "Investing.com España")))
+        rep = max(xs, key=lambda x: (len(nombres(x["t"]) & ({f} | set(socios))), x["o"] == "Investing.com España", "newsroom" in x["o"].lower() or "press" in x["o"].lower(), x["o"] in ("Investing.com", "Expansión", "Cinco Días", "EL PAÍS", "Europa Press", "Investing.com España")))
         es = [x for x in xs if re.search(r"[áéíóúñ¿¡]| (el|la|los|las|del|tras) ", x["t"])]
         d = {"ts": ahora.isoformat(timespec="seconds"), "fichas": [f] + socios, "medios": len(medios), "normal": round(normal, 1),
              "titular": rep["t"], "medio": rep["o"], "link": rep.get("link", ""),
              "titulares": [{"o": x["o"], "t": x["t"], "link": x.get("link", "")} for x in sorted(xs, key=lambda x: x["ts"])][:12],
-             "en_espanol": [x["t"] for x in es][:5]}
+             "en_espanol": [x["t"] for x in es][:5],
+             "investing": [{"t": x["t"], "link": x.get("link", "")} for x in xs if x["o"] == "Investing.com España"][:5]}
         E["disparos"].append(d)
         nuevos.append(d)
         hechos_hoy += 1
