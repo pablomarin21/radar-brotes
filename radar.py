@@ -26,7 +26,7 @@ UA = {"User-Agent": "news-burst-radar/1.0"}
 AQUI = Path(__file__).resolve().parent
 ESTADO = Path(os.environ.get("RADAR_ESTADO", AQUI / "estado.json"))
 SEMILLA = AQUI / "semilla.json.gz"  # solo se usa si no hay estado (primer arranque o caché perdida)
-VENTANA, MIN_MEDIOS, FACTOR, ENFRIAR_H, TOPE_DIA, ESCALADA = 20, 12, 4.0, 48, 3, 15
+VENTANA, MIN_MEDIOS, FACTOR, ENFRIAR_H, TOPE_DIA, ESCALADA = 20, 8, 4.0, 48, 12, 15  # 24-nov: 12→8 medios y tope 3→12 (se escapaban Tesla–SpaceX, Fed Williams…)
 
 GN = "https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={gl}:{lang}"
 Q_EN = '(stock OR shares OR CEO OR "Wall Street" OR earnings OR merger OR acquisition OR IPO OR "Federal Reserve" OR bankruptcy OR tariffs)'
@@ -67,7 +67,9 @@ reinstates reinstated return returns back comeback rehire rehires names named ex
 el la los las un una y o de del al en por para con sin sobre tras ante segun como que se su sus es son fue ha han
 bolsa acciones mercado mercados hoy ayer este esta lunes martes miercoles jueves viernes sabado domingo nuevo nueva
 consejero delegado presidente ejecutivo director sube suben cae caen dispara disparan desploma vuelve vuelta regreso
-here heres what's whats inc corp co ltd plc sa group holdings""".split())
+here heres what's whats inc corp co ltd plc sa group holdings
+earnings call price below above chart analysis shows trading premarket results reports sales net tech just cup
+billion billions million millions tokenized artificial intelligence deals best picks sale incredible happens calculator ondo buy convierte invest""".split())
 GEN = R.ENT_GEN | {"wallstreet", "ia", "trump", "china", "ipo", "oro", "petroleo", "pib", "inflacion", "empleo", "vivienda",
                    "bonos", "aranceles", "bitcoin", "pce", "rising", "prices", "falling", "growth", "outlook", "forecast",
                    "analysts", "investors", "europe", "european", "asia", "asian", "america", "american", "global", "black", "friday"}
@@ -131,45 +133,59 @@ def es_finanzas(t):
     return any(R.has(k, n) for k in FIN)
 
 
+# Dos redes (24-nov): el ESTALLIDO (≥ MIN_MEDIOS en 20 min) y la noticia que corre MÁS DESPACIO (≥ 12 medios en 2 h,
+# ≥ 3× lo normal). Ej.: la fusión Tesla–SpaceX se contó poco a poco (15 titulares de 11:26 a 14:44) y la red rápida no la vio.
+VENTANAS = [(VENTANA, None, None), (120, 12, 3.0)]
+
+
 def evaluar(items, ahora, E):
     """items: dicts con t, o, ts(datetime). Devuelve disparos nuevos (y los apunta en E)."""
-    v0, b0 = ahora - timedelta(minutes=VENTANA), ahora - timedelta(hours=6)
-    recientes = [x for x in items if v0 < x["ts"] <= ahora]
-    previos = [x for x in items if b0 < x["ts"] <= v0]
-    por = {}
-    for x in recientes:
-        for f in nombres(x["t"]):
-            por.setdefault(f, []).append(x)
-    base = {}
-    for x in previos:
-        for f in nombres(x["t"]):
-            base.setdefault(f, set()).add(x["o"])
     hoy = ahora.strftime("%Y-%m-%d")
     hechos_hoy = sum(d["ts"][:10] == hoy for d in E["disparos"])
-    nuevos, cands = [], []
-    for f, xs in por.items():
-        if f in GEN:
-            continue
-        medios = {x["o"] for x in xs}
-        if len(medios) < MIN_MEDIOS:
-            continue
-        normal = max(0.5, len(base.get(f, ())) / (6 * 60 / VENTANA))
-        if len(medios) < FACTOR * normal:
-            continue
-        if sum(es_finanzas(x["t"]) for x in xs) < 0.5 * len(xs):
-            continue
-        cands.append((len(medios) / normal, f, xs, medios, normal))
+    nuevos, cands, ya = [], [], set()
+    for ven, minimo, factor in VENTANAS:
+        minimo, factor = minimo or MIN_MEDIOS, factor or FACTOR
+        v0 = ahora - timedelta(minutes=ven)
+        b0 = ahora - timedelta(hours=6) if ven == VENTANA else v0 - timedelta(hours=6)
+        recientes = [x for x in items if v0 < x["ts"] <= ahora]
+        previos = [x for x in items if b0 < x["ts"] <= v0]
+        por = {}
+        for x in recientes:
+            for f in nombres(x["t"]):
+                por.setdefault(f, []).append(x)
+        base = {}
+        for x in previos:
+            for f in nombres(x["t"]):
+                base.setdefault(f, set()).add(x["o"])
+        for f, xs in por.items():
+            if f in GEN or f in ya:
+                continue
+            medios = {x["o"] for x in xs}
+            if len(medios) < minimo:
+                continue
+            normal = max(0.5, len(base.get(f, ())) / ((b0 - v0).total_seconds() / -60 / ven))
+            if len(medios) < factor * normal:
+                continue
+            if sum(es_finanzas(x["t"]) for x in xs) < 0.5 * len(xs):
+                continue
+            cands.append((len(medios) / normal, f, xs, medios, normal))
+            ya.add(f)
     for ratio, f, xs, medios, normal in sorted(cands, key=lambda c: -c[0]):
         if hechos_hoy >= TOPE_DIA:
             break
-        frio = [d for d in E["disparos"] if f in d["fichas"] and (ahora - datetime.fromisoformat(d["ts"])).total_seconds() < ENFRIAR_H * 3600]
-        if frio and not (len(medios) >= ESCALADA and len(medios) >= 2 * max(d["medios"] for d in frio)):
             continue
         junto = {}
         for x in xs:
             for g in nombres(x["t"]) - {f}:
                 junto[g] = junto.get(g, 0) + 1
         socios = [g for g, c in sorted(junto.items(), key=lambda kv: -kv[1]) if c >= max(2, len(xs) // 3)][:3]
+        # Ya avisado = mismo nombre Y algo más en común (SpaceX+IPO ≠ SpaceX+fusión con Tesla: otra noticia). 24-nov.
+        # Escalada: la misma historia vuelve con el DOBLE de medios (y ≥ ESCALADA) → se avisa otra vez.
+        clave = {f} | set(socios)
+        frio = [d for d in E["disparos"] if f in d["fichas"] and (len(clave & set(d["fichas"])) >= 2 or len(d["fichas"]) == 1 or not socios)
+                and (ahora - datetime.fromisoformat(d["ts"])).total_seconds() < ENFRIAR_H * 3600]
+        if frio and not (len(medios) >= ESCALADA and len(medios) >= 2 * max(d["medios"] for d in frio)):
+            continue
         rep = max(xs, key=lambda x: (len(nombres(x["t"]) & ({f} | set(socios))), "newsroom" in x["o"].lower() or "press" in x["o"].lower(), x["o"] in ("Expansión", "Cinco Días", "EL PAÍS", "Europa Press", "Investing.com España")))
         es = [x for x in xs if re.search(r"[áéíóúñ¿¡]| (el|la|los|las|del|tras) ", x["t"])]
         d = {"ts": ahora.isoformat(timespec="seconds"), "fichas": [f] + socios, "medios": len(medios), "normal": round(normal, 1),
@@ -224,7 +240,8 @@ def ya_avisado(d, previos):
             continue
         if not (0 <= (t - ta).total_seconds() < ENFRIAR_H * 3600):
             continue
-        if d["fichas"][0] in a.get("fichas", []) or len(set(d["fichas"]) & set(a.get("fichas", []))) >= 2:
+        fa = a.get("fichas", [])
+        if d["fichas"][0] in fa and (len(set(d["fichas"]) & set(fa)) >= 2 or len(fa) == 1 or len(d["fichas"]) == 1):
             if not (d["medios"] >= ESCALADA and d["medios"] >= 2 * a.get("medios", 0)):
                 return True
     return False
