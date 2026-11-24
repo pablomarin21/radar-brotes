@@ -1,55 +1,44 @@
 {
  "ts": "2026-11-24T16:25:19+01:00",
  "fichas": [
-  "nebius",
-  "anthropic",
-  "despite",
-  "coreweave"
+  "micro",
+  "advanced",
+  "devices"
  ],
- "medios": 5,
+ "medios": 4,
  "normal": 0.5,
- "titular": "Anthropic Tumbles 9%, Trades Below IPO Price Despite Canaccord's $135 Target; CoreWeave and Nebius Drop 8%",
- "medio": "24/7 Wall St.",
- "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPT2wwa2M2eXFtSlQ5TTJDQW5kalRnQmduR2dvTFVxbWdrR1JlLWtVa2VvM1RFUTZrY0JkLUF1YVU2MlNrU1dZc1liYmNRTVpucUZXVmU5eHlMWV9WVWt5YzhXNlhhZkdoSnptZy1zSldUZUZrSG1TRzlMV292cDVKTE44c2NMOWZXam1IZEczLWRfVG9ERGNHbWVpdGJIM1VCTy1kT3N4OGVEUDZhdTFCUzQ2MU5YZDFCeUlaTGx3ZnJERzhvOW44bkJhZXlkd3dpZ1pYQUFfQWxvZzBSa0V2UUR1WWhnc2RiRV85cl9DY29rbHlNcWFFTHBiMEhMUW43Wm1NNVFwalN1U2c?oc=5",
+ "titular": "¿Por qué cae hoy la acción de Advanced Micro Devices Inc?",
+ "medio": "Investing.com España",
+ "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-advanced-micro-devices-inc-93CH-3942406",
  "titulares": [
   {
    "o": "24/7 Wall St.",
-   "t": "Anthropic Tumbles 9%, Trades Below IPO Price Despite Canaccord's $135 Target; CoreWeave and Nebius Drop 8%",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPT2wwa2M2eXFtSlQ5TTJDQW5kalRnQmduR2dvTFVxbWdrR1JlLWtVa2VvM1RFUTZrY0JkLUF1YVU2MlNrU1dZc1liYmNRTVpucUZXVmU5eHlMWV9WVWt5YzhXNlhhZkdoSnptZy1zSldUZUZrSG1TRzlMV292cDVKTE44c2NMOWZXam1IZEczLWRfVG9ERGNHbWVpdGJIM1VCTy1kT3N4OGVEUDZhdTFCUzQ2MU5YZDFCeUlaTGx3ZnJERzhvOW44bkJhZXlkd3dpZ1pYQUFfQWxvZzBSa0V2UUR1WWhnc2RiRV85cl9DY29rbHlNcWFFTHBiMEhMUW43Wm1NNVFwalN1U2c?oc=5"
+   "t": "Super Micro Falls 5% After Monday's Server-Pricing Surge; Hewlett Packard Enterprise Plunges 13% Despite Earnings Beat, Dell Drops 7% Ahead of Earnings",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWGZicXM4V05QVUd3QWNubjFXTHBPTnJ0dUFlMzIxcVNwNjBzaWd3UFBodnFBTWtibU5yNk9mcXJsQl9nbXJGTDNQNU1ZRGljMmJWUE5ZNXp4b0lWV09IbU84YnhoWTBNM2hGWlBOMGlEYm5oRHdqWEM2MV9RR2RwWmJMYzRTam5QRkp0YTdlNzhBRHZaakpUakdBZmItQXh2alJ0Y0U5UjFmSHFKRjZGdTFlTWw5R0dWYnhzYmF4QVotNkRkSjFyUWU2RDVuaVR2NU5mWkZVSV9JMGtXdXNPR2k3VGlSMXlXQklHNkZmelFwRTc2bUE3bVZWUlpRcG51RnhVa0dVNEhkUGZ2b2dLX3pnS2JzRjIt?oc=5"
+  },
+  {
+   "o": "Seeking Alpha",
+   "t": "Advanced Micro Devices falls 8% amid semiconductor and AI pullback (AMD:NASDAQ)",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTUg2QWlJLTRKcVhjVDhsSkEzY3Z1RHpyMHZ6U0dDUy04TkxiejBIYndFQU9xYXR5REU3X21JcWxuNDlMZTJXV0VDazdkWVFUcFFyOUp5aXFoelVhd19MTG5HSVBHc09VMjRxY0Y4THF1eE1TVXMyU3pnMU9DelZISzJheTUyVXRRY2dFb3hNTU1XcU1fQ1gyOEY1NmpaTFRSLURlSjA0VFpabDlzcnpUdQ?oc=5"
   },
   {
    "o": "Investing.com España",
-   "t": "¿Por qué caen hoy las acciones de Nebius NV?",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVhjem1veUp2eFc2SVRQd3hwUkxqY0dBQm5Gb3V1YmFSX0ZuYUlxTXBqSjNZMlhaaEt4ejdHR1VxT2RvdGtPOXpKczNKbks0VnlSZm5LdXE0XzNjSVRwaElrSmxVZGdXUEY1ODdsb3NwWWRwTEpjbDZtdjA1YThpSDYwd3FwV2ZMMmxCOE5CZ2x1eDA5U2Y0bzZDcTVITDk2VGtvekxR?oc=5"
-  },
-  {
-   "o": "24/7 Wall St.",
-   "t": "Anthropic Tumbles 9%, Trades Below IPO Price Despite Canaccord's $135 Target; CoreWeave and Nebius Drop 8%",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaGNiaXRKZFk0NjBkcDVwcVhxdDZ0d3hCTEZYOFZvLVA5RGI2dWNBVnF4dHlKWk9jeFU5ZUd2M1V3LXFGV2ZEdnpPc3JEYmc3U3BKWUtwZkxqZFNRWTlNZEhUblV5OWZydFFqd2M0RFRBZ2J1ZmNVLTAteks1Mi1TWURmRW9USzZfNzFGMDBjZDlTZHZNUnBodmpvdmlFbHVsN09feXhPTFpZU2gyWGtDbVVCVlRWOEc3V293TkNHSHRrVTdFN2hicUo2dXBaNVVxdVd0NlBYYkxIS3Rl?oc=5"
-  },
-  {
-   "o": "Yahoo Finance",
-   "t": "Anthropic Tumbles 9%, Trades Below IPO Price Despite Canaccord’s $135 Target; CoreWeave and Nebius Drop 8%",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZjFLaVN5OWtUS2lVd2JqYlJmdi1RZlVFMEhzTU9HZ0dzeFVHNVMyNEt3Y0w1WEk3SWtrV01Ncnl2RnhtUjBzblZxNm5uNEFKRWFVbjZ4MGdBM3REQXVaOWtwS3Y5MnkwZ0JGX3lTa09vTWhxSVhYWjZfTGRBQVpRanBIRHNKYWNtZ3ZaSlBqOEhVbWJUTmgycE5URGc1UQ?oc=5"
+   "t": "¿Por qué cae hoy la acción de Advanced Micro Devices Inc?",
+   "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-advanced-micro-devices-inc-93CH-3942406"
   },
   {
    "o": "Investing.com",
-   "t": "Why is Nebius stock sliding today?",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUlSdDA3dGJiLWVBU2lDWUszZklqcVNCdjluWFpSNlZtUHRmMmt0VXNvNlNoLTFfRlRsY0Z3UVdKQ1o1LXBkUWtZemVITzlFaXFFR2hTX1c5T012Rm9xSThYM0RuSWhfZi1BQ0w2TGNVRlBYZDFXMk1IaWZOU2xuS3JCZzUyMk1uOTdCV19iT1lzalV5TG81QlV1dw?oc=5"
-  },
-  {
-   "o": "Benzinga",
-   "t": "Why Is Nebius Stock Falling on Tuesday? - Nebius Group (NASDAQ:NBIS)",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ0hvdVBFN3UtRml2Tk8tV3dNQWUta08xWHJrMDlyS0owbzJBXzljYnVOS2NYSUdId2tRak1mVE9Kb0U0aklKcE5GRnl6aGpLaHdyX0w2OFlIdC1KZG91cW45VGFuRTFjRTMwcjZ1d2xXSmt1VExLYk0zdkhDSHJ2cWMtMEJ5U2Z4c0FVQkJ0dFpGT0xMMTBlcFRtaFdISk5R?oc=5"
+   "t": "Why is Advanced Micro Devices stock sliding today?",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ3RNb0dWZ2dQd014alpjSlZYenFMR0lvR0dnMjI1OUJRTVV3djNQS0xJVnVQSWVidFl5QXlCWWRBNjBJVWFobHJ3bFE4WXVjSDFtZHZDWkJKMTFhZXpSTmR3eDh5YkZkRjg2cmZnRWZHWnF3N2JJLXZ4R1BxSEcxX3NmcVFUX3h6SkRzSkNCeVdJVnBudk5VRW9jTXBybE5KNVhVZ1JnWXBwOGJfNmZ1cQ?oc=5"
   }
  ],
  "en_espanol": [
-  "¿Por qué caen hoy las acciones de Nebius NV?"
+  "¿Por qué cae hoy la acción de Advanced Micro Devices Inc?"
  ],
  "investing": [
   {
-   "t": "¿Por qué caen hoy las acciones de Nebius NV?",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVhjem1veUp2eFc2SVRQd3hwUkxqY0dBQm5Gb3V1YmFSX0ZuYUlxTXBqSjNZMlhaaEt4ejdHR1VxT2RvdGtPOXpKczNKbks0VnlSZm5LdXE0XzNjSVRwaElrSmxVZGdXUEY1ODdsb3NwWWRwTEpjbDZtdjA1YThpSDYwd3FwV2ZMMmxCOE5CZ2x1eDA5U2Y0bzZDcTVITDk2VGtvekxR?oc=5"
+   "t": "¿Por qué cae hoy la acción de Advanced Micro Devices Inc?",
+   "link": "https://es.investing.com/news/stock-market-news/por-que-cae-hoy-la-accion-de-advanced-micro-devices-inc-93CH-3942406"
   }
  ]
 }
