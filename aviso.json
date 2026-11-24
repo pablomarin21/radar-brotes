@@ -1,75 +1,44 @@
 {
- "ts": "2026-11-24T16:32:29+01:00",
+ "ts": "2026-11-24T16:32:25+01:00",
  "fichas": [
-  "bce",
-  "december",
-  "sleijpen"
+  "salesforce"
  ],
- "medios": 9,
- "normal": 0.8,
- "titular": "ECB policy direction clear for December but uncertain after, Sleijpen says By Reuters",
- "medio": "Investing.com",
- "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeVFmS0dQVzAybDF5Wl9COU9LX3ZEaXplWWlrdjBHTzhiWDYwYmFDcTJ1c3pkZEd0Wk1RQkx2bUgycXZ3N0diWUYtZDVaakRSdUx5MHpBM2F0UlhWc0VCS3ZRX0VOZ0dGQVlBS0tqSHduVHhwS3RHZWUyX0IzUVkwenlyNkZpamZxR2lrcmVNbzMwT2RlTkZ2ZWpXMDhGUkV3em4tNnJTRDREWmR5ZUpVTVM0dXJhbjRlcEc2aWloUkRJd1E?oc=5",
+ "medios": 4,
+ "normal": 0.7,
+ "titular": "¿Por qué sube hoy la acción de Salesforce Inc?",
+ "medio": "Investing.com España",
+ "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-salesforce-inc-93CH-3942405",
  "titulares": [
   {
-   "o": "FXStreet",
-   "t": "European Central Bank: December hike seen as almost certain – Nordea",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSjQ5OEUzUGg3eVRhLVowN0thTmQwTjlWc040S2NXVXJFbmpNaEZHM3Jlc0xJQkNTM2pRWG10WWZKc3JEUW5vNl9YSzJ2d0RyYmtvRGxXdUczNzkwM3VUNFdoMHFhM3RZX0NEaE8zT0FHSXIzUGZNYnZoWVExcnQ5cDU0Q3ZNY0pDeGFYcG0tVGtrQVVpbVZ4RFJpYXZjYlNrNm1IekQ5T1hEejV4?oc=5"
-  },
-  {
    "o": "Traders Union",
-   "t": "Euro to Egyptian pound rate lifted by ECB hike outlook: EUR/EGP remains range-bound",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ1lwV3dIUVhSc1BPTnRRX19CVUFRb21Tclh0NEFPZXlKcUZWN1NTcDhRSnA3aVN6RVJ1aHBVRkpsQndxNGluaTlZb19DZDVpMmZ0MHdRYmJDZ2tWd190ZFVDaTdSWHNRZmpxX0RfbmJIV1VYcnd2ZlVpX1JLUXZuVFVnejRHRDJTQTU0?oc=5"
+   "t": "Pronóstico semanal de las acciones de Salesforce: la caída alcanza niveles de sobreventa y aumenta el riesgo de rebote",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRVRVSl9xZmtHWHJYanZqNTg1WlhuNVowck9xUkpEUFpXNFNOdHBhZTVpdTc2UHdSb0E0X0NUckttMnByNUZRVkRUTGVxdk1CeGQxMnJsX1BuLTZWZUpOcGl2aVg4YUZraEpoMU5PeUh0S2RYc2NmaFFvSFZuc3huRWd1SlRZcW1lVU54WUFrY2dUb2FEMVJV?oc=5"
   },
   {
    "o": "Investing.com España",
-   "t": "El BCE subirá tipos en diciembre, aunque el futuro es incierto",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdkFLb0JqYWoxcVBZMjlQdUJlNERGYUJ6YVhEbHh6c0hMOVZsMExiV3dnRzg1c0dxUThMcDdDM2RidVhsb005YWVPMGFSeFJSWGZadEFTZ3ViQ1dhemZVckRvV2cxaUxYeWNIc3ZLSXF0M1JubU1KOEdrT0Q4ZGI1OExibGk0Rk1aQjZENWNpOTJTSDRnaERzelhseGRIM0pqZUY1T0hLNE51UEZnMUpiSkxR?oc=5"
+   "t": "¿Por qué sube hoy la acción de Salesforce Inc?",
+   "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-salesforce-inc-93CH-3942405"
   },
   {
    "o": "Investing.com",
-   "t": "ECB policy direction clear for December but uncertain after, Sleijpen says By Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeVFmS0dQVzAybDF5Wl9COU9LX3ZEaXplWWlrdjBHTzhiWDYwYmFDcTJ1c3pkZEd0Wk1RQkx2bUgycXZ3N0diWUYtZDVaakRSdUx5MHpBM2F0UlhWc0VCS3ZRX0VOZ0dGQVlBS0tqSHduVHhwS3RHZWUyX0IzUVkwenlyNkZpamZxR2lrcmVNbzMwT2RlTkZ2ZWpXMDhGUkV3em4tNnJTRDREWmR5ZUpVTVM0dXJhbjRlcEc2aWloUkRJd1E?oc=5"
-  },
-  {
-   "o": "WTVB",
-   "t": "ECB policy direction clear for December but uncertain after, Sleijpen says",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbDZRbE02VnZ2TzdUMnpGTTVWaVBlM1RWWHU3Vk9xSFZRd2ptQ0lkYWcyU3ZqWjZXTXFEM05KYTZhTFp2Q0hzQUFyeHloeW9TeHl3UTlOYzYzMGlDLTB0N2dDSTJYMFZxLTlZUmdDR2p0TjdLZzZyNWI3R0RuazFHaXJvcGNxOTNtaTlGeGhyQnFWWkdQT05WajFDY1Z1WHVOVGc5ZmVONA?oc=5"
+   "t": "Why is Salesforce stock rallying today?",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaDdKam85QXJhYVVSWFBTa04weHpCbTBnUndxRjlsbnhlOUVtN2VZcFY0emN6YlRkTUlsZnZxSHNFVDRuS3BGaThpR1I5Tk1iVWJHRG9aVmxPMFhPU2s2VXVrN0JtWGtFS0N1U2NvTkkxYnlCX0x1aml0dHVrWDl6aXRmOF9RSjY2aElpdE0xcXNrN0lNb1VkT09iNWFfdTB4cEE?oc=5"
   },
   {
    "o": "Investing.com México - Finanzas, Bolsa y Forex",
-   "t": "BCE subirá tasas en diciembre, pero el camino futuro es incierto - Investing.com México",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWVJlZ01rRVlaY184TWV4S1dEYjBua212R2FHTDM4MlA5YXJfSWYzd1B6RDc2UVJTVld5eHlDWmFXbkFDWm5QM0htWWRaYjBBMnE3Z3VkbmtsRnhmMEpTZEY5T01NbXR5aHoxc29CMVBtWi1NV29lXzJraXpnX3ZTemVUTTNzNVFlOUNjODhJemNjWHpyMGFLTFRCN19leDcwVDlNeEpGclZrWkI2QkxuNjJvdks?oc=5"
-  },
-  {
-   "o": "Investing.com",
-   "t": "ECB rate hike likely in December with future path unclear, Sleijpen says",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNckcxR0pjWWdqcmtQenpzcWVmVGVoSHVHYjh5Z3F4UldpcmJLVDg5Q1FBaHZSbjFQLW1Va3QxQ0RpaWszamVfNUw3QjNjdjFpcFQ4M2NDTF9ZUHVSck9Qa1BHV09UMm5sbjA4NkRLNlAxazItaEd6cXdUNk1EVTJGUVpOQ0lMMjlOT1BYajJmOVlTNXM1dTlYM2QwUnEzbTZlYjFUOUI1TjE3MnBac2VNamVvcVJBZFNtUUhPdmR3M0k?oc=5"
-  },
-  {
-   "o": "Investing.com India",
-   "t": "ECB rate hike likely in December with future path unclear, Sleijpen says By Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ1NnbmNmUWM5NFlDMFRuNGdyZUY2enNaZm56OUJ1Tjk0Vl9qbllVZk5yVjFLNWFzcjljU0kyeWdkNG9NUFRUUUpzZlZOY2JxRXJyREQ3cjB0LXBKZ0RRQnFTd1kwUTN1ZldmWWVXX1Bxc3BUNl9OQnBDWkZENDNLMkZHY0dqME05Z1lFa3FXcTlfbmRzbHMtNDVUNHdoUFpkbXFLREFlbC1OWHdnMXBtSEdJRHR6bjkyTW85eGJsaw?oc=5"
-  },
-  {
-   "o": "Investing.com Nigeria",
-   "t": "ECB rate hike likely in December with future path unclear, Sleijpen says",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQlZ0Q3BwdU1Kak9EcmtncHZYVUxNQlpkX1pzZXpOenRybElqMTlZci1HUEt2RWJsaFVKMVF4TzgwWFM1bmkyZW82V2hMYWVRYkJ3bXFKNHhJNjJ2My1XQ2pEMWxYTGxoMy1UcWxfTGgyS2JlblNmVnlYMS1YMmJURlZURkdkQTRGV0V5WGFtVEwzcjd1blBGeFctenNtaU5mdGJyb1hiWGxGVnBwYTAtMWVKMTNVUURaSmhqQmZibw?oc=5"
-  },
-  {
-   "o": "WSAU",
-   "t": "ECB policy direction clear for December but uncertain after, Sleijpen says",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdlQybTh4OW5ZSXhuN0xDaUVmei0tRHpqNFg3a05WeGh4OTVQV3pxanc2OGFrSGxqM3gwd2FxUkRFMXotTFZham0zOVJqMWhNanJuaDhKYzRSZkh1VjAyTEVHeUxNNXFpcWY3ckthUU9UQ0tOSWN0SDFjTDl1MjByZDhmYTUtVnZoZlFZZHlKWGFqYklpRE5fRFFWSmxaMHNRb1gtVA?oc=5"
+   "t": "¿Por qué las acciones de Salesforce Inc suben hoy? - Investing.com México",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdGxjX2ltSHZuNGpRX2Y2WGYxOHRBZHYtZEVfWWVRM3Vzc0pqRmJuUWctSUNycWZKWGJSYW5yWjN6VVo2U2xlcjRnZUlEekN0QXJ3XzVRME9VdXhpMkI2NGdpT2xQZlhINEcwMVpWOVVVNFVnc2d0VjR2LUdGMG9RdTc0TTh2eGdvUm9hTERmNEdTY3FSTS1TRmFnUEZIMmJEaDBQSjFrQWZqQ3dYWkE?oc=5"
   }
  ],
  "en_espanol": [
-  "El BCE subirá tipos en diciembre, aunque el futuro es incierto",
-  "BCE subirá tasas en diciembre, pero el camino futuro es incierto - Investing.com México"
+  "¿Por qué sube hoy la acción de Salesforce Inc?",
+  "Pronóstico semanal de las acciones de Salesforce: la caída alcanza niveles de sobreventa y aumenta el riesgo de rebote",
+  "¿Por qué las acciones de Salesforce Inc suben hoy? - Investing.com México"
  ],
  "investing": [
   {
-   "t": "El BCE subirá tipos en diciembre, aunque el futuro es incierto",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdkFLb0JqYWoxcVBZMjlQdUJlNERGYUJ6YVhEbHh6c0hMOVZsMExiV3dnRzg1c0dxUThMcDdDM2RidVhsb005YWVPMGFSeFJSWGZadEFTZ3ViQ1dhemZVckRvV2cxaUxYeWNIc3ZLSXF0M1JubU1KOEdrT0Q4ZGI1OExibGk0Rk1aQjZENWNpOTJTSDRnaERzelhseGRIM0pqZUY1T0hLNE51UEZnMUpiSkxR?oc=5"
+   "t": "¿Por qué sube hoy la acción de Salesforce Inc?",
+   "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-salesforce-inc-93CH-3942405"
   }
  ]
 }
