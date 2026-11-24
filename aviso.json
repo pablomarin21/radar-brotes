@@ -1,89 +1,90 @@
 {
- "ts": "2026-11-24T16:35:56+01:00",
+ "ts": "2026-11-25T00:00:46+01:00",
  "fichas": [
   "wallstreet",
-  "bitcoin",
-  "ia"
+  "city",
+  "pacific",
+  "kansas"
  ],
- "medios": 81,
+ "medios": 65,
  "normal": 0,
  "red": "investing",
- "titular": "Bitcoin recorta ganancias tras el rally de IA en Wall Street, pero se mantiene sobre los 61.000 dólares",
+ "titular": "S&P sube la calificación de Canadian Pacific Kansas City a A- por su crecimiento transfronterizo",
  "medio": "Investing.com España",
- "link": "https://es.investing.com/news/cryptocurrency-news/bitcoin-rebota-por-encima-de-los-61000-dolares-tras-la-ola-de-liquidaciones-3939417",
+ "link": "https://es.investing.com/news/stock-market-news/sp-sube-la-calificacion-de-canadian-pacific-kansas-city-a-a-por-su-crecimiento-transfronterizo-3942771",
  "titulares": [
   {
    "o": "Investing.com España",
-   "t": "Bitcoin recorta ganancias tras el rally de IA en Wall Street, pero se mantiene sobre los 61.000 dólares",
-   "link": "https://es.investing.com/news/cryptocurrency-news/bitcoin-rebota-por-encima-de-los-61000-dolares-tras-la-ola-de-liquidaciones-3939417"
+   "t": "S&P sube la calificación de Canadian Pacific Kansas City a A- por su crecimiento transfronterizo",
+   "link": "https://es.investing.com/news/stock-market-news/sp-sube-la-calificacion-de-canadian-pacific-kansas-city-a-a-por-su-crecimiento-transfronterizo-3942771"
   },
   {
-   "o": "Anadolu Ajansı",
-   "t": "Anthropic shares plunge more than 8% below IPO price days after record Nasdaq debut",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGJrcnlISWdNY2hQZzV2ZURqbDFxRmJGR3RWelRjdGpzaEhrQzdOMVk3M2xxel91YV9EUFQxb21rcWdQSlhZRXQ2eWJpTjRXNy1OcUtTNGhaQVc5M2dkRmUtYWhRVUdObnlFQUpuR3FFeXNfeDhlMkFuZTNmQkZtaUZVSGZZYl8wZVdlVUpZRUZqR3dvMER1Q293SENsSF9wZmxHTDctc0d3cjVkX0prbm1MdzhGM0ctMjI5b1N6N0Judw?oc=5"
+   "o": "El Horizonte",
+   "t": "Wall Street cierra mixto ante caída de Nvidia y Anthropic",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPenUxaW1HQWp5enlBczREOGxUaFkyZ01VUnNJUUdnTGVQenJTZnY0cnBzVEZ3WldrcWktNlRqcDJXLVpabUI0NjlIUjAyR0p3ZGJNM0RoWVJrVWRNb1BSbnc0RTFVZkxHOWUtRkIxZ01xejM3MVFRMFgtaldsNlBVQzRjUXR5RS0tbWZVSm41a2J1WHBrX3ZOeU9oc1BaNnNHd3pJbVlyVQ?oc=5"
   },
   {
-   "o": "el boletin",
-   "t": "Wall Street abre a la baja por las caídas de Nvidia y los valores tecnológicos tras la euforia del lunes",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcWNXUmJBc1hWZThNWENzRnZnZHNnOGlhR1Z6U2Rta2xHZGFRNzg4QVlHTGduQ3phVVlhUnhQREJBLXM4dmREM3JiZkZyLUctdHFnQlozWktSZ09JV3hiTGdoSUhiU01qLWNCeXRWNTlab3Qyc1FkR195R2s1RkRHaXRKVmRWbzc5UXFGell4M2gwWklwcU9DaUROdGoyNElRcll6V25xamJFZEJ0aUFEUmtqZTktVUJmLVh1YmN1aEdYY2Nxc2U3aWFTMNIB0AFBVV95cUxNcTZYMi1zdzZVVW02Q2h0RGs3MG9BYXBlalJVV3pfdW9oVnBWUzl3SjROWVg1cURBRlJ1NFNJYWlCSEJfN0tDQld6b0t2WnpoRnZvODlRRzRUbXZsYU5GVHlKOV9qUC1uSmF6MUVQeElSTHVBMHpodnNGdFpMOURQYlkwa3h0SkplRl8tUkE5MUpFSmFtX0Z2TERhRUlzVHhITERpT0luaHVyZGRGMHN2RWRvTGNrZG9vVDRLNFJIZWFta1hIUHBZaUJOVjRZVXl6?oc=5"
+   "o": "The Globe and Mail",
+   "t": "Stock Market Today, Nov. 24: AMD Plunges 9% as 337 Million-Share Resale Filing Adds to AI Sell-Off",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQY1E0cXd0TjdpdndEc1N2WThseDJ4cXgtTWFjYjRZNHItVl85SVdnVWFWUktMalhrazhfbEpZLUlTYTBUdmdYNm9NTGI5djQ4NHBROWhQZVZkanpUUjFRSVlENlVpRXVGd0dNYzA3U0NKLUhicGozMG5NOExwTmx0Q0cxR0l0bnYydWFqM29BeVQ5NGk0aVNXU2xLbGxLeWd0Y0F4dHRmaHc5Njl4VFJXMU9fM3lFUFN2VFBJMmRfeVNpTmFZa0dfUWxtdGk4TXp2TXV5R2x0ZDh3VmFMalhLT0FoZFcwcXItTDd2STRxUm1nblhZNFJhaDh1U0VNdmd1c3FkLXlSd3EzUjQ?oc=5"
+  },
+  {
+   "o": "Investing.com España",
+   "t": "iSpecimen Inc recupera el cumplimiento del requisito de acciones de Nasdaq",
+   "link": "https://es.investing.com/news/sec-filings/ispecimen-inc-recupera-el-cumplimiento-del-requisito-de-acciones-de-nasdaq-93CH-3942775"
+  },
+  {
+   "o": "cwibc.co.id",
+   "t": "Dow Jones Reclaims 50000 as Nvidia Shares Lead Tech Selloff",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yTzhyQnlFVGVGSDY3cTduVE5pQmpXMkw4WlNsTjhaMklfWjlaWm1Hc01JWTZYWEZiMl9yWGhqNWd3WS1lVDRXcklkd3JrNDY0WVJlYlBVSjRSc0k?oc=5"
+  },
+  {
+   "o": "NotiCel",
+   "t": "Wall Street cierra en terreno mixto con nuevas caídas de Anthropic y Nvidia",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOHhjaEVhM002TE9FOTJlVDU5ZDdHTFFCR2xrUGJ3OHFpdUNENmYtbkFfWVh0TTgxcmpJcUF2bmZ6Q2tJeW96VEJ1TmF5ZmJnT0RDM1FaTU9UUXVZS2pRNDhTdXBBbDkzUGw2SEtORHBub2lfUHFKam5SakwxbHJFQm8xTHZNVVdjTGhjSFhhQ1FOWHM5VHdobVhRa2dwRzVsVmxUTGd1NjhvdHpGT0tfODFyS04?oc=5"
   },
   {
    "o": "The Motley Fool",
-   "t": "Follow the Smart Money: This Billionaire Tech Investor Has Been Loading Up On Shares of These 3 AI Chip Stocks",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdlBhZm9pU3N0Vk9BTkl6eWZuMVpsOFc4VDNvYkVqOFRlM1RXRFpQRjV1ZWRkUDlhZ1BfR0lNZDNnV0p1NFprSVJLUUkwakNmbDZ0TkR6Q1NkY3M3TGxTX1JuaGprQlpheE9ic2loaVJZMEg2a0d1bmM1QmpPVkQwNkxxMVBzdUwxUWxJalNfNzkzOTgwdVlFeGwybF9nN2NOWXZSd1pQLVdJOFNPTUpFZThDZjkxSjZUODc4ME1vbEZ0OGVEcXBpbGNsU1lvb1EzZEkzWFJWYmEzam92c0EzcDZIMGhmRDg?oc=5"
+   "t": "Stock Market Today, Nov. 24: Bitmine Shares Sink 8.6% as Confidence Wanes",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZGw5LVdvY2VVNVp5cUg2eUVlaVhyTGFwMlJHM1FVU2x5SnJrQUgtNFQwbHBUWWZOemhCaFk2bVpfUmZJR2I3Qm1weEU3WlY5OS1mT3NYSjl2OTNOcFlRZ2RCLS1ROW0xWmhXN3ROcVZzSkItN1ZkRDB0SzZZWG96WEgtRGxlaU1VS0VtUG1NLXVxQVVZTUtmNVU1c1dkWXQ2QV9OSkg3cGhjRE5qNENoS2k0UFZLRFRhZ1VyMUFnMTcwZ3E5dnNhcHB3?oc=5"
   },
   {
-   "o": "www.foreignpolicyjournal.com",
-   "t": "Anthropic (ANT) Post-IPO Slide And Jensen Huang's Return At Nvidia (NASDAQ: NVDA) Put AI Market Accountability Under The Microscope",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQam02LXZveTFwV1hBdE1zTEJpSGo0bElWc281RHp4SXIwRjQxM01NeW5kRWJudFdaemZrZW1oY2JtUWJPS3d4ZEVGV29pTUVYdkxFa1BaaHJGcHJ1d3hIcDBXZUwxSGx0MFEwRjk3a0N2TGhNVlNpd3pmdFo5WFFCeG1rV3lKSnNkZHJtcWUxZ0ZmOFdIc1ZwRVV3WFhGT3hkN3gwUDVpTkdTanZzUHNRTEJ2N01ma0trSFN0Nzcwb1RMLTVidThYQVRiRExyV1RwR0JMRmJuWERWOG9HR3RvUDFLSVZsSlh4VUhXX1A0bzJDaEloRDh0bWQ3aXpkT3I3OGd2bw?oc=5"
+   "o": "www.tmgm.com",
+   "t": "El Dow Jones Industrial Average vuelve a los 50.000 puntos mientras Nvidia lidera las caídas del sector tecnológico",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaXFWclRsMS1CMTVxVnR6LWszSnktakEtTlAxcnBIRkNpWjd1X01WSEd5YUtSTmRvX0lBYndpdGVWVlhLRklUVXJ1dW1EYl9FeFFLbFo4cmtnaGlBQjNwcnZ0LUNzRVJWNDJpQXlkcTA2WW9oRDh2bkxGSHZDZjNZQ2N2RHA2Q2xkZmJOOHp1YWV5TDJRSVNNbHdPYlEzZjg0NTliSE81ZWpMYTZWNXdXaG9JOVE3NG9GbkxtblpyVjVadGtGWHEtRlpBeUNRTjEt?oc=5"
   },
   {
-   "o": "Barchart.com",
-   "t": "Illinois Tool Works Stock: Is Wall Street Bullish or Bearish?",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX21RNEJYM3ZLOW42eEdZV2dkNzhiSjZRMGNYaEs4dVdMRWxReFBLajRDWDh3N3QybmQ0ZUx2ZElZcGJnWVcwRFIyc2xDR2lnQVpYeVFJQVVFMlJsdkNDQkxxWEdyYWZLYUllcTRrcWFoaFlSOEN0ZWNxQmxRSGpyMDdELTFuQXRISnh1dVh4aE9WRHdHZU9td2pUTHJIQ3dOWHVncTJR?oc=5"
+   "o": "Expansión",
+   "t": "Wall Street cae más de un 1% tras el estreno de Anthropic",
+   "link": "https://www.expansion.com/mercados/2026/11/19/wall-street-cae-1-estreno-anthropic.html"
   },
   {
-   "o": "Pension Policy International",
-   "t": "US. Mamdani blasts AI-reliant stock market after Jensen Huang’s return",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR0NPV2JlN1VTSS15a1dtZkNrLWpqSGxCTjFsZGozV0tjQk9rWW1NSHhCQjBDR1hoNXhhM1lRSGdYZWNlWUJZUl9nRzBmWDg2OGt0U2xuY1hvTGNyOGFYTm5NV2xYUnVxOVdnakU5dEtrc1hpVWRqa1JNeHRTM2UzQTFiU3NDSk04NWRGRW1pTDZpMDVtRnVzc3VDbFYzWkJvUFNvOHRqZHprWGMyZEo4cTln?oc=5"
+   "o": "Expansión",
+   "t": "La IA se estrena en Wall Street: Anthropic protagoniza la mayor salida a Bolsa de la historia",
+   "link": "https://www.expansion.com/mercados/2026/11/19/ia-estrena-wall-street-anthropic-protagoniza-mayor-salida-bolsa-historia.html"
   },
   {
-   "o": "Investing.com España",
-   "t": "S&P confirma la calificación ’B/B’ de Bahréin con el respaldo del Golfo",
-   "link": "https://es.investing.com/news/world-news/sp-confirma-la-calificacion-bb-de-bahrein-con-el-respaldo-del-golfo-3938888"
+   "o": "Expansión",
+   "t": "Wall Street espera que el crecimiento de los beneficios empresariales se reduzca a la mitad el próximo año",
+   "link": "https://www.expansion.com/economia/financial-times/2026/11/18/wall-street-espera-crecimiento-beneficios-empresariales-reduzca-mitad-proximo-ano.html"
   },
   {
-   "o": "Investing.com España",
-   "t": "S&P confirma la calificación ’AA-’ de Kuwait gracias a sus reservas",
-   "link": "https://es.investing.com/news/world-news/sp-confirma-la-calificacion-aa-de-kuwait-gracias-a-sus-reservas-3938885"
-  },
-  {
-   "o": "Investing.com España",
-   "t": "S&P sube la calificación de Uzbekistán a ’BB+’ por reformas fiscales y mayores reservas externas",
-   "link": "https://es.investing.com/news/world-news/sp-sube-la-calificacion-de-uzbekistan-a-bb-por-reformas-fiscales-y-mayores-reservas-externas-3938864"
-  },
-  {
-   "o": "Investing.com España",
-   "t": "S&P sube la calificación de Zambia a ’B-/B’ por el cobre y la deuda",
-   "link": "https://es.investing.com/news/world-news/sp-sube-la-calificacion-de-zambia-a-bb-por-el-cobre-y-la-deuda-3938862"
-  },
-  {
-   "o": "Modern Ghana",
-   "t": "Asian stocks surge after Jensen Huang's reinstatement at Nvidia",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XdGI2djR3NkV4NE9nbmY4aGxvVXhKaGktUGNtNVN3eHVXNzJVUVV6dTFLdjB4VWV6alN1Ri13d1pvclFlTTIwUjZDS0J2azNOekJSa1NydlRGUU14VGRV0gFcQVVfeXFMTl9VSTUybk1KYWNSSE8yazVtZW1KaTdiQmZSdmlrQ3FzQVhGSTl1VG9ma2JEdDB5WVZNMUI4M3FacklCejl3T2VnU1l5RnNGTE5BeXM2LXgzR2pEMHY?oc=5"
+   "o": "Yahoo Finance",
+   "t": "Suze Orman warns retirees against one costly stock market mistake",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbnI3dlh4VkxFbHVsMHQycElaM3UyOVhGMXliWUJqYmVoMVZVQ1FtMmt4WFZTczhucWxJTXJkVEViX21mOXkzS2xBTHN3Z3V0Y2pnMDc1a2ZwS1EzYXJfb01pTGFxY1FhT2VRdG5tYldKMldhZFJhbUNYNDZhZ0VkbkRITllkNzdhQ0RUbkVVa2NrTGVYRE9ockt1S3ZlN0U?oc=5"
   }
  ],
  "en_espanol": [
-  "Bitcoin recorta ganancias tras el rally de IA en Wall Street, pero se mantiene sobre los 61.000 dólares",
-  "Wall Street abre a la baja por las caídas de Nvidia y los valores tecnológicos tras la euforia del lunes",
-  "S&P confirma la calificación ’B/B’ de Bahréin con el respaldo del Golfo",
-  "S&P confirma la calificación ’AA-’ de Kuwait gracias a sus reservas",
-  "S&P sube la calificación de Uzbekistán a ’BB+’ por reformas fiscales y mayores reservas externas"
+  "S&P sube la calificación de Canadian Pacific Kansas City a A- por su crecimiento transfronterizo",
+  "Wall Street cierra mixto ante caída de Nvidia y Anthropic",
+  "iSpecimen Inc recupera el cumplimiento del requisito de acciones de Nasdaq",
+  "Wall Street cierra en terreno mixto con nuevas caídas de Anthropic y Nvidia",
+  "El Dow Jones Industrial Average vuelve a los 50.000 puntos mientras Nvidia lidera las caídas del sector tecnológico"
  ],
  "investing": [
   {
-   "t": "Bitcoin recorta ganancias tras el rally de IA en Wall Street, pero se mantiene sobre los 61.000 dólares",
-   "link": "https://es.investing.com/news/cryptocurrency-news/bitcoin-rebota-por-encima-de-los-61000-dolares-tras-la-ola-de-liquidaciones-3939417"
+   "t": "S&P sube la calificación de Canadian Pacific Kansas City a A- por su crecimiento transfronterizo",
+   "link": "https://es.investing.com/news/stock-market-news/sp-sube-la-calificacion-de-canadian-pacific-kansas-city-a-a-por-su-crecimiento-transfronterizo-3942771"
   }
  ]
 }
