@@ -1,80 +1,75 @@
 {
- "ts": "2026-11-24T12:31:42+01:00",
+ "ts": "2026-11-24T16:21:49+01:00",
  "fichas": [
-  "anthropic",
-  "ipo",
-  "price"
+  "abercrombie",
+  "fitch"
  ],
- "medios": 12,
- "normal": 2.2,
- "titular": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
- "medio": "Bloomberg",
- "link": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+ "medios": 8,
+ "normal": 0.5,
+ "titular": "Informe de resultados: Abercrombie & Fitch supera previsiones en el tercer trimestre y sus acciones se disparan",
+ "medio": "Investing.com España",
+ "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN0ktUVRDd1dlNEd0WjNWWTFWNTlfc1BoQncxNmhoR1dqWTVEZnFQMTRNX1prOEc4ZHpYQlVuMzAyekVQdER6S1l3blBrOTFKdDJQQkFtSFFzbENCdmxMMXk1VXhSWUZTVTQ4OHBKSURrZ0p5QzItM2YwYmd1djQ4MGFEWXJOdXN4dmJ5RDlMR01XRk1tSHZpTFlubUdCVmJfZWVpYUJudnFlUFVjME96cFdHbEZVenVzeU5TeVhzNE5LOXNHZjItbzZOd0VxUUVXOHRYTC0tUEhRSU5HWDBDSkpkRXhwVFUwalhqT3pvbENrQzM4a2Nr?oc=5",
  "titulares": [
   {
-   "o": "TradingView",
-   "t": "Anthropic cae por debajo de los 83 dólares, el precio de su salida a bolsa, a medida que se desvanece el repunte inicial",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nV1JCOUxMOFFjWVpzTXpXdENqMFJvLUZlaWZ1Q29MbmxxRkFTY3A2UUQ4M1lMYVVrMm1wMXMxYkkzOEVpMEs1eUhPTmZqdE42UHRKUTJFTTMxVkdUeGpVaFQ1S3g4cDBGOXJWUW5DU0k4R1ZVX0FN?oc=5"
-  },
-  {
-   "o": "InfoWorld",
-   "t": "Anthropic launches Claude Ship, extending AI-assisted development to pull request approvals",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbnFTMEt6QTl2eHk2Z1lKMVpZNW1ieWF6TGRSUENiWTF0QWFFekVRUDZxT0pmb29jaU1rM21uMk1TenFYdUNJck4wMGdFdmplMElnTlZIUVFGc1VCRG90cFdRVEFPWm9QQzNMaVZRX0k4UU5uNEt4ZTNOcUZjNjk0c3V4WGl3VmNod1ZNM21CaHo3Vy1ZMGRMeTZLaHZLVnczQ0JUcXdOZjlNeV9lSlhrUTZ0ZDFqbm04b0FZcTJReVpYOE02cUxqWTkzV3JaTUVUREx3?oc=5"
-  },
-  {
-   "o": "marketscreener.com",
-   "t": "Anthropic breaks below $83 IPO price as debut rally unravels",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYUpiT1ppMzJHRmROdFhnbU50MkI0SEpHWG5nODhZVF9VTm45TXdfeHJYM19kY0JUUUFRUWZMMnJwQWFqY1Qza3JsOUtHWXZ0NTVMS2dpODItNVMtSDIyc0tjblVfMVJzNlFRZUN1RFdGakVoNnpzajRwcWFlSHE0UE9hN2NIV3JvQ0lzUDBYUFprd0JsZlZZUXFBNzVMUHp2SllQYzhMTXNtajZSanJyaUtB?oc=5"
-  },
-  {
-   "o": "MarketScreener España",
-   "t": "Anthropic cae por debajo de los 83 USD de su salida a bolsa al desinflarse el repunte de su estreno",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWG91dHV4ZDRpVkY5UW1HbHJWbDVzSUtzdjhKUGFuTWxQdEg2SUliU2ZyMU1FelVsanFpRGFtWXctSk1aSWJGMGVCa0k5MkJ4UnA4Qm1YNUZ1Skwwd1pCZkRZYnVRYUQyR0NaTEYxTlhjVGpTX2Z4ZHNUc0hXX000SmVmaVlxTkcyUzZVbFBnbl9wMVppd0kxTGdyTzlZWkFKa3Q5a0FEcGI4djF4TkdyRkhhRHNkWmJqS0ZVeGM3NnhTdkJzNGVZSU50bnpWMUhwLUd6VGJHMWxsUGZjOWhlcjE1bGhydGFOMFJB?oc=5"
-  },
-  {
-   "o": "Crypto Briefing",
-   "t": "Anthropic shares fall below $83 IPO price in premarket trading",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlpqNHFkaWZpQWp0VElZX3V4b1J1NVJkaDV0OGYxaE1NbkpvMW1XUmxNSGozU2tISFpQcXBuTExwcUhaSFlQUm5qRmF3ZHIyUEotbGU3NlNNaVBEeXB5UDdWV2gtbGFrUVhzTjlROFV4RFRsMm55Z1UtWmhGUHNocXVQQ25QWUl6Zi1qQm01UkRxaXc?oc=5"
-  },
-  {
-   "o": "The Lufkin Daily News",
-   "t": "Anthropic breaks below $83 IPO price as debut rally unravels",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSjdyQWtiemRyWDFFd1ktOEtpZElEV0p4RDNwZU1SMTNFaktvVVRSRHpYbUxfY1VvOWNWSnF2bFpUeVgxdXV2UF8xVW5NcW1IRl9ISHBiY2phX0VSd0RIeE9UVVVDckY3azRCZElFZVdzSWlhM2JXeXdTYk5OUTJBX3JrYnhaRHdFMGRNWWdiMDlPZVhRWGxEcWhzVFprYWJTWDEzNXl6VV94QVA2cmpybk1hV1BlMUtPUjJwY3JkRTA5MEl4QkVOTFJtbXhKR0NaRHZSYmlxZjdBM2VSaHlQSXZ3SFNaa2MtYjJpR0dzXzc?oc=5"
-  },
-  {
-   "o": "Bloomberg",
-   "t": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
-  },
-  {
-   "o": "Bloomberg.com",
-   "t": "Anthropic Share Price Breaks Below $83 IPO Price in Premarket Trading (ANT)",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0hkbFdEeDFKTWo1UXlkenJzS3l0QWpGSDdIWGxpbTdiMkpzVkl0bFN0d2RUSGxJS3FxNFNjeEVOeE9qUlB6X1ZKNldQdFA5b2NUam1pZjQzXzFZSFZYQ21mUXJlSzVvOWs5dS1lc3A2NG5zeGQ1RXlQR0c4QkxOUVNQUzNyYzBMT1A5emhvX2VNc2thcUJoSjhqYzZjM0Y2ZmdQellESkczaXc?oc=5"
-  },
-  {
-   "o": "Reuters",
-   "t": "Anthropic breaks below $83 IPO price as debut rally unravels",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMHBNOVY5RDc1NmxUUjNnZkNhLWROQkhUOFZpVmQ0SEI0UG9aSUpTTjhpV3EydTNkdW8xYm1KOWF6OXg2Z3BMaUJCWTE3WnFCM0hCZGNuQ3ZKUklsYUROVWQzdExOamNKVlJLRTgwYWpoYVdOUjlDY0pxTmxZajlvckJ4cHc0TG1hbW1ZUkszaDZ2M2Rvd3RqTWRFaVRENXVWT0pr?oc=5"
+   "o": "WSJ",
+   "t": "Abercrombie & Fitch Lifts Outlook as Sales Jump",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdlZQek5ibEt1MWhMZ2J0U2V1ejBUa29RYV96OWp1dnVKeWlzN29IRzJZRk1pUE95UnhnTnF2eXFMXzd5Nno4NzJEVXRaY0Q0SGcySnlCY09LcGktbHd1bFRydi0xOEpFQkFQaE1zRkRZNHowX2Y4NDRNd2Q1Yk1wS3lqRzkwcm9fbjduOWZmLVlicHBB?oc=5"
   },
   {
    "o": "Barron's",
-   "t": "Nvidia, Anthropic, Intel, HPE, Sanofi, and More Stocks That Explain Today’s Market",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZRTRaZW5hTGIxY0lPci1LcHZIa09rUW9WZDktay0yVG4zMlBVSVdLZy1TN3RjNFdtci1nVk5rb2tuTkVCbS1SQldkNm9EMS1BZ3daRUVDY2c1Zk5XVzR2dWxQR0w?oc=5"
+   "t": "Abercrombie & Fitch Stock Heads Toward Best Day in 3 Months on Sales Growth",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUJTOU9oTWZJbEtJOEZ2X1dDSW42OVdhNnNBbzcwNXNtemdTQlZaSEVvbEc1V3l2eGd1WjhGUWJOeVVfVl92eTFlakxoODQtQ3VIVHozYWw0RmRINWFyZHZjYzBfdV8zTVVhS2NWNGxtRHlqQ0FfT2ZuRnZJa09PQURXNVBfRzQ?oc=5"
   },
   {
-   "o": "bloomingbit",
-   "t": "Anthropic Falls to $83 IPO Price, Erasing All Post-Listing Gains",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tNEZ6Yk4tOEtxbnkxR1RMYnlGQmZpS3JCU3kzemR5ZDR1UDZub3J0Vm1qcnp4WFdPMEh6N09Sb2pHOWV3d2VCS0pGT29qMlFFdVhrWQ?oc=5"
+   "o": "qz.com",
+   "t": "Abercrombie & Fitch Q3 earnings per share rose 62%, outlook raised",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcnV5VjZ5WkJNV0o5dHZrMmtlNVd2Q212dEREVGdwTjB5ektBNmw4ZURhc292S3dCUnhUOExmelV4WjZkOEE1ZFlISzg0WjNtVlhPbVZCVFF5NWY0TVBMYmpFOW1WcjdvT2djOG9lNFp3M0NvaE5wMTV0dHc2SFRFdURFY1o?oc=5"
   },
   {
-   "o": "Barron's",
-   "t": "Anthropic Stock Sinks Below IPO Price",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRG8xbE9VS2k4WFBkbmRUcFNPa2tkOTFzVVBnLWJfaERmNllLa0ItdVYtR1hmbDFUcnI5ZGlDN0IteFAzem9XclBheHd0VmFzSGZucEVzdmxhT283dTF5M2FRVVRvVHpicFVNT05TQzJRR2p6U01fMTNqWFh6emdvQkxsaW8yUQ?oc=5"
+   "o": "Yahoo Finance",
+   "t": "Abercrombie & Fitch CEO Eyes ‘Another Year Of Record Net Sales’ After ‘Best-Ever’ Q3 Topline Across Brands",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXdPZzhlSk9Cb3F4cGttSDZyUEE5NDc0R3RiS1NDU0NXanZadXp6SFZ6X3RENGhDUlpUTGVxajRkZzBLOURROHJfdldfSGpwOUg3TjZEUFRzMmJQZTVBdVlYZkxQRGhrZHJ6QVlyUlppYUUybTFiQjlFY2FTSXJQaFFKVFRDWmU3UUlwSEF4U2RsRllxVHYyZHVIbEIza0Ny?oc=5"
+  },
+  {
+   "o": "Yahoo Finance",
+   "t": "Abercrombie & Fitch Shares Rise 4.7% as Record Third-Quarter Sales Drive Earnings Beat",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQenJzWVMzbHRvei1WSG9oZlZqMDg4RmU4LTFBUFM3ZmpGSWpzMWhyaTgtSG9lckplNGl5U2VZLXNzYjBpRWdmbmdBaFJNM3FFNF9MbVFqMU41c0xqeERWLVFFY1JEUl9VbzEwRXBuMlN5aWhtMkpYU093QU00UE1kZU8zakgzTEk1UVNIN1B3dFRQODhYV201ZnZqZW4?oc=5"
+  },
+  {
+   "o": "Yahoo Finanzas",
+   "t": "Abercrombie & Fitch sube 4.7% tras registrar ventas récord y superar las expectativas de ganancias del tercer trimestre",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX3NZX1NJRGZpMHBIWGE0QWVoY0Zhb2c4cEFoVVZEX0JvTS11cDBSTkw1SGhqeWNGWWFsNEQzUVZUM1dOMzIyZHkzQ2JTTmhXSXRTQUY5OGFlOUxPNllTT0VxVE1wbnNRdGgweUQwTG9adDNvaC1VRjZxWVMzMnpWamwzQTZ6QkZ2Z2F3?oc=5"
+  },
+  {
+   "o": "Investing.com España",
+   "t": "Informe de resultados: Abercrombie & Fitch supera previsiones en el tercer trimestre y sus acciones se disparan",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN0ktUVRDd1dlNEd0WjNWWTFWNTlfc1BoQncxNmhoR1dqWTVEZnFQMTRNX1prOEc4ZHpYQlVuMzAyekVQdER6S1l3blBrOTFKdDJQQkFtSFFzbENCdmxMMXk1VXhSWUZTVTQ4OHBKSURrZ0p5QzItM2YwYmd1djQ4MGFEWXJOdXN4dmJ5RDlMR01XRk1tSHZpTFlubUdCVmJfZWVpYUJudnFlUFVjME96cFdHbEZVenVzeU5TeVhzNE5LOXNHZjItbzZOd0VxUUVXOHRYTC0tUEhRSU5HWDBDSkpkRXhwVFUwalhqT3pvbENrQzM4a2Nr?oc=5"
+  },
+  {
+   "o": "Investing.com",
+   "t": "Earnings call transcript: Abercrombie & Fitch Q3 2026 beats estimates, shares jump",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYktUVmg0dFd2Mm1oQ2NIelMzM0dRME0wOE5XeEdTcnk3MFFha3B5T2VJSWpyOUZCdXFlY003ZTBGQ3BOYUZvWGlYUF9uRk12a3lLR1l4YWpLc01ITk40TkZuT0UyaERzVGpJVHFuQU1OMXk0aXhOV3E5SFVtTjluSk9Nd1Q0SktWVC1wUktEYmRJek1BcGZzSmQtOVlrNGszamtNbllPRktaOGpVZFRNSFdBeVpLWTE0dk5XTXV0cnNpdXpwZkNOakRpY0lCTTFo?oc=5"
+  },
+  {
+   "o": "Investing.com",
+   "t": "Why is Abercrombie & Fitch stock surging today?",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUGV5bW14TXpCS0tlbVFLeC1MemxGc3p3SzlpUFgwajh3VTN5dUw0NEt6UnUwMUppLWdDVE05ODUyM3hPb0Z4Y1VoMFZOUTRFOFlvcnpQLWxKZVlDSE9Sblc4a2RlNDJ0anF2SzNSTjFJMFhubzZsSW5mQnladVRnMFk2WXRVazFkdkRVdnBYS3dGbjNBMFBqZHUxb1BvMUUyZG15X2ZMdjhtUVU?oc=5"
+  },
+  {
+   "o": "Investing.com México - Finanzas, Bolsa y Forex",
+   "t": "¿Por qué las acciones de Abercrombie & Fitch Company suben hoy? - Investing.com México",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYkNCOHdtOVRvVEZodmdVS19zVG5nVUJ6SEVWLXRSUFZMeEF1TE9rSWJJbGZZbjhTcG5NS3QweU5sNU44ZDBEYzdVQ05hM2ZvUWhmZnQ5UmhSNFczS2NJSHN1RV9idFc1dFFXNHB3ZTl3WDEzRDJSQzJ6LUpTZm1aNzBHb0JYdmpvNDZVcnFzSU84Q0p1NW42eTU0UmhIMk1sNjVrUTA3cWJ2M043Z1p5VnZHU1VrS09ha0lvNWxR?oc=5"
   }
  ],
  "en_espanol": [
-  "Anthropic cae por debajo de los 83 USD de su salida a bolsa al desinflarse el repunte de su estreno",
-  "Anthropic cae por debajo de los 83 dólares, el precio de su salida a bolsa, a medida que se desvanece el repunte inicial",
-  "Anthropic y OpenAI enfrentan dudas internas sobre la seguridad de sus modelos más potentes"
+  "Abercrombie & Fitch sube 4.7% tras registrar ventas récord y superar las expectativas de ganancias del tercer trimestre",
+  "Informe de resultados: Abercrombie & Fitch supera previsiones en el tercer trimestre y sus acciones se disparan",
+  "¿Por qué las acciones de Abercrombie & Fitch Company suben hoy? - Investing.com México"
+ ],
+ "investing": [
+  {
+   "t": "Informe de resultados: Abercrombie & Fitch supera previsiones en el tercer trimestre y sus acciones se disparan",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN0ktUVRDd1dlNEd0WjNWWTFWNTlfc1BoQncxNmhoR1dqWTVEZnFQMTRNX1prOEc4ZHpYQlVuMzAyekVQdER6S1l3blBrOTFKdDJQQkFtSFFzbENCdmxMMXk1VXhSWUZTVTQ4OHBKSURrZ0p5QzItM2YwYmd1djQ4MGFEWXJOdXN4dmJ5RDlMR01XRk1tSHZpTFlubUdCVmJfZWVpYUJudnFlUFVjME96cFdHbEZVenVzeU5TeVhzNE5LOXNHZjItbzZOd0VxUUVXOHRYTC0tUEhRSU5HWDBDSkpkRXhwVFUwalhqT3pvbENrQzM4a2Nr?oc=5"
+  }
  ]
 }
