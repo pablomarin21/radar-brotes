@@ -152,7 +152,7 @@ def es_finanzas(t):
 # 3.ª red (24-nov, Pablo: «me gustan mucho las noticias de investing.com»): lo que publica Investing.com ESPAÑA (sus
 # feeds en español; ojo: Google News llama «Investing.com» a la web inglesa, que NO cuenta aquí) y en 2 h recogen
 # ≥ 3 medios más (4 en total), a ≥ 3× lo normal. Pablo: «me llega una noticia de investing, pum, contenido». Su titular (en español) va de principal en el aviso.
-VENTANAS = [(VENTANA, None, None, None), (120, 12, 3.0, None), (120, 4, 3.0, "Investing.com España")]
+VENTANAS = [(VENTANA, None, None, None), (120, 12, 3.0, None)]  # la red floja de Investing (4 medios) se quitó el 24-nov: 11 avisos en 15 min; la sustituye investing_directo
 
 
 def evaluar(items, ahora, E):
@@ -316,6 +316,22 @@ def avisos_recientes(repo, rama):
     return out
 
 
+FRENO_MIN = 20  # como mucho un aviso cada 20 min entre los dos detectores (Mac y GitHub), y TOPE_DIA al día
+
+
+def demasiado_pronto(d, previos):
+    """Freno común: ¿hubo otro aviso (de cualquier detector) hace < FRENO_MIN min, o ya van TOPE_DIA hoy?"""
+    t = datetime.fromisoformat(d["ts"])
+    hoy = sum(1 for a in previos if str(a.get("ts", ""))[:10] == d["ts"][:10])
+    for a in previos:
+        try:
+            if 0 <= (t - datetime.fromisoformat(a["ts"])).total_seconds() < FRENO_MIN * 60:
+                return True
+        except Exception:
+            pass
+    return hoy >= TOPE_DIA
+
+
 def ya_avisado(d, previos):
     """¿Ya se avisó de esto en ENFRIAR_H horas? (salvo escalada: el doble de medios y ≥ ESCALADA)."""
     t = datetime.fromisoformat(d["ts"])
@@ -370,8 +386,11 @@ def avisar_git(disp, d):
     """Escribe aviso.json en la copia de la rama de avisos (d) y hace commit + push. Reintenta si otro radar empujó antes."""
     for intento in range(3):
         _git(d, "pull", "-q", "--rebase", "origin", "avisos")
-        if ya_avisado(disp, avisos_git(d)):
+        prev = avisos_git(d)
+        if ya_avisado(disp, prev):
             return "ya avisado"
+        if demasiado_pronto(disp, prev):
+            return "espera"
         js = json.dumps(disp, ensure_ascii=False, indent=1)
         (Path(d) / "aviso.json").write_text(js)
         _git(d, "add", "aviso.json")
@@ -421,7 +440,10 @@ def vivo():
         dir_avisos = sys.argv[sys.argv.index("--avisar-git") + 1]
         for d in nuevos:
             try:
-                notas.append(f"aviso {d['ts'][11:16]} → {avisar_git(d, dir_avisos)}")
+                res = avisar_git(d, dir_avisos)
+                if res == "espera":  # frenado: no lo damos por hecho, puede volver a salir en otra pasada
+                    E["disparos"].remove(d)
+                notas.append(f"aviso {d['ts'][11:16]} → {res}")
             except Exception as e:
                 notas.append(f"aviso {d['ts'][11:16]} → FALLO {str(e)[:120]}")
     if "--avisar" in sys.argv:
