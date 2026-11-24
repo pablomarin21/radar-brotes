@@ -9,6 +9,7 @@ Una noticia gorda se nota porque de golpe la cuentan muchos medios a la vez. Sal
      tope del día.
 
     python3 radar.py              # una pasada: lee titulares, guarda el estado e imprime los disparos nuevos (JSON)
+    python3 radar.py --bucle 330 ...    # repite la pasada cada 3 min durante 330 min (vigilancia continua)
     python3 radar.py --avisar-git DIR   # además deja cada disparo en DIR/aviso.json (copia de trabajo de la rama de
                                         #   avisos) y hace commit + push, si no se avisó ya en las últimas 48 h
 
@@ -364,4 +365,15 @@ def vivo():
 
 
 if __name__ == "__main__":
-    vivo()
+    if "--bucle" in sys.argv:  # vigilancia continua: una pasada cada 3 min durante N minutos (GitHub Actions)
+        fin = time.time() + 60 * float(sys.argv[sys.argv.index("--bucle") + 1])
+        while time.time() < fin:
+            t0 = time.time()
+            try:
+                vivo()
+            except Exception as e:  # una pasada fallida no tumba la vigilancia
+                print("pasada fallida:", str(e)[:200])
+            sys.stdout.flush()
+            time.sleep(max(5, 180 - (time.time() - t0)))
+    else:
+        vivo()
