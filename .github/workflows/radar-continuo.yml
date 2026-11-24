@@ -1,0 +1,39 @@
+name: radar-continuo
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7,37 * * * *"
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: radar-continuo
+  cancel-in-progress: false
+jobs:
+  vigilar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rama de avisos
+        run: |
+          git fetch -q --depth=30 origin avisos:refs/remotes/origin/avisos
+          git worktree add -q -B avisos /tmp/avisos origin/avisos
+      - uses: actions/cache/restore@v4
+        with:
+          path: estado.json
+          key: estado-${{ github.run_id }}
+          restore-keys: estado-
+      - name: Vigilar 5 h 30 min (una pasada cada 3 min)
+        run: python3 -u radar.py --bucle 330 --avisar-git /tmp/avisos
+      - uses: actions/cache/save@v4
+        if: always()
+        continue-on-error: true
+        with:
+          path: estado.json
+          key: estado-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Relevo (lanza la siguiente vigilancia)
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run radar-continuo.yml --ref main -R ${{ github.repository }}
