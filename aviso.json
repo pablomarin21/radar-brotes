@@ -1,89 +1,90 @@
 {
- "ts": "2026-11-24T16:34:50+01:00",
+ "ts": "2026-11-24T16:35:18+01:00",
  "fichas": [
   "nvidia",
-  "fed",
-  "ia"
+  "chips",
+  "semiconductores"
  ],
- "medios": 170,
+ "medios": 28,
  "normal": 0,
- "red": "investing",
- "titular": "El dólar se aferra a máximos de 20 meses mientras el rally de IA de Nvidia reaviva las apuestas sobre los tipos de interés de la Fed",
+ "red": "investing (pedido por Pablo)",
+ "titular": "Las acciones de chips de EE. UU. caen antes de la apertura tras el rally liderado por Nvidia",
  "medio": "Investing.com España",
- "link": "https://es.investing.com/news/forex-news/las-divisas-asiaticas-se-mantienen-estables-mientras-el-dolar-roza-maximos-de-20-meses-3941103",
+ "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZVpiR2NMMmQyV3I2bzNPUVJhQjNJR19CR2xrTkZNMlJJWGFOUWRMOTkzS0ViTlBUMWFTZUpNa2RBblJVNkpyT3lud3ZKU2F6WFFSUE42QXp4TGJ6UFdQcFB0M0tidVlHc0dsenQ2di0tdzFNTFVpcXRWNGpkd1JCYnpJaWloa3c2ODA2anpDNWpwU0xBaTlCeWR4X2N5WXhPeURpaVpFY1ZvTGRKWkFoTU16TU41V2VlQ3d5UlY1VVAxZG5Kclp6a19wbU5iY3B1VkpTbGZQN3NlY00zUGww?oc=5",
  "titulares": [
   {
    "o": "Investing.com España",
-   "t": "El dólar se aferra a máximos de 20 meses mientras el rally de IA de Nvidia reaviva las apuestas sobre los tipos de interés de la Fed",
-   "link": "https://es.investing.com/news/forex-news/las-divisas-asiaticas-se-mantienen-estables-mientras-el-dolar-roza-maximos-de-20-meses-3941103"
+   "t": "Las acciones de chips de EE. UU. caen antes de la apertura tras el rally liderado por Nvidia",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZVpiR2NMMmQyV3I2bzNPUVJhQjNJR19CR2xrTkZNMlJJWGFOUWRMOTkzS0ViTlBUMWFTZUpNa2RBblJVNkpyT3lud3ZKU2F6WFFSUE42QXp4TGJ6UFdQcFB0M0tidVlHc0dsenQ2di0tdzFNTFVpcXRWNGpkd1JCYnpJaWloa3c2ODA2anpDNWpwU0xBaTlCeWR4X2N5WXhPeURpaVpFY1ZvTGRKWkFoTU16TU41V2VlQ3d5UlY1VVAxZG5Kclp6a19wbU5iY3B1VkpTbGZQN3NlY00zUGww?oc=5"
   },
   {
-   "o": "Anadolu Ajansı",
-   "t": "Nvidia shares retreat over 6% after rally on Jensen Huang’s return as CEO",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONVI5MTdtckY0ek1JOTNSbWhPazBaNUlKMkNzTmRLWk9uYm0wSjlPd2lxa2Z4azBoYXA5S2w0dUtfcnRORHJDVDgwUU15NFpZWFdBX1M5RkE4bURlVkFpWVJ2bHkwYWNka3Z5d2JMMUVmQXl6d3Z0b3Bub1hYOUxIamtCcTJPcHViQ0tmRHFXRFVMTDdUenlCMU5meDNPNm1ablMyZWxiZWQ3cElaRThpa09FOA?oc=5"
+   "o": "Investing.com España",
+   "t": "El efecto Nvidia ya impulsa los chips: estas son las acciones que vuelan",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVF83X1RHX0d2T3FmMjQzdGZhNko3ZWlxcjBMUlliU0oyNTNJaG5VbVlGSGU5bHNEVlF1c2pLa21pb0J1cDVGSmdMcy1kcWdvY0RHcEl4cUgwdHNFOGpKTUxoMGY5cHR2bE5wNzFCU2xtWFNLMnNaZUxxWDNJaFltQzBrYkJZOC1ZdUdBRVlJU2dFYnRXMk1sbkgta0htUUZla0lDeWttVkNnX0xBNVRBTm1KVnhwczJFVHFicmNzamNBQ3JGRFE?oc=5"
   },
   {
-   "o": "Crypto Briefing",
-   "t": "Tiger Global boosts stakes in Nvidia, Cerebras, and Intel as it trims elsewhere",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vUV93WVM3dkFpaHRPU09XdTRDbl9hTGVJRVR1QzVUQzJSTUNyR3RfdnNDX2wyZFd6cWZPNHpDdVFEVXBOWFhEWnltcEJwci02OTFFRl96NnVRX25jS2ttTFFGSnZDY056SmtjSHlTRFZIekRXSFRFcw?oc=5"
+   "o": "TIKR.com",
+   "t": "Nvidia’s CUDA Moat Is Shrinking: AI Got Software Running on AMD Chips “in Three Days”",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41b092MERhZ3hLWjZKQXk1aXc2ZVRCc1luVVJ4WTVLclF5bUZWYXhkeWhGU2tPbFBCMktvVDV0WUltNnZkdG1LekR4alZ6NDgwM2pZczBfVl9SMUtGMVpacktPdWpnNWUxYnFpSXMzaUJhX2xHaWo4R2RB?oc=5"
   },
   {
-   "o": "Engineer Live",
-   "t": "Rockwell integrates NVIDIA software for factory-scale simulation",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZGlQdkNBejRleXNDMWoyU0hQZG53X3NiQzYzTHR5cUd2dUtxekpaWHNVcHhQSnNIRWYtWXMwX3lqRGpXTzl1NXVQbm9TVEFZRW5aVWlHbHctdjZBS0hxTWxURU9pRHlXZl9mOFBoMjNlU3E1QVNGM3pveUlWVTBKNW5CTl9PMER6M3hlZWh4REwxMEhU?oc=5"
+   "o": "Benzinga",
+   "t": "Why Is Broadcom Stock Sliding Today Alongside Nvidia’s Post-Rally Dip?",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSEt5Q1dlaVByTXJKQVVQR2dObG9YYUhaWXFqaE1ZaVh0WWo5enBDQk52dThTYzNValRSNVp3SFdTOWZkR2lhSkZSeXEwSXdzZmJCYzNMVko3Q001WHJ4cTNxZGRzY1FqZGFkX0ZlWFVHSllzeHVFWlB0dmhpczYtLW45b3dvczdzZUF0bFl3MGxNaXZlRjloNW4tTnJ5bGI2R1hUZUZBVFFyeVYwUWV0eTN5UGZheU1pREVKRGpn?oc=5"
   },
   {
-   "o": "Hardware Premium",
-   "t": "NVIDIA publica los GeForce Game Ready 621.40 con DLSS 5 para Where Winds Meet",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVg1ejhzUkYzanRzT1NBSV8ya3NQSnJycnBtMjFjMlN4YVpvUG0wVnJZRTVuNWlCZHM3cUVXUDJ6UjJSYTBZZGpFcGU5WVVLNjJ2WHpVcUJCdFk0N3dqUFh1S2tCTGxqQklUeWN2U29ueERZN2tnek4wQ255eXlRNDgyTnMtejRNOGVTLU1TRkdGSlJLMnZkcw?oc=5"
+   "o": "Reporte Indigo",
+   "t": "¿Nvidia bajo la lupa? Republicanos mantienen investigación por presunto contrabando de chips a China",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcjdIeFlQWTNyaURYaHdiajV3Rm9IVVBoN2o3SXVqUGswWWxOZE53eVBuazQwdkRKUE1tZnZjSTN5VGVWMjI5al8weGRLdmJvSks1NW02YmpKNmpjY0R1QlpRZ0RBb1c5UmdiMVZETVBKdklGbzhQUE9sQURydmdOc1JtX3F6VC10S2RtOGxLZWNZczBPVW1GeEhnWUM1c3ZQTmhBMGJrWG13eUJmRjVGeFB1VjNBVTVWeGNaUVhzN05XU3dVVGFpYnV4dzJ5SnhkNklrWkVSN0tVcTNXYnp5Y2dLQTN6NnphS01hTGdSMGtFRWM?oc=5"
   },
   {
-   "o": "el boletin",
-   "t": "Wall Street abre a la baja por las caídas de Nvidia y los valores tecnológicos tras la euforia del lunes",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcWNXUmJBc1hWZThNWENzRnZnZHNnOGlhR1Z6U2Rta2xHZGFRNzg4QVlHTGduQ3phVVlhUnhQREJBLXM4dmREM3JiZkZyLUctdHFnQlozWktSZ09JV3hiTGdoSUhiU01qLWNCeXRWNTlab3Qyc1FkR195R2s1RkRHaXRKVmRWbzc5UXFGell4M2gwWklwcU9DaUROdGoyNElRcll6V25xamJFZEJ0aUFEUmtqZTktVUJmLVh1YmN1aEdYY2Nxc2U3aWFTMNIB0AFBVV95cUxNcTZYMi1zdzZVVW02Q2h0RGs3MG9BYXBlalJVV3pfdW9oVnBWUzl3SjROWVg1cURBRlJ1NFNJYWlCSEJfN0tDQld6b0t2WnpoRnZvODlRRzRUbXZsYU5GVHlKOV9qUC1uSmF6MUVQeElSTHVBMHpodnNGdFpMOURQYlkwa3h0SkplRl8tUkE5MUpFSmFtX0Z2TERhRUlzVHhITERpT0luaHVyZGRGMHN2RWRvTGNrZG9vVDRLNFJIZWFta1hIUHBZaUJOVjRZVXl6?oc=5"
+   "o": "Seeking Alpha",
+   "t": "How AMD Is Set To Exploit The Nvidia Rout (NASDAQ:AMD)",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaWo0X3J3TUNtOGJGd0lpeTZjYXdWajJPWE9Kd2hDdFZfQkM4NExDZVhDUWtvdDk4c05rNHhfRmU3bmFHbE1va2NoeF9RaWxQdmN5NHdYRXhYT3lial9CcWdlMUVSeEQ1cnB5TElGREd2SkxoSWlpd2JIY1VrazhucXEtdEZ6Q0dIYXc?oc=5"
   },
   {
-   "o": "MarketScreener España",
-   "t": "El Ibex y Europa toman aire tras la euforia por la vuelta de Huang a Nvidia",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbXBoT1hjNXBtb0ZVUVNwNGt1OTV6OWtZaDJxYm9EN09Oa2ZvYXF0MzcyYm5fMmNrVElIQjRUOGdpVkhtVV8xUHdzeHZ0akM0Q25GLVlLa216WlAyU2hfMThMU3BUSlhjeWtUNmwyYkg2VE96TTBkOURSb2pMSmtxSk9fVXp5ampMR0dTNnFRQUNIYmVMalp6UkJEcm1DbHhwaEVaZGp1R19CWXFVT3NubWpaUHBTMmlFWVdZUFhra3ZscU1JYmF1QmIwYw?oc=5"
+   "o": "24/7 Wall St.",
+   "t": "The U.S. Just Blacklisted the Firm Suspected of Funneling Nvidia Chips to China",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYmlRUWhUY19GWjlHakVmb3N6VXdqX1FBQm5QYUN3MnY3cmN5eUxVUkdBWGtmMFhmSGtuLTlBbE9nS0NjbEJISTdFcnZic1FBUy1wcktmVjZnRVpnR2xHdHFFYng4a2lQSnBjSGFvTm1XRW1ETWFzQ2oxclhpbTlTNGNQYkxRbEVPa2FxNEJPeDUwZmJqeXpDS3JaYVRDbTk4QVFGSFZQVFFZMFQ5dHNHbkNXZ1E4ajBackFrYnBxdw?oc=5"
   },
   {
-   "o": "Telemundo",
-   "t": "Trump rescata al jefe de Nvidia pero sus vínculos económicos con la empresa quedan bajo escrutinio",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRWJ0ZHplc0VabzhJT0M2c0J5VnNoRWpyQkE0UXNIbzl5WW5oY295c3IxTDR0MDR4SDBneWRVVzBUc0l1RlZhSUpxbXV1Smp6QkRFcmNYOGpHS083d2FVT1RQSlMwZmJ0bjRYVkhZMW1TVnZzbG1ySHhoM3Z5aFZCeWZseGlIWGdhNFZudzZQU2hiQlVZVkZ6bGFwMmVFTzNsWWQyNUtrRTNPUHBQQ1dXX3l5Z3N4aXhaTDZ3djlKYngxNVhWalNVc0ZwaXIwd3J6T2xYUjl1bGw3dE1mUGdGd19NVWY?oc=5"
+   "o": "The Guardian",
+   "t": "Mamdani says Nvidia drama shows stock market is overly dependent on AI",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVHJrOW9PVjh5OFBNZG9oUDBwS1gxUG1aSm5DZGFHMVJCa1V0azZpWTFtX2xkTm9HYXBLbjJuSmktX0hTV3BwUVlVODVSdFNTYlU0VVB4OERRS3F0a1VOQlIySFRmMjhKek52cmd2WWNnOFQtejN2bUlNTXlSWkowR2d1eGg?oc=5"
   },
   {
-   "o": "USA Herald",
-   "t": "Nvidia Stock Jumps 31.5% as Jensen Huang Returns as CEO",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPMFJGcFNwWGJGbHV0V3hlemdHXzVCMEZvMko4LXl3QVY5S1ZzUjhBbVNRRnJxMXhNR29ycXFPNmgzMG5BcWVtWnV4emoxZUtDaHFmUHVxZnpubnJnSmQzRWIwZ09QUQ?oc=5"
+   "o": "Yahoo Finance Singapore",
+   "t": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdm05OGFRX2VxTWZnUVdJbWRVY19MV2RIQXNnTW5JbWFiZWx2ZGRnRTRBX2xzaVd5dGZfeTBETTNudk9vYW5FMC1aaU9IZXAzU25jRXZQRWdZMGw1ay1FWmNLa21tc2dDMkpOUXZFT0dyRG8zSmYtS19kVUxCMExEempkR0lFaHlWUjh3Z1p3Z2QzLXZ3VXFUS2U0X1JjZy0zQWdoRWdzRjRWMkdvZ1NOV1J1MEdhR1ZMdjdscU9YQm41UQ?oc=5"
   },
   {
-   "o": "Gestión",
-   "t": "Nvidia, el factor Jensen Huang: cómo un solo hombre condiciona las bolsas de Taipéi, Seúl y Tokio | MUNDO",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVzBiSEVEWE1UeEpIMkVLdG5fd1B1OWhna1R5MjNRZDFNbS1VVmt1VmlrU05YaW01VWJDUkpIcFR6elFxZmxUQmZqNktGdFEwOW5PcXRKck5RSkNmM1ROeEwxdE1rUjdMbl9UQjdxWFhoVHVrUmhtVVB5MHB4dXJHRU1SVFhhTXVaeWRSVlpBRXotcDM2Q2hZUFljc1BDMVl6X2p1TlJuMng2cF8xa3h5Q0lja3pYTHp2SFlmX3NkMVdfTjlCZUt5RlVPdDVDMzdaUzZ1V0ZqT1lwZw?oc=5"
+   "o": "Yahoo Finance",
+   "t": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZlFHMUxxYkptX1RuUVVSbmwzSTJzY1R3N0VHQnBxakF2TzQwY1lheWFLSVhlSkY5TnJlaVBlZlpMTFo3Sml1M1ZEQnZ5VHZYekVpRHV0YTk3UnNvbUZzVzA1S201NkdCSjRvc0c4NXNtSkFBSFZTYUg0U1dlXzJsMXFrbUFQYm1DN1dHYW00eUR0Mjl2YlBRb3ZTams1ekNlNlBVaFpoaEx6d19mNVlyMmRuanM1Z1JQbmFBdGo0Nm02N2VLZGVBSHA3N0E?oc=5"
   },
   {
-   "o": "www.foreignpolicyjournal.com",
-   "t": "Anthropic (ANT) Post-IPO Slide And Jensen Huang's Return At Nvidia (NASDAQ: NVDA) Put AI Market Accountability Under The Microscope",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQam02LXZveTFwV1hBdE1zTEJpSGo0bElWc281RHp4SXIwRjQxM01NeW5kRWJudFdaemZrZW1oY2JtUWJPS3d4ZEVGV29pTUVYdkxFa1BaaHJGcHJ1d3hIcDBXZUwxSGx0MFEwRjk3a0N2TGhNVlNpd3pmdFo5WFFCeG1rV3lKSnNkZHJtcWUxZ0ZmOFdIc1ZwRVV3WFhGT3hkN3gwUDVpTkdTanZzUHNRTEJ2N01ma0trSFN0Nzcwb1RMLTVidThYQVRiRExyV1RwR0JMRmJuWERWOG9HR3RvUDFLSVZsSlh4VUhXX1A0bzJDaEloRDh0bWQ3aXpkT3I3OGd2bw?oc=5"
+   "o": "24/7 Wall St.",
+   "t": "NVIDIA and Intel Slide 6% as Jensen Huang Comeback Rally Cools; AMD Drops 5%",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUl5NUF2SVhIWHQ5bEZMaG1JaVBncmJ4Y1pWOC1Rb1d1dl9lNjZDeUNaUmdCM09FN2RvbDZSVmJqZk80TFdneGxEMWFicW5CcHRWQXUtZmFYaV9DcGJ3azhLNFJMRmV6cVo4UkRuZXdyMldHcEQwT2FpYmUzRHU0TWFHX1Y1QmhVY0c1emxtcS1ueE9OYTBJOGxlcFRWVVhrb0lLNXJ3VFNrTDNpX3h3eWJldS1TaFI4?oc=5"
   },
   {
-   "o": "The Motley Fool",
-   "t": "Why Nvidia Stock Gave Back Some Gains Today",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWGdveXZCd201MlhDa2t0V2gwQXdESDhrVExoMElpMTIzdmZZLUtKenV6d2ZsUkJoWTVEUjhxaktoYnE0SVV4SmxBU2Q0Yy1tQUxBeFNKdWVJRE1vQUNtdTFlZmhQT2FKR19XLTVwSEpYNzkydkFEbFlmcHRLVkxXMklJX09fWXFobTNyODhPRQ?oc=5"
+   "o": "Yahoo Finance",
+   "t": "Micron Falls 7% as NVIDIA Pullback Partially Reverses Monday’s AI Chip Rally; SanDisk and SK Hynix Drop 6%",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGk5X0RPa1BXQ09qWjZtNnZjWXp1bHZqNmpWdVV1TzRCbFg5QWJSVnBnVXk0czN3Rk5PLUYzeGU1M0oteTVqR2dBOWRMYXlGN3Z2b29DM2xkMGt3eUdfTk53TTMzTjE2dDV4LUZ2alFQQmV6UWFzakcxX245RW1pT0QxajFIbU5CSm1qZzNQWVhXRmcyNXptMU9GNA?oc=5"
   }
  ],
  "en_espanol": [
-  "El dólar se aferra a máximos de 20 meses mientras el rally de IA de Nvidia reaviva las apuestas sobre los tipos de interés de la Fed",
-  "NVIDIA publica los GeForce Game Ready 621.40 con DLSS 5 para Where Winds Meet",
-  "Wall Street abre a la baja por las caídas de Nvidia y los valores tecnológicos tras la euforia del lunes",
-  "El Ibex y Europa toman aire tras la euforia por la vuelta de Huang a Nvidia",
-  "Trump rescata al jefe de Nvidia pero sus vínculos económicos con la empresa quedan bajo escrutinio"
+  "Las acciones de chips de EE. UU. caen antes de la apertura tras el rally liderado por Nvidia",
+  "El efecto Nvidia ya impulsa los chips: estas son las acciones que vuelan"
  ],
  "investing": [
   {
-   "t": "El dólar se aferra a máximos de 20 meses mientras el rally de IA de Nvidia reaviva las apuestas sobre los tipos de interés de la Fed",
-   "link": "https://es.investing.com/news/forex-news/las-divisas-asiaticas-se-mantienen-estables-mientras-el-dolar-roza-maximos-de-20-meses-3941103"
+   "t": "Las acciones de chips de EE. UU. caen antes de la apertura tras el rally liderado por Nvidia",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZVpiR2NMMmQyV3I2bzNPUVJhQjNJR19CR2xrTkZNMlJJWGFOUWRMOTkzS0ViTlBUMWFTZUpNa2RBblJVNkpyT3lud3ZKU2F6WFFSUE42QXp4TGJ6UFdQcFB0M0tidVlHc0dsenQ2di0tdzFNTFVpcXRWNGpkd1JCYnpJaWloa3c2ODA2anpDNWpwU0xBaTlCeWR4X2N5WXhPeURpaVpFY1ZvTGRKWkFoTU16TU41V2VlQ3d5UlY1VVAxZG5Kclp6a19wbU5iY3B1VkpTbGZQN3NlY00zUGww?oc=5"
+  },
+  {
+   "t": "El efecto Nvidia ya impulsa los chips: estas son las acciones que vuelan",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVF83X1RHX0d2T3FmMjQzdGZhNko3ZWlxcjBMUlliU0oyNTNJaG5VbVlGSGU5bHNEVlF1c2pLa21pb0J1cDVGSmdMcy1kcWdvY0RHcEl4cUgwdHNFOGpKTUxoMGY5cHR2bE5wNzFCU2xtWFNLMnNaZUxxWDNJaFltQzBrYkJZOC1ZdUdBRVlJU2dFYnRXMk1sbkgta0htUUZla0lDeWttVkNnX0xBNVRBTm1KVnhwczJFVHFicmNzamNBQ3JGRFE?oc=5"
   }
  ]
 }
