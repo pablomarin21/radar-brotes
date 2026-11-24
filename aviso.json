@@ -1,75 +1,55 @@
 {
- "ts": "2026-11-24T16:21:49+01:00",
+ "ts": "2026-11-24T16:25:19+01:00",
  "fichas": [
-  "abercrombie",
-  "fitch"
+  "nebius",
+  "anthropic",
+  "despite",
+  "coreweave"
  ],
- "medios": 8,
+ "medios": 5,
  "normal": 0.5,
- "titular": "Informe de resultados: Abercrombie & Fitch supera previsiones en el tercer trimestre y sus acciones se disparan",
- "medio": "Investing.com España",
- "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN0ktUVRDd1dlNEd0WjNWWTFWNTlfc1BoQncxNmhoR1dqWTVEZnFQMTRNX1prOEc4ZHpYQlVuMzAyekVQdER6S1l3blBrOTFKdDJQQkFtSFFzbENCdmxMMXk1VXhSWUZTVTQ4OHBKSURrZ0p5QzItM2YwYmd1djQ4MGFEWXJOdXN4dmJ5RDlMR01XRk1tSHZpTFlubUdCVmJfZWVpYUJudnFlUFVjME96cFdHbEZVenVzeU5TeVhzNE5LOXNHZjItbzZOd0VxUUVXOHRYTC0tUEhRSU5HWDBDSkpkRXhwVFUwalhqT3pvbENrQzM4a2Nr?oc=5",
+ "titular": "Anthropic Tumbles 9%, Trades Below IPO Price Despite Canaccord's $135 Target; CoreWeave and Nebius Drop 8%",
+ "medio": "24/7 Wall St.",
+ "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPT2wwa2M2eXFtSlQ5TTJDQW5kalRnQmduR2dvTFVxbWdrR1JlLWtVa2VvM1RFUTZrY0JkLUF1YVU2MlNrU1dZc1liYmNRTVpucUZXVmU5eHlMWV9WVWt5YzhXNlhhZkdoSnptZy1zSldUZUZrSG1TRzlMV292cDVKTE44c2NMOWZXam1IZEczLWRfVG9ERGNHbWVpdGJIM1VCTy1kT3N4OGVEUDZhdTFCUzQ2MU5YZDFCeUlaTGx3ZnJERzhvOW44bkJhZXlkd3dpZ1pYQUFfQWxvZzBSa0V2UUR1WWhnc2RiRV85cl9DY29rbHlNcWFFTHBiMEhMUW43Wm1NNVFwalN1U2c?oc=5",
  "titulares": [
   {
-   "o": "WSJ",
-   "t": "Abercrombie & Fitch Lifts Outlook as Sales Jump",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdlZQek5ibEt1MWhMZ2J0U2V1ejBUa29RYV96OWp1dnVKeWlzN29IRzJZRk1pUE95UnhnTnF2eXFMXzd5Nno4NzJEVXRaY0Q0SGcySnlCY09LcGktbHd1bFRydi0xOEpFQkFQaE1zRkRZNHowX2Y4NDRNd2Q1Yk1wS3lqRzkwcm9fbjduOWZmLVlicHBB?oc=5"
-  },
-  {
-   "o": "Barron's",
-   "t": "Abercrombie & Fitch Stock Heads Toward Best Day in 3 Months on Sales Growth",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUJTOU9oTWZJbEtJOEZ2X1dDSW42OVdhNnNBbzcwNXNtemdTQlZaSEVvbEc1V3l2eGd1WjhGUWJOeVVfVl92eTFlakxoODQtQ3VIVHozYWw0RmRINWFyZHZjYzBfdV8zTVVhS2NWNGxtRHlqQ0FfT2ZuRnZJa09PQURXNVBfRzQ?oc=5"
-  },
-  {
-   "o": "qz.com",
-   "t": "Abercrombie & Fitch Q3 earnings per share rose 62%, outlook raised",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcnV5VjZ5WkJNV0o5dHZrMmtlNVd2Q212dEREVGdwTjB5ektBNmw4ZURhc292S3dCUnhUOExmelV4WjZkOEE1ZFlISzg0WjNtVlhPbVZCVFF5NWY0TVBMYmpFOW1WcjdvT2djOG9lNFp3M0NvaE5wMTV0dHc2SFRFdURFY1o?oc=5"
-  },
-  {
-   "o": "Yahoo Finance",
-   "t": "Abercrombie & Fitch CEO Eyes ‘Another Year Of Record Net Sales’ After ‘Best-Ever’ Q3 Topline Across Brands",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXdPZzhlSk9Cb3F4cGttSDZyUEE5NDc0R3RiS1NDU0NXanZadXp6SFZ6X3RENGhDUlpUTGVxajRkZzBLOURROHJfdldfSGpwOUg3TjZEUFRzMmJQZTVBdVlYZkxQRGhrZHJ6QVlyUlppYUUybTFiQjlFY2FTSXJQaFFKVFRDWmU3UUlwSEF4U2RsRllxVHYyZHVIbEIza0Ny?oc=5"
-  },
-  {
-   "o": "Yahoo Finance",
-   "t": "Abercrombie & Fitch Shares Rise 4.7% as Record Third-Quarter Sales Drive Earnings Beat",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQenJzWVMzbHRvei1WSG9oZlZqMDg4RmU4LTFBUFM3ZmpGSWpzMWhyaTgtSG9lckplNGl5U2VZLXNzYjBpRWdmbmdBaFJNM3FFNF9MbVFqMU41c0xqeERWLVFFY1JEUl9VbzEwRXBuMlN5aWhtMkpYU093QU00UE1kZU8zakgzTEk1UVNIN1B3dFRQODhYV201ZnZqZW4?oc=5"
-  },
-  {
-   "o": "Yahoo Finanzas",
-   "t": "Abercrombie & Fitch sube 4.7% tras registrar ventas récord y superar las expectativas de ganancias del tercer trimestre",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX3NZX1NJRGZpMHBIWGE0QWVoY0Zhb2c4cEFoVVZEX0JvTS11cDBSTkw1SGhqeWNGWWFsNEQzUVZUM1dOMzIyZHkzQ2JTTmhXSXRTQUY5OGFlOUxPNllTT0VxVE1wbnNRdGgweUQwTG9adDNvaC1VRjZxWVMzMnpWamwzQTZ6QkZ2Z2F3?oc=5"
+   "o": "24/7 Wall St.",
+   "t": "Anthropic Tumbles 9%, Trades Below IPO Price Despite Canaccord's $135 Target; CoreWeave and Nebius Drop 8%",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPT2wwa2M2eXFtSlQ5TTJDQW5kalRnQmduR2dvTFVxbWdrR1JlLWtVa2VvM1RFUTZrY0JkLUF1YVU2MlNrU1dZc1liYmNRTVpucUZXVmU5eHlMWV9WVWt5YzhXNlhhZkdoSnptZy1zSldUZUZrSG1TRzlMV292cDVKTE44c2NMOWZXam1IZEczLWRfVG9ERGNHbWVpdGJIM1VCTy1kT3N4OGVEUDZhdTFCUzQ2MU5YZDFCeUlaTGx3ZnJERzhvOW44bkJhZXlkd3dpZ1pYQUFfQWxvZzBSa0V2UUR1WWhnc2RiRV85cl9DY29rbHlNcWFFTHBiMEhMUW43Wm1NNVFwalN1U2c?oc=5"
   },
   {
    "o": "Investing.com España",
-   "t": "Informe de resultados: Abercrombie & Fitch supera previsiones en el tercer trimestre y sus acciones se disparan",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN0ktUVRDd1dlNEd0WjNWWTFWNTlfc1BoQncxNmhoR1dqWTVEZnFQMTRNX1prOEc4ZHpYQlVuMzAyekVQdER6S1l3blBrOTFKdDJQQkFtSFFzbENCdmxMMXk1VXhSWUZTVTQ4OHBKSURrZ0p5QzItM2YwYmd1djQ4MGFEWXJOdXN4dmJ5RDlMR01XRk1tSHZpTFlubUdCVmJfZWVpYUJudnFlUFVjME96cFdHbEZVenVzeU5TeVhzNE5LOXNHZjItbzZOd0VxUUVXOHRYTC0tUEhRSU5HWDBDSkpkRXhwVFUwalhqT3pvbENrQzM4a2Nr?oc=5"
+   "t": "¿Por qué caen hoy las acciones de Nebius NV?",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVhjem1veUp2eFc2SVRQd3hwUkxqY0dBQm5Gb3V1YmFSX0ZuYUlxTXBqSjNZMlhaaEt4ejdHR1VxT2RvdGtPOXpKczNKbks0VnlSZm5LdXE0XzNjSVRwaElrSmxVZGdXUEY1ODdsb3NwWWRwTEpjbDZtdjA1YThpSDYwd3FwV2ZMMmxCOE5CZ2x1eDA5U2Y0bzZDcTVITDk2VGtvekxR?oc=5"
+  },
+  {
+   "o": "24/7 Wall St.",
+   "t": "Anthropic Tumbles 9%, Trades Below IPO Price Despite Canaccord's $135 Target; CoreWeave and Nebius Drop 8%",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaGNiaXRKZFk0NjBkcDVwcVhxdDZ0d3hCTEZYOFZvLVA5RGI2dWNBVnF4dHlKWk9jeFU5ZUd2M1V3LXFGV2ZEdnpPc3JEYmc3U3BKWUtwZkxqZFNRWTlNZEhUblV5OWZydFFqd2M0RFRBZ2J1ZmNVLTAteks1Mi1TWURmRW9USzZfNzFGMDBjZDlTZHZNUnBodmpvdmlFbHVsN09feXhPTFpZU2gyWGtDbVVCVlRWOEc3V293TkNHSHRrVTdFN2hicUo2dXBaNVVxdVd0NlBYYkxIS3Rl?oc=5"
+  },
+  {
+   "o": "Yahoo Finance",
+   "t": "Anthropic Tumbles 9%, Trades Below IPO Price Despite Canaccord’s $135 Target; CoreWeave and Nebius Drop 8%",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZjFLaVN5OWtUS2lVd2JqYlJmdi1RZlVFMEhzTU9HZ0dzeFVHNVMyNEt3Y0w1WEk3SWtrV01Ncnl2RnhtUjBzblZxNm5uNEFKRWFVbjZ4MGdBM3REQXVaOWtwS3Y5MnkwZ0JGX3lTa09vTWhxSVhYWjZfTGRBQVpRanBIRHNKYWNtZ3ZaSlBqOEhVbWJUTmgycE5URGc1UQ?oc=5"
   },
   {
    "o": "Investing.com",
-   "t": "Earnings call transcript: Abercrombie & Fitch Q3 2026 beats estimates, shares jump",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYktUVmg0dFd2Mm1oQ2NIelMzM0dRME0wOE5XeEdTcnk3MFFha3B5T2VJSWpyOUZCdXFlY003ZTBGQ3BOYUZvWGlYUF9uRk12a3lLR1l4YWpLc01ITk40TkZuT0UyaERzVGpJVHFuQU1OMXk0aXhOV3E5SFVtTjluSk9Nd1Q0SktWVC1wUktEYmRJek1BcGZzSmQtOVlrNGszamtNbllPRktaOGpVZFRNSFdBeVpLWTE0dk5XTXV0cnNpdXpwZkNOakRpY0lCTTFo?oc=5"
+   "t": "Why is Nebius stock sliding today?",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOUlSdDA3dGJiLWVBU2lDWUszZklqcVNCdjluWFpSNlZtUHRmMmt0VXNvNlNoLTFfRlRsY0Z3UVdKQ1o1LXBkUWtZemVITzlFaXFFR2hTX1c5T012Rm9xSThYM0RuSWhfZi1BQ0w2TGNVRlBYZDFXMk1IaWZOU2xuS3JCZzUyMk1uOTdCV19iT1lzalV5TG81QlV1dw?oc=5"
   },
   {
-   "o": "Investing.com",
-   "t": "Why is Abercrombie & Fitch stock surging today?",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUGV5bW14TXpCS0tlbVFLeC1MemxGc3p3SzlpUFgwajh3VTN5dUw0NEt6UnUwMUppLWdDVE05ODUyM3hPb0Z4Y1VoMFZOUTRFOFlvcnpQLWxKZVlDSE9Sblc4a2RlNDJ0anF2SzNSTjFJMFhubzZsSW5mQnladVRnMFk2WXRVazFkdkRVdnBYS3dGbjNBMFBqZHUxb1BvMUUyZG15X2ZMdjhtUVU?oc=5"
-  },
-  {
-   "o": "Investing.com México - Finanzas, Bolsa y Forex",
-   "t": "¿Por qué las acciones de Abercrombie & Fitch Company suben hoy? - Investing.com México",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYkNCOHdtOVRvVEZodmdVS19zVG5nVUJ6SEVWLXRSUFZMeEF1TE9rSWJJbGZZbjhTcG5NS3QweU5sNU44ZDBEYzdVQ05hM2ZvUWhmZnQ5UmhSNFczS2NJSHN1RV9idFc1dFFXNHB3ZTl3WDEzRDJSQzJ6LUpTZm1aNzBHb0JYdmpvNDZVcnFzSU84Q0p1NW42eTU0UmhIMk1sNjVrUTA3cWJ2M043Z1p5VnZHU1VrS09ha0lvNWxR?oc=5"
+   "o": "Benzinga",
+   "t": "Why Is Nebius Stock Falling on Tuesday? - Nebius Group (NASDAQ:NBIS)",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ0hvdVBFN3UtRml2Tk8tV3dNQWUta08xWHJrMDlyS0owbzJBXzljYnVOS2NYSUdId2tRak1mVE9Kb0U0aklKcE5GRnl6aGpLaHdyX0w2OFlIdC1KZG91cW45VGFuRTFjRTMwcjZ1d2xXSmt1VExLYk0zdkhDSHJ2cWMtMEJ5U2Z4c0FVQkJ0dFpGT0xMMTBlcFRtaFdISk5R?oc=5"
   }
  ],
  "en_espanol": [
-  "Abercrombie & Fitch sube 4.7% tras registrar ventas récord y superar las expectativas de ganancias del tercer trimestre",
-  "Informe de resultados: Abercrombie & Fitch supera previsiones en el tercer trimestre y sus acciones se disparan",
-  "¿Por qué las acciones de Abercrombie & Fitch Company suben hoy? - Investing.com México"
+  "¿Por qué caen hoy las acciones de Nebius NV?"
  ],
  "investing": [
   {
-   "t": "Informe de resultados: Abercrombie & Fitch supera previsiones en el tercer trimestre y sus acciones se disparan",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN0ktUVRDd1dlNEd0WjNWWTFWNTlfc1BoQncxNmhoR1dqWTVEZnFQMTRNX1prOEc4ZHpYQlVuMzAyekVQdER6S1l3blBrOTFKdDJQQkFtSFFzbENCdmxMMXk1VXhSWUZTVTQ4OHBKSURrZ0p5QzItM2YwYmd1djQ4MGFEWXJOdXN4dmJ5RDlMR01XRk1tSHZpTFlubUdCVmJfZWVpYUJudnFlUFVjME96cFdHbEZVenVzeU5TeVhzNE5LOXNHZjItbzZOd0VxUUVXOHRYTC0tUEhRSU5HWDBDSkpkRXhwVFUwalhqT3pvbENrQzM4a2Nr?oc=5"
+   "t": "¿Por qué caen hoy las acciones de Nebius NV?",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVhjem1veUp2eFc2SVRQd3hwUkxqY0dBQm5Gb3V1YmFSX0ZuYUlxTXBqSjNZMlhaaEt4ejdHR1VxT2RvdGtPOXpKczNKbks0VnlSZm5LdXE0XzNjSVRwaElrSmxVZGdXUEY1ODdsb3NwWWRwTEpjbDZtdjA1YThpSDYwd3FwV2ZMMmxCOE5CZ2x1eDA5U2Y0bzZDcTVITDk2VGtvekxR?oc=5"
   }
  ]
 }
