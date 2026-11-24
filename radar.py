@@ -147,8 +147,8 @@ def es_finanzas(t):
 # ≥ 3× lo normal). Ej.: la fusión Tesla–SpaceX se contó poco a poco (15 titulares de 11:26 a 14:44) y la red rápida no la vio.
 # 3.ª red (24-nov, Pablo: «me gustan mucho las noticias de investing.com»): lo que publica Investing.com ESPAÑA (sus
 # feeds en español; ojo: Google News llama «Investing.com» a la web inglesa, que NO cuenta aquí) y en 2 h recogen
-# ≥ 7 medios más (8 en total), a ≥ 4× lo normal. Su titular (en español) va de principal en el aviso.
-VENTANAS = [(VENTANA, None, None, None), (120, 12, 3.0, None), (120, 8, 4.0, "Investing.com España")]
+# ≥ 3 medios más (4 en total), a ≥ 3× lo normal. Pablo: «me llega una noticia de investing, pum, contenido». Su titular (en español) va de principal en el aviso.
+VENTANAS = [(VENTANA, None, None, None), (120, 12, 3.0, None), (120, 4, 3.0, "Investing.com España")]
 
 
 def evaluar(items, ahora, E):
