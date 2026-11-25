@@ -1,59 +1,54 @@
 {
- "ts": "2026-11-25T05:40:17+01:00",
+ "ts": "2026-11-25T06:37:30+01:00",
  "fichas": [
-  "xiaomi"
+  "pib",
+  "peru"
  ],
- "medios": 7,
+ "medios": 6,
  "normal": 0,
  "red": "investing",
- "titular": "Las acciones de Xiaomi suben más de un 8% gracias a las ventas de móviles premium",
+ "titular": "El PIB de Perú crece un 3,1% en el tercer trimestre por el auge de la inversión privada",
  "medio": "Investing.com España",
- "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQUp4djVaSUVTaC1YaV9MMWJpT3g3NEFkc3J4bldyWEw5Um15RS1ieWJtV29OQkVZM3EtY3ZnN2JkaExIc241SzZYdzdVZndlSW9La1g3YjZXS1JOUVA3RUdUWVh6OEFXRTR6WURnRzRwMzZVemtkWXhHVVZwQ0lFdjdQcmVzcWdtNkRRWDNXdTYzeklKMGdreTlQc3lDcVdOLWFzd281UXZWRlpzMVVieGJZdDBhUXlQZVFuaXNiRzZ5dzViZjN3djRBUFA4anlUY0E?oc=5",
+ "link": "https://es.investing.com/news/world-news/el-pib-de-peru-crece-un-31-en-el-tercer-trimestre-por-el-auge-de-la-inversion-privada-3941014",
  "titulares": [
   {
    "o": "Investing.com España",
-   "t": "Las acciones de Xiaomi suben más de un 8% gracias a las ventas de móviles premium",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQUp4djVaSUVTaC1YaV9MMWJpT3g3NEFkc3J4bldyWEw5Um15RS1ieWJtV29OQkVZM3EtY3ZnN2JkaExIc241SzZYdzdVZndlSW9La1g3YjZXS1JOUVA3RUdUWVh6OEFXRTR6WURnRzRwMzZVemtkWXhHVVZwQ0lFdjdQcmVzcWdtNkRRWDNXdTYzeklKMGdreTlQc3lDcVdOLWFzd281UXZWRlpzMVVieGJZdDBhUXlQZVFuaXNiRzZ5dzViZjN3djRBUFA4anlUY0E?oc=5"
+   "t": "El PIB de Perú crece un 3,1% en el tercer trimestre por el auge de la inversión privada",
+   "link": "https://es.investing.com/news/world-news/el-pib-de-peru-crece-un-31-en-el-tercer-trimestre-por-el-auge-de-la-inversion-privada-3941014"
   },
   {
-   "o": "Investing.com South Africa",
-   "t": "Xiaomi shares jump over 8% as premium phone sales cushion rising chip costs By Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVks5TWNYd2plVWNQOEJCd2UwNmU1eGJJSEd4OXJqUjVwNHlIejVQX0JiSkRyYktodTE3RktIQWJDTmhRNjJoMkR1NGcwWVBXR2J0RTRzWWFKZ2cxd1o1NE9pSFB6Rm1xNHdvbGZwSVNUNWJzMW5UMGFUV2xldGdhVmktcHdkQS1xM2pZS0ZHV1Q1UEtsc3BlQy1NYXRjQjFPMkdaNE9taGdMcmVLWmNZSWppSTBicmRGSjBpZGh1MUhlSUdxYTVmNzJ3?oc=5"
+   "o": "Kotak Neo",
+   "t": "US PCE Inflation Data and Q3 GDP Due Today; Key Numbers to Watch Ahead of December Fed Rate Decision",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzRJdVRHRFk5NjA5c2FRRVkwZzllSzFiODNwbHhjeVZTaDk5R3pnR1dOVmpncTNlRmRubnVyd1lJRndqMy1GVC1LODNTMm9nVTF3U0FhTkw3aHFfcWk5U1gteV9JZl90WG1xMzVlSkM1SmkxaXplQ0FmRDdfcGplMUxrMjl4MDZFZnVzUFBIekhqTzBoM29mdURqampfaEFsaklKVWdfUlBMOVF5ZkE3VjJraXduZUtKWnk5cV83Y1U3a3lUaUE?oc=5"
   },
   {
-   "o": "Investing.com Nigeria",
-   "t": "Xiaomi shares jump over 8% as premium phone sales cushion rising chip costs",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaDJobkdvX0FoMFBUS3NMOU9zQWl5OEQ3RGdRQUxDcXRBc1QxMXFvMkFPc2U3ZTZVTUlJdnBiYXI4WHoyUVREbmFFLWNtYnozTHo0WC16RmQ4X0xhWkdVWVIyM1JWN3JjUHlWQ25CX002b0EtajEtTkZlUEdGN19VMzhEdHVXVS1TZDlKR1drVE5WdGtINE9nM3NLSXA4dm5kcE5EaDhiVXh2c3FKdDZBZFBXTy1QY2YwWGxnQ0p4cldkeVhYTFhTUHVR?oc=5"
+   "o": "Stocktwits",
+   "t": "Cathie Wood’s ARK Sees ‘Excellent Entry Points’ In AI — ‘Big Short’ Steve Eisman Warns Of Recession If Anthropic Or OpenAI Fails",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMnhnUmE1WUxxbHZXbXhpMlVkcFk3Njd3QjFvQUc0VkVZa0FJYXN4NS1VTW9FMU9mNEdNRFhIeHV3N1VuX2RhcUZiWUJoUDBBY0ZZNER1ZlVocTBOQi1oYlhEWDBDaFoya0JrS2I4bHZsbXUtNkJLZVpTRXpyZlRQQXJYTGVRUTlkV0N2VkgyYnY3QUhQeGF2WUd1UVZzdHpNVmVnNjJwVHdrNEV1Tms1aXlRXzA5b05nM3VRVDViX29Geml0S1dhUU1TZUh1SEhoWWt5dXhaM0IzcEtMdXpvTHdUdXdnUQ?oc=5"
   },
   {
-   "o": "Investing.com México - Finanzas, Bolsa y Forex",
-   "t": "Acciones de Xiaomi suben 8% gracias a ventas de teléfonos premium - Investing.com México",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFNJLWNadWZrYzc3Mk9BM3pCU2VfSEMyTmlVRkd1cUxhT2pIY2d0cFhBYlFxTHdVbmstODA4bUR2TUFfZVAxRHZYY3dYV3Z5eUR5cmJNV0FaRnBIYU9NekJBWUx2aXBRNW05YTdJY1hoSVBHb1dDY0w2TjhMRG9nd25yazBaOHZNSklhek9iMURzelVYcjU4S192UVZkaWx6bHM4eXBycDFUMXRIRzV5Q3d1a0ZON3g4SU9XNw?oc=5"
+   "o": "Yahoo Finance",
+   "t": "Cathie Wood’s ARK Sees ‘Excellent Entry Points’ In AI — ‘Big Short’ Steve Eisman Warns Of Recession If Anthropic Or OpenAI Fails",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGVtUlo5d0dnTWszSWUzMXBSblIwSVRWQnBjUXlNOUxrdVFmelVxZEhFeGZPdEJVWGZvQWxrWVliY3VsR0d4cmlOV1JuSU9oemdVV0haZnZtRi1jcUs4SlhfTW9yaDBKdFJTaW5uQjJRWWtWOTdPT3JXTUhjS205Q2tsOHVKelowd1lRYkRSdGJNT2JwVkdndU93?oc=5"
   },
   {
-   "o": "Investing.com Canada",
-   "t": "Xiaomi shares jump over 8% as premium phone sales cushion rising chip costs",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc0NvQU9vNkhHRDNYR1RvNlBUcXRKOXFqaDhxdC04OEczM0FxWmR6bVdjNG1FSVVBMGROeXZJeXNpSmlnMWQ3LVVEaUdBTmJSNzlnc0RjX3JpdU5tQ2poMU9ETjBIUG5UNjdoZGxPeXhuY2lhRWhxSXcxWklEMXlDQXNSTUs1aDRrWnM3X1JjamdsbnZlT2hKcUNjWWtURGNocjdPMXA1OE1jQWNGSk91WXBnMFdVdzRvOTlVNVcxZVdVX0VkdVNSTnFn?oc=5"
+   "o": "شبكة تواصل الإخبارية",
+   "t": "New Zealand Dollar declines below 0.5500 ahead of US PCE, GDP releases | FXStreet",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DMEVqME1DV3FzV1ZkTVZMVzVrTkpwWVNyS2VDTnU2bThyREhEWDZsZURuT1NGWWl3a1A4TEJ5Y3Nucmk2c0ZGdkdZVE1LamdwSGhB?oc=5"
   },
   {
-   "o": "Free Malaysia Today",
-   "t": "Xiaomi shares leap after smartphone sales do better than feared",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU19iYlk2aHBONUQzbUlGZkJ1QkVGcUNUUGoxVVQtSGxWTU8zTU91dGs4X2twVHQ0OXFlNjdReTFqMGNtYXJ5Z2dGd05BQk52TTRZNzM0SVpoak55emJJY20ydFRGUjlwRWdaWkE0YlhIV09lRVpwNFN0eFloU05jbjR2d21MQ2ZjQnZ3Smx5eFZQQzhTTHlla1p6RW5tQzROZGI5SlFGQk43M0Z4bkRXakpfYkNHem82S1BVWVdYaU95cDFT?oc=5"
-  },
-  {
-   "o": "www.marketscreener.com",
-   "t": "Xiaomi's Shares Jump After Earnings as Smartphone Margins Hold Up",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbnphbUpKdFJvSllodm5mcGFhNzItajZMZEpfckNOdE1NWmZuSmJ4ak1EZGpSelQtdkxsekFiU1JiZGZhUDFURE1HZ2huZGF6OUU1MjVMU1VXREdUU3l5VjR4UVB3UktLQ3k3V25kWjd0SkswaGtjZnhQazNRWkctRGpocUotdzBIZnZXV01EQ0hfOVhUUFc2NFpmTTRsZmtGS0tOYlc4Z2tlZXA5c0I5SzkyZy1oVHBkbWc?oc=5"
+   "o": "FXStreet",
+   "t": "New Zealand Dollar declines below 0.5500 ahead of US PCE, GDP releases",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGVzdWNHcTQzSFgtRUktUjFfeVptenNKQmE5ekVQUXg2ekpGTjRIUGNVc2NYa3JhWk1uNnRIR1B0OU1GUFdseHlITVM3U3RVMkVTVDVtWnBmSi10NS0tcEtGTmxxR0pCeW5hc2Y2akFhOWhCaUprcG85RU10bGtaNlJrSTdPTHZtSnpvS0ZObXBjajd6WGpYa1NNbWhTenVoTG0yYWZZc1BEMk55cEdiZw?oc=5"
   }
  ],
  "en_espanol": [
-  "Las acciones de Xiaomi suben más de un 8% gracias a las ventas de móviles premium",
-  "Acciones de Xiaomi suben 8% gracias a ventas de teléfonos premium - Investing.com México"
+  "El PIB de Perú crece un 3,1% en el tercer trimestre por el auge de la inversión privada"
  ],
  "investing": [
   {
-   "t": "Las acciones de Xiaomi suben más de un 8% gracias a las ventas de móviles premium",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQUp4djVaSUVTaC1YaV9MMWJpT3g3NEFkc3J4bldyWEw5Um15RS1ieWJtV29OQkVZM3EtY3ZnN2JkaExIc241SzZYdzdVZndlSW9La1g3YjZXS1JOUVA3RUdUWVh6OEFXRTR6WURnRzRwMzZVemtkWXhHVVZwQ0lFdjdQcmVzcWdtNkRRWDNXdTYzeklKMGdreTlQc3lDcVdOLWFzd281UXZWRlpzMVVieGJZdDBhUXlQZVFuaXNiRzZ5dzViZjN3djRBUFA4anlUY0E?oc=5"
+   "t": "El PIB de Perú crece un 3,1% en el tercer trimestre por el auge de la inversión privada",
+   "link": "https://es.investing.com/news/world-news/el-pib-de-peru-crece-un-31-en-el-tercer-trimestre-por-el-auge-de-la-inversion-privada-3941014"
   }
  ]
 }
