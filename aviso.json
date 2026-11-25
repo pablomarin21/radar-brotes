@@ -1,77 +1,77 @@
 {
- "ts": "2026-11-25T12:52:29+01:00",
+ "ts": "2026-11-25T13:20:08+01:00",
  "fichas": [
-  "intel"
+  "amd",
+  "wallstreet"
  ],
- "medios": 15,
- "normal": 1.3,
- "titular": "Intel Shares Rise Over 3% After Key Trading Signal",
- "medio": "Benzinga",
- "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWQwaDZsQkVldlk5YlRSaC0wS2k5SzlENkZXaU4wSHhILUptYXpCcmMxQXN1ZURTeUlfZThSeXh5bFRwaWI0ay0zbndybER3YnF0dm15VXFoTm1iYlMydndLdXhxel81YS1zWEdiR1owa0M5bXBsN2VBWFJMNnM4X05ubFRfS3VMT2ZKMUl3a1E0RkxvNThRa2h4OFRsUDY5SThaLUY3UGw?oc=5",
+ "medios": 12,
+ "normal": 2.3,
+ "titular": "US Stocks Slip Premarket as Tech Pressure Mounts: Google Falls Over 2%, AMD and SanDisk Drop More Than 5%",
+ "medio": "BigGo Finance",
+ "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rdFkzemlzOUkwdzdjbUMxaDVQQ3Q0MTdHUElhLVB2TFFhaUpLWXp2cmEzY1NlWExlS2RrS21SVHozcWpVTm04YzFoWFRjbXp5RWIyWlJWU1pMQmYtc3F6NkdLTnA4cW94Rno1NnoyWVExT2stZHc?oc=5",
  "titulares": [
   {
+   "o": "overclocking.com",
+   "t": "AMD boosts the RX 9060 XT to 4,837 MHz!",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tcGM4UHFHTWRlU3lUMzI3b1J6akZOa0E0R0l1NWRwVlREVXJjWFBpcGVha0RfeGNzWUtCZ2hnb3dZUlZBN09rUFA3RGJXcFZ0M2Qtd05LRUdYT3Y0MDBnWW52QjRxaUp0dmc3YXlqVTEzX252?oc=5"
+  },
+  {
+   "o": "BigGo Finance",
+   "t": "US Stocks Slip Premarket as Tech Pressure Mounts: Google Falls Over 2%, AMD and SanDisk Drop More Than 5%",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rdFkzemlzOUkwdzdjbUMxaDVQQ3Q0MTdHUElhLVB2TFFhaUpLWXp2cmEzY1NlWExlS2RrS21SVHozcWpVTm04YzFoWFRjbXp5RWIyWlJWU1pMQmYtc3F6NkdLTnA4cW94Rno1NnoyWVExT2stZHc?oc=5"
+  },
+  {
+   "o": "citybiz",
+   "t": "Avicena Raises Over $100M Series C Led by InterVest; AMD Ventures, Samsung, Tiger Global Among Backers",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd0I4MTFhbTA1eTd5ZFFsbnJfMHBrWmtET1pwUUFLY2ZidWZ3NnRRT1hhY0g0RVBXMVdITEFSek5GUWRhNlJqRmRUejlvM0pQVEZSZmpwbnl6dzJSNWZkUHNhNVFqZnFRSVlYbGtQeExfa2Jrb3ZQREN2c3RpQ1dLTU1vOGtJNlFhTTVmZl9mei1mVXlTVjdhQjRPOFY0VWduMFRUVEVTYlczX2ZyQU9RVU5IdkpKT1NSTTd0WFYwT1NMWm1teU80SWxrcXZuR2pCRzkw?oc=5"
+  },
+  {
    "o": "Benzinga",
-   "t": "Intel Shares Rise Over 3% After Key Trading Signal",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWQwaDZsQkVldlk5YlRSaC0wS2k5SzlENkZXaU4wSHhILUptYXpCcmMxQXN1ZURTeUlfZThSeXh5bFRwaWI0ay0zbndybER3YnF0dm15VXFoTm1iYlMydndLdXhxel81YS1zWEdiR1owa0M5bXBsN2VBWFJMNnM4X05ubFRfS3VMT2ZKMUl3a1E0RkxvNThRa2h4OFRsUDY5SThaLUY3UGw?oc=5"
+   "t": "What Is Going on With AMD Stock on Wednesday?",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZnU5WmVBMDl6MmdpTy1nNVh5dUU1c0xCWFhkbk5pVHV4RXFPNVMtSDN5eG5nV0NvQk9EbnpQQjFnQ3c3OUE3a2xjcGdBbmlvdDNzT3VhUGFvSmNJT1EycWY5TFZOUGdEUTlxcHl2a3VFY2c1WWpuRkk0VWZyMXJPSUtoSDRBanBNUW5Rbkh0bURTMmJ5OWt0bWlXRkVDMnA0?oc=5"
   },
   {
-   "o": "Crypto Briefing",
-   "t": "Trump administration pressed Intel into handing the US a 9.9% stake",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wMm4xOWJCN2d6ek5HckJkQWNLN291MVZWdndBdEtIV3E4akJfZG5fTHpVUWRCU2N2U0p3Zmt1Y3Vtc0xEb1FaZlVqWUxOWDIxVUZhcmZVanI0VnNtY1FfRlpiaWRBX3ctRTNSVF94emI5aURMcUE?oc=5"
+   "o": "FXStreet",
+   "t": "AMD eyes key support as wave four correction unfolds",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNekJiTHQ1WUs5WkdnaHlWbk9iMDZWSVdURUN2ZEFkaVdrUGR2Sm1RS2VHV1FSUTNwMDAzYUt3WXk2N08zcXpoWHNBOFZ3Mm1TaFpGWmVvTGExejVkUHNkdWJmNDh0XzNsREZlb0E2VzdTUnRjak9MRDJDT29jV1ZwQXBXZDdmaUFfT1JWSW1kVjlCYVU0R2R1bndtRQ?oc=5"
   },
   {
-   "o": "Mezha.net",
-   "t": "Court filings detail Trump administration’s push for a 10% Intel stake",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUzVOMlE0VXY0RlJMTmU0SjJseTgwc3JCRWxlbTVWeUQxWnZZZjRuRXNTYjVhOVpDNnRxLXhWeHNRN1dUTHdCeFQ5SVg4UDZOOWhNNXg0a3RtT2M4UFZvYnVrMVluUzFueGdGakJib0R4N0FqZXFBOHp3V2xwNmU1QTcxNDNrZw?oc=5"
-  },
-  {
-   "o": "Benzinga",
-   "t": "Intel Wasn't an 'Outlier' in PC Slump, Says Patrick Moorhead, as Dell, AMD, Lenovo and HP Reports Echo In",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTTlXa2dhVHhpclhadjl0RV9SaU9MWDNyYnpVb0dNdlY5MGotOVhhUFNCQjRpWmtYRVdzYmdqQkFyUldOelBtWWI5b1RIdFB2YVRZMEFXVzU1RlVnWXY4TzF4bzg2d19DbFYwTVppOTJXdDNCSXBIMXZrVl84SEZqRmVZb0NvQW9hamIzOThnaExRNWhCV1oxdVdYSVpSRnB4ZFc1MWcyX09YbVBGdzd3S0hhckgxYW8yTmFuZEdFS3FWWXo5REVGemFBWVhJYnZTODNzakl4Mi1Uc09hMUhhbDdjMTdNZHA3R1RDOEs1d3RjcWtobkhnY05NR05RYXhXcERXMUxWNGtseGQzb1U1d0hR?oc=5"
-  },
-  {
-   "o": "Cryptonews.net",
-   "t": "Trump administration pressed Intel into handing the US a 9.9% stake",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05SGJCZUxaWS1wNkpRWkJRNllSemQ2X1YtNlU4X01seWJrMmt3YThzaVgxZlAxMzNXM2F3LXBkWTByMkxqX3FjejJZMVc5RGJtUHZuQTN6WVk?oc=5"
-  },
-  {
-   "o": "Club386",
-   "t": "Intel prepares Nova Lake event for February, according to rumour",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY3ZSM0NHR1JMWDJzNlpYRnBZb2lsMjBQX2xEWWNLNGxTUkRsY3NfQVVSU1FuS1R6MU9YS0IxOHdnek9HV2RjNG9wbGhYbVlvZkh2Q2l4X2g4c01fUG91N0UwQmRTamd3Y28wcU4ySkF0TXJXN0ZMdDZxdzh1bVhzSDJRNnRDUzJzLWphaw?oc=5"
-  },
-  {
-   "o": "247Sports",
-   "t": "College football coaching carousel: Latest intel on potential openings, including Colorado and Michigan",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQUo2WHhDZzZ1aU12bFNGQjlmbXRYd3lxMl9UdlpselZoclpRbmVkYm9HOVFVbTgyZUhlYU9qRktpZm0wOW9odlhJcHlBMHE0NEpGT3JZM282LUdlSkVhQmQwcG8zR0xyTXQ2YkI1cFB6bUpDYTFUcXZVMG1jMmpFdE1LVFY0RW11LURSTUE4M2FPOXQ2WEc1ZTRqbTItd3NnUHJmNGtuNGNwZmNWcDQ5Qk1hTi1WMEhCRXNiOElsSmJHeGxLenFBbDJteW9lTFk?oc=5"
-  },
-  {
-   "o": "ESPN",
-   "t": "NFL Week 12 latest intel, buzz questions, news, fantasy tips: What we're hearing",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQjdBdi1jT2RVUVd4aENIZkpGVTVfTWNpandMS1JrNGdBbUhJSmZ5WU15XzhNMlgwNHdZcUNzNUd1TWsxVno0S2FWQndQNXNadUxCcHBOM2FFRk9DRDVDZ3hBWndvTEFNVmQzWTZzaDNvbGplMUp1WU4xcFlZQm1Zb2JKQnIzeThxZzhfYkl5N1kwZ3VzSXNucHR2MEpCb1k?oc=5"
-  },
-  {
-   "o": "TradingPedia",
-   "t": "Intel Slides as Post-Earnings Pullback Meets Targets",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZGt4ZHhFVmU0SWF5N1FkdjBmcW4zUm5LblFLbWJ2UVVKYndRVk02amNLcGxtTTVESjk1SGRVRmdqWFFHYkNCcmhaNkNkbUx1Q3V5UkxpRjhTMmpicXQtd3Y0anc5b2h2bWdtQWo5N2VZTG0tYnljWTM2ZFJzSElZX2tnLVpxektwMGVKX0Jsc0ItblBYNDlVUg?oc=5"
+   "o": "Tom's Hardware",
+   "t": "AMD's Radeon RX 9060 XT sets new GPU frequency world record of 4.837 GHz — VP Jack Huynh and veteran OCer Bill Alverson push mid-range RDNA 4 GPU to the max under liquid nitrogen",
+   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOYm5uZXBOYXhYNlBaV1c4NGM2TzVhUV9QaWkybHZISHhpVGE1ZUhPNVVJX0Z1OEhmamFEaXJGMGJjMTg1YmxTR1FWQ2xLZVdpUG1ZUnlvaFZWV1RDelc1VlBqaUE2X0JHOTIzdE1qMkpyMkxiUDdXdERKd0dsaFNCZ3pLMTNCZTB6LWZUcFRNQ1NwZEtJdFlidW10T21LeERzMGt0WHBpQ2IydFpjREU0WGVQX20zemI3WWxlaW1SalM5R3ZSdmtvR182bG84WHhzY2dqc0RZbkRjUGE1TlltYVBGTjdkSXp2UkxXakRHQXJUdVRYaWNBenB4dmFEUnd6QUxwVzQwX3pnRENWZlBIc1Z6eW5BZmZjZzloYXVTOXVWaWM?oc=5"
   },
   {
    "o": "Trefis",
-   "t": "The Dates That Matter Most For Intel Stock",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObHdoMjQzMUNhLUZRck9xa3RzelZseDhuRTAzb01Jdmg4TUpQS2R2bzVHT1Bwdi1sOTEtUUVhb0hmSWJPMzJpaEdQaDVFalJRcWtfcVNDMXk4WFFmVXhPZ1JTWFZNZ2pCS2hqbEN4MG1LTDF5Wnh4MzRGWjVzVGtxT3FHeUt1aFBDSGZpLWc0bWpoZTVzZWxIX1p3LUVudmV1cERFanRn?oc=5"
+   "t": "Is AMD Stock Falling On Its Own?",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdFNaT2RpeFhqWHNPdElLeDZFZFU3R0hHUkNyWWxkWUJnbDItT3l3Q3Y2b3dwcXN2V2hxMmtjUTUxMjF4YzdHRjNCSlE4SlVKbHJ0ZUtUazBSalh5N1oxNzc4b09RaDh6ckpZVzRnM2tTa25KMkh6YnpIRGZ3ek5mMU03N0ZVTkpBQUxqSUVNaGVvVG1COGc?oc=5"
   },
   {
-   "o": "On3",
-   "t": "Georgia War Room: The latest intel one week from Signing Day",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVE5bUxycE1IVUV6akh5dEVtbE5UeFdjRUVGSnlaRGJaaE5IVUJrY09PNHVLdmsxU2N5NnVhbUNiRktlSVh0YUtOYjdBcHVHQWtFb211ZTFabDBkRk1TbjNQZ2VnM0p3TGpZeS1odVhKLU9MeU1wNXlaR2JKV0xzUmUwWmdJNWtiOWxDM3hTWlVna0xEWlo2OFhKNFJydm5ra1EtejRjOU92Y2t1?oc=5"
+   "o": "Invezz",
+   "t": "Por qué las acciones de Nvidia, AMD e Intel se desploman de nuevo hoy",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ3pqakdjQnoxR0VvbWkxczJ3d3J4NGl4ODVxQXk3WXFpdjZUd3pCamxfYUlmdkJfYU1wUUVEbFlTbFk2cUtFN2c4V2Fma1dDbnYwRDJyRlExUjVzT2NMQjZCRlo2VllYekpVZnNELVVXS0NnMU5VRUY1c0k5NG0zVFBDWFpaQ2NsYUVCb1ZwWmVSUHprSWVfbzh2WFZaYnRKSE02a2RyeEhVWkJuNW01Ug?oc=5"
   },
   {
-   "o": "Phoronix",
-   "t": "Linux 7.5 Whitelisting Intel Xeon Server CPUs For Peer-To-Peer DMA \"P2PDMA\"",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WNVRNbjJLVGxJcS0ySzhDUDh4YlcwRnFQeGltQUs4RzZKclRSX3h2NEkwVTNPWmVHYk5OTTdqSUNxeElKZExnX2JwRDlEYWF2RWlpcVg4WUZ1bEFuVGNSMEt2a2ZnR3Iy?oc=5"
+   "o": "finance.biggo.com",
+   "t": "AMD's Mid-Range Radeon RX 9060 XT Hits 4.837 GHz, Setting New GPU Frequency World Record",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGRlRCVDI2YU5GOHlfU0lnZFFQY1Z2Z1RodmRnOFBOR1NqOWstWXMxVUlHTDFiX2owOVlfc3piLXY3YmZ0QUpwWXMxM25sd2NUWDdyUmd6TUlGb2FPZW1WdXlXdjNETlh3WjV1ZE1ZY01KUjZYNXc?oc=5"
+  },
+  {
+   "o": "Seeking Alpha",
+   "t": "Chip stocks slide again as AI trade struggles to regain footing (AMD:NASDAQ)",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZlZiLVUzVDVib0RBTkhmVDVLUk1faElFMENOWHhGX3MxY2ZNSnFEelNCekFjU1JFUjdaU3c5clcwRXBQak56QjFQN21GQm5jNXBwS1NfNnZPcjhWU2JWTGRUa1dVb1NfNFBMWmhNdnJjbm52U1lSWFAtcWZ4ZTJaODlpbVVySzZlRk5yUDdSM2Z5NWNFdEt5cV8yUHBJN0lEa1JR?oc=5"
+  },
+  {
+   "o": "Coinpaper",
+   "t": "Nvidia, Anthropic and AMD Stocks Drop 5% & Nasdaq Futures Slide 2.4%",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb2J0TE03eUpieWp3R3k4UHNMdWxXa0pPT3ZCQTc4QUNkYTQycENxR2FvWXpiTTU2eUV5RmRuVVFVbVkwb01wNjFaZ0MzN1pNT3pFMmxkSE93ZTlsekhMc1hScGhkeUlBMUVSUWNXRUNOQl82VVA0UnBzVWNORVRxZW9jc0F3ZzJPRFc4NkN2UWE4emRQMTdzOThaRQ?oc=5"
+  },
+  {
+   "o": "MarketWatch",
+   "t": "Nasdaq futures are down 3% as Nvidia, AMD shares slump",
+   "link": "https://www.marketwatch.com/bulletins/redirect/go?g=4b1fd77c-bc03-4fd5-8495-991e6a205fe6&mod=mw_rss_bulletins"
   }
  ],
  "en_espanol": [
-  "Trump presionó a Intel para ceder al Gobierno de EE. UU. el 9,9% de sus acciones",
   "Por qué las acciones de Nvidia, AMD e Intel se desploman de nuevo hoy"
  ],
  "investing": []
