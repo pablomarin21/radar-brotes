@@ -79,7 +79,7 @@ GEO_FUERA = re.compile(r"\b(australia|australian|aussie|rba|nueva zelanda|new ze
 NO_FICHA = {"dollar", "dolar", "euro", "yen", "yuan", "pound", "sterling", "asian", "japanese", "chinese", "british", "german",
             "french", "us", "united", "states"}
 # El tope diario solo cuenta los avisos desde este momento (los 8 de la madrugada del 25-nov, con el criterio viejo, no cuentan)
-CUENTA_DESDE = "2026-11-25T11:30:00+01:00"
+CUENTA_DESDE = "2026-11-25T11:20:00+01:00"
 
 # Lo que mueve el dinero de cualquier inversor (tipos, bancos centrales): cuenta siempre como impacto
 MERCADO = {"fed", "bce", "boj", "boe", "inflacion", "empleo", "pib", "aranceles", "vivienda", "petroleo", "oro", "bitcoin", "bonos",
