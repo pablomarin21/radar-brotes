@@ -1,78 +1,59 @@
 {
- "ts": "2026-11-25T03:31:17+01:00",
+ "ts": "2026-11-25T05:40:17+01:00",
  "fichas": [
-  "dollar",
-  "fed",
-  "inflacion",
-  "aussie"
+  "xiaomi"
  ],
- "medios": 12,
- "normal": 3.7,
- "titular": "Dollar takes breather ahead of US data on Fed path; Aussie jumps on CPI",
- "medio": "marketscreener.com",
- "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMnZwRUVsMzJuSkJwd0hYMmJoUjZnNFM5bEZjaTFObGVHM0FMcVotME5lVF9BSWg0bTI0ZjQwOV9YeFRBZ2diYXdvYnBKOWFpMnMwV1A5S083alN1N2FmTWRRSWcwbzN2akNfaTNqakxSQVJ3Z3ZZOWt0Q0lhOHVfVnpmNDduQkprdVlHajR6ajdvcGlNckJKazZFb3UyU0lwWGZiMmQxeUl0UW5mdzRDOGxKRlE4aFBlc0Rzc294NWc?oc=5",
+ "medios": 7,
+ "normal": 0,
+ "red": "investing",
+ "titular": "Las acciones de Xiaomi suben más de un 8% gracias a las ventas de móviles premium",
+ "medio": "Investing.com España",
+ "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQUp4djVaSUVTaC1YaV9MMWJpT3g3NEFkc3J4bldyWEw5Um15RS1ieWJtV29OQkVZM3EtY3ZnN2JkaExIc241SzZYdzdVZndlSW9La1g3YjZXS1JOUVA3RUdUWVh6OEFXRTR6WURnRzRwMzZVemtkWXhHVVZwQ0lFdjdQcmVzcWdtNkRRWDNXdTYzeklKMGdreTlQc3lDcVdOLWFzd281UXZWRlpzMVVieGJZdDBhUXlQZVFuaXNiRzZ5dzViZjN3djRBUFA4anlUY0E?oc=5",
  "titulares": [
   {
-   "o": "Finimize",
-   "t": "Dollar Pauses As Markets Brace For Key Fed Data",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbXd4MEh4d245cnF3WUVyeWFuNWFiM3N6UW43Q19ZQlNETVB0QjlqbmJjS2JUbllsX2ZPdXI3VlhNdjEtMlhVVDVteEY3OF9jWk5mT3M2NTFNbHMtTFFpRzVvdWVmLTlHYy1JUDJTTFJnM2hBWWNkRU9hNFlma0pDNW9n?oc=5"
+   "o": "Investing.com España",
+   "t": "Las acciones de Xiaomi suben más de un 8% gracias a las ventas de móviles premium",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQUp4djVaSUVTaC1YaV9MMWJpT3g3NEFkc3J4bldyWEw5Um15RS1ieWJtV29OQkVZM3EtY3ZnN2JkaExIc241SzZYdzdVZndlSW9La1g3YjZXS1JOUVA3RUdUWVh6OEFXRTR6WURnRzRwMzZVemtkWXhHVVZwQ0lFdjdQcmVzcWdtNkRRWDNXdTYzeklKMGdreTlQc3lDcVdOLWFzd281UXZWRlpzMVVieGJZdDBhUXlQZVFuaXNiRzZ5dzViZjN3djRBUFA4anlUY0E?oc=5"
   },
   {
-   "o": "VT Markets",
-   "t": "NZD/USD Eyes 0.5434 Break as AI-Led Dollar Rally and Fed Hike Bets Drive Yields Higher",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMU11UGxTT2J6WEFZZ2RuX1lPRVhfNFJVdWxoaElvWXZXVThpaUFqLW84R2ppdjA4b0M4OE1Jd09jMDdsUERWMVY5WEg3TDlhT3hPZEI3RkYwQ09fUW14azhicDZrOWRHMXNobHo5bjVqY0ZqYnhXWm1MRWt3YXltZUtNV2k1ODVKd0xqaVZBMmlObGwwek1hUXVXT2Y0UlBsREdURFpIcHBaUDhxc0FEX0FLVDhCWlFmZFd5SlBkYXc3QnNDRVQ1X3I1blI?oc=5"
+   "o": "Investing.com South Africa",
+   "t": "Xiaomi shares jump over 8% as premium phone sales cushion rising chip costs By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVks5TWNYd2plVWNQOEJCd2UwNmU1eGJJSEd4OXJqUjVwNHlIejVQX0JiSkRyYktodTE3RktIQWJDTmhRNjJoMkR1NGcwWVBXR2J0RTRzWWFKZ2cxd1o1NE9pSFB6Rm1xNHdvbGZwSVNUNWJzMW5UMGFUV2xldGdhVmktcHdkQS1xM2pZS0ZHV1Q1UEtsc3BlQy1NYXRjQjFPMkdaNE9taGdMcmVLWmNZSWppSTBicmRGSjBpZGh1MUhlSUdxYTVmNzJ3?oc=5"
   },
   {
-   "o": "Reuters",
-   "t": "Dollar takes breather ahead of US data on Fed path; Aussie jumps on CPI",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUUFucHFRbGxzR3laOUhHVU5fQ215SV82VkdMcExqZy1DMmpLalE4RHkyUDgyaEVLQmhVQ3l1VFZXcUV2ZV9UQmlqX1p2X09UbjlfbzlTY1EwUld2Z2dFV0d3cTI0bDlUejkxbFRsczJ5Q2ZmdXVaTkNNTXNKLUZkYkxLVVhFejU1VjdVTXp4d3ctRmc2NWhDbFdJV1NDRTE4UFQzOGQ4eXI4bXdjLWJB?oc=5"
+   "o": "Investing.com Nigeria",
+   "t": "Xiaomi shares jump over 8% as premium phone sales cushion rising chip costs",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaDJobkdvX0FoMFBUS3NMOU9zQWl5OEQ3RGdRQUxDcXRBc1QxMXFvMkFPc2U3ZTZVTUlJdnBiYXI4WHoyUVREbmFFLWNtYnozTHo0WC16RmQ4X0xhWkdVWVIyM1JWN3JjUHlWQ25CX002b0EtajEtTkZlUEdGN19VMzhEdHVXVS1TZDlKR1drVE5WdGtINE9nM3NLSXA4dm5kcE5EaDhiVXh2c3FKdDZBZFBXTy1QY2YwWGxnQ0p4cldkeVhYTFhTUHVR?oc=5"
   },
   {
-   "o": "marketscreener.com",
-   "t": "Dollar takes breather ahead of US data on Fed path; Aussie jumps on CPI",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMnZwRUVsMzJuSkJwd0hYMmJoUjZnNFM5bEZjaTFObGVHM0FMcVotME5lVF9BSWg0bTI0ZjQwOV9YeFRBZ2diYXdvYnBKOWFpMnMwV1A5S083alN1N2FmTWRRSWcwbzN2akNfaTNqakxSQVJ3Z3ZZOWt0Q0lhOHVfVnpmNDduQkprdVlHajR6ajdvcGlNckJKazZFb3UyU0lwWGZiMmQxeUl0UW5mdzRDOGxKRlE4aFBlc0Rzc294NWc?oc=5"
+   "o": "Investing.com México - Finanzas, Bolsa y Forex",
+   "t": "Acciones de Xiaomi suben 8% gracias a ventas de teléfonos premium - Investing.com México",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFNJLWNadWZrYzc3Mk9BM3pCU2VfSEMyTmlVRkd1cUxhT2pIY2d0cFhBYlFxTHdVbmstODA4bUR2TUFfZVAxRHZYY3dYV3Z5eUR5cmJNV0FaRnBIYU9NekJBWUx2aXBRNW05YTdJY1hoSVBHb1dDY0w2TjhMRG9nd25yazBaOHZNSklhek9iMURzelVYcjU4S192UVZkaWx6bHM4eXBycDFUMXRIRzV5Q3d1a0ZON3g4SU9XNw?oc=5"
   },
   {
-   "o": "CNA",
-   "t": "Dollar takes breather ahead of US data on Fed path; Aussie jumps on CPI",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGhPdkJ6a192YUtYSkk5NnNjZzBiY09pcHFtQ0xyblkxUzFMOHFnbXkwNXZPNUNXOTRpQTN5RGFaSmkxR2tuLV9uOHduYWVxWlZMREREUkZpVnQwbDV6cEpoVDlzRmotbDlhOGJOU2Y5dlI2Z2VIY2hURWYzSUJUQ2s5dFZNdWdZcWNkN2tiemdjNkhHZ3ltN3NKZFB2NDhkRnMzR0g0aEVqcFVWOVJJ?oc=5"
+   "o": "Investing.com Canada",
+   "t": "Xiaomi shares jump over 8% as premium phone sales cushion rising chip costs",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc0NvQU9vNkhHRDNYR1RvNlBUcXRKOXFqaDhxdC04OEczM0FxWmR6bVdjNG1FSVVBMGROeXZJeXNpSmlnMWQ3LVVEaUdBTmJSNzlnc0RjX3JpdU5tQ2poMU9ETjBIUG5UNjdoZGxPeXhuY2lhRWhxSXcxWklEMXlDQXNSTUs1aDRrWnM3X1JjamdsbnZlT2hKcUNjWWtURGNocjdPMXA1OE1jQWNGSk91WXBnMFdVdzRvOTlVNVcxZVdVX0VkdVNSTnFn?oc=5"
   },
   {
-   "o": "The Lufkin Daily News",
-   "t": "Dollar takes breather ahead of US data on Fed path; Aussie jumps on CPI",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMTRqNjk4NjdLTFFCVWJSTzhVMWVoYkUwS0VhYURBWGtRUVRGdzE0TEVyX1lNX0U1QzlqWHZVVUY3MkdwTHNEamtHN1hZVnJrRmJfM3dfclF1SGgxR0ZqTThQcHlxTFJMSUxvRHlieWFFblczRVM2bWwxWS1QQWYxdFlub1RnTHlibU1tUURHVmwxVmVYMmVwV21IcEJSSU9PNm9HejRkMkVrS0F6M1hoTDQxMndkWkw5M2Nsc2ZLV3J2b0NfeXJ3bFQzR0hoaVl2ZUxzS0Q1b2dnclVSOVVGVmVnckd6OG9iNmhRVGFyam5SN3hoanlxN0ZYNjQzZlk?oc=5"
+   "o": "Free Malaysia Today",
+   "t": "Xiaomi shares leap after smartphone sales do better than feared",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU19iYlk2aHBONUQzbUlGZkJ1QkVGcUNUUGoxVVQtSGxWTU8zTU91dGs4X2twVHQ0OXFlNjdReTFqMGNtYXJ5Z2dGd05BQk52TTRZNzM0SVpoak55emJJY20ydFRGUjlwRWdaWkE0YlhIV09lRVpwNFN0eFloU05jbjR2d21MQ2ZjQnZ3Smx5eFZQQzhTTHlla1p6RW5tQzROZGI5SlFGQk43M0Z4bkRXakpfYkNHem82S1BVWVdYaU95cDFT?oc=5"
   },
   {
-   "o": "BusinessToday Malaysia",
-   "t": "Ringgit Finds Mild Support From US Dollar Weakness",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRTRzRm5acDVmRXM2YVJEV0tYNTFFaUhUR3FBM3hhVjFZZWNkQTFnbzlJQWlJYVpwWDdFdGExbDdVQXdXQ2RGdm83UnU1NGZmV2gzV3JZaGRFSUdXdmlaUFpPWWhPaTVrTWU1Z0R2NkZQa0FndnBhRzNBck5XTEEwRmg4Q3JGZDV0dDNsUm9TaXFuZ3RPaTdJWHJxSQ?oc=5"
-  },
-  {
-   "o": "Global Banking & Finance Review",
-   "t": "US Dollar Awaits Fed Data, Aussie Surges on Inflation News",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHA3M3puc0xlelpIaFdBWW1xYVNGTFhibE5iLVlkWjBrSlZ4dU9DX3hLSFRvOXJYZDBKOGplMi1RdE1XclYyTEJKU1JILVowSHhBNmt3ZTlRTkZ0R0t0US1kdWJuVEU4bXdnV1pLeXltRmZmcjFZOFJIN25WRGtlMmFVRDNTMXZicjlrMVhPSl9FeXVCRUY1OFN1aTQzeHM?oc=5"
-  },
-  {
-   "o": "شبكة تواصل الإخبارية",
-   "t": "Dollar takes breather ahead of US data on Fed path; Aussie jumps on CPI",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VYjhWY2ozVE5PaXVQM1FrSmVoQmVERDRTZE16MTcwRG9Fck1wU1kzVkZSdEh0WUo5OXR0U21UQlpBdl9aZEdJYURzR2FZb0lmQ21n?oc=5"
-  },
-  {
-   "o": "Bloomberg",
-   "t": "Alibaba in Talks for Potential Yuan, Dollar Bond Sale Next Year",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-25/alibaba-in-talks-for-potential-yuan-dollar-bond-sale-next-year"
-  },
-  {
-   "o": "KELO-AM",
-   "t": "Dollar takes breather ahead of US data on Fed path; Aussie jumps on CPI - KELO-AM",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSlJBVlJwYnhOZUlxejNia3U2YlEwY1RzNXdCVUNCUzc2R1ZNeG1XWGlZdS1qNndEZ3J3V3hSUDU1ckhVQWpNMXVCLWJHQVVCQ2R0X0pJRVF3SGdPTU5jc0pHWHcxVWt1VlNFaU9nbWl2eGlGRGphLUVQamlGaDJ3MHAtamk5dWJESjg4LTFQNW56VGZuUXg5UzdXNWlITFlC?oc=5"
-  },
-  {
-   "o": "TradingView",
-   "t": "Nvidia’s Rebound, Falling Oil And A Strong Dollar: Three Signals Complicating The Fed’s December Decision",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaGNOUUthQzZKeFZNUVhvT1N1STJzelVKeEwtYmwzYkpXYVBuUUhveDcyZFltRHl5aF9rbjBOQzNKN3I3Q3g2bUwxNzg2UVNGb09TWXlCVzFsZEJETXY4X2I3czhUdEhPZlNiR0NoZmg2V3cxSWJwclZrR2ZMdzlYcXFyN2FOTHcwUWRQSWpNTWdMUlRIeUQ5LXBrOWgwaUp5ZkNxOHRuckpRdXNOOGlFYmtQSERFTVZkWlJieW9EM1BzdTJiZElVRm44T0lZZWd0VlF4RjI5U2szQlItU2QyQV9OT3FoaVFfQl9Vazc1RC00UkY1SVpz?oc=5"
+   "o": "www.marketscreener.com",
+   "t": "Xiaomi's Shares Jump After Earnings as Smartphone Margins Hold Up",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbnphbUpKdFJvSllodm5mcGFhNzItajZMZEpfckNOdE1NWmZuSmJ4ak1EZGpSelQtdkxsekFiU1JiZGZhUDFURE1HZ2huZGF6OUU1MjVMU1VXREdUU3l5VjR4UVB3UktLQ3k3V25kWjd0SkswaGtjZnhQazNRWkctRGpocUotdzBIZnZXV01EQ0hfOVhUUFc2NFpmTTRsZmtGS0tOYlc4Z2tlZXA5c0I5SzkyZy1oVHBkbWc?oc=5"
   }
  ],
- "en_espanol": [],
- "investing": []
+ "en_espanol": [
+  "Las acciones de Xiaomi suben más de un 8% gracias a las ventas de móviles premium",
+  "Acciones de Xiaomi suben 8% gracias a ventas de teléfonos premium - Investing.com México"
+ ],
+ "investing": [
+  {
+   "t": "Las acciones de Xiaomi suben más de un 8% gracias a las ventas de móviles premium",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQUp4djVaSUVTaC1YaV9MMWJpT3g3NEFkc3J4bldyWEw5Um15RS1ieWJtV29OQkVZM3EtY3ZnN2JkaExIc241SzZYdzdVZndlSW9La1g3YjZXS1JOUVA3RUdUWVh6OEFXRTR6WURnRzRwMzZVemtkWXhHVVZwQ0lFdjdQcmVzcWdtNkRRWDNXdTYzeklKMGdreTlQc3lDcVdOLWFzd281UXZWRlpzMVVieGJZdDBhUXlQZVFuaXNiRzZ5dzViZjN3djRBUFA4anlUY0E?oc=5"
+  }
+ ]
 }
