@@ -1,78 +1,82 @@
 {
- "ts": "2026-11-25T08:16:30+01:00",
+ "ts": "2026-11-25T11:23:12+01:00",
  "fichas": [
-  "australian",
-  "microsoft",
-  "businesses",
-  "techom"
+  "indra",
+  "ibex"
  ],
- "medios": 16,
- "normal": 3.0,
- "titular": "TECHOM Systems Expands Microsoft 365 Email Migration Services for Australian Businesses",
- "medio": "EIN Presswire",
- "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWmx6UWthUDJ2c3poQTRSMWVuNGVwbGtIV2JCd2xLR09OdWF4YUZSaGV4eTduZEkyTk5MQzlOdGx4RFVsVjNiYTZqZEpZOWcxYkRTcVZfZkNMN2I3YjdNMEJvLWZfVVU0TEhJQlp3UW9sd0hWajRHWHVTRFVxampJQ0p2eHNxeGNaOVd3QV9qZV9iSmtnWFpoU2xVenE1RjllS19PS1ZrSi1naTJUZndlTHkyV3NXYUxhaEZMeG4xSEFaTjRxRmc1b0RIMENOMXM?oc=5",
+ "medios": 18,
+ "normal": 2.3,
+ "titular": "El Ibex 35 sube un 0,4% en la apertura y se acerca a los 19.100 puntos, impulsado por Indra (+7%)",
+ "medio": "Europa Press",
+ "link": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-sube-04-apertura-acerca-19100-puntos-impulsado-indra-20261125092540.html",
  "titulares": [
   {
-   "o": "شبكة تواصل الإخبارية",
-   "t": "Australian Dollar extends slide below 0.6600 amid RBA-Fed divergence | FXStreet",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WNzJxQktYeHhFbFpKRTNWY3NNWEoyOHFyWGlRUFVXVm1HRkFaQkE2ai1Qb25XeC05UjNhQUtJa0VCSUVwTnNDb1FkTEotYmhXeGVZ?oc=5"
+   "o": "Europa Press",
+   "t": "El Ibex 35 sube un 0,4% en la apertura y se acerca a los 19.100 puntos, impulsado por Indra (+7%)",
+   "link": "https://www.europapress.es/economia/bolsa-00348/noticia-ibex-35-sube-04-apertura-acerca-19100-puntos-impulsado-indra-20261125092540.html"
   },
   {
-   "o": "www.tmgm.com",
-   "t": "Australian Dollar extends slide below 0.6600, fresh YTD low amid RBA-Fed divergence",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSHIzWVBZZ2NoSldjbER0RHhOQVhnMkJvT2xQRjR6MUZnN1dsNzhtUUNFNXYwNTZhR21NM3BuS25IQ05mUE5tcVF0NkVXalpfalJZZU5PZjQ0SDExVWcyRWZ2R284bjVTQzB2UjlkekkwQlU0b0oxM1ozSFFQUFp5RDQ4eHJaMUJSZThzaEVZN0xrb2R4d2JhWFJlT0psWHVZV0kxaHJHUFZnWXBrbnpzTVc3ajEzOEVSLVdILWgzTVlLemhTN05oUERoYWZvcFRtaUstVklQcjZwQkxIX1dyZA?oc=5"
+   "o": "TradingView",
+   "t": "El Ibex 35 sube un 0,4% en la apertura y se acerca a los 19.100 puntos, impulsado por Indra (+7%)",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rUi1hQmNUOHBQcVVxOWtUb2NFYzh1azg2d0FnLU9jMVVoanljSHRKUFpHUjZ0WDBkekpwUy0yOVNUdDhUeXk1c0dzVHJxcnc4N0xtdm9nYWlwdTQ4MXlOQmMyRGZ2NjlJMmZMQQ?oc=5"
   },
   {
-   "o": "tmgm.com",
-   "t": "Australian Dollar extends slide below 0.6600, fresh YTD low amid RBA-Fed divergence",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc1AzTl9IR3ZwcVFlbVJZekIybnNEQ3FUVDR1QndjaWRIbWFKNUNidG9SWVNZVWNkU080OWRjYnJVbkdOWVdEOEZoNWRsZDRqcW9UU2lmRnEyZ042b2doV2QycnRSV2JZYUh5Q0N3b29WUmFkXzNxNlZLQnZ1bDhmTHNSYUpnYXBmQU5xS1ptTlh5LWRVVXhWem81SEhFX2pVaklqRmV4Y29TS0NObTBTNjZYQkVwSDc2WFNMUXhFejVhTmxXNzZFQnpDekk5aW05ZDJGRHM4RHo3T2RWSTRYVg?oc=5"
+   "o": "Rankia",
+   "t": "Indra eleva a 12.000 millones su meta de ingresos para 2030 y la fía a Defensa: ¿qué cambia si tienes acciones?",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX2FpUnQzdVVBTGRFclBQNzVYNFdMVGMzbUt6S0JfMm9lUU9Fa2kzZVQ1UWY4YmRsMUhKY0Q1YXJKcHpSSjhBd3NzMzNRaG5xSUFJVjNlaG5vV194VVREWU1nMDIzSW5Iam5oVWdoQVNWNzF1QjJpdzRzVUR1QzZ2YUxObWx0ejU4MW1tRlMzUzlocC1laWtPTGRUVEpiUWlicThia1ZIXzJYX0xjYzFCU3RHZDU1YkxoZDdxMGdJMzM5QjhsSzVWYjF1NFNOVVQyY2l5QmlBaWdIQQ?oc=5"
   },
   {
-   "o": "Yahoo Finance Australia",
-   "t": "Australian Shares End Lower After Inflation Surges; Develop Global Shares Fall on Mine Pause Plan",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeV9GWlBLbl9xMTNMQXNfcUkwU09BaHMtdDdZenRwU1kyWjBiNUU1YUNFRDZSNmExZFJGYnRkZjloTzZ6Mmt6XzBJUjhXLUplb2ZmSTBpZmVYMlNSX1NmZG5xYktkaFV6WHZzR2Nmc0pfQUIyWGV0M2tnbzRZNTI2YktJb3VFTlpEOGJRenNxNA?oc=5"
+   "o": "Valencia Plaza",
+   "t": "Apertura alcista de un Ibex 35 camino de los 19.100 puntos guiado por el 'subidón' de Indra",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdzl3bWZQQ1hldE5Xa25PbjdIOWV5eVBtaXJsWjBDQURqa0tJbEtzYVRuTVpDNVowcHdMWHE0TEVCSnlpQUhMMzloUHBUUHNHWXRMQnFDM0o0WFNjV0FxNDYwejBibUozdmR1R05VcVhEX0wwT3VBYVZEei1vbWo3ODFCVFR1Ti1ma0R0Y09ONFBHUHpSZ0NTM3R5S1ZqTmpnMkVHYno5RXd1bFp6SlpKcGtwN2FwQnMxR2lNZ0tFY0k5Y0hvN3pScDlWZzhaLVBU?oc=5"
   },
   {
-   "o": "www.marketscreener.com",
-   "t": "Australian Shares End Lower After Inflation Surges; Develop Global Shares Fall on Mine Pause Plan",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWZOSi00QTBjQzZPdG5VZTdDaFNZSnBkUzlxYkF6ajRPT0w5cnZlY2NXUldQTnlnZWw2SGtfZ3ZwTHM0QXY3TXdQSEJuVXZXZzM4V1dLdVgzMzNOVDhTb1BkTnZlUjJISnNzU1I0dkg1RmdvUXg3eUZOSzdsZGw2ZGVfTDl0YXI0WFNtQ3E2SEhXREJWQURCNFlEM0htbFBIVWxUVU5tQmVsQVV2cXcwRlJabWQ3OW1wYjFIdTM2Tm1qbko0ZGw4VnUzeFVtQzktc1JhZk11TXcyY3R1Y1hzWFk5UQ?oc=5"
+   "o": "el boletin",
+   "t": "El Ibex 35 sube un 0,38% impulsado por Indra, que se dispara más de un 7%",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR2ZnTjRWTDJ0bkNEOFQ0M0hfTXVNb2JGLV9KMGZoNkV6UWcwMWtSVWRQbXIxTEMxYlpGT2RsUzk4NWFjc2tIUVVIakg1eENmVW13cjBDc0NreEZjTE1NMjZtRXNsdHNqTnJrQ1VsMXU4eWZWOGJ5Vi1TWkRpZEFPWHFKY053U0Q5a2U4c3E5dDRTMk5YTDBDS1ozdjZnMXU3SlVpWEZOZklacU1oRm1RUFkyM19WTjJ0OC10N2UxcHh0RC1tTVVxTGlwNNIB0AFBVV95cUxPS3E0MG83VkhCU2N2SjBsaGQzVEZGZnEwSVkwdWUtZEg4dWpNRFlmVHpuRzFzVE9GNklac2NhcXNaTnY5YVVKLWdCRElxRFdBUVR5dERROGVvMHNFRWlaRDJzMGpfYnhhRmN1R2R6dFlUbWJwdFM5eVQ4TVFoenhKQ2FLYkM4N0U3dzNYY0w0bnNhNjVwOTYyX1JXYzJFOU9IbVZBQnhfSzllMndpTUhIZWtDdEE1RnV2Y3JlOTRmSjdnZlRzdmEzMDZTY2JaeGNj?oc=5"
   },
   {
-   "o": "EIN News",
-   "t": "TECHOM Systems Expands Microsoft 365 Email Migration Services for Australian Businesses",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNWEzd3BfNjNmT1g1V0ExLVliQkoxR2NWMWZFZnlCV19KMFJXM2hJc245VGZEbWlxR3I3R0dyNzlrZnIzcjI4YUNVUVJ4STdLZ1RMUjJqakUxZVV1anc2dklPSnlaenRuWktURTFnSzFySTBSalJ0TTRsbW10VDJoakpfdjZIb1o4Qm1ZeF94R0c2SEo4dUh5SmpJb0NPYzJTSldoUmd0X2FjRTdnQ1c0QWxHcTVHMHdDSlRoRTkyWmdsXzNvSlBkZw?oc=5"
+   "o": "MarketScreener España",
+   "t": "Cautela en el Ibex, con Indra y Puig disparadas y a la espera del PCE de EEUU",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZXRBclV6TUUyTDFGNndyVEtnLWdDTFJFLU5FaU5lV2o4U2o1NDRuZ2lGV2xkSm9WUVVaNVlQVE9jekRCYnBjWGJDVl9YZktuV0swc2UwNWdVSWR3UU5saWpYaE5Ka1BzQlg4Y0Y3dnB4R2pTaVNPT09GdmlpYWE3NnlCNUR3WmpHM05XbDNpYlNlTkF0QUZKZHNYQ0laMTZ0RkgzV2pGN21DU2ozR0dYUnVCcUs1UU9aT3dabG5tNFpUT1Q5XzZ1S3FLcW4?oc=5"
   },
   {
-   "o": "EIN Presswire",
-   "t": "TECHOM Systems Expands Microsoft 365 Email Migration Services for Australian Businesses",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWmx6UWthUDJ2c3poQTRSMWVuNGVwbGtIV2JCd2xLR09OdWF4YUZSaGV4eTduZEkyTk5MQzlOdGx4RFVsVjNiYTZqZEpZOWcxYkRTcVZfZkNMN2I3YjdNMEJvLWZfVVU0TEhJQlp3UW9sd0hWajRHWHVTRFVxampJQ0p2eHNxeGNaOVd3QV9qZV9iSmtnWFpoU2xVenE1RjllS19PS1ZrSi1naTJUZndlTHkyV3NXYUxhaEZMeG4xSEFaTjRxRmc1b0RIMENOMXM?oc=5"
+   "o": "Europa Press",
+   "t": "Indra sube con fuerza en Bolsa tras fijar como objetivo alcanzar ingresos de 20.000 millones en 2035",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZTBCUnJWanBLUFZZN1IxOVpYRTQyTGhhRHl6dGFQVWwyZzBFdVhteXNOZHc2LUhna0JaLWZoR2dLSlBSNjg2QUFvZ2pnQ0trWmZYTE9wZlg2TkJ5d1VFWWpZeVhoTFUwdmphcHRZZG9hNkZYU1pXU21HdWF5M1N3WjdFY1ZtWkZWQ0l4QjQ3azNxWkhsX3pZMzdvOVpjUTNQTlFSVlNjU2gtT1NBM0t6NHYwUmZlLVZ1ZngxOFlsbXhLZHhnSVU3X2gxa2lwX19KSVM2VzRxYXVDVFpBX0JNeDJsM3R5Rms?oc=5"
   },
   {
-   "o": "Australasian Lawyer",
-   "t": "Federal Court denies Australian Consumer Law claims against Microsoft",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNakhDU2cxTDJ5NjlaU084aUg5SmFZeE13ZUpYVC1mMWFzSjJoVk83OU81VTBldUJNMTVnZTV2TlRVakRNT3lrcHYxZHN2ZVBCZUhpY0tTWU1pbTJhdHA2cVBIX1hDdFhRQ1RGWkFERkM4OC1WcXRhTEdEWmw5QXl1THRmU1RfRWN3YlVrNzBUUGlqUEdlU3NmOGtiSHlwbDNVa3R1Q0hZbjRFZElPUXdaTFlnaW9BYUpjSnNlcklHSGlDQTZkQVQ3SEFaQ1VxS3FPbnN4SFVBZw?oc=5"
+   "o": "Demócrata",
+   "t": "Indra se dispara en Bolsa tras fijar como meta 20.000 millones de ingresos en 2035",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQzN0R1l0bGI1cjcyQWpnRXVncnBLdXRYem50NXdMcVQ5bG5EMUpIZ3hWR01fVnF2T0R2ZmFRSHZ3b1lXQXEtSGYwRkRMRm1wYjZ4YzBDYllteERtZk5nWEZZQzZFcWs2UXdTVUFLUWhfMU83VmtvdTlCdk5PMG1xY1hPcmsyeGZud0dnZzNXQUkxa0NLSEZSejhXckdoWGdEOUlRbDI0VWl2QVJvY0xXRF9TLUJOZ1dm0gG-AUFVX3lxTE4tc0EweEdqMjBlSU8xMFBFazZxem05Z0toUzM2ZDNNekhxeG9oeXdRVENURW1yTVpGQmlVVjEtQ0NUSW5FNDN6YkFlXy05dmNlOGdNdlVWUXNkcVhiM3RsTlFmSzlfdVRiNUV4MVNhbG1UT2taUk9jTXlfRlpMQ2RvOFQ4c21DaFVqdDlkS0RyZEtiMzRKSzBNam1vTXZMN2tWQ2dGWTlYdjJRZTZ5SGo0S3ppd3cybnduN0FhVlE?oc=5"
   },
   {
-   "o": "www.tmgm.com",
-   "t": "Australian Dollar extends slide below 0.6600, fresh YTD low amid RBA-Fed divergence",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOV0dkUGlQeTcwdFcyLTVRaFotMXFhOVJVM0MzUFRERk80cll5QTdtTnc3Z21DWHRVTWtoc19wTzFPMjFJRDhJaHV4TnU1RjdVUzdqTWh3Q2txWFhEYWhLMWFLWmkyZmM1VnlYTEc0S3VaR3JfYWJ0Q3ZRQjhxVlY1MkhEbDA3bGVLLTNoOHVvOHNrOVJxeE9rN3dBeEJZRU9tdmVCdTVQcWZhQkVlbHZRSkZUSmVaQUJKbUo1Z0gyVVAtWlI5MXVZVXhxV0RqTkZuYVVGMFlvc0NoV2VVR3ozNmx4RTM?oc=5"
+   "o": "El Nacional.cat",
+   "t": "Indra impulsa el Ibex-35",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX3VHT2Y3emxNNldRUnVqR3Rwc3FHZGZYVThLUmhXZFpqZHRBTHNKbUNtQ0tyY1picWJZX3I1VjA5d1BFV21aMHYtNFNxQUpjeXc1RFIwb1lqZHNnOVdNeGpLQlBSOUEwTUtGcDFpdk5INDNZZE1EV3dBNU9nZWdRU0JYRnhONFBxMzh2ajA3SGYxdw?oc=5"
   },
   {
-   "o": "The Malaysian Reserve",
-   "t": "OpenTable Announces Proposed Acquisition of Australian Restaurant Technology Company me&u",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT0J2OEVQRlZ3bm9xR090aVl3Yi1YbTc2ZnlVbEZ1UmxESXdEWTlwWFcwZm1RR0FpZnowQUJEZ3hoeEhZNFZvaXNvRjRhYmt4Z2dqOVlfeUVySFBESXdZaV9KanFKX01qZUJKMTl6aHVOZUUtQ1BCM1BRcDF3em9kd3NEanJtNnBSaDRMdVhsTnAwakRaMTlzSjNqUkQzNUNsbldzazQxazM2TUIxQThMNDFqT2pxZlVjOWpFNE9FQ19vMlJrNTFjSHRNcHE?oc=5"
+   "o": "Diario Financiero",
+   "t": "Indra sube con fuerza en Bolsa tras fijar objetivos",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNGFfeDhnelhjenBlNmlIYkNtVllMZjF3Z3QtUThLdVJlRFpyZnpDRDFtRHJ3NW0wS01tcFBUSWpBU3pIQTR4OEl5bzdrRFQzU1p2bXprdlV1eDhQZTdVTlVjNFVuWTk4ZF9ocU5pWDFGckhyUm5aeVBNaDJGM3g3MWpEeDl3b2c?oc=5"
   },
   {
-   "o": "The Malaysian Reserve",
-   "t": "OpenTable Announces Proposed Acquisition of Australian Restaurant Technology Company me&u",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbjdHLXh2VE5oOURQUS1Dd1RwdldFdlU3SFpiMVBtTHBsUE1BRjYxaVJFNS1qQUxlUU9vLU1qOTFlNDVKdjNRQmxOamQ5MldCLXhyZjM3cF9QWm41NHgxMlRqV09feGNFamdmUGg2bTNoYWRiTXQ1VmROMlZhQk04VUVFeTdyUGdJejBUVVFFa1VIMTJOWFZ6cXV0ZTByVHVwODJCb216YmhTU2dQWm9VWmdFR3VxUDMyckp3T1RUcnV5ZHZxWXdyY2QyOC1lOWVOUHc?oc=5"
+   "o": "OkDiario",
+   "t": "El Ibex 35 roza los 19.100 puntos con Indra disparada un 7% tras presentar su ambicioso plan estratégico",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc1o5bHhpQzl5ak10U29KU3Azb2JGWjMtYTRHeWZPRzljaWVmNnBpV1RKVHFEcEtUenh2QXFYRDZYZVNTS1l4QWNWLUtEZ2FZeU5sYXBaLTNvLW11bWhlM0NXWjlqQ3B6NTg5eXlvbERXT3lSeHF1bWVKVXc5YVBTdG5WOUZaaXlMZURZekEtTy1sOHlVV1BCVjUxVlZEQlBvUjI4WFJLR2lJcjczQ3E4YkFPOElrb0RzbmZVR9IBwgFBVV95cUxQbnlnT3cyVUEwZTJnOXZhX0M5SDE5NzlBaVFRVVItWVc5a2xXVU5wZWtGQTc2S2NPVTl4a0REMGxhbXJqRVozVnJQRmtuS2VQSFRUM0tXbVZ0a2ZYam5pRHUzbTBUcEtHTWtMYmNpaVFJUmhsb2IyVTN6eks1TVo3ZGNpNmNia0JkaWs3QmowXzBITkhXdnZQNi1zVWJSRDBYNEZCLU1KeGgzT2NJSWJHQlpqdnBNX0RwcmxteGxHTEVjdw?oc=5"
   },
   {
-   "o": "The Journal News | lohud.com",
-   "t": "TECHOM Systems Expands Microsoft 365 Email Migration Services for Australian Businesses",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTmh1R1JyMk9xbW1Faks5YVlaYXBpVzNfTEx4ZmUzYks3bzdTbVNYbVRXM3gtM1gxandKTU9ySXU4MU1VMmczLVY3dTYxUmg4QUxUUVNHQnplSzhkVllxWTZOV1ZCNnplb1Ewc3ZPMDktWWdMdHVnY3o5bm9jZkNPd3dzWjN4Ym9jNTF5OGZLeHhaYWY2a1VfZm9aQzRKWGFlbmxLWWUxNGhTaW1FemVIWlF1RTRlZEF6TlE3VmVla0dqcDUzZEd1aC11YThTNlFVMVVF?oc=5"
+   "o": "El Conciso",
+   "t": "Indra impulsa el Ibex mientras el golpe tecnológico lastra a las bolsas mundiales",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQlZrck9JUDZ3R2hvdEU5OC1lWVA0OXotcjRqeE5ka3pnMFk3V1FNcWRua0Y0dlZibll5YVVaYlQ5c0FpeW83WjVzMjlXYWo4MWVkTGVDeElrZTNBZ3FsTzc2ZE5EcDMzWXlLRDBSaDNqRkdTRndDVm1XUVBPbmFZQTJfSHVOOVlVUlNCSkl4Mk14NWxPWWZr0gGcAUFVX3lxTE1yMVJKdjZhaG1jenYwM2NsN3RxZXQ5NmEzLVpFRnhIbWw1NEFoWXlPSk5LYlg2QXYtZkloZnkyM3ZpemF0c21CMXhQd1RMV3NlOGNBUkxmYXFiSTJKNE9uQkc1QUxjNjFEdUFocjJ0OEpxRTNWTnlyVmZHdVBSVU56czN3Y3RsVlJPaTBibTFkb1VrNi1FTkxWRmc1eA?oc=5"
   }
  ],
- "en_espanol": [],
+ "en_espanol": [
+  "Apertura alcista de un Ibex 35 camino de los 19.100 puntos guiado por el 'subidón' de Indra",
+  "El Ibex 35 sube un 0,38% impulsado por Indra, que se dispara más de un 7%",
+  "La Bolsa española sube el 0,17 %, impulsada por Indra, que se dispara más del 5 % - EFE",
+  "Indra impulsa el Ibex-35",
+  "Cautela en el Ibex, con Indra y Puig disparadas y a la espera del PCE de EEUU"
+ ],
  "investing": []
 }
