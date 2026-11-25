@@ -1,81 +1,78 @@
 {
- "ts": "2026-11-25T12:07:48+01:00",
+ "ts": "2026-11-25T12:52:29+01:00",
  "fichas": [
-  "spacex",
-  "anthropic"
+  "intel"
  ],
- "medios": 13,
- "normal": 2.3,
- "titular": "Tras Anthropic y Nvidia, ¿puede la fusión de Tesla y SpaceX agitar de nuevo la IA?",
- "medio": "MarketScreener España",
- "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQm5acUczVVBHa3BEUzFLaGp2U0hrSzVHVUlHYVZ2R2xSQnl3OEZLWVp4LWNvaWhBR1l2Z1pSMVBoRHRZaFVOamh1WVB4cVVUVlNrcnJQRDRzVlpsS3ZNMWRaTW10RkFWQl8wV0h6U09MVEVsTF9GbkZuTUhMU2owdXAyek5YOFp0cVpJUTBVaHAtMkw1SXJRSlluNFJFSTk0QzVERG96blhRY2dKZFZ0cGFuLXl5NEJ1d3BWbWJObE9JZV9GaF9MYWtaZEl5V0pa?oc=5",
+ "medios": 15,
+ "normal": 1.3,
+ "titular": "Intel Shares Rise Over 3% After Key Trading Signal",
+ "medio": "Benzinga",
+ "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWQwaDZsQkVldlk5YlRSaC0wS2k5SzlENkZXaU4wSHhILUptYXpCcmMxQXN1ZURTeUlfZThSeXh5bFRwaWI0ay0zbndybER3YnF0dm15VXFoTm1iYlMydndLdXhxel81YS1zWEdiR1owa0M5bXBsN2VBWFJMNnM4X05ubFRfS3VMT2ZKMUl3a1E0RkxvNThRa2h4OFRsUDY5SThaLUY3UGw?oc=5",
  "titulares": [
   {
-   "o": "Ars Technica",
-   "t": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWXFIRlRpQkkyY0F5YUVjb1RmN1g2cUdPWHJ3ZkhTVnVzcVNJaG5QY0lHRlV1cEdBNmFqWHQ3c0lpWEU1RGlLanphd1pPbmZjc0dvME9UcXFsNWNSTWJ0VDNsTmcyWGVNaG1lRzAwTEMxNXVycHc3YjItWkVXRXFiNDRZeWVWVEZzZ2NLd2FCOHVhSGVVTEJDMTEwdG1JVVRJdDBVSzQyS0lhY1Q5MnNYZmZFdmVWUlR2TmhzdG1R?oc=5"
+   "o": "Benzinga",
+   "t": "Intel Shares Rise Over 3% After Key Trading Signal",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWQwaDZsQkVldlk5YlRSaC0wS2k5SzlENkZXaU4wSHhILUptYXpCcmMxQXN1ZURTeUlfZThSeXh5bFRwaWI0ay0zbndybER3YnF0dm15VXFoTm1iYlMydndLdXhxel81YS1zWEdiR1owa0M5bXBsN2VBWFJMNnM4X05ubFRfS3VMT2ZKMUl3a1E0RkxvNThRa2h4OFRsUDY5SThaLUY3UGw?oc=5"
+  },
+  {
+   "o": "Crypto Briefing",
+   "t": "Trump administration pressed Intel into handing the US a 9.9% stake",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wMm4xOWJCN2d6ek5HckJkQWNLN291MVZWdndBdEtIV3E4akJfZG5fTHpVUWRCU2N2U0p3Zmt1Y3Vtc0xEb1FaZlVqWUxOWDIxVUZhcmZVanI0VnNtY1FfRlpiaWRBX3ctRTNSVF94emI5aURMcUE?oc=5"
+  },
+  {
+   "o": "Mezha.net",
+   "t": "Court filings detail Trump administration’s push for a 10% Intel stake",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUzVOMlE0VXY0RlJMTmU0SjJseTgwc3JCRWxlbTVWeUQxWnZZZjRuRXNTYjVhOVpDNnRxLXhWeHNRN1dUTHdCeFQ5SVg4UDZOOWhNNXg0a3RtT2M4UFZvYnVrMVluUzFueGdGakJib0R4N0FqZXFBOHp3V2xwNmU1QTcxNDNrZw?oc=5"
   },
   {
    "o": "Benzinga",
-   "t": "SpaceX Shares Drop 2.17% Pre-Market - SpaceX (NASDAQ:SPCX)",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMUE0UVdLQldyQUxNbU5JOGtyaS1LaFgzLWZlLXA4YlVqSGpwZnhrRHczcGFxeVpvQ1Zid25DRGxXeFBFRWZQM1lEM1NUcjBXS0UwcHVEcGViZExydEQ0aUJ3R2F0RXZmdTlYdU1VWEc1VFhRYUJmcGVTNzUtVFlaN005OTdtd04wSl9MYTEwclJLdFY3alRvbDRmVEhJaERGbWt4eTUyMVQ4cWlKTjRSUEI1TTB4TF9oNHFz?oc=5"
+   "t": "Intel Wasn't an 'Outlier' in PC Slump, Says Patrick Moorhead, as Dell, AMD, Lenovo and HP Reports Echo In",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPTTlXa2dhVHhpclhadjl0RV9SaU9MWDNyYnpVb0dNdlY5MGotOVhhUFNCQjRpWmtYRVdzYmdqQkFyUldOelBtWWI5b1RIdFB2YVRZMEFXVzU1RlVnWXY4TzF4bzg2d19DbFYwTVppOTJXdDNCSXBIMXZrVl84SEZqRmVZb0NvQW9hamIzOThnaExRNWhCV1oxdVdYSVpSRnB4ZFc1MWcyX09YbVBGdzd3S0hhckgxYW8yTmFuZEdFS3FWWXo5REVGemFBWVhJYnZTODNzakl4Mi1Uc09hMUhhbDdjMTdNZHA3R1RDOEs1d3RjcWtobkhnY05NR05RYXhXcERXMUxWNGtseGQzb1U1d0hR?oc=5"
   },
   {
-   "o": "MarketScreener España",
-   "t": "Tras Anthropic y Nvidia, ¿puede la fusión de Tesla y SpaceX agitar de nuevo la IA?",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQm5acUczVVBHa3BEUzFLaGp2U0hrSzVHVUlHYVZ2R2xSQnl3OEZLWVp4LWNvaWhBR1l2Z1pSMVBoRHRZaFVOamh1WVB4cVVUVlNrcnJQRDRzVlpsS3ZNMWRaTW10RkFWQl8wV0h6U09MVEVsTF9GbkZuTUhMU2owdXAyek5YOFp0cVpJUTBVaHAtMkw1SXJRSlluNFJFSTk0QzVERG96blhRY2dKZFZ0cGFuLXl5NEJ1d3BWbWJObE9JZV9GaF9MYWtaZEl5V0pa?oc=5"
+   "o": "Cryptonews.net",
+   "t": "Trump administration pressed Intel into handing the US a 9.9% stake",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05SGJCZUxaWS1wNkpRWkJRNllSemQ2X1YtNlU4X01seWJrMmt3YThzaVgxZlAxMzNXM2F3LXBkWTByMkxqX3FjejJZMVc5RGJtUHZuQTN6WVk?oc=5"
   },
   {
-   "o": "MarketScreener España",
-   "t": "Tras Anthropic y Nvidia, ¿puede la fusión de Tesla y SpaceX agitar de nuevo la IA?",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbXpwdUZEdkFla3Nta1R2eGJhbml4eldzSVN6dUktU1AtUU1INDFuS1F6S0lnaWVXSHk3S21zWVR1cEVCUTZaQkZ6eFIwaUtpSVN0UVpIamhTbS1aNzF4WWtLZDZNdGpGV2U0ODRqOFYyRzBOSFBiS3R2aGV5emx0SndVV3JWMlE2cjlZSjFMZjZXTVRHUWExSGVubXQxWXprLWpVaktVeUg2SzNRRWM4Yi1DNnJQOVk2eUNzMkJmV1VPZ0lIX3RZWEdTOEVpWlhM?oc=5"
+   "o": "Club386",
+   "t": "Intel prepares Nova Lake event for February, according to rumour",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY3ZSM0NHR1JMWDJzNlpYRnBZb2lsMjBQX2xEWWNLNGxTUkRsY3NfQVVSU1FuS1R6MU9YS0IxOHdnek9HV2RjNG9wbGhYbVlvZkh2Q2l4X2g4c01fUG91N0UwQmRTamd3Y28wcU4ySkF0TXJXN0ZMdDZxdzh1bVhzSDJRNnRDUzJzLWphaw?oc=5"
   },
   {
-   "o": "Dealroom",
-   "t": "SpaceX's orbital AI compute can match data centres on Earth on cost by 2028 and beat its own ground sites by 2029, writes ARK's Brett Winton",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSmktSjJtZmRNMTdlVnl2ZDdoLW51SWpjcUNIUGptUXlzTjYzWWQyZzJYTC16RjI0ZERTTjZYNUpLeElROEJBd2JYaUdWSWM2ZV9keWpmRGJseUlGZXpoV040VmVoQUxCUThqS1VyRF9nVkJRdTdheDFjc2NTM2JJZU9xZGRZa3Uyc3dFdHlZam5sSDhQRUFTYk96RGVTRGk3WWhGbTM0MnlmSF9KbThKMTNPRWluam5rVlFzbWxJQ08zMGVSbld0dEowb2tZbFhsc1Z1QUI1bjNqR2lZcUxlbjJLdlkwZkZHTHJJVU44YzRmNWRLMmV1LUxWM2pzZXN4SmNJ?oc=5"
+   "o": "247Sports",
+   "t": "College football coaching carousel: Latest intel on potential openings, including Colorado and Michigan",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQUo2WHhDZzZ1aU12bFNGQjlmbXRYd3lxMl9UdlpselZoclpRbmVkYm9HOVFVbTgyZUhlYU9qRktpZm0wOW9odlhJcHlBMHE0NEpGT3JZM282LUdlSkVhQmQwcG8zR0xyTXQ2YkI1cFB6bUpDYTFUcXZVMG1jMmpFdE1LVFY0RW11LURSTUE4M2FPOXQ2WEc1ZTRqbTItd3NnUHJmNGtuNGNwZmNWcDQ5Qk1hTi1WMEhCRXNiOElsSmJHeGxLenFBbDJteW9lTFk?oc=5"
   },
   {
-   "o": "Benzinga",
-   "t": "Joe Rogan Says Elon Musk Expects SpaceX Rockets to Explode During Testing: 'Pushing It to the Limit'",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNzEtRGtteFdQb2FDczg0eTZjTkhYUGJFOWxFbk5vemJ1blUwV1I4d2NESWF4YnctUVpaejJYcmpVaEZtbGp5US1VYTVaSWhKQU8yYmVqUXpuSkRJUGNKTFF3b1lYS3lDbGRHcVhid3lDRGxHcjd6el9ibnpNOXhLbHJ1Z1RPbU5FVzFSR1Z2VHI3MExQbTljR0NiaF9ubnU4bVV4YnBySjM3elJwN1FtQk9HUjFrU1JyNW13cTd2aTg4WEstSy1RVERNUVQ5eTNKSE9NSUxjVFlvZ0hfR01QdnRn?oc=5"
+   "o": "ESPN",
+   "t": "NFL Week 12 latest intel, buzz questions, news, fantasy tips: What we're hearing",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQjdBdi1jT2RVUVd4aENIZkpGVTVfTWNpandMS1JrNGdBbUhJSmZ5WU15XzhNMlgwNHdZcUNzNUd1TWsxVno0S2FWQndQNXNadUxCcHBOM2FFRk9DRDVDZ3hBWndvTEFNVmQzWTZzaDNvbGplMUp1WU4xcFlZQm1Zb2JKQnIzeThxZzhfYkl5N1kwZ3VzSXNucHR2MEpCb1k?oc=5"
   },
   {
-   "o": "TIKR.com",
-   "t": "SpaceX Sinks 11% in a Week on $32 Billion AI Chip Debt as Anthropic Slips Below Its IPO Price",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdFl3UTFiZjRseXluVnVmWEt2d2o4ejltX3ROQkdQY2hOQmsyaDNhQXdVeWlFZkhHTW9vT0JreXRDdUN3RTVIS200Y0hmNy1QbG9zb1VySnd1Y0RZSGRvbGllT2JyVmdzNVBHX2N5OVE4R05WbkNIYVp6aUw0aUNtSXQ0NFRBSmg4WGlqdU5sRUxmdzRsOURfNUhfbTUxWG9yWmxzay00SFoybGRvOHN2WHlsTFhPM2RJeDNCZjAyTVNqbTFjQk5lVXRJZ2I3enZUbVFUUlhxZTBtWmhRMktCNnoxWmZpaENYaXJqU2YxQQ?oc=5"
+   "o": "TradingPedia",
+   "t": "Intel Slides as Post-Earnings Pullback Meets Targets",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZGt4ZHhFVmU0SWF5N1FkdjBmcW4zUm5LblFLbWJ2UVVKYndRVk02amNLcGxtTTVESjk1SGRVRmdqWFFHYkNCcmhaNkNkbUx1Q3V5UkxpRjhTMmpicXQtd3Y0anc5b2h2bWdtQWo5N2VZTG0tYnljWTM2ZFJzSElZX2tnLVpxektwMGVKX0Jsc0ItblBYNDlVUg?oc=5"
   },
   {
-   "o": "Yahoo en Español Vida y Estilo",
-   "t": "Reino Unido asegura que desconfía de SpaceX por sus restricciones en plena guerra de Ucrania",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZXRiLWVQR2RCQ1NFazctUzNHZ0RaVTFUcEZMeEVpTV9RLTRUaHd6U0hvejduWmlFNDhHZWp3TDlfcjYyZ2syYjJPWFdNaFFGVTQyQnpMR0oweGFMdDhKbEwyVVdYR1pGb1lmNVR6aWpaUS1NcXB3RWtYZmxuNnkwMWtDY3VJRFJzdWFwZFFwalgyRU1tOUk4?oc=5"
+   "o": "Trefis",
+   "t": "The Dates That Matter Most For Intel Stock",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObHdoMjQzMUNhLUZRck9xa3RzelZseDhuRTAzb01Jdmg4TUpQS2R2bzVHT1Bwdi1sOTEtUUVhb0hmSWJPMzJpaEdQaDVFalJRcWtfcVNDMXk4WFFmVXhPZ1JTWFZNZ2pCS2hqbEN4MG1LTDF5Wnh4MzRGWjVzVGtxT3FHeUt1aFBDSGZpLWc0bWpoZTVzZWxIX1p3LUVudmV1cERFanRn?oc=5"
   },
   {
-   "o": "El Nacional.cat",
-   "t": "Los bancos que financian a SpaceX para comprar chips de NVIDIA temen que terminen en el espacio",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTGFjc3hVdG41Zkx2Y1hlSEVESFMtcUJPX1Q0MXh3Ym1oeXlOZkdvRnNsTGxIZFlWZGVFMk5maVBQVGRWX3dBb29EZUJvTV9MOWRCLWM5eld5VjNaSkJTSnI4WkVNTUFVVHRscnlERlNwdFRObVRpUlpoNHh6ZVdJOTRGYVNma1RudEJVbnFndXBrbV9Ra0Q3X20wdzJUb2hFak1wQlRxaWNXbEZmdVR2YnM3VlRiQXhWMVM2X1dFcWlZQjR1cWxJ?oc=5"
+   "o": "On3",
+   "t": "Georgia War Room: The latest intel one week from Signing Day",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVE5bUxycE1IVUV6akh5dEVtbE5UeFdjRUVGSnlaRGJaaE5IVUJrY09PNHVLdmsxU2N5NnVhbUNiRktlSVh0YUtOYjdBcHVHQWtFb211ZTFabDBkRk1TbjNQZ2VnM0p3TGpZeS1odVhKLU9MeU1wNXlaR2JKV0xzUmUwWmdJNWtiOWxDM3hTWlVna0xEWlo2OFhKNFJydm5ra1EtejRjOU92Y2t1?oc=5"
   },
   {
-   "o": "BigGo Finance",
-   "t": "Musk's SpaceX and Tesla Name Five Directors to Special Committees as $3.2 Trillion Merger Takes Shape",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1OHd5LTNHMGxiSjdvOHpXRXpTSXZUbXlhbnAxU25Hby1uTjZRRGZKUHJXVlQ1R09DRmlocUpydzd4MTZIeDhUWXlRMVRLMTNCZ0E2RUFPemhTWHNGR0VOT0JpV2o0cGNTVjY0c09uZjR3Qk9BNVE?oc=5"
-  },
-  {
-   "o": "shattered.io",
-   "t": "Rogan: SpaceX Rockets Explode on Purpose? 2 Quotes",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVWtTXzh6SEdSZUNkb1NUdWd2bGNxaHRPYWZuN0pabzRGUjFxMVppYWV0REJtU1NUX3pYMmVzZ3g0RHRYYWNfVHpVNmMzYXozMG5rbDQyWjZST3EtVnRfU3NSOW1iNV9zc2l4bFYxX1drYzR2SGVaeDdlcTI3aUlpbVdST3kwVFZpTU51eUZCSDlfZ2pvTVpQZUtWeS1BYy1pSFE?oc=5"
-  },
-  {
-   "o": "Advanced Television",
-   "t": "Bank: “SpaceX capitalising on supply-demand imbalance”",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR1VDck56MDJub0FOR250YU1TU2tMX3V6WjFlUnRjVHFua2JMOU9JZnd0eGh0N2VNTFUwTHpTczBXejBuc1NmdmhweFF2QmQzLV8wejJaX0J6TTlWVUE5QkhRbEVOdVhQV3Rodm9NWGxjRXYyOFZNcXBERFRpTkI1VzFQRVNUM25CMnN3QlNQYVBnT2t3Ym1ZSkFDNlBTNWgt?oc=5"
+   "o": "Phoronix",
+   "t": "Linux 7.5 Whitelisting Intel Xeon Server CPUs For Peer-To-Peer DMA \"P2PDMA\"",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WNVRNbjJLVGxJcS0ySzhDUDh4YlcwRnFQeGltQUs4RzZKclRSX3h2NEkwVTNPWmVHYk5OTTdqSUNxeElKZExnX2JwRDlEYWF2RWlpcVg4WUZ1bEFuVGNSMEt2a2ZnR3Iy?oc=5"
   }
  ],
  "en_espanol": [
-  "Tras Anthropic y Nvidia, ¿puede la fusión de Tesla y SpaceX agitar de nuevo la IA?",
-  "Tras Anthropic y Nvidia, ¿puede la fusión de Tesla y SpaceX agitar de nuevo la IA?",
-  "Los bancos que financian a SpaceX para comprar chips de NVIDIA temen que terminen en el espacio",
-  "Reino Unido asegura que desconfía de SpaceX por sus restricciones en plena guerra de Ucrania"
+  "Trump presionó a Intel para ceder al Gobierno de EE. UU. el 9,9% de sus acciones",
+  "Por qué las acciones de Nvidia, AMD e Intel se desploman de nuevo hoy"
  ],
  "investing": []
 }
