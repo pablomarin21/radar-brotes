@@ -1,86 +1,78 @@
 {
- "ts": "2026-11-25T07:22:30+01:00",
+ "ts": "2026-11-25T08:16:30+01:00",
  "fichas": [
-  "alphabet",
-  "youtube",
-  "rm300",
-  "malasia"
+  "australian",
+  "microsoft",
+  "businesses",
+  "techom"
  ],
- "medios": 41,
- "normal": 0,
- "red": "investing",
- "titular": "La MCMC de Malasia demanda a Google por RM300 millones por contenido en YouTube",
- "medio": "Investing.com España",
- "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNGFCY3F5cWJqamhHUG84ODNNMUoyZk92MXJNUU12N2hXanJ2eEtSRVdxMnFXRXJQQ1JNeExSSzdSUXE5cXF1OWR2VXRYekZETHpkUUM5Z0NRNEY0cTFIelIwY2s0amIwcHRFZVFZZXZRODZKMUdwRl9OLTllV3F4YWY5b2NsUFVObHo3Rm9DcVlsWUJRYTZhWVRQbnNINS1YbFZaSHJCODFxZnFPRUZUaTNFOUU2RnhNM2d5SjZoRWdjMGpTMVVDTlBoZms0ZzJPeGdWVmdKYw?oc=5",
+ "medios": 16,
+ "normal": 3.0,
+ "titular": "TECHOM Systems Expands Microsoft 365 Email Migration Services for Australian Businesses",
+ "medio": "EIN Presswire",
+ "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWmx6UWthUDJ2c3poQTRSMWVuNGVwbGtIV2JCd2xLR09OdWF4YUZSaGV4eTduZEkyTk5MQzlOdGx4RFVsVjNiYTZqZEpZOWcxYkRTcVZfZkNMN2I3YjdNMEJvLWZfVVU0TEhJQlp3UW9sd0hWajRHWHVTRFVxampJQ0p2eHNxeGNaOVd3QV9qZV9iSmtnWFpoU2xVenE1RjllS19PS1ZrSi1naTJUZndlTHkyV3NXYUxhaEZMeG4xSEFaTjRxRmc1b0RIMENOMXM?oc=5",
  "titulares": [
   {
-   "o": "Investing.com España",
-   "t": "La MCMC de Malasia demanda a Google por RM300 millones por contenido en YouTube",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNGFCY3F5cWJqamhHUG84ODNNMUoyZk92MXJNUU12N2hXanJ2eEtSRVdxMnFXRXJQQ1JNeExSSzdSUXE5cXF1OWR2VXRYekZETHpkUUM5Z0NRNEY0cTFIelIwY2s0amIwcHRFZVFZZXZRODZKMUdwRl9OLTllV3F4YWY5b2NsUFVObHo3Rm9DcVlsWUJRYTZhWVRQbnNINS1YbFZaSHJCODFxZnFPRUZUaTNFOUU2RnhNM2d5SjZoRWdjMGpTMVVDTlBoZms0ZzJPeGdWVmdKYw?oc=5"
+   "o": "شبكة تواصل الإخبارية",
+   "t": "Australian Dollar extends slide below 0.6600 amid RBA-Fed divergence | FXStreet",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WNzJxQktYeHhFbFpKRTNWY3NNWEoyOHFyWGlRUFVXVm1HRkFaQkE2ai1Qb25XeC05UjNhQUtJa0VCSUVwTnNDb1FkTEotYmhXeGVZ?oc=5"
   },
   {
-   "o": "Mezha.net",
-   "t": "Lionsgate Play Casts AI Performer Yug R.Ai in ‘Eklavya,’ Forms Google Cloud Alliance",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUThiQjlFaWVpRXQxWXBncHB5REZYeGFDMXhneHhjTE9oZ001V1ZWT1dUR0N5UjZEbFJGRlpwaERVUEhwYTRvbWNDVW83TFA0OXRTQ0ttSVBmUFZRRGJmLUdLUnRtdldVdUNkXzFIQmN4Wmp4bkJmMmhxS29lVkNwRmxaRi1XUQ?oc=5"
+   "o": "www.tmgm.com",
+   "t": "Australian Dollar extends slide below 0.6600, fresh YTD low amid RBA-Fed divergence",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSHIzWVBZZ2NoSldjbER0RHhOQVhnMkJvT2xQRjR6MUZnN1dsNzhtUUNFNXYwNTZhR21NM3BuS25IQ05mUE5tcVF0NkVXalpfalJZZU5PZjQ0SDExVWcyRWZ2R284bjVTQzB2UjlkekkwQlU0b0oxM1ozSFFQUFp5RDQ4eHJaMUJSZThzaEVZN0xrb2R4d2JhWFJlT0psWHVZV0kxaHJHUFZnWXBrbnpzTVc3ajEzOEVSLVdILWgzTVlLemhTN05oUERoYWZvcFRtaUstVklQcjZwQkxIX1dyZA?oc=5"
   },
   {
-   "o": "Variety",
-   "t": "Lionsgate Play Casts AI Actor Yug R.Ai in Series ‘Eklavya,’ Partners With Google Cloud (EXCLUSIVE)",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTWNTWDg0c1NLNnNvX2VsY0NIc1I4X1VlTlFkSjJteG0wUE9MYTBUeEl4YTBvbFNiNnVacmF6YnZ0emlCSnVRcGMxWVA2cU1wTzhXNGhOUGZWSVBfV1NCSHYtQ3ZJTElmcWRhZ3E4dzFsVFl6clBtT0xGb1YtT0V5RGcwOGk3QWFhTlFHRlJrOWZIVk5GX3lF?oc=5"
+   "o": "tmgm.com",
+   "t": "Australian Dollar extends slide below 0.6600, fresh YTD low amid RBA-Fed divergence",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc1AzTl9IR3ZwcVFlbVJZekIybnNEQ3FUVDR1QndjaWRIbWFKNUNidG9SWVNZVWNkU080OWRjYnJVbkdOWVdEOEZoNWRsZDRqcW9UU2lmRnEyZ042b2doV2QycnRSV2JZYUh5Q0N3b29WUmFkXzNxNlZLQnZ1bDhmTHNSYUpnYXBmQU5xS1ptTlh5LWRVVXhWem81SEhFX2pVaklqRmV4Y29TS0NObTBTNjZYQkVwSDc2WFNMUXhFejVhTmxXNzZFQnpDekk5aW05ZDJGRHM4RHo3T2RWSTRYVg?oc=5"
   },
   {
-   "o": "SRN News",
-   "t": "Malaysia regulator files lawsuits against Google seeking $146 million over ‘harmful’ content",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVUQtNFduQ3p0UUR6bkRQRnpfd3IxOXp4YVo2aEdPM0pSRHBjSHJYNDJyZlc4NkRFRjNfRjFheEFsNWxONm4yWWhINENpUXBObXpYTFRka3N1ZkJzaVE2bzFOa0E2aEtQRXBPNGhSbnlJQ0JrVTdKdzZLNWxxLVBrS2JEMU15SDlMTjZmVm9vY3JxLXpzU3lCT0JZbVU1aG00TktVQlA2ZTNDZzVpdjI0?oc=5"
+   "o": "Yahoo Finance Australia",
+   "t": "Australian Shares End Lower After Inflation Surges; Develop Global Shares Fall on Mine Pause Plan",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeV9GWlBLbl9xMTNMQXNfcUkwU09BaHMtdDdZenRwU1kyWjBiNUU1YUNFRDZSNmExZFJGYnRkZjloTzZ6Mmt6XzBJUjhXLUplb2ZmSTBpZmVYMlNSX1NmZG5xYktkaFV6WHZzR2Nmc0pfQUIyWGV0M2tnbzRZNTI2YktJb3VFTlpEOGJRenNxNA?oc=5"
   },
   {
-   "o": "marketscreener.com",
-   "t": "Malaysia regulator seeks $146 million damages from Google over 'harmful' content",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd2hrNDE1T3BxbXBmQTBhemZOY21LT3JfZjE1N2dOMVY4cVVTeGpRakRqbTQ5WVJQRl9wV182SlFTNlhXX2JhMjA3ODdVVGZINjF6V2hma045M2RiTHgxR3M5aUh4bUVYSnNmUzFncDdTN05QSW1fYXA5ZExreUNqLWpacUNyT1hWU1VRSEJyb2tpbzlFVDNOem5pRWs5a3ptOVlOeDNENnZjNEVOblBoME1ZZU95YTh1NVhwTmwyWGFMVEJpZlVoaFR3?oc=5"
+   "o": "www.marketscreener.com",
+   "t": "Australian Shares End Lower After Inflation Surges; Develop Global Shares Fall on Mine Pause Plan",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcWZOSi00QTBjQzZPdG5VZTdDaFNZSnBkUzlxYkF6ajRPT0w5cnZlY2NXUldQTnlnZWw2SGtfZ3ZwTHM0QXY3TXdQSEJuVXZXZzM4V1dLdVgzMzNOVDhTb1BkTnZlUjJISnNzU1I0dkg1RmdvUXg3eUZOSzdsZGw2ZGVfTDl0YXI0WFNtQ3E2SEhXREJWQURCNFlEM0htbFBIVWxUVU5tQmVsQVV2cXcwRlJabWQ3OW1wYjFIdTM2Tm1qbko0ZGw4VnUzeFVtQzktc1JhZk11TXcyY3R1Y1hzWFk5UQ?oc=5"
   },
   {
-   "o": "MarketScreener España",
-   "t": "El regulador malasio reclama 146 millones USD a Google por contenidos 'perjudiciales'",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWW1OTkNtdXVtU2E1X1V6M1VnMU15SGxtdzQ0eGtveXIxZjhUUG5WcWU1X3dEU3lyd0JCM1RaUi1xQkN5Y2FmNmF0Y3pRc21XZjR1cG9uMUluZGlNM2pWNkRnNWdzd1RrT3BLbkdidDBMNFd0ZjJRUDU1dDdxX2pxeUVIMVZVNGViU3NkMUhQejlyZDlZUzdSV1JGbkMtSUFHbkhGamp3SnhPSHNtYlBlVzlzTnhjcTZwNzhpRUhYM3NYZ3A5cmJtSWtVVkpqZGFVaUY5QjV3?oc=5"
+   "o": "EIN News",
+   "t": "TECHOM Systems Expands Microsoft 365 Email Migration Services for Australian Businesses",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNWEzd3BfNjNmT1g1V0ExLVliQkoxR2NWMWZFZnlCV19KMFJXM2hJc245VGZEbWlxR3I3R0dyNzlrZnIzcjI4YUNVUVJ4STdLZ1RMUjJqakUxZVV1anc2dklPSnlaenRuWktURTFnSzFySTBSalJ0TTRsbW10VDJoakpfdjZIb1o4Qm1ZeF94R0c2SEo4dUh5SmpJb0NPYzJTSldoUmd0X2FjRTdnQ1c0QWxHcTVHMHdDSlRoRTkyWmdsXzNvSlBkZw?oc=5"
   },
   {
-   "o": "Fello AI",
-   "t": "Google Gemini 5 Release Date: What We Know So Far",
-   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFByR0hiYkpFcWsyUDd0dEhidzlxSVRvRjFEYWgyWUZIM1lrWnZMTzdrVUFrNTZ4TDc0QnZfbGU1RzhRcGs?oc=5"
+   "o": "EIN Presswire",
+   "t": "TECHOM Systems Expands Microsoft 365 Email Migration Services for Australian Businesses",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWmx6UWthUDJ2c3poQTRSMWVuNGVwbGtIV2JCd2xLR09OdWF4YUZSaGV4eTduZEkyTk5MQzlOdGx4RFVsVjNiYTZqZEpZOWcxYkRTcVZfZkNMN2I3YjdNMEJvLWZfVVU0TEhJQlp3UW9sd0hWajRHWHVTRFVxampJQ0p2eHNxeGNaOVd3QV9qZV9iSmtnWFpoU2xVenE1RjllS19PS1ZrSi1naTJUZndlTHkyV3NXYUxhaEZMeG4xSEFaTjRxRmc1b0RIMENOMXM?oc=5"
   },
   {
-   "o": "PPC Land",
-   "t": "Google publishes its search ranking principles 23 days before a UK deadline",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOODdaWWd1MkZxRl9uQnlpZE1Yb2RFZmpyZGtNWXJ2UnE2LWRoWUlvRTZLb3ZNTDdmVjRUcjV1UkR3WW4wdEV4VmdfS21yOVpMU2F5WlVyWDhCdmpnUEM5bVJWSHM2Y1FDZjlORmFNNjFlaUNSdmJaYmVnWk9tVWNIVDMtV2dtNkh0aXVCbmk3NHBlZVVFb2ZEeg?oc=5"
+   "o": "Australasian Lawyer",
+   "t": "Federal Court denies Australian Consumer Law claims against Microsoft",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNakhDU2cxTDJ5NjlaU084aUg5SmFZeE13ZUpYVC1mMWFzSjJoVk83OU81VTBldUJNMTVnZTV2TlRVakRNT3lrcHYxZHN2ZVBCZUhpY0tTWU1pbTJhdHA2cVBIX1hDdFhRQ1RGWkFERkM4OC1WcXRhTEdEWmw5QXl1THRmU1RfRWN3YlVrNzBUUGlqUEdlU3NmOGtiSHlwbDNVa3R1Q0hZbjRFZElPUXdaTFlnaW9BYUpjSnNlcklHSGlDQTZkQVQ3SEFaQ1VxS3FPbnN4SFVBZw?oc=5"
   },
   {
-   "o": "autoevolution",
-   "t": "New Google Maps Colors Leak Ahead of Official Launch, Android Auto Update Also Planned",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaVZJQUxCWnV0NVdHSHBfY3dRLV9rWk9BN1h6MWkyVW1oS3pCZmtWR014M1laUGtYZFpGZjNOVGlGVGxJa0M2VnE1ZUgyTTJBWHA3eDNITlFLdXVqLThUbjRPRmxxSHRhUTdFWUtzMHQ0TEN2S0U3OWRUWUxaWmhUcDZ1YlZVRXp2a0NNQXhrcGZEVEhSQm1TT3lsTnF5bnNuZF9JN0JVOFk1d19KODFxckJ5QW15amh5b2RzR1hfVGNtRV9rdUhxRXkzaGs?oc=5"
+   "o": "www.tmgm.com",
+   "t": "Australian Dollar extends slide below 0.6600, fresh YTD low amid RBA-Fed divergence",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOV0dkUGlQeTcwdFcyLTVRaFotMXFhOVJVM0MzUFRERk80cll5QTdtTnc3Z21DWHRVTWtoc19wTzFPMjFJRDhJaHV4TnU1RjdVUzdqTWh3Q2txWFhEYWhLMWFLWmkyZmM1VnlYTEc0S3VaR3JfYWJ0Q3ZRQjhxVlY1MkhEbDA3bGVLLTNoOHVvOHNrOVJxeE9rN3dBeEJZRU9tdmVCdTVQcWZhQkVlbHZRSkZUSmVaQUJKbUo1Z0gyVVAtWlI5MXVZVXhxV0RqTkZuYVVGMFlvc0NoV2VVR3ozNmx4RTM?oc=5"
   },
   {
-   "o": "GBHackers News",
-   "t": "Hackers Use Fake Google Sheets Chrome Extension to Steal Gmail Emails and Verification Codes",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zMHdnWnNtbzRZcGVLQTBJUmtodWVPRVBZRUh2T3BONV9yUmxvLW9IRTYzZ0RsR3pzMmV3Tk44b1lWY1lncDJpVmpuODZGVVRKUVRoN3AwZ1VzdU1pQm5ietIBZkFVX3lxTE9iSlB6N2Y0RHZFbk9rWnJmaGRVNlZ5V21vbW9NVXF0QVZwOFJLQWVaWDVGTFRoQnNJaHBTWk5FS3oyOUpTTlBCRmdYcXNVUVdLNmpuME80LUVOQm11SGxaZkRGSmpXUQ?oc=5"
+   "o": "The Malaysian Reserve",
+   "t": "OpenTable Announces Proposed Acquisition of Australian Restaurant Technology Company me&u",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT0J2OEVQRlZ3bm9xR090aVl3Yi1YbTc2ZnlVbEZ1UmxESXdEWTlwWFcwZm1RR0FpZnowQUJEZ3hoeEhZNFZvaXNvRjRhYmt4Z2dqOVlfeUVySFBESXdZaV9KanFKX01qZUJKMTl6aHVOZUUtQ1BCM1BRcDF3em9kd3NEanJtNnBSaDRMdVhsTnAwakRaMTlzSjNqUkQzNUNsbldzazQxazM2TUIxQThMNDFqT2pxZlVjOWpFNE9FQ19vMlJrNTFjSHRNcHE?oc=5"
   },
   {
-   "o": "Investing.com India",
-   "t": "Malaysia’s MCMC sues Google for RM300mil over YouTube content By Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLUhIQXJiMHNaSXdheFdVd3RyZ29Wc2tQUnNaQTBSSjhGYnQxWFJvc29BRllBSTBaTFhmM3poZmszTE1ETzJQZmJzb1lUejZiQVZIQU9CeDhkRW5HTEVLX0laUHp5QXViMFVsTmwxZVJWVVdFbHFiUTVUSnR1Y1ZOUE9lemNzS3U4c3RIbVdCbVI3SmV2bUN3NTJXM1RIYUVHazdEd2JOVndOcVJ4eTRJMkpQeHFqa0l2d1FkYlFR?oc=5"
+   "o": "The Malaysian Reserve",
+   "t": "OpenTable Announces Proposed Acquisition of Australian Restaurant Technology Company me&u",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbjdHLXh2VE5oOURQUS1Dd1RwdldFdlU3SFpiMVBtTHBsUE1BRjYxaVJFNS1qQUxlUU9vLU1qOTFlNDVKdjNRQmxOamQ5MldCLXhyZjM3cF9QWm41NHgxMlRqV09feGNFamdmUGg2bTNoYWRiTXQ1VmROMlZhQk04VUVFeTdyUGdJejBUVVFFa1VIMTJOWFZ6cXV0ZTByVHVwODJCb216YmhTU2dQWm9VWmdFR3VxUDMyckp3T1RUcnV5ZHZxWXdyY2QyOC1lOWVOUHc?oc=5"
   },
   {
-   "o": "Investing.com Canada",
-   "t": "Malaysia’s MCMC sues Google for RM300mil over YouTube content By Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRFhERExIX1VsMTRXV3pBZmRwX2ZvdWFuQmZxbExvMVI2M3ZBM19FMVpaRkVFU3p6Z1dtY18zbVpvbGJaWTNEclRUeUhkb0xKYVR6UTZQSkljQ1h1WmVtZnMwSzU2M3NjZFlxakl4RnBsN1BQcXpRZFlndGltaGNrSkJsaUVXYkJfcjZud3F1M0hFRkhmdk9ZVkdoZ19lbUtpbE9VdVlFMTllajdyV0pHT1cxSmd3YU1tUkZQUXJR?oc=5"
+   "o": "The Journal News | lohud.com",
+   "t": "TECHOM Systems Expands Microsoft 365 Email Migration Services for Australian Businesses",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTmh1R1JyMk9xbW1Faks5YVlaYXBpVzNfTEx4ZmUzYks3bzdTbVNYbVRXM3gtM1gxandKTU9ySXU4MU1VMmczLVY3dTYxUmg4QUxUUVNHQnplSzhkVllxWTZOV1ZCNnplb1Ewc3ZPMDktWWdMdHVnY3o5bm9jZkNPd3dzWjN4Ym9jNTF5OGZLeHhaYWY2a1VfZm9aQzRKWGFlbmxLWWUxNGhTaW1FemVIWlF1RTRlZEF6TlE3VmVla0dqcDUzZEd1aC11YThTNlFVMVVF?oc=5"
   }
  ],
- "en_espanol": [
-  "La MCMC de Malasia demanda a Google por RM300 millones por contenido en YouTube"
- ],
- "investing": [
-  {
-   "t": "La MCMC de Malasia demanda a Google por RM300 millones por contenido en YouTube",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNGFCY3F5cWJqamhHUG84ODNNMUoyZk92MXJNUU12N2hXanJ2eEtSRVdxMnFXRXJQQ1JNeExSSzdSUXE5cXF1OWR2VXRYekZETHpkUUM5Z0NRNEY0cTFIelIwY2s0amIwcHRFZVFZZXZRODZKMUdwRl9OLTllV3F4YWY5b2NsUFVObHo3Rm9DcVlsWUJRYTZhWVRQbnNINS1YbFZaSHJCODFxZnFPRUZUaTNFOUU2RnhNM2d5SjZoRWdjMGpTMVVDTlBoZms0ZzJPeGdWVmdKYw?oc=5"
-  }
- ]
+ "en_espanol": [],
+ "investing": []
 }
