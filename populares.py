@@ -68,6 +68,19 @@ RELLENO_EXTRA = re.compile(r"movimientos (previos|en el mercado|destacados|del m
                            r"deutsche bank|hsbc|wells fargo|santander|bbva|renta 4|bankinter) (mejora|rebaja|eleva|recorta|ve |preve|espera|cree|"
                            r"inicia|reitera|apuesta|recomienda|sube el precio|baja el precio)", re.I)
 
+# 25-nov: de madrugada salieron el IPC de Australia, el PIB de Perú y una demanda de Malasia a Google. Al inversor español le
+# importan EE. UU., Europa, España, China, Japón y Reino Unido: si el titular es de otro país, no es aviso.
+GEO_FUERA = re.compile(r"\b(australia|australian|aussie|rba|nueva zelanda|new zealand|nzd|peru|chile|colombia|argentina|mexico|"
+                       r"brasil|brazil|canada|canadian|india|indian|rupee|indonesia|malasia|malaysia|malaysian|ringgit|filipinas|"
+                       r"philippines|tailandia|thailand|vietnam|corea|korea|korean|turquia|turkey|turkish|lira|sudafrica|south africa|"
+                       r"nigeria|egipto|egypt|pakistan|polonia|poland|hungria|hungary|suecia|sweden|noruega|norway|dinamarca|"
+                       r"singapur|singapore|hong kong)\b")
+# Palabras que no son una noticia por sí solas aunque vayan con mayúscula en muchos titulares a la vez
+NO_FICHA = {"dollar", "dolar", "euro", "yen", "yuan", "pound", "sterling", "asian", "japanese", "chinese", "british", "german",
+            "french", "us", "united", "states"}
+# El tope diario solo cuenta los avisos desde este momento (los 8 de la madrugada del 25-nov, con el criterio viejo, no cuentan)
+CUENTA_DESDE = "2026-11-25T11:30:00+01:00"
+
 # Lo que mueve el dinero de cualquier inversor (tipos, bancos centrales): cuenta siempre como impacto
 MERCADO = {"fed", "bce", "boj", "boe", "inflacion", "empleo", "pib", "aranceles", "vivienda", "petroleo", "oro", "bitcoin", "bonos",
            "ibex", "wallstreet"}

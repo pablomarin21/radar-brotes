@@ -211,6 +211,8 @@ def evaluar(items, ahora, E):
         # (sube, se hunde, tipos, aranceles, quiebra, OPA…) en al menos un tercio de sus titulares; los bancos centrales, siempre.
         if f not in P.MERCADO and sum(bool(P.IMPACTO.search(R.norm(x["t"]))) for x in xs) * 3 < len(xs):
             continue
+        if f in P.NO_FICHA or P.GEO_FUERA.search(f) or sum(bool(P.GEO_FUERA.search(R.norm(x["t"]))) for x in xs) * 2 >= len(xs):
+            continue  # 25-nov: noticias de otros países (Australia, Perú…) o de una divisa a secas
         # Ya avisado = mismo nombre Y algo más en común (SpaceX+IPO ≠ SpaceX+fusión con Tesla: otra noticia). 24-nov.
         # Escalada: la misma historia vuelve con el DOBLE de medios (y ≥ ESCALADA) → se avisa otra vez.
         clave = {f} | set(socios)
@@ -279,7 +281,7 @@ def investing_directo(items, ahora, E):
         n_t = R.norm(x["t"])
         if not P.IMPACTO.search(n_t):  # 24-nov: solo si mueve el mercado (ver populares.py)
             continue
-        if P.RELLENO_EXTRA.search(n_t):
+        if P.RELLENO_EXTRA.search(n_t) or P.GEO_FUERA.search(n_t):
             continue
         claves = [f for f in nombres(x["t"]) if f in CLAVE and (f not in MACRO_ES or any(R.has(a, n_t) for a in MACRO_ES[f]))
                   and (f not in P.SOLO_FUERTE or P.FUERTE.search(n_t))  # 25-nov: oro/bonos/bitcoin… solo con movimiento fuerte
@@ -352,7 +354,7 @@ FRENO_MIN = 20  # como mucho un aviso cada 20 min entre los dos detectores (Mac 
 def demasiado_pronto(d, previos):
     """Freno común: ¿hubo otro aviso (de cualquier detector) hace < FRENO_MIN min, o ya van TOPE_DIA hoy?"""
     t = datetime.fromisoformat(d["ts"])
-    hoy = sum(1 for a in previos if str(a.get("ts", ""))[:10] == d["ts"][:10])
+    hoy = sum(1 for a in previos if str(a.get("ts", ""))[:10] == d["ts"][:10] and str(a.get("ts", "")) >= P.CUENTA_DESDE)
     for a in previos:
         try:
             if 0 <= (t - datetime.fromisoformat(a["ts"])).total_seconds() < FRENO_MIN * 60:
