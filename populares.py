@@ -16,7 +16,7 @@ POP_ENT = {
     # EE. UU.: marcas que conoce cualquiera
     "disney": ["disney"], "boeing": ["boeing"], "pfizer": ["pfizer"], "nike": ["nike"], "cocacola": ["coca-cola", "coca cola"],
     "mcdonalds": ["mcdonald"], "starbucks": ["starbucks"], "uber": ["uber"], "airbnb": ["airbnb"], "spotify": ["spotify"],
-    "jpmorgan": ["jpmorgan", "jp morgan"], "goldman": ["goldman sachs"], "mastercard": ["mastercard"], "lilly": ["eli lilly"],
+    "mastercard": ["mastercard"], "lilly": ["eli lilly"],
     "novo": ["novo nordisk", "ozempic", "wegovy"], "coinbase": ["coinbase"], "microstrategy": ["microstrategy"],
     "ethereum": ["ethereum"], "musk": ["elon musk", "musk"], "softbank": ["softbank"],
     # Europa y Asia
@@ -36,17 +36,41 @@ POP_ENT = {
 NO_FED = re.compile(r"\b(who|that|which|was|were|been|being|get|got|gets|well|grass|breast|spoon|force|hand|i|we|they|he|she|you|many|is|are)[- ]fed\b"
                     r"|\bfed (him|her|them|us|me|you|it|his|their|my|our|up|through|by)\b|\bfed minister"
                     r"|\bfed\b.{0,40}\b(calories|dog|cat|baby|babies|animals?|cattle|livestock)\b")
-FED_SEGURO = ("federal reserve", "reserva federal", "powell", "fomc", "waller")
+FED_SEGURO = ("federal reserve", "reserva federal", "jerome powell", "warsh", "fomc", "waller")
 
 # Cobertura mínima para que un titular de Investing.com España sea aviso: otros N medios con la misma empresa o tema en 2 h
 # (24-nov: con 2 salía «Ingresos de Xiaomi se mantienen estables», 4 medios; Nvidia arrastrando a los chips tenía 169)
 INV_MIN = 5
+# 25-nov, Pablo: «noticias que realmente impacten al mercado y a los inversores del día a día».
 # …y que hable de algo que MUEVE el mercado (sube, cae, aranceles, tipos, OPA…), no de una opinión:
 # «Goldman Sachs: el comercio de IA depende de los retornos, no de Nvidia» no es aviso; «los chips caen tras el rally de Nvidia», sí
 IMPACTO = re.compile(r"\b(sube|suben|subida|dispara|disparan|rebota|rebotan|rebote|repunta|repuntan|cae|caen|caida|hunde|hunden|"
                      r"desploma|desploman|desplome|derrumba|derrumbe|arrastra|arrastran|lastra|lastran|rally|record|pierde|pierden|"
                      r"gana|ganan|vuela|vuelan|crash|tipos|aranceles?|opa|fusion|adquiere|adquisicion|compra|quiebra|despide|despidos|"
-                     r"dimite|recorta|recortes|eleva|multa|demanda|prohibe|sancion|sanciones|rescate|suspende|veto|alerta)\b|\d ?%")
+                     r"dimite|recorta|recortes|eleva|multa|demanda|prohibe|sancion|sanciones|rescate|suspende|veto|alerta|"
+                     # lo mismo en inglés, para los estallidos (la mayoría de titulares llegan en inglés)
+                     r"soars?|soared|surges?|surged|plunges?|plunged|tumbles?|tumbled|slumps?|slumped|sinks?|sank|jumps?|jumped|"
+                     r"rall(y|ies|ied)|crash(es)?|sell-?off|rout|rebounds?|falls?|fell|drops?|dropped|rises?|rose|gains?|slides?|slid|"
+                     r"skyrockets?|hikes?|rate cuts?|tariffs?|inflation|bankrupt(cy)?|takeover|merger|acquires?|buyout|layoffs?|job cuts|"
+                     r"antitrust|halts?|debut|salida a bolsa|opv|estreno)\b|\d ?%")
+# Oro, petróleo, bonos, bitcoin, bolsas y vivienda salen TODOS los días («El oro cae…», «Los rendimientos de los bonos caen…»):
+# en Investing directo solo cuentan si el movimiento es fuerte (≥ 2 %, récord, desplome…). Aranceles, IPC o empleo sí valen siempre.
+SOLO_FUERTE = {"oro", "petroleo", "bonos", "bitcoin", "wallstreet", "vivienda"}
+FUERTE = re.compile(r"hunde|desplom|dispara|record|historic|mayor (caida|subida|desplome|alza)|crash|panico|plunge|soar|"
+                    r"\b([2-9]|\d{2})([.,]\d+)? ?%")
+# Investing directo: no dos avisos de la misma empresa o tema en menos de 3 h (24-nov: Nvidia a las 08:51 y otra vez a las 09:15)
+MISMA_FICHA_H = 3  # (cuenta aunque la empresa fuera secundaria en el aviso anterior)
+# Plantillas de Investing que no son noticia («Movimientos previos a la apertura: Nvidia cae; HPE y Semtech bajan»)
+RELLENO_EXTRA = re.compile(r"movimientos (previos|en el mercado|destacados|del mercado)|valores (que|a) (seguir|vigilar)|"
+                           r"claves (del|de la|para la) (dia|sesion|semana)|lo que (hay que|debes) saber|resumen (del|de la)|"
+                           # un banco opinando de otra empresa («Goldman mejora ITM Power tras caída del 61 %») no es noticia de ese banco
+                           r"^(goldman( sachs)?|jp ?morgan|morgan stanley|ubs|barclays|citi(group)?|bank of america|bofa|jefferies|bernstein|"
+                           r"deutsche bank|hsbc|wells fargo|santander|bbva|renta 4|bankinter) (mejora|rebaja|eleva|recorta|ve |preve|espera|cree|"
+                           r"inicia|reitera|apuesta|recomienda|sube el precio|baja el precio)", re.I)
+
+# Lo que mueve el dinero de cualquier inversor (tipos, bancos centrales): cuenta siempre como impacto
+MERCADO = {"fed", "bce", "boj", "boe", "inflacion", "empleo", "pib", "aranceles", "vivienda", "petroleo", "oro", "bitcoin", "bonos",
+           "ibex", "wallstreet"}
 
 # Alias nuevos para entidades que ya existían
 ALIAS = {"amd": ["advanced micro devices"], "nvidia": ["jensen huang"]}
@@ -58,3 +82,5 @@ def aplicar(R):
         R.ENT.setdefault(k, al)
     for k, al in ALIAS.items():
         R.ENT[k] = R.ENT[k] + [a for a in al if a not in R.ENT[k]]
+    # «Powell» a secas cazaba a un escritor (Tom Powell) y a un jugador de snooker (Riley Powell); la Fed ya es de Warsh
+    R.ENT["fed"] = [x for x in R.ENT["fed"] if x != "powell"] + ["jerome powell", "warsh"]

@@ -207,13 +207,18 @@ def evaluar(items, ahora, E):
         # (o lo lleva al menos la mitad de los titulares); una empresa desconocida, solo si la cuenta todo el mundo.
         if f not in POPULAR and not any(g in POPULAR and junto[g] * 2 >= len(xs) for g in socios) and len(medios) < P.MEGA:
             continue
+        # 25-nov (Pablo: «que impacten al mercado y a los inversores del día a día»): la historia tiene que ir de un MOVIMIENTO
+        # (sube, se hunde, tipos, aranceles, quiebra, OPA…) en al menos un tercio de sus titulares; los bancos centrales, siempre.
+        if f not in P.MERCADO and sum(bool(P.IMPACTO.search(R.norm(x["t"]))) for x in xs) * 3 < len(xs):
+            continue
         # Ya avisado = mismo nombre Y algo más en común (SpaceX+IPO ≠ SpaceX+fusión con Tesla: otra noticia). 24-nov.
         # Escalada: la misma historia vuelve con el DOBLE de medios (y ≥ ESCALADA) → se avisa otra vez.
         clave = {f} | set(socios)
         frio = [d for d in E["disparos"] if f in d["fichas"] and (len(clave & set(d["fichas"])) >= 2 or len(d["fichas"]) == 1 or not socios)
                 and (ahora - datetime.fromisoformat(d["ts"])).total_seconds() < ENFRIAR_H * 3600]
         # (una sola escalada por historia: el 24-nov Anthropic salió 3 veces, 13 → 27 → 57 medios)
-        if frio and (any(d.get("escalada") for d in frio) or not (len(medios) >= ESCALADA and len(medios) >= 2 * max(d["medios"] for d in frio))):
+        # …y al menos 3 h después (25-nov: Anthropic salía dos veces en 21 min, misma oleada)
+        if frio and (any(d.get("escalada") or (ahora - datetime.fromisoformat(d["ts"])).total_seconds() < 3 * 3600 for d in frio) or not (len(medios) >= ESCALADA and len(medios) >= 2 * max(d["medios"] for d in frio))):
             continue
         rep = max(xs, key=lambda x: (len(nombres(x["t"]) & ({f} | set(socios))), x["o"] == "Investing.com España", "newsroom" in x["o"].lower() or "press" in x["o"].lower(), x["o"] in ("Investing.com", "Expansión", "Cinco Días", "EL PAÍS", "Europa Press", "Investing.com España")))
         # La escalada tiene que traer algo NUEVO: el 23-nov «La Fed debate un nuevo alza…» salió dos veces con el mismo titular
@@ -274,7 +279,12 @@ def investing_directo(items, ahora, E):
         n_t = R.norm(x["t"])
         if not P.IMPACTO.search(n_t):  # 24-nov: solo si mueve el mercado (ver populares.py)
             continue
-        claves = [f for f in nombres(x["t"]) if f in CLAVE and (f not in MACRO_ES or any(R.has(a, n_t) for a in MACRO_ES[f]))]
+        if P.RELLENO_EXTRA.search(n_t):
+            continue
+        claves = [f for f in nombres(x["t"]) if f in CLAVE and (f not in MACRO_ES or any(R.has(a, n_t) for a in MACRO_ES[f]))
+                  and (f not in P.SOLO_FUERTE or P.FUERTE.search(n_t))  # 25-nov: oro/bonos/bitcoin… solo con movimiento fuerte
+                  and not any(f in d["fichas"] and (ahora - datetime.fromisoformat(d["ts"])).total_seconds() < P.MISMA_FICHA_H * 3600
+                              for d in E["disparos"])]
         if not claves:
             continue
         cobertura = {f: {y["o"] for y in dos_h if y["o"] != INV_MEDIO and f in nombres(y["t"])} for f in claves}
