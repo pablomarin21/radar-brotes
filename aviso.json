@@ -1,54 +1,86 @@
 {
- "ts": "2026-11-25T06:37:30+01:00",
+ "ts": "2026-11-25T07:22:30+01:00",
  "fichas": [
-  "pib",
-  "peru"
+  "alphabet",
+  "youtube",
+  "rm300",
+  "malasia"
  ],
- "medios": 6,
+ "medios": 41,
  "normal": 0,
  "red": "investing",
- "titular": "El PIB de Perú crece un 3,1% en el tercer trimestre por el auge de la inversión privada",
+ "titular": "La MCMC de Malasia demanda a Google por RM300 millones por contenido en YouTube",
  "medio": "Investing.com España",
- "link": "https://es.investing.com/news/world-news/el-pib-de-peru-crece-un-31-en-el-tercer-trimestre-por-el-auge-de-la-inversion-privada-3941014",
+ "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNGFCY3F5cWJqamhHUG84ODNNMUoyZk92MXJNUU12N2hXanJ2eEtSRVdxMnFXRXJQQ1JNeExSSzdSUXE5cXF1OWR2VXRYekZETHpkUUM5Z0NRNEY0cTFIelIwY2s0amIwcHRFZVFZZXZRODZKMUdwRl9OLTllV3F4YWY5b2NsUFVObHo3Rm9DcVlsWUJRYTZhWVRQbnNINS1YbFZaSHJCODFxZnFPRUZUaTNFOUU2RnhNM2d5SjZoRWdjMGpTMVVDTlBoZms0ZzJPeGdWVmdKYw?oc=5",
  "titulares": [
   {
    "o": "Investing.com España",
-   "t": "El PIB de Perú crece un 3,1% en el tercer trimestre por el auge de la inversión privada",
-   "link": "https://es.investing.com/news/world-news/el-pib-de-peru-crece-un-31-en-el-tercer-trimestre-por-el-auge-de-la-inversion-privada-3941014"
+   "t": "La MCMC de Malasia demanda a Google por RM300 millones por contenido en YouTube",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNGFCY3F5cWJqamhHUG84ODNNMUoyZk92MXJNUU12N2hXanJ2eEtSRVdxMnFXRXJQQ1JNeExSSzdSUXE5cXF1OWR2VXRYekZETHpkUUM5Z0NRNEY0cTFIelIwY2s0amIwcHRFZVFZZXZRODZKMUdwRl9OLTllV3F4YWY5b2NsUFVObHo3Rm9DcVlsWUJRYTZhWVRQbnNINS1YbFZaSHJCODFxZnFPRUZUaTNFOUU2RnhNM2d5SjZoRWdjMGpTMVVDTlBoZms0ZzJPeGdWVmdKYw?oc=5"
   },
   {
-   "o": "Kotak Neo",
-   "t": "US PCE Inflation Data and Q3 GDP Due Today; Key Numbers to Watch Ahead of December Fed Rate Decision",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMzRJdVRHRFk5NjA5c2FRRVkwZzllSzFiODNwbHhjeVZTaDk5R3pnR1dOVmpncTNlRmRubnVyd1lJRndqMy1GVC1LODNTMm9nVTF3U0FhTkw3aHFfcWk5U1gteV9JZl90WG1xMzVlSkM1SmkxaXplQ0FmRDdfcGplMUxrMjl4MDZFZnVzUFBIekhqTzBoM29mdURqampfaEFsaklKVWdfUlBMOVF5ZkE3VjJraXduZUtKWnk5cV83Y1U3a3lUaUE?oc=5"
+   "o": "Mezha.net",
+   "t": "Lionsgate Play Casts AI Performer Yug R.Ai in ‘Eklavya,’ Forms Google Cloud Alliance",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUThiQjlFaWVpRXQxWXBncHB5REZYeGFDMXhneHhjTE9oZ001V1ZWT1dUR0N5UjZEbFJGRlpwaERVUEhwYTRvbWNDVW83TFA0OXRTQ0ttSVBmUFZRRGJmLUdLUnRtdldVdUNkXzFIQmN4Wmp4bkJmMmhxS29lVkNwRmxaRi1XUQ?oc=5"
   },
   {
-   "o": "Stocktwits",
-   "t": "Cathie Wood’s ARK Sees ‘Excellent Entry Points’ In AI — ‘Big Short’ Steve Eisman Warns Of Recession If Anthropic Or OpenAI Fails",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMnhnUmE1WUxxbHZXbXhpMlVkcFk3Njd3QjFvQUc0VkVZa0FJYXN4NS1VTW9FMU9mNEdNRFhIeHV3N1VuX2RhcUZiWUJoUDBBY0ZZNER1ZlVocTBOQi1oYlhEWDBDaFoya0JrS2I4bHZsbXUtNkJLZVpTRXpyZlRQQXJYTGVRUTlkV0N2VkgyYnY3QUhQeGF2WUd1UVZzdHpNVmVnNjJwVHdrNEV1Tms1aXlRXzA5b05nM3VRVDViX29Geml0S1dhUU1TZUh1SEhoWWt5dXhaM0IzcEtMdXpvTHdUdXdnUQ?oc=5"
+   "o": "Variety",
+   "t": "Lionsgate Play Casts AI Actor Yug R.Ai in Series ‘Eklavya,’ Partners With Google Cloud (EXCLUSIVE)",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTWNTWDg0c1NLNnNvX2VsY0NIc1I4X1VlTlFkSjJteG0wUE9MYTBUeEl4YTBvbFNiNnVacmF6YnZ0emlCSnVRcGMxWVA2cU1wTzhXNGhOUGZWSVBfV1NCSHYtQ3ZJTElmcWRhZ3E4dzFsVFl6clBtT0xGb1YtT0V5RGcwOGk3QWFhTlFHRlJrOWZIVk5GX3lF?oc=5"
   },
   {
-   "o": "Yahoo Finance",
-   "t": "Cathie Wood’s ARK Sees ‘Excellent Entry Points’ In AI — ‘Big Short’ Steve Eisman Warns Of Recession If Anthropic Or OpenAI Fails",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGVtUlo5d0dnTWszSWUzMXBSblIwSVRWQnBjUXlNOUxrdVFmelVxZEhFeGZPdEJVWGZvQWxrWVliY3VsR0d4cmlOV1JuSU9oemdVV0haZnZtRi1jcUs4SlhfTW9yaDBKdFJTaW5uQjJRWWtWOTdPT3JXTUhjS205Q2tsOHVKelowd1lRYkRSdGJNT2JwVkdndU93?oc=5"
+   "o": "SRN News",
+   "t": "Malaysia regulator files lawsuits against Google seeking $146 million over ‘harmful’ content",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVUQtNFduQ3p0UUR6bkRQRnpfd3IxOXp4YVo2aEdPM0pSRHBjSHJYNDJyZlc4NkRFRjNfRjFheEFsNWxONm4yWWhINENpUXBObXpYTFRka3N1ZkJzaVE2bzFOa0E2aEtQRXBPNGhSbnlJQ0JrVTdKdzZLNWxxLVBrS2JEMU15SDlMTjZmVm9vY3JxLXpzU3lCT0JZbVU1aG00TktVQlA2ZTNDZzVpdjI0?oc=5"
   },
   {
-   "o": "شبكة تواصل الإخبارية",
-   "t": "New Zealand Dollar declines below 0.5500 ahead of US PCE, GDP releases | FXStreet",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DMEVqME1DV3FzV1ZkTVZMVzVrTkpwWVNyS2VDTnU2bThyREhEWDZsZURuT1NGWWl3a1A4TEJ5Y3Nucmk2c0ZGdkdZVE1LamdwSGhB?oc=5"
+   "o": "marketscreener.com",
+   "t": "Malaysia regulator seeks $146 million damages from Google over 'harmful' content",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd2hrNDE1T3BxbXBmQTBhemZOY21LT3JfZjE1N2dOMVY4cVVTeGpRakRqbTQ5WVJQRl9wV182SlFTNlhXX2JhMjA3ODdVVGZINjF6V2hma045M2RiTHgxR3M5aUh4bUVYSnNmUzFncDdTN05QSW1fYXA5ZExreUNqLWpacUNyT1hWU1VRSEJyb2tpbzlFVDNOem5pRWs5a3ptOVlOeDNENnZjNEVOblBoME1ZZU95YTh1NVhwTmwyWGFMVEJpZlVoaFR3?oc=5"
   },
   {
-   "o": "FXStreet",
-   "t": "New Zealand Dollar declines below 0.5500 ahead of US PCE, GDP releases",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaGVzdWNHcTQzSFgtRUktUjFfeVptenNKQmE5ekVQUXg2ekpGTjRIUGNVc2NYa3JhWk1uNnRIR1B0OU1GUFdseHlITVM3U3RVMkVTVDVtWnBmSi10NS0tcEtGTmxxR0pCeW5hc2Y2akFhOWhCaUprcG85RU10bGtaNlJrSTdPTHZtSnpvS0ZObXBjajd6WGpYa1NNbWhTenVoTG0yYWZZc1BEMk55cEdiZw?oc=5"
+   "o": "MarketScreener España",
+   "t": "El regulador malasio reclama 146 millones USD a Google por contenidos 'perjudiciales'",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWW1OTkNtdXVtU2E1X1V6M1VnMU15SGxtdzQ0eGtveXIxZjhUUG5WcWU1X3dEU3lyd0JCM1RaUi1xQkN5Y2FmNmF0Y3pRc21XZjR1cG9uMUluZGlNM2pWNkRnNWdzd1RrT3BLbkdidDBMNFd0ZjJRUDU1dDdxX2pxeUVIMVZVNGViU3NkMUhQejlyZDlZUzdSV1JGbkMtSUFHbkhGamp3SnhPSHNtYlBlVzlzTnhjcTZwNzhpRUhYM3NYZ3A5cmJtSWtVVkpqZGFVaUY5QjV3?oc=5"
+  },
+  {
+   "o": "Fello AI",
+   "t": "Google Gemini 5 Release Date: What We Know So Far",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFByR0hiYkpFcWsyUDd0dEhidzlxSVRvRjFEYWgyWUZIM1lrWnZMTzdrVUFrNTZ4TDc0QnZfbGU1RzhRcGs?oc=5"
+  },
+  {
+   "o": "PPC Land",
+   "t": "Google publishes its search ranking principles 23 days before a UK deadline",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOODdaWWd1MkZxRl9uQnlpZE1Yb2RFZmpyZGtNWXJ2UnE2LWRoWUlvRTZLb3ZNTDdmVjRUcjV1UkR3WW4wdEV4VmdfS21yOVpMU2F5WlVyWDhCdmpnUEM5bVJWSHM2Y1FDZjlORmFNNjFlaUNSdmJaYmVnWk9tVWNIVDMtV2dtNkh0aXVCbmk3NHBlZVVFb2ZEeg?oc=5"
+  },
+  {
+   "o": "autoevolution",
+   "t": "New Google Maps Colors Leak Ahead of Official Launch, Android Auto Update Also Planned",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaVZJQUxCWnV0NVdHSHBfY3dRLV9rWk9BN1h6MWkyVW1oS3pCZmtWR014M1laUGtYZFpGZjNOVGlGVGxJa0M2VnE1ZUgyTTJBWHA3eDNITlFLdXVqLThUbjRPRmxxSHRhUTdFWUtzMHQ0TEN2S0U3OWRUWUxaWmhUcDZ1YlZVRXp2a0NNQXhrcGZEVEhSQm1TT3lsTnF5bnNuZF9JN0JVOFk1d19KODFxckJ5QW15amh5b2RzR1hfVGNtRV9rdUhxRXkzaGs?oc=5"
+  },
+  {
+   "o": "GBHackers News",
+   "t": "Hackers Use Fake Google Sheets Chrome Extension to Steal Gmail Emails and Verification Codes",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zMHdnWnNtbzRZcGVLQTBJUmtodWVPRVBZRUh2T3BONV9yUmxvLW9IRTYzZ0RsR3pzMmV3Tk44b1lWY1lncDJpVmpuODZGVVRKUVRoN3AwZ1VzdU1pQm5ietIBZkFVX3lxTE9iSlB6N2Y0RHZFbk9rWnJmaGRVNlZ5V21vbW9NVXF0QVZwOFJLQWVaWDVGTFRoQnNJaHBTWk5FS3oyOUpTTlBCRmdYcXNVUVdLNmpuME80LUVOQm11SGxaZkRGSmpXUQ?oc=5"
+  },
+  {
+   "o": "Investing.com India",
+   "t": "Malaysia’s MCMC sues Google for RM300mil over YouTube content By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLUhIQXJiMHNaSXdheFdVd3RyZ29Wc2tQUnNaQTBSSjhGYnQxWFJvc29BRllBSTBaTFhmM3poZmszTE1ETzJQZmJzb1lUejZiQVZIQU9CeDhkRW5HTEVLX0laUHp5QXViMFVsTmwxZVJWVVdFbHFiUTVUSnR1Y1ZOUE9lemNzS3U4c3RIbVdCbVI3SmV2bUN3NTJXM1RIYUVHazdEd2JOVndOcVJ4eTRJMkpQeHFqa0l2d1FkYlFR?oc=5"
+  },
+  {
+   "o": "Investing.com Canada",
+   "t": "Malaysia’s MCMC sues Google for RM300mil over YouTube content By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRFhERExIX1VsMTRXV3pBZmRwX2ZvdWFuQmZxbExvMVI2M3ZBM19FMVpaRkVFU3p6Z1dtY18zbVpvbGJaWTNEclRUeUhkb0xKYVR6UTZQSkljQ1h1WmVtZnMwSzU2M3NjZFlxakl4RnBsN1BQcXpRZFlndGltaGNrSkJsaUVXYkJfcjZud3F1M0hFRkhmdk9ZVkdoZ19lbUtpbE9VdVlFMTllajdyV0pHT1cxSmd3YU1tUkZQUXJR?oc=5"
   }
  ],
  "en_espanol": [
-  "El PIB de Perú crece un 3,1% en el tercer trimestre por el auge de la inversión privada"
+  "La MCMC de Malasia demanda a Google por RM300 millones por contenido en YouTube"
  ],
  "investing": [
   {
-   "t": "El PIB de Perú crece un 3,1% en el tercer trimestre por el auge de la inversión privada",
-   "link": "https://es.investing.com/news/world-news/el-pib-de-peru-crece-un-31-en-el-tercer-trimestre-por-el-auge-de-la-inversion-privada-3941014"
+   "t": "La MCMC de Malasia demanda a Google por RM300 millones por contenido en YouTube",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNGFCY3F5cWJqamhHUG84ODNNMUoyZk92MXJNUU12N2hXanJ2eEtSRVdxMnFXRXJQQ1JNeExSSzdSUXE5cXF1OWR2VXRYekZETHpkUUM5Z0NRNEY0cTFIelIwY2s0amIwcHRFZVFZZXZRODZKMUdwRl9OLTllV3F4YWY5b2NsUFVObHo3Rm9DcVlsWUJRYTZhWVRQbnNINS1YbFZaSHJCODFxZnFPRUZUaTNFOUU2RnhNM2d5SjZoRWdjMGpTMVVDTlBoZms0ZzJPeGdWVmdKYw?oc=5"
   }
  ]
 }
