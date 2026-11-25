@@ -1,84 +1,86 @@
 {
- "ts": "2026-11-25T00:34:04+01:00",
+ "ts": "2026-11-25T02:04:17+01:00",
  "fichas": [
-  "alverde",
-  "santander",
-  "angel",
-  "mexico"
+  "inflacion",
+  "australia"
  ],
- "medios": 12,
- "normal": 0.5,
- "titular": "Ángel Alverde Losada será el nuevo presidente del Consejo de Santander México",
- "medio": "Revista Merca2.0",
- "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1J4VC1tZ0xRNG9NcWlzM00zTE1IU3NkZlhqbWFuNV85aVdkb05Yc3lheW0xdFE4N0F5dnlqYTl5QTVVNktzd2NEenJweXhmN2t4MjVZMmk4SnFUbDc3N0N5ekpMNHA4MEV0czNCckNrdURTMlhqYVBlVHg1aXlSdWRNTTdRU1F4X0stTW00WXZ1elhwZFZzSENrbERnS3FRNFlBeQ?oc=5",
+ "medios": 11,
+ "normal": 0,
+ "red": "investing",
+ "titular": "El IPC de Australia sube por encima de las previsiones en octubre",
+ "medio": "Investing.com España",
+ "link": "https://es.investing.com/news/economic-indicators/el-ipc-de-australia-sube-por-encima-de-las-previsiones-en-octubre-3942828",
  "titulares": [
   {
-   "o": "Expansión",
-   "t": "Designa Santander a Ángel Alverde Losada como presidente de su Consejo de Administración",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSl9mSEIwN3JwT3BJckRnVU0zLUM1T2VOeTFoMjI0MDRzYjc5XzIxWmoyU3VKMVJfa3N2b1BDaFJYWmNkZ3pCUW1WczVhejRQbjdzYkx4ZDJJMTlQcmdkNmF1RFlPNXZKOV8wakpJSnQyXzk3RHpiYU5udlg0amZMMzBDUGJPOWVVTjR2T0lpaWZxTnNYTUlOd2JJbVB1eU1iVXpiLWZlYWQxejhDeGc3Umd5cXE0TFozNWNnQkJ4UW04XzN1MkJsWNIB1gFBVV95cUxOMGdDSkhpcWVIdkZ3X3J4UzlhMWVWR2RZZ3ZoMVZmYlZtQnM3N01tTXVBenlGVERjSTRmRlA1ZUpGSk5WaHJhVHZST3lGSDRsQTRfMnhVS0QzSFNDUGFCeTNDUXVzWEhyWXdrMUxoVWVBb0xJWHRrc1YtdjRjcVFFVVZOcG1EaEFKSHhsdWNOQTdWeHVUVWo5cTlxWGhLdjlQWHMtcmpOYjVkYzQ4dzV0SF9VY0FJWnEzRnZNbnhZUXFqNFpUUWpnWC1idlNlZ2FtZUVpTEFn?oc=5"
+   "o": "Investing.com España",
+   "t": "El IPC de Australia sube por encima de las previsiones en octubre",
+   "link": "https://es.investing.com/news/economic-indicators/el-ipc-de-australia-sube-por-encima-de-las-previsiones-en-octubre-3942828"
   },
   {
-   "o": "Revista Merca2.0",
-   "t": "Ángel Alverde Losada será el nuevo presidente del Consejo de Santander México",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc1J4VC1tZ0xRNG9NcWlzM00zTE1IU3NkZlhqbWFuNV85aVdkb05Yc3lheW0xdFE4N0F5dnlqYTl5QTVVNktzd2NEenJweXhmN2t4MjVZMmk4SnFUbDc3N0N5ekpMNHA4MEV0czNCckNrdURTMlhqYVBlVHg1aXlSdWRNTTdRU1F4X0stTW00WXZ1elhwZFZzSENrbERnS3FRNFlBeQ?oc=5"
+   "o": "Firstpost",
+   "t": "Japan service inflation hits 4.2%, fastest annual rise since 1990",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMXBCMWhhcTc3RnNhQUJTNzc5Nmd6OHFhb09QZzBBTVAxMmFIdjFBNTAwYUtfNV9CWFhzXzhWZ1NJeV9jVHdTbTllNF9BUDg4Wks1UnhQeGpOaGkzUWNabFYtRXM1dzVJMS1UT3JCUUJpLV9GNEZLczNiN1UwdDVaMUFKOEpNdlNGcWtIY2ljZW9tS2xlMTZDY202MU1hNWt0RERZVjE1TFU0aUdW0gGyAUFVX3lxTE4wb28yaTRndks5b0lveXpzVkwzOERuT3JIb09NZFhJTjJFUGhXRVpJUWlxbWFMU3NiMy1pNFJFV0wwaTk2U1hyeDZNZkpua0tjaUEzWEQzZ3FKbDJ1UExKNXBoVkhrVlNJbjJhbWJHMWVGNDVyRVFpeWl0eDFab1Qtcm1kbmQ0YkVrY2F4T1Y5amtYeFViZW9wU1JCTGVRMk5yVXo3cXpXOTZVd1JLZ2JpSFE?oc=5"
   },
   {
-   "o": "Milenio",
-   "t": "Ángel Alverde Losada relevará a Laura Diez Barroso en presidencia de Santander México",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdjd1NmMwT3RPdjhzd0JKUG9KNGVrR0dMaHlvZVNWUUxXUUZvWVZ1ay1lbDhaZVAyQTBvUmV1LVJFWnFCTEl5dzZ1Q1RaRUEzWmFjZVN2ZW9tX0lnV3FFaGhOTUVkX0dCTElBb18wejc5Q0lZWHNaY3NMVlpJcm1vcnphcExfdzB3b2xYUXlqOUpZZ9IBkgFBVV95cUxOUDIxclU3WnJ4V2NCakFGaGRtNGl3Y2VNd0NjZXUtN2swRlZfTFRUQXBfNGlaUFV2TlV3YkdnNVE1U1ZiZ0d3T25kOGdmM25JT081ZFBNdWJEcmxyUkhYRXd0bEhsZVhIS0pYcE5OM0dmSkcxY3dzbWxnVi1wYnY0bmlKUkxVZzRRcFlfQmV1aWV2Zw?oc=5"
+   "o": "Bloomberg",
+   "t": "Australian Inflation Accelerates, Even After RBA Rate Hikes",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-25/australian-inflation-accelerates-even-after-rba-rate-hikes"
   },
   {
-   "o": "El Financiero",
-   "t": "Santander México nombra a Ángel Alverde como nuevo presidente de Consejo",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQTVBMC0yRVk3czN0RmVzc253TjRXTk5vcnFQTW00aGxQdDhGNmx4RVBJZGw3bDg1Si0tZnNIeG9iT3V6RnAyTTNIM3VrS281aThVaUtmM045aS1XaFRWWlRUdURHODZrUllmcW9GUWdjZV9PaS1ick9sbDlCWGp2ZE0yTjNzU0gxLUdGMmpFMS1wcDJsaXpDN1hUY1I0SHA1elN0VHBxQ1FKcHFEZUo1VW1zSGFpNWxFeHhUZjRJc2ZSU0E?oc=5"
+   "o": "UA.NEWS",
+   "t": "Japan’s business services inflation reaches 4.2% — Channel NewsAsia",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm5DQkMtZ1puOTd2UE1lN1ZXMTNMbThhNFhHT25yOHJ2cm12blE4cjE3cXZJelZ4S1g1c3NtLTdrVUxQUnA1bXhBVmdKRGFXR2NZVW56WmhTRjlaMzZoYjdER0pOMTdIOEpBWFowaUJUV21RT2p4c3RoUXEyeUtqTmJSQVVrZlk5VzlnUmd2RF9QS2dwQ3AwaW9wWXlFbnRJV1ZTUlp1N3c?oc=5"
   },
   {
-   "o": "Yahoo",
-   "t": "Santander México nombra a Ángel Alverde Losada como presidente del Consejo de Administración",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTmJ3NGcxam10elcwOHF4Y3ZuTnEzMUx3cWN3UGh0Tks0SzZRbXlpeVVBQkVxcGtRUjJXU1A1STViaDhOOGJMZHQ0RTRrYmVxZFF5aGZNakdxQ29ORXNjRXNBWTlqc2lxaVlWaXV0bVdocDk2ODhYMHFuUnhCdGNreGtObEhQQS00VlNvLTNLSnpRcjFWdGxlZEQ0RQ?oc=5"
+   "o": "marketscreener.com",
+   "t": "Australian shares dip as miners slide; inflation data in focus",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU1B2M3M0ckhva21ua3BxTm5KQ0hvM2JfejF5cFZGbnZxV3ZoeEhlYXE3OGhPTXlsTUhEQ2xJUjl0LXlxQ2JtOVZGM21kLXNod1VwX1BTdl9BaWRkTjJwS1A5MzdiSV9KSHM5eURMVFVNOWhXX0JyS1NXdUpwOVUtRmJFN3VoRXJXNDNiNmt3LUx3SGgtSnFHdlVFa29SOGliTC1IZ01TdEhLQkhEUGJ3WWI2UWQ?oc=5"
   },
   {
-   "o": "El Economista",
-   "t": "Santander México nombra a Ángel Alverde Losada como presidente del Consejo de Administración",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaDdZbXVBRE1IMlVrRlZWeFZDVW1aVUg0a2lBNHBtS2t0ako3UWJCV09HaUhBMmxmZzJMZFI4OXR3Z1RsR2hvXzE4NU5aZkZHZkJoRXhod0hodlhUMkxfS01xYVUyU3JzSDBBQmVKcGFSRnEyMmhENFlPTDdMNnZVaGRreUlaNkNuUHJKZW5HdG1oOWlxekpYVXhwWWc4UEotMUVoSk5qcEkwaTdXU1hZY3RpUE1VNUE3YVZkd3J5aGRvSTBhOU5TU3M0bWoyY1pVbTl3VkZsX29hSEZwWnJ4VmR30gHnAUFVX3lxTE03YndCZzF1UnB4SkxrWUNOSERWVFZNdjQ1aVFUYjk2WHg1ay1GMlE2X3hZYVoyOEdKcUs5YjZReWZQdGJ2QzF1TmdIcTNaZjlzUHQwcXRKLTg4VTJVVzhpS3BCN2F1REl5UldickRjTnhVWVJGWDZGc2F2bWVmOWxoRHpaMzM4cl85NjVydU1va2VTNWxhVHRnZ0ZjanVxb21ENXlmSXU4VE4wUlZQVktGbVB6YVFBN2Fob0Q1eldEeTlMdTFUd05aamh1bHZfcHhkZUVWR1dzeDF2c1ZvVTNNSzJDWEN3aw?oc=5"
+   "o": "MarketScreener España",
+   "t": "La bolsa australiana retrocede lastrada por las mineras, con el foco en la inflación",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTllCRDhwQ1VHSnhTdlZlQXREMFBqX0NXWXJrT1dPaWdUWlN4WFFrci1tMnIwcXBhbFdhN3lkVkprN3J5Qk8zc1hNSFQ5QzIwSHRPLTN4VmRRMmlhdVV4NFdMbmwtVmhpR2xGN0NMd09aa1ZnNlVvNWEyY08yaW5UZGhzTk1zaW1Cd3lFNlAxbFBVR0JKWERfS2hjaFdtSmEzSmJQRnlvVU5oT2xMdUNIVVQ3UnU2dFRWZmdkR2hxR2N5NUFxcjdxTFQ3bG9ERGd6RGZBN0lB?oc=5"
   },
   {
-   "o": "EL CEO",
-   "t": "Santander México cambia de presidente: Ángel Alverde Losada sustituirá a Laura Diez Barroso",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU0xOSWltUzVQMVRnQWoya0N0X1g2dWIxRnc3MlNBMWhjTzJmTTBzcnFLXy1MdGJCUTY3TFdjY1lMYi1mT3Itb2pTaWl3eVZYTmtULWJzdjVKYlhxRE9zeEt3U3U1WTUwYWNnYnN1UWRtcnFJN2xNSUFUMG53SG04ZTRYZ2hsRFJtM1dpVEpMeS1VNkpTZ2dkYmJrU09RanQ1V2RKa29razN0YWtYbTVLai1XYUE4UU55NXc?oc=5"
+   "o": "CNBC",
+   "t": "Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
+   "link": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
   },
   {
-   "o": "El Congresista",
-   "t": "Ángel Alverde Losada es nombrado presidente del Consejo de Administración de Banco Santander en México.",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUHdrTEdWUzBrTzlJbjdNdWlVdTl1bEhPWEdhZnFiUnlpWldHVzFPMnVOMHFkS0ZnQWVyczM2ZnhabGRjc2Zrdkg3V1MtSVBlc3UzUmh2SHREenBOUjZVZG4zcmVjbGpBbHNhRlVYWUVEX2tEeGJtc3J6RDBDdlJnUlFjWTliTWpfRjhr?oc=5"
+   "o": "Barchart.com",
+   "t": "Bill Baruch’s Market Update: QQQ, XLK, NVDA surge, AAPL rally before Fed inflation gauge",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXZFRVFoZjNwZ19pV0tCVE4yS0JTU0VuZnJrc1ZXU2pxbmx0M1MtN2taUExNRURUcERNYkY4TlVscFV6cWxmRlg2WjNacmNybFJYNW1SRFZDTzUtZHdoUXRGb3habUlvWFhMRGMwTkNOWS1ranRnNkdSS3FCVWt3NXo2SHVnMDc5MzJndzVkaGNkWDZFQUxiMGhhdnItajMzdEtUVlN1dk9NeW5UbHo1V2Z3dlVBd0tLbmF2U3hHbEVaUElqY1E?oc=5"
   },
   {
-   "o": "ExpokNews",
-   "t": "Angel Alverde nombrado presidente del Consejo de Santander México en sustitución de Laura Diez Barroso Azcárraga",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd1F0NUNXcHlFckU5VlBmdUNDa0VoV2Y0bVprckJiZmNzQ2dkbUs1NkNSSEpsZWlSdmJ6RTFEV2M2N29xdXBLb1VmNTh3V2VpQ1VHWFluUHNUeDlLd01OVWs4RUI2bV90aFR6XzlaVFpiZGwyUjFWSlF4QWRCX21CODdKV2NROVBVR0YyajAwNll1WEdURWRR?oc=5"
+   "o": "www.tmgm.com",
+   "t": "Gold falls to near $3,550 ahead of US PCE inflation data",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHdTZ2hVcHpJS3ZDeEpQY2twUjVXc0lCT2JRdEpLZTh0STZoaVZVTU5KdWRtSTZpU2M5ZGRaYzBidVRTZWNZN0tkRFQ2eEpfZkVtbHFSbFF1NHhrYy05ZW13VXpxMGZSOTU2Z2ZkWHBSSjdoTFZrdUZNMjNhd3ZpLWFYUXdSeWw0YnVUOWdTZFM3RHRXYU5SMVg1bGJTSzJuQVhibVJtY2twV1lwVVdRYzJ0NjNnbHVIM0JZZ1NB?oc=5"
   },
   {
-   "o": "Consulta Monterrey",
-   "t": "Ángel Alverde asumirá presidencia de Santander México en 2027",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVGplMWl6enhhVWN3UmFsd2ExRHJIamVGS0NoaDNHdGR2dUhNamdhRmlNaHNzMnY3YXBXSDJtQlE1ckUwTVpOOXBGZDNDZkVkcXZmbVAzN3FnQndYaHVYRFVqbTVBeXEyR2s1WXJwaXZFWlg0Tzh0ZmowUEh3elpSWW9yX2J5c3dGVGFSZUg5aw?oc=5"
+   "o": "www.tmgm.com",
+   "t": "El euro rebota desde mínimos de 19 meses antes de las actas del BCE y los datos de inflación de EE. UU.",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV1g0YzlxSWttdzl4Vm1fTjFvSU9malR5RDNLMmhxVk9sWnVPTWRlZ0ExczdTSHFRaXBBMFh2eG9aTmFPN1hkRmJDQmtfLUR5Ti1Lc1FUc1hXYXJ2MURNZUl5YjgxOHEyal9WYnpfMUt6LTZZUXFOZWlUZUJYY0ZtVGJvNmM1aHp4bHJzV3BvMXVTeFR4cWtTemgxWmY3RDM3VDI3dlBCb09LOVh0QjBWM0tpVlotRTNCb2ZOZlVRRl9sVEpCZkRIOUhBSnJfWVRP?oc=5"
   },
   {
-   "o": "Fortuna y Poder",
-   "t": "Ángel Alverde Losada, nuevo presidente del Consejo de Santander México",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnltN2xJMmNWVGtabUFrdFNoc211MmxBM3U2WWlyNEdMd1k2YkZjR1UwTzlFUDNVT1FmUjJmQnVsblNNNUxBbzd1bnFaTGUtNHFEVDlPYlpPUHUyRENzT3lRdTltaFFTYjBpaDJ2NlZZNkExVFpCYlJzNEk0MHV6TGRqcWQ3VVgtSjc0T0Q0TXYxb252TG14WGh2dFRHaXJOdkVUQko0aThucWR4?oc=5"
+   "o": "tmgm.com",
+   "t": "Mexican Peso sinks as softer core inflation meets Fed hike threat",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMXlFYnVMeFI4NWUzZmhQZ2wwOUJyaU0wUGw4TWM3RUJRUzJfR0g4UTRoNlpBR2RpZ0loZVlSSVhQUmcyY2kyenJqWnFuNUtVMlFhQnRENDZxT2tDTi1GbHZuTXNRVXJlc2VudlNfSXJlUFFaZmFDSlBfZFBnY1BZWVZhMTB4OVRhVGVicjMzVlRsLVpiZnd3TER1S3U3UkhIY0tzOTZnUTBYVVNIb0J2XzJKTFV4UmFEWVVNOHhsd1JPdl91TzUxTF84WQ?oc=5"
   },
   {
-   "o": "El Norte",
-   "t": "Designa Santander a Ángel Alverde presidente de su Consejo",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObWtQOGNWeHJNWFVHRmFPZ1U4dmhSX0ZiX1F4bXZYV3d2VEkyNk03aW5xbGYwMmNpY01ZMkkxQXB3VUMyUHU5WEN0MUVEeVlFdlY1c3dLU2VlWWFLUmFacWJnU0VfZUh1dk8xWnpWNTFDWEhPMkZnanVicFpZV2FoYTZaOWt2cHNseF9vbmlXdUlqYUNpRGlj?oc=5"
+   "o": "www.tmgm.com",
+   "t": "Yen stays below 160.00 as markets await Tokyo CPI on a US holiday",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGpNWFUwdFVKWHdXeXBPSlFJOTdQZjRpMWdsSi1pNnhWb2JUU1FxSXoycFluU2xJTmhTVHVndnV1NldpNjZ4UHFubnhsRG1fbDdUMlJUQkpWMFhwd3JFc01lclpHdjJrOTdiVHNhUS1IbDdORFZ3WVFNWTE2dXY4U0k2N1VWQ2QtTTkyWmpaM0RoZkpyMmdvZUFUaTZrNE5ZMHU0ckcyUmFrLXA5YnZnRnh2LUd0a0FreG51TWd4WGpieWs?oc=5"
   }
  ],
  "en_espanol": [
-  "Designa Santander a Ángel Alverde Losada como presidente de su Consejo de Administración",
-  "Ángel Alverde Losada será el nuevo presidente del Consejo de Santander México",
-  "Ángel Alverde Losada relevará a Laura Diez Barroso en presidencia de Santander México",
-  "Santander México nombra a Ángel Alverde como nuevo presidente de Consejo",
-  "Santander México nombra a Ángel Alverde Losada como presidente del Consejo de Administración"
+  "El IPC de Australia sube por encima de las previsiones en octubre",
+  "La bolsa australiana retrocede lastrada por las mineras, con el foco en la inflación",
+  "El euro rebota desde mínimos de 19 meses antes de las actas del BCE y los datos de inflación de EE. UU."
  ],
- "investing": []
+ "investing": [
+  {
+   "t": "El IPC de Australia sube por encima de las previsiones en octubre",
+   "link": "https://es.investing.com/news/economic-indicators/el-ipc-de-australia-sube-por-encima-de-las-previsiones-en-octubre-3942828"
+  }
+ ]
 }
