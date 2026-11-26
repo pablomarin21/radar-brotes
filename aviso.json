@@ -1,87 +1,86 @@
 {
- "ts": "2026-11-26T09:10:46+01:00",
+ "ts": "2026-11-26T10:15:34+01:00",
  "fichas": [
-  "aranceles"
+  "fed",
+  "pce",
+  "bonos"
  ],
- "medios": 80,
+ "medios": 24,
  "normal": 0,
  "red": "investing",
- "titular": "Las acciones europeas suben ante la moderación de los aranceles de EE.UU.",
+ "titular": "El rally global de bonos se modera ante un PCE persistente que consolida la subida de tipos de la Fed en diciembre",
  "medio": "Investing.com España",
- "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZE84MzJSeEJpdENMSng3ZWVJV2hQSkJRUE5EVnQwNHVybS1Udnh5R2x4d2taNDFBQ051LXVCcHg2T0hxS3pCUGZEdXNZclNWUjd2MnBxeGhFMXh0TWNNVElpQk4yMzhBWlYzMXB3MEpFOTZrUWNzcjJ1S3BfVGEzV28zbE9KSkV6YU9TWlRPZEoxN1QzM0Z0RkctUTNRRzdyVnl4UHNLSEgwbzlLUHVNUkVGb05ZX1ZvWTgtOFVJVURlWGF4LUE?oc=5",
+ "link": "https://es.investing.com/news/forex-news/el-rally-global-de-bonos-se-modera-ante-un-pce-persistente-que-consolida-la-subida-de-tipos-de-la-fed-en-diciembre-3944663",
  "titulares": [
   {
    "o": "Investing.com España",
-   "t": "Las acciones europeas suben ante la moderación de los aranceles de EE.UU.",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZE84MzJSeEJpdENMSng3ZWVJV2hQSkJRUE5EVnQwNHVybS1Udnh5R2x4d2taNDFBQ051LXVCcHg2T0hxS3pCUGZEdXNZclNWUjd2MnBxeGhFMXh0TWNNVElpQk4yMzhBWlYzMXB3MEpFOTZrUWNzcjJ1S3BfVGEzV28zbE9KSkV6YU9TWlRPZEoxN1QzM0Z0RkctUTNRRzdyVnl4UHNLSEgwbzlLUHVNUkVGb05ZX1ZvWTgtOFVJVURlWGF4LUE?oc=5"
+   "t": "El rally global de bonos se modera ante un PCE persistente que consolida la subida de tipos de la Fed en diciembre",
+   "link": "https://es.investing.com/news/forex-news/el-rally-global-de-bonos-se-modera-ante-un-pce-persistente-que-consolida-la-subida-de-tipos-de-la-fed-en-diciembre-3944663"
   },
   {
-   "o": "Investing.com México - Finanzas, Bolsa y Forex",
-   "t": "Acciones europeas suben por aranceles benignos de EE.UU. y pausa de Acción de Gracias - Investing.com México",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRUdpWldDeE1sVkQtWG9oN2FaeUNSdmZYT0x0WWlrTXp5OTlKbk9CdFRuWi1CWXBpZnhnYURyUGIwNzVNX1pCRV9zLUhGM0dzdjF0YnpCSUowTEktaWdKZmstWGJqR05BaXdJVkNMLXBINXNvR0pEc0d1RzhOSWpQc1pPNzRvTU4zREM4LXAxLWlBQjB4YWx5R0k3X2lGNEFlM0k3VnlqV1VyTkMtTGdjcHZIYmVRR0ZNWTBqZ0pNQ0VPMzA1bmtqMDhmd0MwanZRU2dTVHFn?oc=5"
+   "o": "شبكة تواصل الإخبارية",
+   "t": "Swiss Franc moves away from two-week top as USD firms on Fed bets | FXStreet",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xOTRyUjBXQU1kVTNwOFR1QTFjZ0FrQkQwY0tPZVphd19DU0xhVXI0LTd4dEpWaXhlNDBnWXZrZF9wTDY5N0swNmxZeEFfaVRzeEVR?oc=5"
   },
   {
-   "o": "Diario Socialista",
-   "t": "Trump anuncia nuevos aranceles contra 14 economías por “sobrecapacidad industrial”",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbTZxUnhVTUFVVkN6NVZCaFlrdXdubnZ5Y201UWQ5b0FsRjNPV2hKaVFZU2ZUVV95cTFuMllYaDRTREtkaFdUNGo2ak9PN2lROFNWVThoSG9BNGwzLVBVSC1GalVpN0JoUnJjcGpBWVVSTkhsdmE0Y0I1cDZLZFhKZnZTVmhUaW1OSS1lR1djWUJUVHI1M2lQc0ZUanBGMnBlSmhUS195OVE1X21LTWJ5cWQxVHEwX1FSa0k0VGdn?oc=5"
+   "o": "The Sun Malaysia",
+   "t": "Gold steadies after hitting over 1-year low; Fed outlook in focus",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcTkyei1ZbVNWODZORF9sc1FPUmtJTlJVY1d1ZUNmTlduZWdPT21vcDVUVHpnejlwUmRUWHA1OC0zNF9pZXpKc24zdktFSXZhNU9OdTcyYl9qNDBmZkVIYVpHWFJzNHVva2pVRUdSa3FfOUxsUWdoZGxtWFNrMnkwdFo0aGpRNEZHc0ZnVzhuWUJabjEzSnln?oc=5"
+  },
+  {
+   "o": "Investing.com India",
+   "t": "Global bond rally eases as sticky PCE locks in December Fed hike By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVY4RVZpbDZVdm93c0EwZExiTXgyb25mODlpZUM2OGgwS2VYajVGczVyMWktd01uT2FxV0xHX0M0YnBrYktqSXFNeHBQLWlKR3gxS0JUdHRndGpLVGZObU5Qd1JEUWtEd2RSZEdvZG01V3lCSGxhX01aNGMyb1BXUWcwRWpTTzlLVnBiVTlYTmdOMUtjUUdCM09aRUNJNldFM1haZXlZc1JKX2hOLXE3LVdFbw?oc=5"
+  },
+  {
+   "o": "Investing.com Canada",
+   "t": "Global bond rally eases as sticky PCE locks in December Fed hike",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdW1XcGxyQnVHTlh3VU5iWDh0cG55QkduaTJRdEFnQ0JMckttWG11bzR5Nk5zbHFGWWItOHNvRW8weFFmUXNHWFR2S3FrVlJmTy1PaE9OdURSaDBfOFU4Q2hWZUZETTBHcERmZnlBUm5ERDFGUlIwdFcwZl90TEdnNll6emF4QnlsUW9wajFiU3lDU3JHSi04eld3aHlhSW9pZEhkNHBmRXlwWDktOEZZVlRxOA?oc=5"
+  },
+  {
+   "o": "www.equiti.com",
+   "t": "High US PCE, Trump tariffs and hawkish Fed outlook weigh on stocks",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOE4xLW1QTzlRR1RGR1FSMnVwVkRTSnVHTmt0Uk1ZYjlQeGU2N003ZFVBZVAwU2lZWlJUUFduTDhOVU9CVUZxdFZkelRORkxiMXhWU01GTXJka0Qxc0xGNVQ1bU5vck9RSUlwX2xPT3gxdTVlV2lZdGFGZC1IX0RKNkxybktEV3hxR1Z4ak1XMW9sclpvQ2lTTUJpUGRaWVNRQ0lJNERHUFN3NVRIVGVmMFhySQ?oc=5"
+  },
+  {
+   "o": "www.equiti.com",
+   "t": "DXY Forecast: Trump Tariffs, Inflation & Fed Rate Hikes",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQTVSa3RtZkR5dE9OTnE2eDJWVlRVM1F4ODhRVGtMSlFZS1l2R0JibkNzYmN2NjBUT0xpV3lDUHRwLTF1S2hBQVJDNnV2S3VXUWlhTFF5U2twTk5PUk16YzBZaGgwemNPMGhlNmhHbnc1TXl6cFVzQWdwOVVqSUh0dDd3SllrYzBraWZrd0FoUkZKdVNrd3ctR0l1VVRtb0tack9J?oc=5"
   },
   {
    "o": "Investing.com",
-   "t": "European shares as benign U.S. tariffs and Thanksgiving lull offer relief",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWWJYZnBRMFQwTDY5blN3VE0tSk9sQmhJN29KQjdrNTZwQ1FIOXpLZHNnTUpJbkY0Qm5wYS1VWFh5Z2kzWEtwTDJhUG55a0xXRjRFU25ZeGptWlU5azVYTWRreG9XSWtvbUZ3MTNReEVneVRLbG9XOS1YbDgxQWwyUWZmTjVoQk9NWlNEUTVOZDB5UWFBMzRYNmtuTmdCNGx0MG9WXzM1Yjl2bnNSQUR1VXU1NEc4NzdRWnZFbk4wY0hoZ2s0NEt3?oc=5"
+   "t": "Global bond rally eases as sticky PCE locks in December Fed hike",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNk9kS1Q4Q0JucGd0UVc1UHFSV0dEa0hXZkt4eW1ZOHIya2IteGxCZE9BWjJua1pRUUtMdmhoaFY0d3BETVBoUFoxcFI1Z1VjMGJYUi1QZ0EtRGdTNnJPOUgxWjlPMDU2bGw4elF6MmJNNktMaU9kX2NNRllsa1dIN2E4dDFLa1lkUERPRFFFQTJyNmNIV3NtN2pXTGV2Q2dpalFMZ2lYWERUeVcwcm1iN1RQNjc?oc=5"
   },
   {
-   "o": "MarketScreener España",
-   "t": "El IBEX 35 remonta tras unos aranceles de EEUU menos agresivos de lo temido",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRUw1NnpxSGNDTW1fMzVQcVZSaXdqclJPNFBKWGJXeUwyV3FMc2RqMHU4SW8tU0tpYllteHcxcFJ6RF9BaThqWW5Bd2U4LVlhYXR5ZHNHTURwa0U4c2Z2Rm1MTGZtQzQ3ZF9iUEpDVkNua2JFVWo1cVFkSkhsczJ5ZzRfaVlua0x1ZnpwdC1vUlVha0hSdWdrYm1VQXA5MlNxbXdmQzNDY250QjZ6M0toTFdYM3M2cHR3TnBhRWdyY0Z4NnVvQVhOVERIRQ?oc=5"
+   "o": "FXStreet",
+   "t": "El Franco suizo se aleja de máximos de dos semanas mientras el USD se fortalece por las expectativas en torno a la Fed",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQYWYtUGZoSmtWdGRfdE4xbEtaWXJaOE1SZHh3MVdiellXOFRVM3BEMmhTMTdadklIMHBoWWlPb1hhU00zcjdUQWV5WEI1UWYwWTZkYWFlanZsT2lxeHlzVll5X3FxbnBSY09lSE9VZGFjU3VSQ3FXY1d1Qm5FSWwxYVVSdVh2dkFMZWlERnl2T0czSkpzU0VtZkNsbWJvWG92Q001ZVk2VXNIZTZNQXJxSW83N202UXZnZFlCZkhDVnBKdWdYcDBrdURlVUhiTzBTTmtpZll0NWUzdGhyV1RVeXhVdEMwbDhyeVBTR3hmOWlZdVZaSWZGTnpLTmVWM1RwaEdxOWdGdXJTUDBnVGhRUg?oc=5"
   },
   {
-   "o": "EFE - Agencia de noticias",
-   "t": "China alerta de que aranceles de EEUU \"elevarán inflación y dañarán crecimiento económico\" - EFE",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUNQdWdueWd5X1FQT0F2NEJfQmtkVWc0LVpKMFY1NmJOZjNEZ1pyMmxTZjVfbU1zSUhmaVdhbndYT0I4VW5VekdkVDZiOU84eVdzUGkyX19EVk95c1B3SW5uNVA2c1M2NnZQUlpLNE1ndnZkZnljTTJwSlJ0LVc3RWNYZHQwNEU0ZzRaYUVYWkxBVGhFekg1V29OWkVGQnp6b0VjMHZmMTdyMTNtdk5BelNuaw?oc=5"
+   "o": "FXStreet",
+   "t": "Swiss Francs moves away from two-week top as USD firms on Fed bets, geopolitical risks",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNamJOTFZvLVJfZ2FKQTZzTWxwQzV5SkpSQ0ZuV0VXeGExZVhWVDRJejFQbERtdmlIUmtXWXhZbGhhRlRVeXg3RDZqMVdoSHFKemt3Szk0Zi0tLU9ENGx5WWRaODBZZm9RZFRkNS15eG1rSmRzeXFDbUg5V0dBeW0yVHpkNEp1ckZMUUlvaWxjc1lVMDF3SDR3Nndjd0Z4Q3R3ZFI4b01BLXVKLTNzYjRkSUtJdmpQZDJhUk95WGhGenlsQVpaSWlJ?oc=5"
   },
   {
-   "o": "EL CEO",
-   "t": "CCE ve cerca un acuerdo entre México y EU para reducir aranceles y fortalecer reglas de origen",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaEwwWEdFd0hDS1dxY19YS19pUXpNRThhVEMxZGVPRUI0X3AtZ0RpRFNtNXdscnoyMm4wVlB3Vk5kR0JvVHV1OXF2d1NKQjA5ajdQMm1tUHJic1N0Qk9DY3QxaVFOWldNVk9XUkE3Q1dFLU9zWjUya1F2aGNKWkoxTnhacEF1VHZOa2FXT2FXNm9hdnpiYll5NXpUb09hbDVlUmhldUN0cWJ1RnBZVnliUFRWQ240ZzU0QmJ1TW9Fdw?oc=5"
+   "o": "Bitcoin Foundation",
+   "t": "US Inflation October 2026 Hits 3.8% Before Fed Meeting",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTDJaTzByRTh6YjllQW00YUpoZVd0U3J2WTdGRDNxcE9pbWowUVgweWFaRW4zQ09wd09PTm9lc3NZajQybkllNmlCdVE5QnMyUnJUV0RCWUpRd21rNEZHVXlMMTJBSG82ZVUtZWVMRXRXTGpyc1Q2dGRQRE1HRlVyQWhBbjVLX1hJWVZpWmJQY1I5bG8wNURGVW5kNkpwMnRLMG0yM0p3?oc=5"
   },
   {
-   "o": "TradingView",
-   "t": "El IBEX 35 remonta tras unos aranceles de EEUU menos agresivos de lo temido",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BcE12c05MenE4cTV2Y1BzbGF5YS14ZlZxVXJ0NHd2TkhERWJ2ZFRtWUZPWDBydEZsVWxaYUhPOGxqME5VeHV0OEpVeUlPM0drdzJ4LWx3WktXOFVZeWpRMW1RQ1labXZJdzdFWEpyOWtRakhBbXVV?oc=5"
-  },
-  {
-   "o": "TradingView",
-   "t": "Datos clave: Las acciones de Apple suben en medio de noticias sobre gasto, aranceles y alianzas de IA",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YRFJiWlNkcktzWXNyWGFmc1RXcVo0cVRJRDBiT1NqTzJiV1pSOE45d21VMmh5OFJqbVhlRkRNYzNjQkQtb1NBa0Q0NndmVndFU3FGa0x0WjJuVld1a1VuVFZhM01kWmhaVVppZQ?oc=5"
-  },
-  {
-   "o": "CNBC",
-   "t": "U.S. tariff-hike threats put pressure on partners to sign trade deals",
-   "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html"
-  },
-  {
-   "o": "bitacora.com.uy",
-   "t": "Los nuevos aranceles de Trump devolverían las tarifas a donde estaban antaño de que interviniera la Corte Suprema",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMzlscGdDMUptWnRpTWNrZXV1SVpBVmozM0tlb0VPZ1hSaEZlZjQ1cEJKRlYwdm5lZnF3cWx3am5KOUJkN09EMkJoZUhMMGpsa2NJaTVYUEJOMWVvR0pWenZXYWg3UE43LUtkQ0pIN3pzLTBOOTFjcFpQWkowUUJwZks2NXV6UVF6TXFKVnlncDJ4UUxvRktCTEw3VmdHRHNFSnJ5RFluS1BoQ3JkcEVYVl9rVkw2ZGt4TjJTNk1pLXBqN0hPOFp4bHV3b0VoLVFHeURWOA?oc=5"
-  },
-  {
-   "o": "Diario Neuquino",
-   "t": "Brasil y la Unión Europea rechazaron los nuevos aranceles de Trump y exigieron respetar los acuerdos comerciales",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZzdSWGd1VlYxTDlkTU5qcW5MeTQxbjZweVBCaWZDZVl3MHJHYW5MR3Qta3VILU12MWl1SFZVSEVXSEtTYUh4MUhxaUJtYkhBcGthZXFXWUF6QmVZN3NhOThZMm5UNFBPck1EWVNGS0VNRmZuLVlES254SFVtUHM0aXJfVnpDYVZ6MUxCenBJNjNxcTBmWDlpVnhpMm95THJ6aEtrcFFCQjBnTjVSbjMtSTlFSlZhdTFiM1FJaF85U1pRRW9aZXpHcFlEV25MbzI1aDNIZURNWE1QbEU?oc=5"
+   "o": "marketscreener.com",
+   "t": "Gold drifts lower as Fed rate-hike fears loom",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVWxwQm5Zb3ctck5uUFVzck9jLW5vekprYXJPdGJWMG8taHVvaWFaSGx4MjUxVzdWeVVRaTBES0x1MDN3cUx5dDNZMG5SNldIck9sb3F5a3BTQkpiR2M1SVBzMFJ2RWxwWkxMVFZiTDlTaU4zNDhvLUZsVTlTLVVIYmtPZXFXb0lubXAzZmtnTWkwU1h3S1dRWmVKVXdjb3c?oc=5"
   }
  ],
  "en_espanol": [
-  "Las acciones europeas suben ante la moderación de los aranceles de EE.UU.",
-  "Acciones europeas suben por aranceles benignos de EE.UU. y pausa de Acción de Gracias - Investing.com México",
-  "Trump anuncia nuevos aranceles contra 14 economías por “sobrecapacidad industrial”",
-  "El IBEX 35 remonta tras unos aranceles de EEUU menos agresivos de lo temido",
-  "China alerta de que aranceles de EEUU \"elevarán inflación y dañarán crecimiento económico\" - EFE"
+  "El rally global de bonos se modera ante un PCE persistente que consolida la subida de tipos de la Fed en diciembre",
+  "El Franco suizo se aleja de máximos de dos semanas mientras el USD se fortalece por las expectativas en torno a la Fed"
  ],
  "investing": [
   {
-   "t": "Las acciones europeas suben ante la moderación de los aranceles de EE.UU.",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZE84MzJSeEJpdENMSng3ZWVJV2hQSkJRUE5EVnQwNHVybS1Udnh5R2x4d2taNDFBQ051LXVCcHg2T0hxS3pCUGZEdXNZclNWUjd2MnBxeGhFMXh0TWNNVElpQk4yMzhBWlYzMXB3MEpFOTZrUWNzcjJ1S3BfVGEzV28zbE9KSkV6YU9TWlRPZEoxN1QzM0Z0RkctUTNRRzdyVnl4UHNLSEgwbzlLUHVNUkVGb05ZX1ZvWTgtOFVJVURlWGF4LUE?oc=5"
+   "t": "El rally global de bonos se modera ante un PCE persistente que consolida la subida de tipos de la Fed en diciembre",
+   "link": "https://es.investing.com/news/forex-news/el-rally-global-de-bonos-se-modera-ante-un-pce-persistente-que-consolida-la-subida-de-tipos-de-la-fed-en-diciembre-3944663"
   }
  ]
 }
