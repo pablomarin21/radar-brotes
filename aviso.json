@@ -1,85 +1,88 @@
 {
- "ts": "2026-11-26T04:43:32+01:00",
+ "ts": "2026-11-26T07:04:46+01:00",
  "fichas": [
-  "inflacion",
-  "oro"
+  "nvidia",
+  "kioxia"
  ],
- "medios": 23,
+ "medios": 72,
  "normal": 0,
  "red": "investing",
- "titular": "El oro cede ante datos de inflación que refuerzan alzas de tipos en EE.UU.",
+ "titular": "Kioxia sube un 14% tras colaborar con Nvidia mientras los valores de chips rebotan",
  "medio": "Investing.com España",
- "link": "https://es.investing.com/news/commodities-news/el-oro-cede-ante-datos-de-inflacion-que-refuerzan-alzas-de-tipos-en-eeuu-3944444",
+ "link": "https://es.investing.com/news/stock-market-news/kioxia-sube-un-14-tras-colaborar-con-nvidia-mientras-los-valores-de-chips-rebotan-3944508",
  "titulares": [
   {
    "o": "Investing.com España",
-   "t": "El oro cede ante datos de inflación que refuerzan alzas de tipos en EE.UU.",
-   "link": "https://es.investing.com/news/commodities-news/el-oro-cede-ante-datos-de-inflacion-que-refuerzan-alzas-de-tipos-en-eeuu-3944444"
+   "t": "Kioxia sube un 14% tras colaborar con Nvidia mientras los valores de chips rebotan",
+   "link": "https://es.investing.com/news/stock-market-news/kioxia-sube-un-14-tras-colaborar-con-nvidia-mientras-los-valores-de-chips-rebotan-3944508"
   },
   {
-   "o": "Українські Національні Новини (УНН)",
-   "t": "Gold falls again amid accelerating inflation in the United States and expectations of another Fed rate hike",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSldtOHdrZmd5M0VJdTRoZHY0bmNzMWhPVF80M2xWekU4WWJXelpGTEVXLVAtS1VzeWdEM1dBRnlUbUVxLVVTeC1hLXpjeWZIalQ3NFNVaGl3MlpPRENzdW5wdUZMSW1NbDItZ0RkOUFXMlBCZmN0aTF5Y1NqNmt6VGQ5MGFITGZSXzRvY2lweVFWdlV3REFkQUN1VXhNckQ0ckhWMElaU2ZSVFhJQV9zSmFBcTRTVmctQzNwT0Z3X2J4MTAyNjJ6MUpR0gHIAUFVX3lxTE5sYWJJeUV5eW45SFIzaVVJQ09UVkYwQzQ1QzVNTF9jN2plSmtlT0NLQ3RmWVgybzZDb09oNHVpX1ZfYVNVM3dxbVI3VDJYR2x5QVcyY3BoRFpYbEJkYk1HYmZ2NHpqeXJvekV2OVBIVVJlTWZBVXlkbHAwX2t2TmVnZ3NEZFh2dEdsX2tlNVR2TnhxMXo1RDZveTJmR1RxRUtwRFBsRWNJaDY4eFRYcG5jeWNXR1N3Qk1SdnhKRDhFcUtMSW1kZU5B?oc=5"
+   "o": "Investing.com México - Finanzas, Bolsa y Forex",
+   "t": "Nvidia detiene envíos de servidores de IA a 4 países del Sudeste Asiático - Investing.com México",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVDFhak1lcHJ1aUJjWHQ4aC1XbDRLWk5TSXZfLU5JdWd6bGxtZ2NCaUJBU0ZNZHVpMmlsTDZLNTdqcllYT3JfdWx4bVFtYndhXzdTUm41RUFiTU9GMGtYU0hUbWk0c3hwZnNmTTZqc1Nfb3hDRGVidFdTS2NXcGh6aXN0T2hFbnJ6Q04yUE5QTHZXZlB2U1djT2J6RG9LQlA4d1pyTGctV1J3QzdRZ3JnTlVpMHJjaHF6QzAzaTVIYzRscHNNYTFUTQ?oc=5"
   },
   {
-   "o": "Kotak Neo",
-   "t": "US PCE Inflation Rises to 3.8% in October; Will the Fed Hike Interest Rates in December?",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcTJQeWhhXzNOWVUwSjE4Q1VRR05lcGVyd3NRcW1idWdIWlU0SXh3ajJaNTJ1dndSdW5pZ3ZMLWVjWDB0U01TNnZWQVhnV1VCUzlGaTFyXzVoUThBLWJkVC1zQW1Gb0FTM1JWSTFYcHNfNGRfd2NZWGRMcDBrUDUzdEJOUTN1Ym4yb3lIYkZKaU80SzBGOE5OVHZfdExVcS1KNnN4UlhLYjBuRDVXUWhPV1hmZnFpQjUtR1JrRm5QdndCUTZNcm1jTnhxejh3dnNrQWp0d0VPekNCMU0wTVpTVGR5YUc?oc=5"
+   "o": "Investing.com México - Finanzas, Bolsa y Forex",
+   "t": "Kioxia sube 14% tras colaboración con Nvidia; repuntan chips - Investing.com México",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnk4a0RiYlhmZmtGX09rbnZteFo2ME1VMkFJZXpDdWxIR3F3UkMyZDFlRmhhM1pscFQ5bE5TaGU3NWpLYVU4djhSQ2YyR0ZTYndDV09mQm16dEIzNTZDckdrRFduS2REU01iRmJHNnlwb3RTSnNiOWlKWE5ZcFFZSzhCTnN3WEJxZDZCY18wWUVQTTJGamZ6UGYxUUtPYTFQVldRUnRfV0JYanFhUk5jeDhhS1I?oc=5"
   },
   {
    "o": "Investing.com",
-   "t": "Gold eases as U.S. inflation data reinforces Fed rate-hike bets",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZzh4NXFEZi1yYzF2OVBuUHZSU1p1T01nZjNPaVlMZnVneXlRM0RKalUwR2Jra01XQVpEYkNnWG9GQWlIbndkQ0xVR1RHak4tUVFhbWJTU3VwUGxsMm1jVnNibmVTTHVwZHh1Q2xtYVZmRWlLWWk3RkJrVlZidTJjWU9BTFVwUGFVWnNrYS1CdjlZd2lSTXk2dkNvV1ZJOFJnd0wwRHRta1ZUVk9uSEwwSFNtbWhPeEU?oc=5"
+   "t": "Nvidia stops shipping AI servers to 4 Southeast Asian countries- FT",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM2phY294LXZuU2RMY283VE43UEJfYkd5QWFtNDlHNi1HcDZfcHpmYVdMWWxaWXJ4aTVXMktBVDF2TzRIckVtd0JfQ0w3RnNxN0hlLUc2T3RsRzBqZS1IdWExbHRDT3hEbTFZVHBqWWRCLU1vX3RtelhMOHNXR3BDRUEzeUNWV0FYa3pXbjFnU2tsS3hlUkZ2QU9ma2J2LVB4QVllRkJkZk8ydEQ5NDZqYzRHb2dhMGRmUmVEQ0lpdFU?oc=5"
   },
   {
-   "o": "Wisevoter",
-   "t": "Ethereum ETFs Bleed $64M as Inflation Heats Up",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR3pUZ2ljd2tCUUplVFNxYVF3SEI4SHZxQ1Bwc0lLaEU2UGN2dm5FZHZ1Zk13cVNwLVZQSUpmUHVib2kwZEY5ZWJnaFd4RkkycTdIMnFWRFVqTGQzX3F1VEt5al9lYXJIWS03bVVseWIyS1NMNXQ4cklWR3RFR2V1UEdGWFRQLVU?oc=5"
+   "o": "Seeking Alpha",
+   "t": "Nvidia's Aa1 rating, stable outlook unchanged after Huang's return: Moody's (NVDA:NASDAQ)",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc0lNa2VFVmo3WWRPQWRlcnUyTThIYUx0MGdQWWlCM0J0NmJvQzdGRDNUdDhnZFllWktWUWxFZEl6NnFIRnNwRFc3LVBrNVR5bzB3QnBueHI5T0R5dG52WU80MGJvdF9mcVZJUGdxdGJnQ0xpV3lvU0xUanY0d0R4Wng0OVJyWG90ekRELVNQT2pGU0JLUWtmSndzOFlhTzZoVDN3NWgzUjdsbTRu?oc=5"
   },
   {
-   "o": "ABS-CBN",
-   "t": "US Q3 GDP revised strongly upward, Fed's inflation gauge hits three-year high - ABS-CBN",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ2NySmt5Y1FtQmZudFFKTkVWS2RSZW1wVEU3QjQ2aFhSTkJaZWZBMjd1ZUFwNHhYOEdBZGc2YXdFOW5USG4yR05WUFpSQjcwV1pUQnZWMEh6S1pDbmVPclVrSUJxNkNacTNvOHVjUmRkelpWd2hXVDhSaHVmMnZ6MjBFQXh3YUcwQmpvMmRyd1I5elI2b1p6aklLcWo1dTFoUnBuR0cwNGhzTW1kbUhnU2dVdVFCcDhxbzdVTVQ2eHBteTZQbUlwUXd3?oc=5"
+   "o": "Investing.com UK",
+   "t": "Kioxia jumps 14% after Nvidia collaboration as chip stocks rebound By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZEh2SnRwamlGMnZBSjdBRHhDQjUzVThtV1lnSTBleXRyWnQwUWd0b3pkYVNuSzBSQmZ0WFdDSC1RTXNvWDlhQnNDcUg3SGV0ZkN4WGtkd1hGWlQtc1QwWjA5Nk96QlFmM1l1V1RfYWdqaDFycmRvWlNLbTZnQnZEbWNya0RCb19zWUVJaVRPNW9OWUp2VmxTTnMzNUFmaFVlV19rdE5Mbko2Z1puS1lmUjlzVm1yTzNtRkpyY0Nn?oc=5"
   },
   {
-   "o": "Traders Union",
-   "t": "Bond markets signal on inflation and Fed policy, Lance Roberts notes",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV0JLRW8xVnYyOWotdjFRRmVvY2NxcXhETm02VHIwdDZNRUVpenN2Um81Ni1ia1BRdVhhWFdKbkN5MThJZTl2X3VBWDZRSVVYWUFMcHRWTDk4WTltNWFJdVZadWhUZnBjeDhpU3ZmNG42VGwzUWhNNHAyNFo5Z0M0ZmlsR25yZmc1?oc=5"
+   "o": "iProfesional",
+   "t": "Qué es Nvidia y por qué es tan relevante en la economía digital mundial",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdFdGQ2h2SFNfYk5PeUtDblNpb0FRc2VvR0hSVzFUVmZqQWVCWmlLUjEwcHVHWTAwU2ltY0lPMkxLZXN1a0tjSVp3N096ejd3andIWWJvWFhYUHVwZ2VfUnRtLXl5Q244VW1LcXNrUEhuZjBNc3FpUDJVdVVuMmdfN2J3dXFyUm40NTdWdEpxcnVJYUs5RVFIY21iak5aN296MTRQTTd0UnhLZldkRmJlXzBCVTZPVDTSAbwBQVVfeXFMT29fNUhfSmhONEFLcGRZTXNvRVR4QmxSckRPbWRPMTQ5SW9DdVZaWkJFY1ZqdExhTms4MHVmVnJUbzY0RFdUVy1ZTEFKNkxTcy0wTHViZnZBYzlaQzZmVXJ3d0dTSmdadzVETW5SUDMzTy1HbUFDa3p0cWNsalVIcXFlUGI3MFN1dTlva0xlTjUxRzFnMTN3amN0TTY0WmpVd0RJeEJlYnp2c2lTVnI4NVVIOFZQZ2Q4QUtWM1M?oc=5"
   },
   {
-   "o": "cwibc.co.id",
-   "t": "US Inflation Climbs to 3.8% as Fed Faces Rate Decision",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hMzhkOEVfSlFkdUF5azI4LWxqUWs4dms2endEUUtXV2REUV9rVnZFbG44RGtKbWduaFBudmZSVlE5bzBqd3RKaXFNQmtCX0hJYVhoSVZYYmtHZllKNDUybEZMdw?oc=5"
+   "o": "Investing.com España",
+   "t": "Nvidia detiene envíos de servidores de IA a cuatro países del Sudeste Asiático",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcktydkpWdkZYU1dqaER2bWk2MTlxN2RPaG9YdnJHM3NuS25VSnZqWXd4bmlMenBoNUFUTTUtNVg5Zk92bGtmUFJvdmc1ejRoQnVoZTBUbHpVNEZfeDJsdkdhTHlLcEF4NHFoWVk4aWFfWDZ0dE1wOVFVN2lUOHdibDVwbXFsVXNYV3NRM2NCU1c0RU1kcFpoZWhzMUNiSHhwMl8wcjFlTnlHSHgtcDJUUEczQTkySkRZSGlGcmpkUHF3Y2RJSTRxajJtMjV6Mmc?oc=5"
   },
   {
-   "o": "WXXV News 25",
-   "t": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeHZ6ck5hOEZLRkNTQmZDWFpsTzcyRUVSSGZUYmVsNFFIZ0ZuT1FCRFR6RW84RkRmVEVoRGNFSV9GbWZoNWdiNDY3YVA1VjJOYnVoWUNYd0FVT21LZXE2RjBGbmI4VXNMOEJhSTNzb3RLSDNhMXNvcE90UGJUUERPSjRRUVQyakg3ZHUzSmtQSTVtbnhhN0tNNzluMkpTdE1TaXF5bHV2eWdjMU5OaGoxVzNJVHpLbUZLbEktVWtCdHRBdw?oc=5"
+   "o": "Investing.com España",
+   "t": "Kioxia sube un 14% tras colaborar con Nvidia mientras los valores de chips rebotan",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRnJFcVgtTElyTmJRcUgwSHFpRm9RdUN5ZHN6ejhyZFd5RmZ1U0xEdlZPc000cDFXWVYxUVM2NEJDZGNoS0xoMWlZekhMU2RlZVFnc3RQOVBiekkyR0gtR2tUX19RU2RqNFJLQ09PTHBDNTQwNDVZY05zcEFYNE1nM0RpS2JiNmZCTWFUTm9OWmlPQ3YxempPUXJteHl4SjMwYUNTVG5RVlFFOUtCdXNCM1NuSEJZNktySXFEbTk5MHRkQXNfQ0IydGhOZkN2dWt2NFpN?oc=5"
   },
   {
-   "o": "BigGo Finance",
-   "t": "Gold Slips Toward $3,575 as Firm Inflation Keeps Fed Hikes on the Table",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtR3R1RXpfSC1PeGl5UUxHOVVvTWpMd0FsZUhhZ0ROejhjMmU2aXFOcENaVFlSaVNUZVBvMlFXUWtzcXFQLWV2Vk5lWnpqN3JETUlrYzZYT21QRXNMRmVEMEpqNGx1Q0otQUNLSVZRcGt1R1VBR1E?oc=5"
+   "o": "iXBT.games",
+   "t": "¿NVIDIA vuelve a recortar los suministros de tarjetas gráficas? Los precios de las GeForce RTX podrían aumentar",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXQ5RGZiRHg4elk1TXRidXFKcFo0VmY3MGl6VzJVbFh3VWRaZkkzUWttN3JOLUNwck5IRDB4ajgtY1VsUTE4R1FRNmluV081a3hNMklqbHh2eHFlMzBfQk1kUGR1dmNTbDdSNW1YNEhrazNFS3loQ01SQWszbzJuMHBtMkFiQ09EQ2ZMUWp1Zmw3Mnk4SWFRSXFhWTJDblNjZ3c0Y0E3Ujg5MEdlZTVJTnlKZ2F1WWPSAbwBQVVfeXFMTUdpdU9TSG5qRXpJaE5TX1dRWmpPdEVtYnpjal9fZ0VXZUNnR182QW1qRFdGc0VTZlZVbUxNdFpMRkJkU2M5MVFHa0Rjc0ZtSFU2Zk5EUjM0Y1VvXzBFTVJoNUxaTXdvQVY2b2xuNHB1T1NrZkJNOU82Qk1EdmF0eUlQaXBZanoxNEJCdW8wTWJVTEpKSUxhenlLN2JPdDA4SVRxS2llSU5UQjRSRzRmV0RRUkRsYURvY0J5T2s?oc=5"
   },
   {
-   "o": "Businesskorea",
-   "t": "U.S. Core PCE Inflation Hits 3.3%, Fed Seen Raising Rates in December and January",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WbkJJUTlZY29IUU1hWnFPTWpVUDlMcW9ualVYczFmdDNzSzFfcmxSc2lkV09yakxwMnV6TTFPTmxPcllnNDF1aE92TFBiekluUVhEa3FCTHJJM0tEV0ZHVFNQTXAtWEhlSlZGeUpGVk1GWFBN?oc=5"
+   "o": "TweakTown",
+   "t": "NVIDIA B300 AI chip orders face up to a 40-week wait, while RTX 60 GPU production could slip past 2027",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNREt6V0JVWnljcDVLU0p4ZzUxeU53N3JpcWdReVZqM21WQy03bFRYRHdYWkt3aE40S0VhZWxrbU1xc2c1M3dLdDFHZjBiVkdPeG4tendiM0lnS1dhWnJ0R2hvd05PS25sR2VXVU5Ud3JIYU8wLXd2S1FIalBZcXVRWG85bE5kMnV2LWJJbXlpNXdod2tUWWRiZHBObVVWMWpnZFBRc2o0Rl90aHR0SU81ZUZGdmJGQUhpZlAxMDZPZ19KWVlQWnNraHY0UDF6bFhxQjNuQ2FXdi1hTzFIMU1jbWZCMkM?oc=5"
   },
   {
-   "o": "Columna Digital",
-   "t": "La inflación en EE. UU. sube a 3.8% en octubre y presiona a la Fed",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WTXJDOTQzalFJVHBrQkk1QmhSMWhxLXdiV2VEU2ZhdUtlYU42ZkVWZzJWNDNOZ0szbnFPNC1yMWlNY3VSVXJlcEFZWS1YLWFhYVdLWEtIWGZkdTREbnJ5ZjMxMlBaTjBTY1psRjd3MGJQTnVRZkJkNHJIbDJSdw?oc=5"
+   "o": "TweakTown",
+   "t": "NVIDIA B300 AI chip orders face up to a 40-week wait, while RTX 60 GPU production could slip past 2027",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWXluSFl4RXkwREw3ZUxlSG04MnVTcGhZdUJMVUgwRjlxZXBUN091RnZ5enhtc25zTjh3N1RPeTdBSk1zR2hkNHlKbWdOc25nTkc5c01aczlrNFMtN29yOThzaVU4TkRxUXJIcTg1eW9iLTN1Ulh3UnpGZFVsN1pTcm1XeUZ3QmVpcXRKMVZnYm9SUG5DMXd0dVVYc21aZ1gzLUwxblhpalhvOGxrWjdTUUpQZTVEei1pZEtZSWxIalFOMUI2Rm42cU9hQjROYTlqQ0JDOTlrWkE4UF9PeVYxa3FKVkxkVkhyVS00dU91dFBmQkU3cTFxN0ZURnZTLURXUk5hek5sS1o2bDR2ckJNSFdSMHNPaXhwcnFCZWpLelhnWlB0c0dRUWVn?oc=5"
   }
  ],
  "en_espanol": [
-  "El oro cede ante datos de inflación que refuerzan alzas de tipos en EE.UU.",
-  "La inflación en EE. UU. sube a 3.8% en octubre y presiona a la Fed"
+  "Kioxia sube un 14% tras colaborar con Nvidia mientras los valores de chips rebotan",
+  "Nvidia detiene envíos de servidores de IA a 4 países del Sudeste Asiático - Investing.com México",
+  "Kioxia sube 14% tras colaboración con Nvidia; repuntan chips - Investing.com México",
+  "Qué es Nvidia y por qué es tan relevante en la economía digital mundial",
+  "Nvidia detiene envíos de servidores de IA a cuatro países del Sudeste Asiático"
  ],
  "investing": [
   {
-   "t": "El oro cede ante datos de inflación que refuerzan alzas de tipos en EE.UU.",
-   "link": "https://es.investing.com/news/commodities-news/el-oro-cede-ante-datos-de-inflacion-que-refuerzan-alzas-de-tipos-en-eeuu-3944444"
+   "t": "Kioxia sube un 14% tras colaborar con Nvidia mientras los valores de chips rebotan",
+   "link": "https://es.investing.com/news/stock-market-news/kioxia-sube-un-14-tras-colaborar-con-nvidia-mientras-los-valores-de-chips-rebotan-3944508"
   }
  ]
 }
