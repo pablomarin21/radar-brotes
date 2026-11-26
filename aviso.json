@@ -1,88 +1,87 @@
 {
- "ts": "2026-11-26T07:04:46+01:00",
+ "ts": "2026-11-26T09:10:46+01:00",
  "fichas": [
-  "nvidia",
-  "kioxia"
+  "aranceles"
  ],
- "medios": 72,
+ "medios": 80,
  "normal": 0,
  "red": "investing",
- "titular": "Kioxia sube un 14% tras colaborar con Nvidia mientras los valores de chips rebotan",
+ "titular": "Las acciones europeas suben ante la moderación de los aranceles de EE.UU.",
  "medio": "Investing.com España",
- "link": "https://es.investing.com/news/stock-market-news/kioxia-sube-un-14-tras-colaborar-con-nvidia-mientras-los-valores-de-chips-rebotan-3944508",
+ "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZE84MzJSeEJpdENMSng3ZWVJV2hQSkJRUE5EVnQwNHVybS1Udnh5R2x4d2taNDFBQ051LXVCcHg2T0hxS3pCUGZEdXNZclNWUjd2MnBxeGhFMXh0TWNNVElpQk4yMzhBWlYzMXB3MEpFOTZrUWNzcjJ1S3BfVGEzV28zbE9KSkV6YU9TWlRPZEoxN1QzM0Z0RkctUTNRRzdyVnl4UHNLSEgwbzlLUHVNUkVGb05ZX1ZvWTgtOFVJVURlWGF4LUE?oc=5",
  "titulares": [
   {
    "o": "Investing.com España",
-   "t": "Kioxia sube un 14% tras colaborar con Nvidia mientras los valores de chips rebotan",
-   "link": "https://es.investing.com/news/stock-market-news/kioxia-sube-un-14-tras-colaborar-con-nvidia-mientras-los-valores-de-chips-rebotan-3944508"
+   "t": "Las acciones europeas suben ante la moderación de los aranceles de EE.UU.",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZE84MzJSeEJpdENMSng3ZWVJV2hQSkJRUE5EVnQwNHVybS1Udnh5R2x4d2taNDFBQ051LXVCcHg2T0hxS3pCUGZEdXNZclNWUjd2MnBxeGhFMXh0TWNNVElpQk4yMzhBWlYzMXB3MEpFOTZrUWNzcjJ1S3BfVGEzV28zbE9KSkV6YU9TWlRPZEoxN1QzM0Z0RkctUTNRRzdyVnl4UHNLSEgwbzlLUHVNUkVGb05ZX1ZvWTgtOFVJVURlWGF4LUE?oc=5"
   },
   {
    "o": "Investing.com México - Finanzas, Bolsa y Forex",
-   "t": "Nvidia detiene envíos de servidores de IA a 4 países del Sudeste Asiático - Investing.com México",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVDFhak1lcHJ1aUJjWHQ4aC1XbDRLWk5TSXZfLU5JdWd6bGxtZ2NCaUJBU0ZNZHVpMmlsTDZLNTdqcllYT3JfdWx4bVFtYndhXzdTUm41RUFiTU9GMGtYU0hUbWk0c3hwZnNmTTZqc1Nfb3hDRGVidFdTS2NXcGh6aXN0T2hFbnJ6Q04yUE5QTHZXZlB2U1djT2J6RG9LQlA4d1pyTGctV1J3QzdRZ3JnTlVpMHJjaHF6QzAzaTVIYzRscHNNYTFUTQ?oc=5"
+   "t": "Acciones europeas suben por aranceles benignos de EE.UU. y pausa de Acción de Gracias - Investing.com México",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRUdpWldDeE1sVkQtWG9oN2FaeUNSdmZYT0x0WWlrTXp5OTlKbk9CdFRuWi1CWXBpZnhnYURyUGIwNzVNX1pCRV9zLUhGM0dzdjF0YnpCSUowTEktaWdKZmstWGJqR05BaXdJVkNMLXBINXNvR0pEc0d1RzhOSWpQc1pPNzRvTU4zREM4LXAxLWlBQjB4YWx5R0k3X2lGNEFlM0k3VnlqV1VyTkMtTGdjcHZIYmVRR0ZNWTBqZ0pNQ0VPMzA1bmtqMDhmd0MwanZRU2dTVHFn?oc=5"
   },
   {
-   "o": "Investing.com México - Finanzas, Bolsa y Forex",
-   "t": "Kioxia sube 14% tras colaboración con Nvidia; repuntan chips - Investing.com México",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVnk4a0RiYlhmZmtGX09rbnZteFo2ME1VMkFJZXpDdWxIR3F3UkMyZDFlRmhhM1pscFQ5bE5TaGU3NWpLYVU4djhSQ2YyR0ZTYndDV09mQm16dEIzNTZDckdrRFduS2REU01iRmJHNnlwb3RTSnNiOWlKWE5ZcFFZSzhCTnN3WEJxZDZCY18wWUVQTTJGamZ6UGYxUUtPYTFQVldRUnRfV0JYanFhUk5jeDhhS1I?oc=5"
+   "o": "Diario Socialista",
+   "t": "Trump anuncia nuevos aranceles contra 14 economías por “sobrecapacidad industrial”",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbTZxUnhVTUFVVkN6NVZCaFlrdXdubnZ5Y201UWQ5b0FsRjNPV2hKaVFZU2ZUVV95cTFuMllYaDRTREtkaFdUNGo2ak9PN2lROFNWVThoSG9BNGwzLVBVSC1GalVpN0JoUnJjcGpBWVVSTkhsdmE0Y0I1cDZLZFhKZnZTVmhUaW1OSS1lR1djWUJUVHI1M2lQc0ZUanBGMnBlSmhUS195OVE1X21LTWJ5cWQxVHEwX1FSa0k0VGdn?oc=5"
   },
   {
    "o": "Investing.com",
-   "t": "Nvidia stops shipping AI servers to 4 Southeast Asian countries- FT",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM2phY294LXZuU2RMY283VE43UEJfYkd5QWFtNDlHNi1HcDZfcHpmYVdMWWxaWXJ4aTVXMktBVDF2TzRIckVtd0JfQ0w3RnNxN0hlLUc2T3RsRzBqZS1IdWExbHRDT3hEbTFZVHBqWWRCLU1vX3RtelhMOHNXR3BDRUEzeUNWV0FYa3pXbjFnU2tsS3hlUkZ2QU9ma2J2LVB4QVllRkJkZk8ydEQ5NDZqYzRHb2dhMGRmUmVEQ0lpdFU?oc=5"
+   "t": "European shares as benign U.S. tariffs and Thanksgiving lull offer relief",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWWJYZnBRMFQwTDY5blN3VE0tSk9sQmhJN29KQjdrNTZwQ1FIOXpLZHNnTUpJbkY0Qm5wYS1VWFh5Z2kzWEtwTDJhUG55a0xXRjRFU25ZeGptWlU5azVYTWRreG9XSWtvbUZ3MTNReEVneVRLbG9XOS1YbDgxQWwyUWZmTjVoQk9NWlNEUTVOZDB5UWFBMzRYNmtuTmdCNGx0MG9WXzM1Yjl2bnNSQUR1VXU1NEc4NzdRWnZFbk4wY0hoZ2s0NEt3?oc=5"
   },
   {
-   "o": "Seeking Alpha",
-   "t": "Nvidia's Aa1 rating, stable outlook unchanged after Huang's return: Moody's (NVDA:NASDAQ)",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc0lNa2VFVmo3WWRPQWRlcnUyTThIYUx0MGdQWWlCM0J0NmJvQzdGRDNUdDhnZFllWktWUWxFZEl6NnFIRnNwRFc3LVBrNVR5bzB3QnBueHI5T0R5dG52WU80MGJvdF9mcVZJUGdxdGJnQ0xpV3lvU0xUanY0d0R4Wng0OVJyWG90ekRELVNQT2pGU0JLUWtmSndzOFlhTzZoVDN3NWgzUjdsbTRu?oc=5"
+   "o": "MarketScreener España",
+   "t": "El IBEX 35 remonta tras unos aranceles de EEUU menos agresivos de lo temido",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRUw1NnpxSGNDTW1fMzVQcVZSaXdqclJPNFBKWGJXeUwyV3FMc2RqMHU4SW8tU0tpYllteHcxcFJ6RF9BaThqWW5Bd2U4LVlhYXR5ZHNHTURwa0U4c2Z2Rm1MTGZtQzQ3ZF9iUEpDVkNua2JFVWo1cVFkSkhsczJ5ZzRfaVlua0x1ZnpwdC1vUlVha0hSdWdrYm1VQXA5MlNxbXdmQzNDY250QjZ6M0toTFdYM3M2cHR3TnBhRWdyY0Z4NnVvQVhOVERIRQ?oc=5"
   },
   {
-   "o": "Investing.com UK",
-   "t": "Kioxia jumps 14% after Nvidia collaboration as chip stocks rebound By Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZEh2SnRwamlGMnZBSjdBRHhDQjUzVThtV1lnSTBleXRyWnQwUWd0b3pkYVNuSzBSQmZ0WFdDSC1RTXNvWDlhQnNDcUg3SGV0ZkN4WGtkd1hGWlQtc1QwWjA5Nk96QlFmM1l1V1RfYWdqaDFycmRvWlNLbTZnQnZEbWNya0RCb19zWUVJaVRPNW9OWUp2VmxTTnMzNUFmaFVlV19rdE5Mbko2Z1puS1lmUjlzVm1yTzNtRkpyY0Nn?oc=5"
+   "o": "EFE - Agencia de noticias",
+   "t": "China alerta de que aranceles de EEUU \"elevarán inflación y dañarán crecimiento económico\" - EFE",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUNQdWdueWd5X1FQT0F2NEJfQmtkVWc0LVpKMFY1NmJOZjNEZ1pyMmxTZjVfbU1zSUhmaVdhbndYT0I4VW5VekdkVDZiOU84eVdzUGkyX19EVk95c1B3SW5uNVA2c1M2NnZQUlpLNE1ndnZkZnljTTJwSlJ0LVc3RWNYZHQwNEU0ZzRaYUVYWkxBVGhFekg1V29OWkVGQnp6b0VjMHZmMTdyMTNtdk5BelNuaw?oc=5"
   },
   {
-   "o": "iProfesional",
-   "t": "Qué es Nvidia y por qué es tan relevante en la economía digital mundial",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdFdGQ2h2SFNfYk5PeUtDblNpb0FRc2VvR0hSVzFUVmZqQWVCWmlLUjEwcHVHWTAwU2ltY0lPMkxLZXN1a0tjSVp3N096ejd3andIWWJvWFhYUHVwZ2VfUnRtLXl5Q244VW1LcXNrUEhuZjBNc3FpUDJVdVVuMmdfN2J3dXFyUm40NTdWdEpxcnVJYUs5RVFIY21iak5aN296MTRQTTd0UnhLZldkRmJlXzBCVTZPVDTSAbwBQVVfeXFMT29fNUhfSmhONEFLcGRZTXNvRVR4QmxSckRPbWRPMTQ5SW9DdVZaWkJFY1ZqdExhTms4MHVmVnJUbzY0RFdUVy1ZTEFKNkxTcy0wTHViZnZBYzlaQzZmVXJ3d0dTSmdadzVETW5SUDMzTy1HbUFDa3p0cWNsalVIcXFlUGI3MFN1dTlva0xlTjUxRzFnMTN3amN0TTY0WmpVd0RJeEJlYnp2c2lTVnI4NVVIOFZQZ2Q4QUtWM1M?oc=5"
+   "o": "EL CEO",
+   "t": "CCE ve cerca un acuerdo entre México y EU para reducir aranceles y fortalecer reglas de origen",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaEwwWEdFd0hDS1dxY19YS19pUXpNRThhVEMxZGVPRUI0X3AtZ0RpRFNtNXdscnoyMm4wVlB3Vk5kR0JvVHV1OXF2d1NKQjA5ajdQMm1tUHJic1N0Qk9DY3QxaVFOWldNVk9XUkE3Q1dFLU9zWjUya1F2aGNKWkoxTnhacEF1VHZOa2FXT2FXNm9hdnpiYll5NXpUb09hbDVlUmhldUN0cWJ1RnBZVnliUFRWQ240ZzU0QmJ1TW9Fdw?oc=5"
   },
   {
-   "o": "Investing.com España",
-   "t": "Nvidia detiene envíos de servidores de IA a cuatro países del Sudeste Asiático",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcktydkpWdkZYU1dqaER2bWk2MTlxN2RPaG9YdnJHM3NuS25VSnZqWXd4bmlMenBoNUFUTTUtNVg5Zk92bGtmUFJvdmc1ejRoQnVoZTBUbHpVNEZfeDJsdkdhTHlLcEF4NHFoWVk4aWFfWDZ0dE1wOVFVN2lUOHdibDVwbXFsVXNYV3NRM2NCU1c0RU1kcFpoZWhzMUNiSHhwMl8wcjFlTnlHSHgtcDJUUEczQTkySkRZSGlGcmpkUHF3Y2RJSTRxajJtMjV6Mmc?oc=5"
+   "o": "TradingView",
+   "t": "El IBEX 35 remonta tras unos aranceles de EEUU menos agresivos de lo temido",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BcE12c05MenE4cTV2Y1BzbGF5YS14ZlZxVXJ0NHd2TkhERWJ2ZFRtWUZPWDBydEZsVWxaYUhPOGxqME5VeHV0OEpVeUlPM0drdzJ4LWx3WktXOFVZeWpRMW1RQ1labXZJdzdFWEpyOWtRakhBbXVV?oc=5"
   },
   {
-   "o": "Investing.com España",
-   "t": "Kioxia sube un 14% tras colaborar con Nvidia mientras los valores de chips rebotan",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRnJFcVgtTElyTmJRcUgwSHFpRm9RdUN5ZHN6ejhyZFd5RmZ1U0xEdlZPc000cDFXWVYxUVM2NEJDZGNoS0xoMWlZekhMU2RlZVFnc3RQOVBiekkyR0gtR2tUX19RU2RqNFJLQ09PTHBDNTQwNDVZY05zcEFYNE1nM0RpS2JiNmZCTWFUTm9OWmlPQ3YxempPUXJteHl4SjMwYUNTVG5RVlFFOUtCdXNCM1NuSEJZNktySXFEbTk5MHRkQXNfQ0IydGhOZkN2dWt2NFpN?oc=5"
+   "o": "TradingView",
+   "t": "Datos clave: Las acciones de Apple suben en medio de noticias sobre gasto, aranceles y alianzas de IA",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YRFJiWlNkcktzWXNyWGFmc1RXcVo0cVRJRDBiT1NqTzJiV1pSOE45d21VMmh5OFJqbVhlRkRNYzNjQkQtb1NBa0Q0NndmVndFU3FGa0x0WjJuVld1a1VuVFZhM01kWmhaVVppZQ?oc=5"
   },
   {
-   "o": "iXBT.games",
-   "t": "¿NVIDIA vuelve a recortar los suministros de tarjetas gráficas? Los precios de las GeForce RTX podrían aumentar",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXQ5RGZiRHg4elk1TXRidXFKcFo0VmY3MGl6VzJVbFh3VWRaZkkzUWttN3JOLUNwck5IRDB4ajgtY1VsUTE4R1FRNmluV081a3hNMklqbHh2eHFlMzBfQk1kUGR1dmNTbDdSNW1YNEhrazNFS3loQ01SQWszbzJuMHBtMkFiQ09EQ2ZMUWp1Zmw3Mnk4SWFRSXFhWTJDblNjZ3c0Y0E3Ujg5MEdlZTVJTnlKZ2F1WWPSAbwBQVVfeXFMTUdpdU9TSG5qRXpJaE5TX1dRWmpPdEVtYnpjal9fZ0VXZUNnR182QW1qRFdGc0VTZlZVbUxNdFpMRkJkU2M5MVFHa0Rjc0ZtSFU2Zk5EUjM0Y1VvXzBFTVJoNUxaTXdvQVY2b2xuNHB1T1NrZkJNOU82Qk1EdmF0eUlQaXBZanoxNEJCdW8wTWJVTEpKSUxhenlLN2JPdDA4SVRxS2llSU5UQjRSRzRmV0RRUkRsYURvY0J5T2s?oc=5"
+   "o": "CNBC",
+   "t": "U.S. tariff-hike threats put pressure on partners to sign trade deals",
+   "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html"
   },
   {
-   "o": "TweakTown",
-   "t": "NVIDIA B300 AI chip orders face up to a 40-week wait, while RTX 60 GPU production could slip past 2027",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNREt6V0JVWnljcDVLU0p4ZzUxeU53N3JpcWdReVZqM21WQy03bFRYRHdYWkt3aE40S0VhZWxrbU1xc2c1M3dLdDFHZjBiVkdPeG4tendiM0lnS1dhWnJ0R2hvd05PS25sR2VXVU5Ud3JIYU8wLXd2S1FIalBZcXVRWG85bE5kMnV2LWJJbXlpNXdod2tUWWRiZHBObVVWMWpnZFBRc2o0Rl90aHR0SU81ZUZGdmJGQUhpZlAxMDZPZ19KWVlQWnNraHY0UDF6bFhxQjNuQ2FXdi1hTzFIMU1jbWZCMkM?oc=5"
+   "o": "bitacora.com.uy",
+   "t": "Los nuevos aranceles de Trump devolverían las tarifas a donde estaban antaño de que interviniera la Corte Suprema",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMzlscGdDMUptWnRpTWNrZXV1SVpBVmozM0tlb0VPZ1hSaEZlZjQ1cEJKRlYwdm5lZnF3cWx3am5KOUJkN09EMkJoZUhMMGpsa2NJaTVYUEJOMWVvR0pWenZXYWg3UE43LUtkQ0pIN3pzLTBOOTFjcFpQWkowUUJwZks2NXV6UVF6TXFKVnlncDJ4UUxvRktCTEw3VmdHRHNFSnJ5RFluS1BoQ3JkcEVYVl9rVkw2ZGt4TjJTNk1pLXBqN0hPOFp4bHV3b0VoLVFHeURWOA?oc=5"
   },
   {
-   "o": "TweakTown",
-   "t": "NVIDIA B300 AI chip orders face up to a 40-week wait, while RTX 60 GPU production could slip past 2027",
-   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWXluSFl4RXkwREw3ZUxlSG04MnVTcGhZdUJMVUgwRjlxZXBUN091RnZ5enhtc25zTjh3N1RPeTdBSk1zR2hkNHlKbWdOc25nTkc5c01aczlrNFMtN29yOThzaVU4TkRxUXJIcTg1eW9iLTN1Ulh3UnpGZFVsN1pTcm1XeUZ3QmVpcXRKMVZnYm9SUG5DMXd0dVVYc21aZ1gzLUwxblhpalhvOGxrWjdTUUpQZTVEei1pZEtZSWxIalFOMUI2Rm42cU9hQjROYTlqQ0JDOTlrWkE4UF9PeVYxa3FKVkxkVkhyVS00dU91dFBmQkU3cTFxN0ZURnZTLURXUk5hek5sS1o2bDR2ckJNSFdSMHNPaXhwcnFCZWpLelhnWlB0c0dRUWVn?oc=5"
+   "o": "Diario Neuquino",
+   "t": "Brasil y la Unión Europea rechazaron los nuevos aranceles de Trump y exigieron respetar los acuerdos comerciales",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZzdSWGd1VlYxTDlkTU5qcW5MeTQxbjZweVBCaWZDZVl3MHJHYW5MR3Qta3VILU12MWl1SFZVSEVXSEtTYUh4MUhxaUJtYkhBcGthZXFXWUF6QmVZN3NhOThZMm5UNFBPck1EWVNGS0VNRmZuLVlES254SFVtUHM0aXJfVnpDYVZ6MUxCenBJNjNxcTBmWDlpVnhpMm95THJ6aEtrcFFCQjBnTjVSbjMtSTlFSlZhdTFiM1FJaF85U1pRRW9aZXpHcFlEV25MbzI1aDNIZURNWE1QbEU?oc=5"
   }
  ],
  "en_espanol": [
-  "Kioxia sube un 14% tras colaborar con Nvidia mientras los valores de chips rebotan",
-  "Nvidia detiene envíos de servidores de IA a 4 países del Sudeste Asiático - Investing.com México",
-  "Kioxia sube 14% tras colaboración con Nvidia; repuntan chips - Investing.com México",
-  "Qué es Nvidia y por qué es tan relevante en la economía digital mundial",
-  "Nvidia detiene envíos de servidores de IA a cuatro países del Sudeste Asiático"
+  "Las acciones europeas suben ante la moderación de los aranceles de EE.UU.",
+  "Acciones europeas suben por aranceles benignos de EE.UU. y pausa de Acción de Gracias - Investing.com México",
+  "Trump anuncia nuevos aranceles contra 14 economías por “sobrecapacidad industrial”",
+  "El IBEX 35 remonta tras unos aranceles de EEUU menos agresivos de lo temido",
+  "China alerta de que aranceles de EEUU \"elevarán inflación y dañarán crecimiento económico\" - EFE"
  ],
  "investing": [
   {
-   "t": "Kioxia sube un 14% tras colaborar con Nvidia mientras los valores de chips rebotan",
-   "link": "https://es.investing.com/news/stock-market-news/kioxia-sube-un-14-tras-colaborar-con-nvidia-mientras-los-valores-de-chips-rebotan-3944508"
+   "t": "Las acciones europeas suben ante la moderación de los aranceles de EE.UU.",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZE84MzJSeEJpdENMSng3ZWVJV2hQSkJRUE5EVnQwNHVybS1Udnh5R2x4d2taNDFBQ051LXVCcHg2T0hxS3pCUGZEdXNZclNWUjd2MnBxeGhFMXh0TWNNVElpQk4yMzhBWlYzMXB3MEpFOTZrUWNzcjJ1S3BfVGEzV28zbE9KSkV6YU9TWlRPZEoxN1QzM0Z0RkctUTNRRzdyVnl4UHNLSEgwbzlLUHVNUkVGb05ZX1ZvWTgtOFVJVURlWGF4LUE?oc=5"
   }
  ]
 }
