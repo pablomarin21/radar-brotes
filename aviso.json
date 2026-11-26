@@ -1,86 +1,87 @@
 {
- "ts": "2026-11-26T10:15:34+01:00",
+ "ts": "2026-11-26T11:03:40+01:00",
  "fichas": [
-  "fed",
-  "pce",
-  "bonos"
+  "bce"
  ],
- "medios": 24,
+ "medios": 20,
  "normal": 0,
  "red": "investing",
- "titular": "El rally global de bonos se modera ante un PCE persistente que consolida la subida de tipos de la Fed en diciembre",
+ "titular": "El crecimiento de los préstamos corporativos en la eurozona se acelera al 4,5% en octubre, según el BCE",
  "medio": "Investing.com España",
- "link": "https://es.investing.com/news/forex-news/el-rally-global-de-bonos-se-modera-ante-un-pce-persistente-que-consolida-la-subida-de-tipos-de-la-fed-en-diciembre-3944663",
+ "link": "https://es.investing.com/news/economy-news/el-crecimiento-de-los-prestamos-corporativos-en-la-eurozona-se-acelera-al-45-en-octubre-segun-el-bce-93CH-3944686",
  "titulares": [
   {
    "o": "Investing.com España",
-   "t": "El rally global de bonos se modera ante un PCE persistente que consolida la subida de tipos de la Fed en diciembre",
-   "link": "https://es.investing.com/news/forex-news/el-rally-global-de-bonos-se-modera-ante-un-pce-persistente-que-consolida-la-subida-de-tipos-de-la-fed-en-diciembre-3944663"
+   "t": "El crecimiento de los préstamos corporativos en la eurozona se acelera al 4,5% en octubre, según el BCE",
+   "link": "https://es.investing.com/news/economy-news/el-crecimiento-de-los-prestamos-corporativos-en-la-eurozona-se-acelera-al-45-en-octubre-segun-el-bce-93CH-3944686"
   },
   {
-   "o": "شبكة تواصل الإخبارية",
-   "t": "Swiss Franc moves away from two-week top as USD firms on Fed bets | FXStreet",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xOTRyUjBXQU1kVTNwOFR1QTFjZ0FrQkQwY0tPZVphd19DU0xhVXI0LTd4dEpWaXhlNDBnWXZrZF9wTDY5N0swNmxZeEFfaVRzeEVR?oc=5"
+   "o": "Investing.com Nigeria",
+   "t": "Euro zone corporate loan growth quickens to 4.5% in October, ECB says",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYUE5VUozVHVnUzlmTlJyYVlqMnJYOFFRdzhfNElhNjAweEstb2lyNWRnYTRpS1dnM2QwQWlWd2lyZGNrSGhreEdmS1cweklZcVNVOVVmS1ZXdkwzbkZ5STdXcVJXTkMyLWNZektXa0o4NlBtREFzVGJydmZ6bWUwNW1XY2J6RnVKNnNvVndRT2poNWx1ejZpMHUwRXlXTFRDQTF4dTEtMXNCTVBGN1JQSnE4Y3ZvRVFEMW4tMk1mMHBfRWllamc?oc=5"
   },
   {
-   "o": "The Sun Malaysia",
-   "t": "Gold steadies after hitting over 1-year low; Fed outlook in focus",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcTkyei1ZbVNWODZORF9sc1FPUmtJTlJVY1d1ZUNmTlduZWdPT21vcDVUVHpnejlwUmRUWHA1OC0zNF9pZXpKc24zdktFSXZhNU9OdTcyYl9qNDBmZkVIYVpHWFJzNHVva2pVRUdSa3FfOUxsUWdoZGxtWFNrMnkwdFo0aGpRNEZHc0ZnVzhuWUJabjEzSnln?oc=5"
+   "o": "Wisevoter",
+   "t": "ECB Data Shows Bank Emissions Fell 36% Since 2018",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZklkX3dtQmppOERsbDItczhzU29aNWR5dlJlcWpXLTRtY0YyYlNLSE9OQTFERjRka1dFVXRBSmRNYzYyWnJUOXRaOVppS3A3dU9ZZzJxWXhzLXI1RmM3cVZpZ0FJaVB4Q0xSZ3FWZnN5OUtRVEM0SE55OHUxb29TY1AxTGZSSW1EOFpZdWdlOTRadw?oc=5"
   },
   {
-   "o": "Investing.com India",
-   "t": "Global bond rally eases as sticky PCE locks in December Fed hike By Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVY4RVZpbDZVdm93c0EwZExiTXgyb25mODlpZUM2OGgwS2VYajVGczVyMWktd01uT2FxV0xHX0M0YnBrYktqSXFNeHBQLWlKR3gxS0JUdHRndGpLVGZObU5Qd1JEUWtEd2RSZEdvZG01V3lCSGxhX01aNGMyb1BXUWcwRWpTTzlLVnBiVTlYTmdOMUtjUUdCM09aRUNJNldFM1haZXlZc1JKX2hOLXE3LVdFbw?oc=5"
-  },
-  {
-   "o": "Investing.com Canada",
-   "t": "Global bond rally eases as sticky PCE locks in December Fed hike",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdW1XcGxyQnVHTlh3VU5iWDh0cG55QkduaTJRdEFnQ0JMckttWG11bzR5Nk5zbHFGWWItOHNvRW8weFFmUXNHWFR2S3FrVlJmTy1PaE9OdURSaDBfOFU4Q2hWZUZETTBHcERmZnlBUm5ERDFGUlIwdFcwZl90TEdnNll6emF4QnlsUW9wajFiU3lDU3JHSi04eld3aHlhSW9pZEhkNHBmRXlwWDktOEZZVlRxOA?oc=5"
-  },
-  {
-   "o": "www.equiti.com",
-   "t": "High US PCE, Trump tariffs and hawkish Fed outlook weigh on stocks",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOE4xLW1QTzlRR1RGR1FSMnVwVkRTSnVHTmt0Uk1ZYjlQeGU2N003ZFVBZVAwU2lZWlJUUFduTDhOVU9CVUZxdFZkelRORkxiMXhWU01GTXJka0Qxc0xGNVQ1bU5vck9RSUlwX2xPT3gxdTVlV2lZdGFGZC1IX0RKNkxybktEV3hxR1Z4ak1XMW9sclpvQ2lTTUJpUGRaWVNRQ0lJNERHUFN3NVRIVGVmMFhySQ?oc=5"
-  },
-  {
-   "o": "www.equiti.com",
-   "t": "DXY Forecast: Trump Tariffs, Inflation & Fed Rate Hikes",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQTVSa3RtZkR5dE9OTnE2eDJWVlRVM1F4ODhRVGtMSlFZS1l2R0JibkNzYmN2NjBUT0xpV3lDUHRwLTF1S2hBQVJDNnV2S3VXUWlhTFF5U2twTk5PUk16YzBZaGgwemNPMGhlNmhHbnc1TXl6cFVzQWdwOVVqSUh0dDd3SllrYzBraWZrd0FoUkZKdVNrd3ctR0l1VVRtb0tack9J?oc=5"
+   "o": "Investing.com México - Finanzas, Bolsa y Forex",
+   "t": "Zona euro: préstamos corporativos suben a 4.5% en octubre, dice BCE - Investing.com México",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQlZrQXU3UnlhNDRFR0ZlNV84cTlYdmduWVF3a3R4X0g0WW9ZODZnVkFMeGFEWUZDQ3cwMGkwWWRmTUFEaUhaZUNBQjVFV1NrRThWWFNER21ZWVBPVmpDSF9Kd1VFbS1ha3JVT0QtcWRzTksyY25fU1VTT1BXM2hOR1BDaWk5T1UxVDhVZWt1VGxOVGptS3BNTWlmc1VyYXdlMVE1MGRiZG5uTEJEZzhqb1UyQWwwMUlfMUc4?oc=5"
   },
   {
    "o": "Investing.com",
-   "t": "Global bond rally eases as sticky PCE locks in December Fed hike",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNk9kS1Q4Q0JucGd0UVc1UHFSV0dEa0hXZkt4eW1ZOHIya2IteGxCZE9BWjJua1pRUUtMdmhoaFY0d3BETVBoUFoxcFI1Z1VjMGJYUi1QZ0EtRGdTNnJPOUgxWjlPMDU2bGw4elF6MmJNNktMaU9kX2NNRllsa1dIN2E4dDFLa1lkUERPRFFFQTJyNmNIV3NtN2pXTGV2Q2dpalFMZ2lYWERUeVcwcm1iN1RQNjc?oc=5"
+   "t": "Euro zone corporate loan growth quickens to 4.5% in October, ECB says",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObGtScURobzluY25aUW5Fa0pLUFJlbGlUVURqWEJEWTRlbVd3d2ppVmdKUFVaZjdpaG45cWpfWmNVc1BkRi0wdG9SSC1XT3VyNm5Ka0prWGFCRURiRG5YNFV6emxZQnptRmVSRWJjMXJxV3FCWlROVTktYlFCYWdfajh4UG5JcldoWjYybUdLNXc4dnhRS0pEM1Q5MXF5MXc5cDNhNFhoZE9jTTBRNUdwbTN2RVphTlFTbHhrTGYzUGY?oc=5"
   },
   {
-   "o": "FXStreet",
-   "t": "El Franco suizo se aleja de máximos de dos semanas mientras el USD se fortalece por las expectativas en torno a la Fed",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQYWYtUGZoSmtWdGRfdE4xbEtaWXJaOE1SZHh3MVdiellXOFRVM3BEMmhTMTdadklIMHBoWWlPb1hhU00zcjdUQWV5WEI1UWYwWTZkYWFlanZsT2lxeHlzVll5X3FxbnBSY09lSE9VZGFjU3VSQ3FXY1d1Qm5FSWwxYVVSdVh2dkFMZWlERnl2T0czSkpzU0VtZkNsbWJvWG92Q001ZVk2VXNIZTZNQXJxSW83N202UXZnZFlCZkhDVnBKdWdYcDBrdURlVUhiTzBTTmtpZll0NWUzdGhyV1RVeXhVdEMwbDhyeVBTR3hmOWlZdVZaSWZGTnpLTmVWM1RwaEdxOWdGdXJTUDBnVGhRUg?oc=5"
+   "o": "www.moncloa.com",
+   "t": "Hernández de Cos BCE: el español que aspira a pilotar la inflación y el euro digital",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUWwxODhDSUN5elNqYUIyNzF3clJUZjBGNnRPd3o2UWhyd0ZQNVlneU01TElLZzRjdmFMSS1WTmlYV2VJMXlwcHIxMmx1N1hMcDYycFowb2piUnF4WmFhZ0VWZGgyYWJkZnFTY3h1ckpCX2JOSVY3emhtTXpCZUN5Xw?oc=5"
   },
   {
-   "o": "FXStreet",
-   "t": "Swiss Francs moves away from two-week top as USD firms on Fed bets, geopolitical risks",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNamJOTFZvLVJfZ2FKQTZzTWxwQzV5SkpSQ0ZuV0VXeGExZVhWVDRJejFQbERtdmlIUmtXWXhZbGhhRlRVeXg3RDZqMVdoSHFKemt3Szk0Zi0tLU9ENGx5WWRaODBZZm9RZFRkNS15eG1rSmRzeXFDbUg5V0dBeW0yVHpkNEp1ckZMUUlvaWxjc1lVMDF3SDR3Nndjd0Z4Q3R3ZFI4b01BLXVKLTNzYjRkSUtJdmpQZDJhUk95WGhGenlsQVpaSWlJ?oc=5"
+   "o": "El Periódico de Aragón",
+   "t": "Los líderes europeos se reúnen hoy en Bruselas para desbloquear la llegada de De Cos al BCE",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3JuVFNvY0lUQXcwMXVsalVWdXI1aDhGc1pLMG1Ha1NWR0l5OXNyLUl0akZLZkJUVXRuMWJPMWotc1lqb280Nkw5cFNJeUFTUnc2Z3BnSnZSOGpTWTR1UmJmaVFjQngxcGo1VGdkMW5Fa0RsbUZoWDFvME94c3p5aHdlRU9qNU8zdlB5Z3owTHdRWm0zRnpuTVduOW1CWVRaTkE5VG5XcHUxUlXSAbABQVVfeXFMT0xWM014czNFNXU3bWdhOTI5dU95WlFmMDJ1cXFNY0JqQUwxeDUzVFZfUVhubXhrbFdwX2ZNX05STHBSNW1oWlE3WWIwMi02dUtnNS1yY2w1OG5hNWdpTnBia3VqNTQ2THphVEFCVmVyVEl2NTd6Mkg5UnZOMWFsck1UZGVodWhCN0tPMDhwNVo2YUhqMTNmdUc2VlFYQ1NVeHM5OU5IblpUNkxwUmdra3M?oc=5"
   },
   {
-   "o": "Bitcoin Foundation",
-   "t": "US Inflation October 2026 Hits 3.8% Before Fed Meeting",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTDJaTzByRTh6YjllQW00YUpoZVd0U3J2WTdGRDNxcE9pbWowUVgweWFaRW4zQ09wd09PTm9lc3NZajQybkllNmlCdVE5QnMyUnJUV0RCWUpRd21rNEZHVXlMMTJBSG82ZVUtZWVMRXRXTGpyc1Q2dGRQRE1HRlVyQWhBbjVLX1hJWVZpWmJQY1I5bG8wNURGVW5kNkpwMnRLMG0yM0p3?oc=5"
+   "o": "Demócrata",
+   "t": "The Dutch prime minister says that Knot \"fits better\" than De Cos to the challenges of the ECB",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY2pkMjNfNWV1TGp2eHA0TzFOaUk2R2J3NXdfSUlKLXYzRklmVC03WGxsOHoyMHphLXlDaW4wZGRwOW44elAyTWhmNzU5cGlEMDdlekNMNU5MQ29wRFJVSnBES0RLV1M1Y2pPY3J4dm5MNF9ENzY5bWc5bl81V0lpWkEtZ29wOFRNVnhNR3FwYjltOWx0ZXhUQUs5M01PVHMyRjVILVMxQ0ZqSEJiT1dSQVQxa1pUM3BUNldXai1EQl8ydnZBd0NvddIBzgFBVV95cUxQXzkwR1BXemU4OXVhRWU4ekxtX3FDckFveUtveExfRzNjOEQySXgwUUdNQVZuOWZUYmN4aTRvYUY1WGJCZHNYbGVGMUFnc3VVeUJaTGQ4TWJVdjN5bHp6RmRaWmc1QUMxN1FIOUNNRUFhNUV1OV9KSUs1T01Dcl9jVHBNbEJpaldsZjlBS1VVVlJzanRRcTh0RFM0dWh2Ylpwc1RaNDduWm9lMHVrSHFVdkw1Q281b1Y2QnA2dFphS1o4VTBFc0RJa19YLVp0Zw?oc=5"
   },
   {
-   "o": "marketscreener.com",
-   "t": "Gold drifts lower as Fed rate-hike fears loom",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVWxwQm5Zb3ctck5uUFVzck9jLW5vekprYXJPdGJWMG8taHVvaWFaSGx4MjUxVzdWeVVRaTBES0x1MDN3cUx5dDNZMG5SNldIck9sb3F5a3BTQkpiR2M1SVBzMFJ2RWxwWkxMVFZiTDlTaU4zNDhvLUZsVTlTLVVIYmtPZXFXb0lubXAzZmtnTWkwU1h3S1dRWmVKVXdjb3c?oc=5"
+   "o": "Europa Press",
+   "t": "El primer ministro de Países Bajos defiende que Knot \"se ajusta mejor\" que De Cos a los desafíos del BCE",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZXJlWXVNUEI0OXhja245SjBvYlItMWRNd0EtU3NNZDdGcFJQT2lVWUdtUk54WERrSURQbDRzWlBYQVBleTVQckNpeTBaNXg1dWNhczZ3WndzeEVUZkFCcThLV1dRY21BNlhmYk1Zd2VnLTA3SVVJM253RTloUExTMHRvUHdZNFZRNWRHbENVQVUzYjdTQ2k1RmpOM1NIWGhOYjJ4dHhLTUtMZl9VSzM5a1hMcWVPN1dIbFJBVW40OUZNbnFKMC1pQUxERDdzOEdJMzE2WnFsWVpSdjgyZ1hQMTdLMXpYdGk4SkFFeA?oc=5"
+  },
+  {
+   "o": "Europa Press",
+   "t": "El primer ministro de Países Bajos defiende que Knot \"se ajusta mejor\" que De Cos a los desafíos del BCE",
+   "link": "https://www.europapress.es/economia/macroeconomia-00338/noticia-primer-ministro-paises-bajos-defiende-knot-ajusta-mejor-cos-desafios-bce-20261126101533.html"
+  },
+  {
+   "o": "Forbes España",
+   "t": "El primer ministro de Países Bajos defiende que Knot \"se ajusta mejor\" que De Cos a los desafíos del BCE",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdmZsaWRtTG9LYnFLT2dWTUNuTy1TX3Q0TkJZSzZHRmtiMnpvYms4dTlseWFGUVhSOHJ5eTlwZXJPSUpZMmdfcU5nWDRVSEh6SjdyWmZNd1pjQlZfcDJyczkwRllqLVl3VGZ3RlBad1JzYjF5d1BDdER2NTAwWl95QUxnbERoVEhfVFVVRVAwRzh3SnVUcEFvMXVPLS1nWk95aklWc2s1cDg2V1JGZjBoUjN5N1l2eXlUQ2c2dG9vWFJfcGZYQ1RlQ09nOE5UUWZjaGx3T1Nsd00?oc=5"
+  },
+  {
+   "o": "Investing.com España",
+   "t": "Actas del BCE: qué esperar con el EUR/USD en mínimos",
+   "link": "https://es.investing.com/news/stock-market-news/actas-del-bce-que-esperar-con-el-eurusd-en-minimos-3944678"
   }
  ],
  "en_espanol": [
-  "El rally global de bonos se modera ante un PCE persistente que consolida la subida de tipos de la Fed en diciembre",
-  "El Franco suizo se aleja de máximos de dos semanas mientras el USD se fortalece por las expectativas en torno a la Fed"
+  "El crecimiento de los préstamos corporativos en la eurozona se acelera al 4,5% en octubre, según el BCE",
+  "Zona euro: préstamos corporativos suben a 4.5% en octubre, dice BCE - Investing.com México",
+  "Hernández de Cos BCE: el español que aspira a pilotar la inflación y el euro digital",
+  "Los líderes europeos se reúnen hoy en Bruselas para desbloquear la llegada de De Cos al BCE",
+  "El primer ministro de Países Bajos defiende que Knot \"se ajusta mejor\" que De Cos a los desafíos del BCE"
  ],
  "investing": [
   {
-   "t": "El rally global de bonos se modera ante un PCE persistente que consolida la subida de tipos de la Fed en diciembre",
-   "link": "https://es.investing.com/news/forex-news/el-rally-global-de-bonos-se-modera-ante-un-pce-persistente-que-consolida-la-subida-de-tipos-de-la-fed-en-diciembre-3944663"
+   "t": "El crecimiento de los préstamos corporativos en la eurozona se acelera al 4,5% en octubre, según el BCE",
+   "link": "https://es.investing.com/news/economy-news/el-crecimiento-de-los-prestamos-corporativos-en-la-eurozona-se-acelera-al-45-en-octubre-segun-el-bce-93CH-3944686"
   }
  ]
 }
