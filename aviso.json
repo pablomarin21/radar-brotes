@@ -1,87 +1,76 @@
 {
- "ts": "2026-11-26T14:46:59+01:00",
+ "ts": "2026-11-26T15:07:59+01:00",
  "fichas": [
+  "oct",
   "bce"
  ],
- "medios": 63,
- "normal": 0,
- "red": "investing",
- "titular": "Las actas del BCE revelan que muchos miembros apoyarían subida de tipos en octubre",
- "medio": "Investing.com España",
- "link": "https://es.investing.com/news/economy-news/las-actas-del-bce-revelan-que-muchos-miembros-apoyarian-subida-de-tipos-en-octubre-3944807",
+ "medios": 12,
+ "normal": 0.5,
+ "titular": "ECB already had large support for rate hike in Oct, accounts show By Reuters",
+ "medio": "Investing.com",
+ "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0F2c2liN2w3aWJLVUUwUU1EZ2prWUNxaTdpZXk0SlpGS3pfUFBqamhBTXgzOWdJOGh0cjVSRGNIck5LbVo5N2x4VGpyNjU2Nnp0U0JpQzJ3UlJrZzF2NFJaeVUycWJsZGxrdWpWUGJ5U2VmLTV3U2RKQy1hLWtNRF9SXy1teGRxMTZpNjVrSkN1R1lkc3VOVFNVekFUbGJMWlhLamIyWFcwTFJadmh1WU1CVVVCajA?oc=5",
  "titulares": [
   {
-   "o": "Investing.com España",
-   "t": "Las actas del BCE revelan que muchos miembros apoyarían subida de tipos en octubre",
-   "link": "https://es.investing.com/news/economy-news/las-actas-del-bce-revelan-que-muchos-miembros-apoyarian-subida-de-tipos-en-octubre-3944807"
+   "o": "TradingView",
+   "t": "ECB already had large support for rate hike in Oct, accounts show",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdmFrdHBBaVFxZTU5Q1UzM28zcFJrTFVaamp0VkNxQzdqV0pWM216UDJWNktHenR5RTkxSEQ2OGtNTGVKNzFlTFBKbUNkUkNsQmVXVlhndDlCaEQwZmRuN2dLTE1CTzJUcEVNalFQMEctVlVWVUtOekNtWGJ0Q1lmcmVvakhtOHpFcEl4d01JZ0pDUURRMTZtanRnZlZfQW5NbUZGdFpuM2NTUzZ4VEJKaFp6SG1jWWJsVXZMYUhJcDNRdW5rbGNkRHVyZ3o3YTg?oc=5"
+  },
+  {
+   "o": "The Lufkin Daily News",
+   "t": "ECB already had large support for rate hike in Oct, accounts show",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTGVNRW53N0lhcGwzMUhzUjhkc3BPRlVDekVMSVJuZUZuRkR2QTlsSng1eVJ3VkhTZ2Vnb0lwN2JlY25pdmc5cWxjNkNnX2FqeHUzbkg4cVFLSXVaQV92cS11d2pHb2FfTjdQZkJHaXY4TG9rYWduZTlJRnJ3akhoTklqRW04MDRPbFkwakRuTTJTSUlNS3lpVUZtUDRWakFLcGFRODBoS2VkbmlFSFMzX2xNUk9VekJNbndIc25OeC03UWZWYWdmNEFXSUk5d01GVVVJZ2dwTWdhSnFKbTg4czJ1NkZOVF9fMFRPNXNZVzJleE1PLVQw?oc=5"
+  },
+  {
+   "o": "StreetInsider",
+   "t": "ECB already had large support for rate hike in Oct, accounts show",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZXNYQlhuTnJObldxVUhDa05senhaOE81UVE5WXo4Vkp2cXAwR1lpc3JzVXBrbHVXWjVGcVg1cDktWnZTYVloMWNIeUUxLXJIOUxzMzBJQ1ZBRng5VzBRMzJyQlVmOGpEZnV4RU1sMVFDcHM1LUN3QUVGYmZPUVprNFJsNjNndXpjQzBocE1oWkEwX1pRbkxTNGlBMEdTZWZZdjRuaFNncUNMUnlRT3N5cUhsRVQxOTdIdUxF?oc=5"
+  },
+  {
+   "o": "Reuters",
+   "t": "ECB already had large support for rate hike in Oct, accounts show",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0pwMG9feGVEYVhMdnB4SDFTdFNQV0FtWmt1QWdhS0t4akxqbVJhTW96MXVlU1k2T21mc1VJaVRMM3huQUZLanZrdXVlcTRneXhCUGRpcUJaSEZ2T2VMUTRSR252S2FzYkhkR0wzbHRpQjNhb3kwM09TaVVrUndBaHBBc3BmZXl2TDVVZUxJcTVELWc1WUlJZ0JKNDNOaUxLQldaQWtFTm9CX0p4?oc=5"
   },
   {
    "o": "Investing.com",
-   "t": "ECB minutes show ’large’ number of members could have backed rate hike in October",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN21LVS00MlhRVU1pTi0tLUtHcGVXYWhHdE0zSFlNWTg0WlBFOFFPZzBfNlJ1ekVZbGN2Yzg1UmRnZFdfZHpTYy1WeWlNZjZYclNhZzlyWWxyd29VQXY0VXlMM0hIZlk4aG8zQW1iSlRfUC1UMTduVE1QS05GbGRyRVFlYnlwWk5VMEY5dkx3Rjd1YjMtYlNyUE81NWFZRGZvOVN4YW1yb2xMVEZNMmZ2aGh4YjdiSU5JX2pHU3NLY3JzR0JWZlI4S0o2TQ?oc=5"
+   "t": "ECB already had large support for rate hike in Oct, accounts show By Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0F2c2liN2w3aWJLVUUwUU1EZ2prWUNxaTdpZXk0SlpGS3pfUFBqamhBTXgzOWdJOGh0cjVSRGNIck5LbVo5N2x4VGpyNjU2Nnp0U0JpQzJ3UlJrZzF2NFJaeVUycWJsZGxrdWpWUGJ5U2VmLTV3U2RKQy1hLWtNRF9SXy1teGRxMTZpNjVrSkN1R1lkc3VOVFNVekFUbGJMWlhLamIyWFcwTFJadmh1WU1CVVVCajA?oc=5"
   },
   {
-   "o": "Investing.com México - Finanzas, Bolsa y Forex",
-   "t": "Actas del BCE revelan que muchos miembros apoyarían alza de tasas en octubre - Investing.com México",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRmFKWGhVUmFHckFuRG9oN1hfYXQ0SDFZR1Z3ZW9vMzRyMHhRblVEM0VvekNQTXRwTU9WTnpMSFhmaDRJSjhrS1JaTVlVZU1NX0xUM0pzS1RaQVlQSkowWjBOdFhZTHVUZUF5NDdTSDJRVjNMYUV2eWwyTWRqQ0J3eGlySEpIUGN6YkJzVVcwckhObDZfSTFyUGlYNzNMQWEtTllENGRqSDcwV0Uwc01NQmRqakc5OUhZY0lTRkxCNWktdTNEdFE?oc=5"
+   "o": "شبكة تواصل الإخبارية",
+   "t": "ECB already had large support for rate hike in Oct, accounts show",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzYnFrb25lYWRqTVhvbXZMbGZWdUQxUjhWYWphbWFZTUhWNllYNVdVMHoxRWR2OFBCbnFSRWRzOF9JOHRrS2k0WTY5Nl9hVXpXUE4w?oc=5"
   },
   {
-   "o": "Irish Independent",
-   "t": "Spain’s Pablo Hernandez de Cos to be next ECB President as Dutch bow out of race",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTHhzekJEeDN2Z3JVUi1pSUNqUHZpdklZOGsyVHNRV2tGa1k0X1Y0SzZINV9mSDk0cHNGTjl6aDZic0x2Q1BTQ01HZUdvQjZiYTFVR2hpT01Oak5pUGYzYzBzZ285YU44ZWk0VmZuZmhYZDhJNDg3TF9ET3V3ZFBWd0g3N21Bd2pnNDJqSGdPa2N2WGZPY0ExSXhwUFJvN29FOUtzYzlicllLN1JTNGFKUGgxX0d0aEU3QXVLWVhqQ21abDJ6QkN4b2JZR3RCa01DazNIYw?oc=5"
+   "o": "Lexington Herald Leader",
+   "t": "ECB already had large support for rate hike in Oct, accounts show",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hOW90bDg1d3hCWDdHT25pNHEwbG9GMm5Qd0JoZnFBYlA3TncyTmU4VjlqZzk5b3B5RUdEZnR0THRyb0pTaDlESE9faThMU1p5WlJhY2l4NlUtSHI1ajBKd2RjbDcyZXUzMkhUMjdaV3JfX2xJNGZsYmtaVmYtdw?oc=5"
   },
   {
-   "o": "ABC Economía",
-   "t": "Pablo Hernández de Cos, primer español en presidir el BCE",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzZMSF91YzBPa0lQQzM5YWFHd2JLVWdoYk53U0VEeHVmWVpabVpiSnpHTkZMN1VNVTl4UnBsOFQ2NW1lbTNPaGtQTVJNQ1kyZTg5VFlLR2hyMTIxV1ItaDlIbEk4LVJSZlB5alM1MjdyLW55cHIxbmtvVE9IaWV0T05sVndsWEk0?oc=5"
+   "o": "Tri-City Herald",
+   "t": "ECB already had large support for rate hike in Oct, accounts show - Tri-City Herald",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR3lGeWFPYWpsWnBBYjB4N2tCNjB0TGdWLXhFTS14SF9YdlFkcTBOWWtLbTN3ZWc2U2oxX2piVHNBakx6Z2JOWWI3RUVsTUduby1BcXk3S0tiNlZGRDcwX200XzRjVWZrWnFfbFlhSTNXRXFQdlBrdHVXQUxibXNMLU4tSjdRdw?oc=5"
   },
   {
-   "o": "Investing.com España",
-   "t": "Las actas del BCE revelan que muchos miembros apoyarían subida de tipos en octubre",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc1JZQl9uNnkydjhURGpMbTJnT3dUQTFZMXlURWdPMEZJbGNVYlh0UzRxRDItdXJQRUxBeTJMYVFhRHpxeC1jM0w0WUM2eENGZ1RhUFllY2JfVHBLR0tRTnlMaGtadkV4a1VkNXl5ZHZDWmV3TXcxR3dPLXZlYzl0Nk5uTmNhZ3k2TzFGQlF6b3RkSWJFRkNnOWJPSS0tUFdFeXE2Q20wbjhEVVVNMzlZV3M5SnpWeHRDdzlwODNudlZFRGt0X2NvUkVJcGtYUQ?oc=5"
+   "o": "Bellingham Herald",
+   "t": "ECB already had large support for rate hike in Oct, accounts show",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcmNCbE1iUVJGcHd2cHZLSmhDSVJyMEptejUzcG1Fck5qMEF4TEViYzh4SFZ3RXlkQXRET1pOOEd6WGZMOHZNWTkySlplcUtzNTNPUFZyb19fcWlmcG5adFBmMzMwVjdxWlE5U3paLUlJU1dYQnRWNFVuLUh0Y3E2clhjVjRzcEFz?oc=5"
   },
   {
-   "o": "MUNDIARIO",
-   "t": "Pablo Hernández de Cos, el economista español que presidirá el BCE",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOGU2ZzZ6ZGRTa205aVhiUS01NGtrbFRRWThrU3pXZ0lvTWxZZWNHZEg3WHd1UVluZFF6Q2p3dnczYjdWMHh5TnJDanpKU3l4UG51OE9qTXN3clJfRDg2NWdVZzZhcFpqWHJ6X0FPMndwdkhiNDVESEFrYjh6b0NERmZZeEg3WjFXWU16ajUxX2E0eWpFQlVIZVlwTjhKdU40c3JEWGlmYXNaRmQ4WFE3SDVpblVFSkVx0gG-AUFVX3lxTE1ZSTMzSHRZeE4tTGN6VVVJVkI5ZDU2S1Q0OHNKMzM4MWg2Zk1RdlpoRUE0T3hwMlN6TTJ6Q1RLN0h1M25yOG5QX2JwYThKblNNVjlkQUhTTkdzT0k5a0VfODFSbFZIMUp5bHpKVFcwNlhoZ2dTeEliUkNmOWRPV3llNjJxS3E2aEx4SVNqU2FJcERpSURjd0Z5azZ4RHZLSWEyRGhmc2NxdmR3V1VVcnU2ZzVjWVpSdklRZ1VsMHc?oc=5"
+   "o": "Kansas City Star",
+   "t": "ECB already had large support for rate hike in Oct, accounts show",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ003TEpHMDFWY3JYRzNiZm1RUlZIZi1xbEpFY2pGQ3R4WmVNdk51cWNMN2RBR2xERGNCdkU3cnZIdXNoT3RKUFAyendRWnZuWlp6WTZQbjAtd3otUncwSlVnTU5DMEotQ3NlX0x4ZEd2SHY1UTBFNl91Tm5NdHJfRw?oc=5"
   },
   {
-   "o": "Bloomberg.com",
-   "t": "De Cos Is Poised to Take ECB Presidency in Era After Lagarde",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGFBeGFHUnpHZ0NrbVJXSlRoVGJLVzQycVRsZVFlOWlpWVZ6SW16RDEzTlJjVzhpU2VxNEJmTXR0b1AtYlV4U3lXbnl4TzZJdi1TYUZIcDBLcW95UVh5eF93VGs1MkJ1SVVrWlU2YTZ4VG00YUhDRTgwVml1N056cTd3RlhYNkhRZ2FKNm9SVldhdGJFelY1QV80eGtkOUlqVXNkaEVtV3pndmhEZHFjbQ?oc=5"
+   "o": "The Mighty 790 KFGO",
+   "t": "ECB already had large support for rate hike in Oct, accounts show",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjU5TWhuUl9uU3lWMjVmLTZlTlZmejY2WGh1TFRZdjFndzAxQVFPUGZhRmNjVUN5YlJJc0VaOTRZbnhNOVIyUVExNF9KS0gtSThrZ1J0QWczTjNZSnYwaHhtTDNtOE1Tenl6NFRRVG1ZQTVHbEx5R201T21mOUFCTkFKNHZNYTBJQTVjT1lhb2VEcy1HLVZrQQ?oc=5"
   },
   {
-   "o": "LaSexta",
-   "t": "Hernández de Cos se convertirá en febrero en el primer español en presidir el Banco Central Europeo (BCE)",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZUo1Zlk0SDdydmJZRVhvb0xRR2prN0xKc045MXJHWjFOQ1NlV3Y2eWZlX3FPTURla1M3dFZ5anc4QlFkcDhaSmNZT0FSa19kSE9YV2dsMDB0T3QzZjVvb2w3TTBhNzFzTWpQd3JaNEhSSGR1OURoLUNjRjB1SFNxNzdEckQyajRZZUxZMTZKb2FtV0RTS0JDQ3ZEdXdVT01feEM0YnFMWGdvekJsbVhCbEJtSHdvcFZMcnR3NkF5cFRsUHYtZ0puVDNTWkExZWZWRkp5UkoydXEwSkdRUXBUZjVxX3E2d08yeVdicWQxazZfMmxS0gH0AUFVX3lxTE94a1gtcDFRWGc4V2t5MzJ2S2xGZGI2UDVzWGZKZjlpeDJkWVA4UGVuOUVnZ0h1SEVTaEdOWHNWR3RkNENsS2NRd3A4dkpxeWZaSmE3ZkdWd0Q0YzFtR0ZXejI2R012cmE2dFh1ZkJ5MHVYdWFxeWdlU0Q2Y1JXZlhPSFFlMDRvWWRhV21jbVpOdDJPOHA5WjhSaVloU3EwbGFwZWJkT1dSWmF3WmFkSHJGSk9MLXlkeW9PZ2NzSkZzTk1GQ0trY1E5ZE9mYlpqZ25hNEdRbXJjWndUODU2RHA4Q3k2bGFzSzZxcWdrdWtTQ3BjSGQ?oc=5"
-  },
-  {
-   "o": "FourWeekMBA",
-   "t": "Lagarde Says AI Helped Europe Weather the Energy Shock",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdTFjMHlPZzFieER6SGVqb2Ywcjd2S2hzSkVoV1kwcXFNZFhDLUV5X0pjSDFQSXdod25NakRyaTc4eDRaN19kR3J2Wm5jR0RfV0QzemtJQzRFTHRYT1hncV9kOUJhZmRvQmowZ0EwOVdYSGdnMG5IbnMzaUU4NG1JU1JpVkl5RnlLa2c?oc=5"
-  },
-  {
-   "o": "Diari ARA",
-   "t": "Pablo Hernández de Cos: the “discreet” and “approachable” man who has climbed to the presidency of the ECB",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORmNfM3VVM3ctRms2amVCdFdrZy1oWWU0WEd1YVhwcHVjOWs4TXFIM2Z1VlJqdWt2eWUyb0pLN0RnejVBS05TaXlfZmdLMTBfSnRIbl9PajRjeWJZMnBpcmNlVW1LM0VNSVZSdDZNaWlqUUdNaHZzRTRHdDdZcWg5V0Z6TmtjWGxHOU9EQnkzOTl3LW95T1dSdEs3bmpMdDE3cE9tS2JwNUIwYU5hcE9zMk8yMVp6eDlGRGwydHl1MWxmcjlJNHBnakNucEFoUkVPOWdiQTRkMA?oc=5"
-  },
-  {
-   "o": "El Nacional.cat",
-   "t": "Pablo Hernández de Cos será el nuevo presidente del Banco Central Europeo",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX0pvRFZpYnhPZ0xFU0MtTU9JQTdGcnpHSG1HTHoxaHhrMnU3c3AtVDBCaHRxenlmVG9RNnAzejExaTdLZkpoWHFoOVZFYkZaOUtVY3MzOHZtc3dESmZaaGtNZU9rclZ4WS1lQ3g1MVhYV0pnWVg0NFFsQVUySTZNQXVDTFZSMVhGNENKbEhwdVJqcXlGUUZrRHYyRDBuVk5KVjgxNGZjcWVOcG1abzRKVDNYZUp3R05VUnFHMDhCNTBrYXM?oc=5"
+   "o": "93.3 The Drive",
+   "t": "ECB already had large support for rate hike in Oct, accounts show",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTzZzcUNqSnRITHFQa1BwTmtLbXdqOXRHX3lLcGg1XzVuR2szQmF1YjFfd1dpRnRfUE10QW1CanVyS1EyaEhiXzRwWUIzcTJ5Y1BVcFlqNDYtTmFJUlNLQ29oaFNEc2puRENLOHRobDRUdXFZbDJfSmZXTmdCZ2NhMDd5VEJBZU5nTnQ3U05VV0lKTEU5TENDUU5GUTl5cDhuUW44d0NFcw?oc=5"
   }
  ],
- "en_espanol": [
-  "Las actas del BCE revelan que muchos miembros apoyarían subida de tipos en octubre",
-  "Actas del BCE revelan que muchos miembros apoyarían alza de tasas en octubre - Investing.com México",
-  "Pablo Hernández de Cos, primer español en presidir el BCE",
-  "Las actas del BCE revelan que muchos miembros apoyarían subida de tipos en octubre",
-  "Pablo Hernández de Cos, el economista español que presidirá el BCE"
- ],
- "investing": [
-  {
-   "t": "Las actas del BCE revelan que muchos miembros apoyarían subida de tipos en octubre",
-   "link": "https://es.investing.com/news/economy-news/las-actas-del-bce-revelan-que-muchos-miembros-apoyarian-subida-de-tipos-en-octubre-3944807"
-  }
- ]
+ "en_espanol": [],
+ "investing": []
 }
