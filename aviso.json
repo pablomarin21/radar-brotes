@@ -1,80 +1,81 @@
 {
- "ts": "2026-11-27T13:40:15+01:00",
+ "ts": "2026-11-27T16:33:05+01:00",
  "fichas": [
-  "amd",
-  "ryzen"
+  "tesla",
+  "emag"
  ],
- "medios": 12,
- "normal": 2.7,
- "titular": "Intel handheld vs AMD Ryzen Mini PC: MSI Claw 8 EX AI+ can double as work PC",
- "medio": "Notebookcheck",
- "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVkxR2hCZEZseWw4cVMtdnRNSDNQcU9xcmhDT1Q2d3JkVVF0azBxZ1dTa2lDQ041a001elR5ZkpxT0hnTy1kR0d5S21TeUM2OWxEMGpQYkxoUnVCRXJCay05QTNaclB5ei1BNTlyd2p3NkxmWFJyZEVHTGZTY1puemJvaU92cU1oUlY4VFNndzdhQWZRcXpabVdMNzhYVVBJdWw0TEFTMF9yUHFZaVVOOTFhV0M1UkpYcXRj?oc=5",
+ "medios": 9,
+ "normal": 2.2,
+ "titular": "Tesla stock rises on EMAG acquisition filing and EU FSD vote",
+ "medio": "StreetInsider",
+ "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQm9xaXdlSHF5ZzVYZ2Y1VVo2MndUcGgxeGZ5cGppNmloYjVFdE9iNVRIZ1NuVWdQLUdwZ3lLUDJIcHFIWWZKNkwxUnMtUUdaa0wzT3RfcEFiLTRrQm5EYURTVk5RRV9lZ0VwVkEyWnRpNm9yOGlpcE1PY1lvMEhJdlhheVU3YmJEcXNGYU9ia3ZhbGFGLVNjZUpLZVhJSjJfSGk2S1Azc3Q3RlBQck5tQWw2M3M?oc=5",
  "titulares": [
   {
-   "o": "Investing.com",
-   "t": "AMD stock rating downgraded by Erste Group on valuation concerns",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWHZWN0ZkSDdOMVdPdUhsclNwcjBPeGNfejNQYjVDNWJFWjNEMUNIWmllM0lCdm9ab1NUb05NRGVDbTFkdWVDTFduQzZLVzVnWnFnRjN3QVlUM19DWjFtdUw5YXVlbnpGUGx6dVl2VDM3V1JiX2VTV3ZhYnFoWWhtMXJ4UUpmTXlaVjlZTzM3WjVOVU5EVElSRzVHMVRPWUlNSUVCeUdvUWVVMjRSSWlMTXNFR1ZZM21JY3RwR3pMLVBpUQ?oc=5"
+   "o": "TradingKey",
+   "t": "Tesla Inc Stock (TSLA) Moved Up by 3.43% on Nov 27: What Investors Need To Know",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWnM3RXNsNTUtSzdCQmdXRjMyZ3ZKSF8zeXVjejh1V0RBZllEOUJEOENWekhzMHB3NHh4T2h5WEJMNnhVOF84bV9sbEJwRVpHQ1ctLXFGc1ZDdk1DUG9FSmlsVjRDeEpPR25ZOWlQSXQ4VzBSUXN6SEM5S0RnVlBRdGNoRkE4a003ZWlj?oc=5"
+  },
+  {
+   "o": "Investing.com España",
+   "t": "¿Por qué sube hoy la acción de Tesla Inc?",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYk41WTJCOGV5UUd5NVFKeDdvaTV3ZTRBZ0IxbjQzdjJWbWlKM2RfUkRYc3VIc3JEalA3M3NMZmgybjViOFNCQ1J4a1ZuVjQzMXBYVjN4VkNBMG5vSEl0LXZjeEM4VzdFcGd1NVgteDl0ZldsYnBXUDNBX1c0VjJUTDFzNlF6RXdYcVpUbTkzYWZCTHd1V050dUFtWkMyX05xeHc?oc=5"
+  },
+  {
+   "o": "Investing.com España",
+   "t": "¿Por qué sube hoy la acción de Tesla Inc?",
+   "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-tesla-inc-93CH-3945433"
   },
   {
    "o": "Investing.com México - Finanzas, Bolsa y Forex",
-   "t": "¿Por qué las acciones de Advanced Micro Devices suben hoy? - Investing.com México",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNakpnRDIycF9HUmxIYk90NTRTZHA3dmZNUm5NbnRlT3hLNlpsYml0YlZ3R19uN1F4QzRDbEtJcnQxaldwLWNBdUxMd0xMdXhGVU1zbkdCMjhTOEZhUENwRGdsUTNldThZOXdnMXhPbHVmYTNkX3NiTnRfbjVxbXNtMU9yUzFmekNFbTJVOTBzc3pFTW9ya2FOV2JoVzRfOFlHNUhSM3NzcXBaRnVWc2cyVnhrSEpVQkRf?oc=5"
+   "t": "¿Por qué sube hoy la acción de Tesla Inc? - Investing.com México",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc1h2LXpXLTVGd0RNdGtReDdaclFzb0NYaWRTbGVKd0NZNXVvNTc2LW02a2ZEaTF1SDZwVUFVWU95amRnZVVMdm1kNmxvRi0wa3VSR21jcGNhTDF2eGtVNnhoZWFwVVpkak1kYWcwZWpvc2xsbWRMVTdEQzZOZk5tcmxrV0Y1SHNVcU9HcXZMWFZHdGswR3NndGlTcUJBUFdZWXc?oc=5"
   },
   {
-   "o": "Phoronix",
-   "t": "ZenSMU Provides A Rust CLI/TUI & GUI For AMD Ryzen Monitoring/Tweaking",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmOVFXdl91WWJaMHFoSUxGNmNpbnB2eXpqV0VDTkZWWXpIVk5MZ25wYTZuRmVuUlhvNUN4RXhOVjFQY3o3MVFJYmcyMFJIRXR4LXo5UEVfbDFLd0IweXVJ?oc=5"
+   "o": "Investing.com",
+   "t": "Why is Tesla stock climbing today?",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjRCQ1RTX1RyQ1hQV3FmRExYYnlyVHpaT3ZRazJQeGwxZ2pMZF9lWkNkSExhYmZCRHhvMEREUXdZQjBPejlEdnNBQ092ZEhTRzZvUXRIUm05RWx6VTdjTEFKRUJCem43RG5KejlQMDl2b1lJY3VTSUZTX1JYOVRmSWpnUDBMMWxyYThZS2NjdTFPMFVqMEw1a0VxMA?oc=5"
   },
   {
-   "o": "Notebookcheck",
-   "t": "Intel handheld vs AMD Ryzen Mini PC: MSI Claw 8 EX AI+ can double as work PC",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVkxR2hCZEZseWw4cVMtdnRNSDNQcU9xcmhDT1Q2d3JkVVF0azBxZ1dTa2lDQ041a001elR5ZkpxT0hnTy1kR0d5S21TeUM2OWxEMGpQYkxoUnVCRXJCay05QTNaclB5ei1BNTlyd2p3NkxmWFJyZEVHTGZTY1puemJvaU92cU1oUlY4VFNndzdhQWZRcXpabVdMNzhYVVBJdWw0TEFTMF9yUHFZaVVOOTFhV0M1UkpYcXRj?oc=5"
+   "o": "StreetInsider",
+   "t": "Tesla stock rises on EMAG acquisition filing and EU FSD vote",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQm9xaXdlSHF5ZzVYZ2Y1VVo2MndUcGgxeGZ5cGppNmloYjVFdE9iNVRIZ1NuVWdQLUdwZ3lLUDJIcHFIWWZKNkwxUnMtUUdaa0wzT3RfcEFiLTRrQm5EYURTVk5RRV9lZ0VwVkEyWnRpNm9yOGlpcE1PY1lvMEhJdlhheVU3YmJEcXNGYU9ia3ZhbGFGLVNjZUpLZVhJSjJfSGk2S1Azc3Q3RlBQck5tQWw2M3M?oc=5"
   },
   {
-   "o": "PC Guide",
-   "t": "AMD Ryzen 7 9700X hits best price of the year for Amazon Black Friday deal",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONk1VbUhlV2o3VU9lMGg2V2xuUWRaTk50a3J1YVlBZzVTeDVVX01FaXNLYUZXVVh6eUpqWXhVcjduZER1OW1OYVA1bFBac3dLRHduckxEUUN6bVQ0ZUtmZVdONFdiX0NraGF1OEdHWG5YRmJfRFc1VGJqU2JEanlhYkZKUWJlYkh3cXRFOWhOVE9RU0xqR19EQzdYcXRlSXk1ME1NMnZqLUc?oc=5"
+   "o": "Vietnam.vn",
+   "t": "Tesla xúc tiến thâu tóm hãng chế tạo máy Đức, hướng tới phát triển robot",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR0I0R1l1MmJ4NkxfbXEyRlZ3TldObC1NMDFqbnA1QU55UzRXMEVFMXZiYWRwbXhsWGFZcVREVlJjbU9MUjNYaEVsM0JFR01nLVFOdkZTeE9nbWtUQVpHallVX0tkYzRUeW9ZNVB2R3VpQ0VvZ0RjdzRxLUJjVXYxQV9TSl9kNW8zZzkxN0VvS0pueXZYd2NRai03cWxVZw?oc=5"
   },
   {
-   "o": "TradingView",
-   "t": "AMD Stock Gets A Downgrade From Erste Group – Analyst Flags Valuation Concerns, Low Potential For Share Gains",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSDdFNDh3MXEtLUdnMmNidzRZOWVFenI4MHFWdUJlQ2RyVXYxS0Q2N1dxdnJrNDZuOHBzNUtiWlNJUE1uRHFZNGgtT2J6ejQxRHpUNjgwWndmMUVLTU1hWXVZU3kxV0F5clFfR2RQSGIwTS03LXFqYlc4YUZhWnVkN1g2N3Q2VGJQRDBMYUJ1VnFfVkJyREFrSFFBRnBaaXk5dHYyRU5vR1M2NVVobkNqU29FZkQwbmxUdFd5VzJHYW1nMm41ZU1NTzRLa3ZSaTQzYlNUaVcxa1BnNFVyN1c0QmtPc0tMY0J0MXE1dzBYOGVycFctVWU2UnVFZw?oc=5"
+   "o": "marketscreener.com",
+   "t": "Tesla Plans to Acquire German Supplier EMAG",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX3Y3Tm5GRDVGQ3NmZ3BjbDFLV0tiVzkzeEJpdjI4aEljZU1zXzc0dWxLQzhiemFVNEJFblk1UFNLRGJDRTRFb2tPVldNc0IxeE1DbmFfQWp1ZWNLRm5jLXNzY0h3YmZWMm1PZEFXRnNDQTJtS1hJVk93bW5sd3BqU2w3b09OZ0VsdE4wVzJiR2RrNnBJbEJnQlZ0bWE?oc=5"
   },
   {
-   "o": "Club386",
-   "t": "AMD Ryzen 7 9800X3D dives to its lowest ever price in both US and UK",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0JlWFQ3UXFyU1FHX3I4UzZQdnk0S0RkWHhqa1hzOFlhWFA0aUpPLU1Ic0h0emxfZERXNlF1RkFHZThDYU96WU1aY1pKOXhuRnZwQ2lzdUZpenJUX2VHZGVkS0pBWGVxTk5iYVdTQkkwdFlBdTNTSFp2S01KcnRCd0tkT05kaWM?oc=5"
+   "o": "The Defiant",
+   "t": "Tesla Files to Buy Assets From German Toolmaker EMAG",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWVVNVhKSTRLVGVkNXFJdnMxTjIxdXhhU3NtVl9oSmRmb2N4RWpmMGlrR2kyVUxZUXFoVGJRME5SSzJJQjFUdFhvU21nWjhROVMxMVNvTmZmcnhITHQ0VmRXN3NrcDRBZTctUmJxOGNFb3o2cHZRaVlEMUdLc3pUTC1rdXVuOXB6Mm5hcm1VbDFndlBJUEhCSnZB?oc=5"
   },
   {
-   "o": "Yahoo Finance",
-   "t": "Why Is Advanced Micro Devices Stock Rallying Today?",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTHluRzJsN0J5dHFzZXVXRzVEM01uVmdteTg1WFNucWhwS0JDa2tkUTRjOGFFd1J0WTFLUkVMQjdHbUdXNmpiV0lEcGh6MHY4VGVCY0VvZ25nenptZVhrWEhRWjFLN2J3eDFjOFF0TGV2QkIwUFlybjB4b2lQU3gxaFBuZGdVcDhfV2lsdkdIdnFhS3JVaDJmMWJQRVdYZw?oc=5"
-  },
-  {
-   "o": "Revista ADVFN",
-   "t": "¿Por qué repuntan hoy las acciones de Advanced Micro Devices?",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYTJ3TTY2SFhFQ181NWEwcHBDaEdlY1lGMTFmSXJ3SmJ5SEFMTTlNU0ZuUTVsZlY5VEhmQ25aNVRmc0lEZ0RJWDNoWVZ6eWt3OGtJMFh5endDYkhsMUlNUndmVm5oa1dTbms0TzVZNXB2QndzX3c5cDlmckdGVVJlREtSNk9WY2EyQ011OFQ1YUFBZElZZndJRm1LU0tvWUc4WnJzSXExSU40UDQyTlhOYlZaeHU?oc=5"
-  },
-  {
-   "o": "Invezz",
-   "t": "AMD, Intel y Broadcom suben en preapertura del viernes tras recuperación de acciones de IA",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVWEzc3hiMUlXSUtIUDZLb0wtWWw4c1YxY0l0VmFCV19SbHVQdG1IQkNWd2FteFlQdTl2SGMxcUJ3OUpGVk8xUlFiYmprRGw2ckJoZVZWekdValh6Uk5wQW9LODNVTEVxdkctemV3RkpteFV1c0ZkdUtmRzBZd0JWMzlqckNxWldxdFF0ZkJmX3BzN3FUWERMdWdkWFZUMzlld29GOWlIdHNpMXFObTMxa1FDVk5yZ3FwMHV5bE5VS211OHhKcXVHSE92bEg?oc=5"
-  },
-  {
-   "o": "24/7 Wall St.",
-   "t": "Broadcom Makes More AI Money Than AMD—So Why Is AMD’s Stock Crushing It?",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSVlVaEZQaUJpeFNkUWc0MEEyQ1dWUG5vSDdYY0NQSkVPeVJBS2o2X0NFM0JXcFg1NWlTRkQxZVdFb2tzN0wtZ09QWDVrWm40eEJTaVVmaUNPMFY2cXRhOFR1Ml93eE9oVWtJY2sxMkhQc3FJamJqX0ZQMGpCUkJsWlFsam5EZTR0VUNmeW1YWGNzNy1sWVZ2dzZoeUU3SWZ0X2kzbTNoRnpPeklIeTlidS01dnI?oc=5"
-  },
-  {
-   "o": "Tom's Hardware",
-   "t": "AMD and Winbond vulnerabilities let attackers brute-force BitLocker PINs on millions of PCs — cracking a six-digit PIN drops from 19 years to 20 days",
-   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQS3FZUDNKSzBQd25ZYkg4NDA0dlhwWUE5cVFvMkUzak1ZdE1UYnJxU1J3N0gwTERWNGMxVGw0MXRsNWVORUY2Z3ZfcUE2UXppVWpFNmZDNXhmXzBLdFNoQmdaTFBNODR5aFFJLURCUFNiOUxXTTZ3OVpzTGZfQWlYZ21CZVpCemtwanphZUhoNkpDU2JNdlF2X0lWSEtBaFZRWmFyMkN5aGkxMXBIR2dfU3NlbjctZnVIVW5kMkx0UzdRUWJ4b0RxaDk2Q0NEbkpVSDZMc1RIRDhhWWhmel9fVkgtRjdMaUZHSk56am9CZ0dtQ091VjdrRlZMTkJjSFFXWWZ0ZW95ei1iZ2tIcFV2Ym1vdWdOcGxNZEc4YnU3NmZ5bHVqa1BQSVo0ZEFrZw?oc=5"
+   "o": "Motor16",
+   "t": "La conducción asistida Tesla ya no se pasa del límite en Europa: el margen de velocidad baja del 50% al 10%",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb0xubTYyejhPOHpkS0NMcEx5SE52N3JMSDZkdkN0UU0zdGhRYTdicWpENkZGZlQ3ajZ1Y3A4TTBQYlNaUy1saHRyRENtWlBhNF9SUzZ5UE41ajRQVVhoYjRRdWh1dUdzOERYQ3ZUTC1kU1RCTTdjVVhETGpFWVc4OHhya1pOenpBWGpRTkUxTVYxMG52Z2tQcm5mWQ?oc=5"
   }
  ],
  "en_espanol": [
-  "¿Por qué las acciones de Advanced Micro Devices suben hoy? - Investing.com México",
-  "¿Por qué repuntan hoy las acciones de Advanced Micro Devices?",
-  "AMD, Intel y Broadcom suben en preapertura del viernes tras recuperación de acciones de IA"
+  "¿Por qué sube hoy la acción de Tesla Inc? - Investing.com México",
+  "¿Por qué sube hoy la acción de Tesla Inc?",
+  "¿Por qué sube hoy la acción de Tesla Inc?",
+  "Tesla xúc tiến thâu tóm hãng chế tạo máy Đức, hướng tới phát triển robot",
+  "La conducción asistida Tesla ya no se pasa del límite en Europa: el margen de velocidad baja del 50% al 10%"
  ],
- "investing": []
+ "investing": [
+  {
+   "t": "¿Por qué sube hoy la acción de Tesla Inc?",
+   "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-tesla-inc-93CH-3945433"
+  },
+  {
+   "t": "¿Por qué sube hoy la acción de Tesla Inc?",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYk41WTJCOGV5UUd5NVFKeDdvaTV3ZTRBZ0IxbjQzdjJWbWlKM2RfUkRYc3VIc3JEalA3M3NMZmgybjViOFNCQ1J4a1ZuVjQzMXBYVjN4VkNBMG5vSEl0LXZjeEM4VzdFcGd1NVgteDl0ZldsYnBXUDNBX1c0VjJUTDFzNlF6RXdYcVpUbTkzYWZCTHd1V050dUFtWkMyX05xeHc?oc=5"
+  }
+ ]
 }
