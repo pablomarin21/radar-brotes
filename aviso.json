@@ -1,81 +1,90 @@
 {
- "ts": "2026-11-27T16:33:05+01:00",
+ "ts": "2026-11-27T17:57:05+01:00",
  "fichas": [
-  "tesla",
-  "emag"
+  "nvidia",
+  "jones",
+  "bolsas",
+  "wallstreet"
  ],
- "medios": 9,
- "normal": 2.2,
- "titular": "Tesla stock rises on EMAG acquisition filing and EU FSD vote",
- "medio": "StreetInsider",
- "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQm9xaXdlSHF5ZzVYZ2Y1VVo2MndUcGgxeGZ5cGppNmloYjVFdE9iNVRIZ1NuVWdQLUdwZ3lLUDJIcHFIWWZKNkwxUnMtUUdaa0wzT3RfcEFiLTRrQm5EYURTVk5RRV9lZ0VwVkEyWnRpNm9yOGlpcE1PY1lvMEhJdlhheVU3YmJEcXNGYU9ia3ZhbGFGLVNjZUpLZVhJSjJfSGk2S1Azc3Q3RlBQck5tQWw2M3M?oc=5",
+ "medios": 62,
+ "normal": 0,
+ "red": "investing",
+ "titular": "S&P 500, Dow Jones, IPC: Caída del petróleo; Bolsas suben por la IA (menos Nvidia) Por Investing.com",
+ "medio": "Investing.com España",
+ "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbWhQbGF5dVFzb0FVQmw1elpXNTdKVlMyNVhUd3pEcE5SM0VQNEhWX0E5d01rLVY3bW5xQ2hXMGNhU19hcWlQeC1uNjNRN0xNQ0VkRnFkMndPejlyQTBUZlBmVkpqMnRVSmxiTnpiWEpOcFZkN3c3NzRhWlVndlZGSkk1T2Y3c3NGZnpFMTJRMm85SVdPdVowa2VqR0hfY1BnNnEySDB2Q2U5d2d1eFpoZjQ4dlRZSzdxSHlOOHZlVEgtaUlxd2xVVW5NOA?oc=5",
  "titulares": [
   {
-   "o": "TradingKey",
-   "t": "Tesla Inc Stock (TSLA) Moved Up by 3.43% on Nov 27: What Investors Need To Know",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWnM3RXNsNTUtSzdCQmdXRjMyZ3ZKSF8zeXVjejh1V0RBZllEOUJEOENWekhzMHB3NHh4T2h5WEJMNnhVOF84bV9sbEJwRVpHQ1ctLXFGc1ZDdk1DUG9FSmlsVjRDeEpPR25ZOWlQSXQ4VzBSUXN6SEM5S0RnVlBRdGNoRkE4a003ZWlj?oc=5"
-  },
-  {
    "o": "Investing.com España",
-   "t": "¿Por qué sube hoy la acción de Tesla Inc?",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYk41WTJCOGV5UUd5NVFKeDdvaTV3ZTRBZ0IxbjQzdjJWbWlKM2RfUkRYc3VIc3JEalA3M3NMZmgybjViOFNCQ1J4a1ZuVjQzMXBYVjN4VkNBMG5vSEl0LXZjeEM4VzdFcGd1NVgteDl0ZldsYnBXUDNBX1c0VjJUTDFzNlF6RXdYcVpUbTkzYWZCTHd1V050dUFtWkMyX05xeHc?oc=5"
-  },
-  {
-   "o": "Investing.com España",
-   "t": "¿Por qué sube hoy la acción de Tesla Inc?",
-   "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-tesla-inc-93CH-3945433"
+   "t": "S&P 500, Dow Jones, IPC: Caída del petróleo; Bolsas suben por la IA (menos Nvidia) Por Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbWhQbGF5dVFzb0FVQmw1elpXNTdKVlMyNVhUd3pEcE5SM0VQNEhWX0E5d01rLVY3bW5xQ2hXMGNhU19hcWlQeC1uNjNRN0xNQ0VkRnFkMndPejlyQTBUZlBmVkpqMnRVSmxiTnpiWEpOcFZkN3c3NzRhWlVndlZGSkk1T2Y3c3NGZnpFMTJRMm85SVdPdVowa2VqR0hfY1BnNnEySDB2Q2U5d2d1eFpoZjQ4dlRZSzdxSHlOOHZlVEgtaUlxd2xVVW5NOA?oc=5"
   },
   {
    "o": "Investing.com México - Finanzas, Bolsa y Forex",
-   "t": "¿Por qué sube hoy la acción de Tesla Inc? - Investing.com México",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc1h2LXpXLTVGd0RNdGtReDdaclFzb0NYaWRTbGVKd0NZNXVvNTc2LW02a2ZEaTF1SDZwVUFVWU95amRnZVVMdm1kNmxvRi0wa3VSR21jcGNhTDF2eGtVNnhoZWFwVVpkak1kYWcwZWpvc2xsbWRMVTdEQzZOZk5tcmxrV0Y1SHNVcU9HcXZMWFZHdGswR3NndGlTcUJBUFdZWXc?oc=5"
+   "t": "S&P 500, Dow Jones, IPC: Caída del petróleo; Bolsas suben por la IA (menos Nvidia) - Investing.com México",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON2pzc1Rfc2lNZGlibG14bHdjdU03ZS15YzMzZU0tMmk4Uk4wNERod0k5MmgwYXlsU3FERzZRX2YxYkVVRDJISnl5ZWFpdTlNYjNLSlZQX003MmJCT3ZKX1V5ZldxajZjYlhSMmowdEd2NEltV2RoenhZa2ZOZm9hbVMyRVBYOG1FQTBiQ2QxUVRNSE5UdWFXeFJ4WklBbUxzTlVnaEl3am5VX2FOVW0waWl6MHlFcHVzYTZZMzNkMkNTSTdYamNRNTQtYw?oc=5"
   },
   {
-   "o": "Investing.com",
-   "t": "Why is Tesla stock climbing today?",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjRCQ1RTX1RyQ1hQV3FmRExYYnlyVHpaT3ZRazJQeGwxZ2pMZF9lWkNkSExhYmZCRHhvMEREUXdZQjBPejlEdnNBQ092ZEhTRzZvUXRIUm05RWx6VTdjTEFKRUJCem43RG5KejlQMDl2b1lJY3VTSUZTX1JYOVRmSWpnUDBMMWxyYThZS2NjdTFPMFVqMEw1a0VxMA?oc=5"
+   "o": "El Periodista",
+   "t": "EEUU cita a Nvidia como testigo por presunto tráfico de chips a China",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVXJEeHB2MkdRV3JsZTN4LXFXNnZjUGozTGVNY3dMaGpvY1RQbE1fdWR2NzBFN2xNZnNsbkx5MmRfVFFTcm9LSDRIRE9TV0tYbHRKMTN0WHZRMUJVdy1BRVB6bUxnLUlHYzBBZ1VqSHhRcTZSdlg0MkNxNlAxNmFTSlRzY0ZsWDRET25CZU5KUU5kaFZfS1ZXRmFzQjFhcHM5NlNhbjk0d3JIQQ?oc=5"
   },
   {
-   "o": "StreetInsider",
-   "t": "Tesla stock rises on EMAG acquisition filing and EU FSD vote",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQm9xaXdlSHF5ZzVYZ2Y1VVo2MndUcGgxeGZ5cGppNmloYjVFdE9iNVRIZ1NuVWdQLUdwZ3lLUDJIcHFIWWZKNkwxUnMtUUdaa0wzT3RfcEFiLTRrQm5EYURTVk5RRV9lZ0VwVkEyWnRpNm9yOGlpcE1PY1lvMEhJdlhheVU3YmJEcXNGYU9ia3ZhbGFGLVNjZUpLZVhJSjJfSGk2S1Azc3Q3RlBQck5tQWw2M3M?oc=5"
+   "o": "www.marketscreener.com",
+   "t": "Top Midday Stories: US October Advance Trade Gap Widens; Nvidia Chips Found Installed at Chinese Data Center Tied to Megaspeed",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQczhhc3Y4bS1rVF9NakphT3paRk9BMkNYby1IOFA1MXBhUjBWYW10YzBEX093Q2stZjNZNFlMcC0tRFlMaFJCUktZX09xVF9BYWt3ZDl4Ulk4Tzl6eEp0ZmRiX21tM2pWMUJkb0wxYTRHZjVjelVia2E1ZTFuU1RmblJQdUVjd3RVaE1senJyTm1md0ltWE5mRjlqdHc1YTljNER3djc0NmZNdkNWNmtOdHpyTThMYlJDLU1sWjc0WGFnRE9sZHFqN2Jyb3UwaUFJRU5DaktUYVNfb1JWX2VBeFQ2VkNRUQ?oc=5"
   },
   {
-   "o": "Vietnam.vn",
-   "t": "Tesla xúc tiến thâu tóm hãng chế tạo máy Đức, hướng tới phát triển robot",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR0I0R1l1MmJ4NkxfbXEyRlZ3TldObC1NMDFqbnA1QU55UzRXMEVFMXZiYWRwbXhsWGFZcVREVlJjbU9MUjNYaEVsM0JFR01nLVFOdkZTeE9nbWtUQVpHallVX0tkYzRUeW9ZNVB2R3VpQ0VvZ0RjdzRxLUJjVXYxQV9TSl9kNW8zZzkxN0VvS0pueXZYd2NRai03cWxVZw?oc=5"
+   "o": "FOX 10 Phoenix",
+   "t": "Trump floats pardon for Nvidia's Jensen Huang; AZ sisters killed in Mexico crash l Morning News Brief",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN2h5cWNUU2ZFUWxnUmpxWkM3dV9FM2xPdEZNVGJOMmh3OUM4MmVnM2xlTGx5cHIyN1pnU3RwUWcwT1NJYkF2UG9VMG5kNTl0bmF4bWVqbUZYZDAydEt6NkNyVk5FZVpzU3I1bGwwS1VabnQ2WTc1TmYwZDBEeWRGNTdiUXA3LXk2N1lLUGFCbkZMVmYtQmZiTGE5S2pMRHFRekNZR2Q1WDgtSVdBQWxzUGU4bk85SXgzbVdha1Ficng3Zw?oc=5"
   },
   {
-   "o": "marketscreener.com",
-   "t": "Tesla Plans to Acquire German Supplier EMAG",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX3Y3Tm5GRDVGQ3NmZ3BjbDFLV0tiVzkzeEJpdjI4aEljZU1zXzc0dWxLQzhiemFVNEJFblk1UFNLRGJDRTRFb2tPVldNc0IxeE1DbmFfQWp1ZWNLRm5jLXNzY0h3YmZWMm1PZEFXRnNDQTJtS1hJVk93bW5sd3BqU2w3b09OZ0VsdE4wVzJiR2RrNnBJbEJnQlZ0bWE?oc=5"
+   "o": "Moyens.net",
+   "t": "Chips de IA de Nvidia en el Centro del Delta del Río Yangtze Vinculados a Alice Huang",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BVW1hWHpUYTB6R3B2X3dsbHJWVHNWd28yTTFTY1NEQ0ltN3BsdG0tcklDN09fcXQycWt0dHA2dDFObldKbkREWV8xRXotSE1yY3YzYjh1QV9vVWFYNWZ2RjI5Nnp5NUZOQzlxSV9R?oc=5"
   },
   {
-   "o": "The Defiant",
-   "t": "Tesla Files to Buy Assets From German Toolmaker EMAG",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWVVNVhKSTRLVGVkNXFJdnMxTjIxdXhhU3NtVl9oSmRmb2N4RWpmMGlrR2kyVUxZUXFoVGJRME5SSzJJQjFUdFhvU21nWjhROVMxMVNvTmZmcnhITHQ0VmRXN3NrcDRBZTctUmJxOGNFb3o2cHZRaVlEMUdLc3pUTC1rdXVuOXB6Mm5hcm1VbDFndlBJUEhCSnZB?oc=5"
+   "o": "Mishcon de Reya LLP",
+   "t": "Mishcon de Reya comments on corporate governance aspects of Nvidia",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUdjaU1CSU50dHVJczlwNmZXcTZYQ2pNcVhzU3RzZzFsUG1nMzZqRTRuVGx3Y3pCamMzNDBXYUVPY0FoeW9iY0ZjdVQ1M1lhY1RSekdiQzE5LXFYRFlYZXUwX2hiaGZZbjFZMDJ5bGZyYjlnU3VyR2J0ck5GaDBEQjBMVnhMMkdSbkJzSmxHcGhlZWQ0NmlzeDNpYw?oc=5"
   },
   {
-   "o": "Motor16",
-   "t": "La conducción asistida Tesla ya no se pasa del límite en Europa: el margen de velocidad baja del 50% al 10%",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb0xubTYyejhPOHpkS0NMcEx5SE52N3JMSDZkdkN0UU0zdGhRYTdicWpENkZGZlQ3ajZ1Y3A4TTBQYlNaUy1saHRyRENtWlBhNF9SUzZ5UE41ajRQVVhoYjRRdWh1dUdzOERYQ3ZUTC1kU1RCTTdjVVhETGpFWVc4OHhya1pOenpBWGpRTkUxTVYxMG52Z2tQcm5mWQ?oc=5"
+   "o": "Anadolu Ajansı",
+   "t": "Nvidia Blackwell chips found at China data center linked to Alice Huang: Report",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMmVkVl84VVVGX3duR1dTZmV0S3pMM0V5Q2twWjBuUElINFlKc0ZvOUVRcy1zYXpBN1BiX0NmSnZxVjlwZnc1d2FnQVJ2NVhPejZwNHluUDJRQmd0Y01vM3o4YmVKMDV6U0dWWXBYQ2txendTMThzeENOeFRPZWUtWTQ1YWNmTEp3VU4zUGlPVlpROEtoQTJCYlR5aklOSmFlUnV6Yjd6QzhWM2dyalpGemwyS0picTlLQk9SLTFFbzVNMUZWdHNBdGVR?oc=5"
+  },
+  {
+   "o": "Crypto Briefing",
+   "t": "Nvidia faces congressional scrutiny over sales to Chinese-linked firms",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY0VmTjV3TGduRVpGX1FpanJPV00wblYzanVEQ0RwT2ZSdzQ2TXBBYlQ2bTdWcjNGbGl5eG1fbEc3QlhCajh0ZHd3MEhXQ2tUcnBBYmJIZmt5RTFMc1gzcmwzY2RVUVlMX1dYdWF2OXpPMVNqR3RURHlfRmRXdkJHQXJhMGt0aTBVLWdF?oc=5"
+  },
+  {
+   "o": "NeoTeo",
+   "t": "Trump Nvidia Stock Gain: What the Estimate Means",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZHdZTFdocm81bjk0TG4zQmRtY1duOWNrcG94US1jc1BMUXZWbXJWZmV0TEhQZ3hxYzRXS3FoMGJVdTFWMVRHZENTc3Zmc1JSbEFNM3JGMnA0RFM5ckNGS1VjcUtvUW4wQVBjd0dlbWw4cTY5QTZGUU1vdEp6MVpGLWx0UE9OY2hZSnZz?oc=5"
+  },
+  {
+   "o": "FXEmpire",
+   "t": "El S&P 500 apunta a 7.295,60 mientras la reinstauración del CEO de Nvidia y el rally tecnológico ponen a prueba la convicción de los compradores",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQRzhfQ1B0LXBERlJ4bTNibWpnQUpUN0pWRjM0cWtqWXZsM0M4TmNFbU1lSm9IRDFNVzVTWFpWanp1a3JwVHVCUVRwNTZ2WGxMMjVrVU1XdW84UlBMQWs1M0xLTTR5Z0kwN05nS2lpZnU0UVhsVzVRU0hLY0ViZXZyenJ2emloUmRIWHdQTFJjMGV0Mm9Ud2xZdVRVTTFGOTV3YzBPYnViYW96WTBNZm9qWl92dWJkNlBkX0txUFpCU2U4RlhOTmoxdERlenZrZVJ3VjlXMFBWTnBUM1NRVzhwZkVWSGRwSEVCeTZYR3RTOGJQdnBEeko4eXprYTRFSG1SeTAzVEYtTEtNZHAtN1IxT0hFNkp3WDRJOVpJ?oc=5"
+  },
+  {
+   "o": "Bloomberg Línea",
+   "t": "Chips Blackwell de Nvidia aparecen en un centro de datos chino vinculado a Alice Huang",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdkUxQ3FickZjdmlwVDhtLXNxb1kwOVlxTmZUeUhtejR1d25rQnpIMThvOFZjOGY2ZGhCcHp5LWk2aHFBZU5EZmRtZ3Zha09udXBPYm80MkIyR2tVTFZ0S3FtV0IxemRWUjZ2TnBxRml6UnVDQWhfRmQxZ0FJUVdVYXBlcnRpSmF3VkdnRFcxTXpqZ2tKRUVoODNFV0hmbG1Ucm13SzZJMVNLZi00ZXVZUnZUWnU5QVR2VmxueFNmQVRXbGhxaW5za9IB3AFBVV95cUxPMzN6Y3gwdlU2RUlYYVh1N3d5SlVsYzhhNWtFTmkxSFlrVGhjUkJtU1p0YUZRbFk4TzVyd1JMdnRLVklIZzRJbDFzcVpxR0VPcUtHU2Y4dlVpU1RkU3NjSlIxUHhxeEx2UVl0TlUteDl0ZURzd0tvenl4WDhDM1VYNk9KREpjREp1emhpVGhNdHBtdEg3Xzc4UkxtMjM3ZW5yVi1kQmM3VVlmRUNvYUVlWGZmZ1hPeWJ6a1o3SDAzMFYwQmV1S19WeVF6MWtubEZMMkVQM0d4LUhXbG1I?oc=5"
   }
  ],
  "en_espanol": [
-  "¿Por qué sube hoy la acción de Tesla Inc? - Investing.com México",
-  "¿Por qué sube hoy la acción de Tesla Inc?",
-  "¿Por qué sube hoy la acción de Tesla Inc?",
-  "Tesla xúc tiến thâu tóm hãng chế tạo máy Đức, hướng tới phát triển robot",
-  "La conducción asistida Tesla ya no se pasa del límite en Europa: el margen de velocidad baja del 50% al 10%"
+  "S&P 500, Dow Jones, IPC: Caída del petróleo; Bolsas suben por la IA (menos Nvidia) Por Investing.com",
+  "S&P 500, Dow Jones, IPC: Caída del petróleo; Bolsas suben por la IA (menos Nvidia) - Investing.com México",
+  "EEUU cita a Nvidia como testigo por presunto tráfico de chips a China",
+  "Chips de IA de Nvidia en el Centro del Delta del Río Yangtze Vinculados a Alice Huang",
+  "El S&P 500 apunta a 7.295,60 mientras la reinstauración del CEO de Nvidia y el rally tecnológico ponen a prueba la convicción de los compradores"
  ],
  "investing": [
   {
-   "t": "¿Por qué sube hoy la acción de Tesla Inc?",
-   "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-tesla-inc-93CH-3945433"
-  },
-  {
-   "t": "¿Por qué sube hoy la acción de Tesla Inc?",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYk41WTJCOGV5UUd5NVFKeDdvaTV3ZTRBZ0IxbjQzdjJWbWlKM2RfUkRYc3VIc3JEalA3M3NMZmgybjViOFNCQ1J4a1ZuVjQzMXBYVjN4VkNBMG5vSEl0LXZjeEM4VzdFcGd1NVgteDl0ZldsYnBXUDNBX1c0VjJUTDFzNlF6RXdYcVpUbTkzYWZCTHd1V050dUFtWkMyX05xeHc?oc=5"
+   "t": "S&P 500, Dow Jones, IPC: Caída del petróleo; Bolsas suben por la IA (menos Nvidia) Por Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbWhQbGF5dVFzb0FVQmw1elpXNTdKVlMyNVhUd3pEcE5SM0VQNEhWX0E5d01rLVY3bW5xQ2hXMGNhU19hcWlQeC1uNjNRN0xNQ0VkRnFkMndPejlyQTBUZlBmVkpqMnRVSmxiTnpiWEpOcFZkN3c3NzRhWlVndlZGSkk1T2Y3c3NGZnpFMTJRMm85SVdPdVowa2VqR0hfY1BnNnEySDB2Q2U5d2d1eFpoZjQ4dlRZSzdxSHlOOHZlVEgtaUlxd2xVVW5NOA?oc=5"
   }
  ]
 }
