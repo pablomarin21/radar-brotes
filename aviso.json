@@ -1,42 +1,15 @@
 {
- "ts": "2026-11-27T13:16:05+01:00",
+ "ts": "2026-11-27T13:40:15+01:00",
  "fichas": [
   "amd",
-  "advanced",
-  "micro",
-  "devices"
+  "ryzen"
  ],
- "medios": 13,
- "normal": 1.3,
- "titular": "¿Por qué sube hoy la acción de Advanced Micro Devices Inc?",
- "medio": "Investing.com España",
- "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-advanced-micro-devices-inc-93CH-3945209",
+ "medios": 12,
+ "normal": 2.7,
+ "titular": "Intel handheld vs AMD Ryzen Mini PC: MSI Claw 8 EX AI+ can double as work PC",
+ "medio": "Notebookcheck",
+ "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVkxR2hCZEZseWw4cVMtdnRNSDNQcU9xcmhDT1Q2d3JkVVF0azBxZ1dTa2lDQ041a001elR5ZkpxT0hnTy1kR0d5S21TeUM2OWxEMGpQYkxoUnVCRXJCay05QTNaclB5ei1BNTlyd2p3NkxmWFJyZEVHTGZTY1puemJvaU92cU1oUlY4VFNndzdhQWZRcXpabVdMNzhYVVBJdWw0TEFTMF9yUHFZaVVOOTFhV0M1UkpYcXRj?oc=5",
  "titulares": [
-  {
-   "o": "Barron's",
-   "t": "Sandisk, Bloom, Marvell, AMD, Nvidia, HP, and More Stocks That Explain Today’s Market",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14UUVNa2RYOGJ2eHdTeDh6WnpuZFJrU2ViWTVwak00dUxXU1R2RlI1YW9INk12TTBwbnNhS1pWMl9Kc0UxaWFoVU1mY3lLRjd0UWpEanExVHVOM2pWc01qMExaRWM?oc=5"
-  },
-  {
-   "o": "TechPowerUp",
-   "t": "AMD's RDNA 5 Set for Linux Kernel 7.5 Support",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTHA2ZnFrYUZ1UnVQaVFTMjdtVm4xbVkyTkRTRWdIQlVoaTktTXkxRVhTcEVyYXBRM1VURXFWdGkyeThrY0x6RVhlWmtKTVc3NEY4RDdiamZFc3pLa0E0clJueERKcXc2MXZHVWZubVUyOGJGZlhYb0V3TmZQMDB2bmpNOWhlQdIBiwFBVV95cUxNYlp3ZVhreWNQOWROelNsUGM2WldnMGNURHo4c0JiY0dOV3djYkVPU0FQWXR3bWlMeGZqemdRbmpBUzBiYWhmMWdRY0duN1E1UHlQRnR2X3JSSDF1TXZQdFZOUHBxeGl2Ul82aWY2Y2g2WUZleEJwbzZjd2huOTEybmRfTFM0U1k2WXZB?oc=5"
-  },
-  {
-   "o": "Investing.com España",
-   "t": "Erste Group rebaja la calificación de AMD por preocupaciones de valoración",
-   "link": "https://es.investing.com/news/analyst-ratings/erste-group-rebaja-la-calificacion-de-amd-por-preocupaciones-de-valoracion-93CH-3945206"
-  },
-  {
-   "o": "Investing.com España",
-   "t": "¿Por qué sube hoy la acción de Advanced Micro Devices Inc?",
-   "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-advanced-micro-devices-inc-93CH-3945209"
-  },
-  {
-   "o": "Investing.com",
-   "t": "Why is Advanced Micro Devices stock rallying today?",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjA5WTlJVHowRGZWQW12VndxRVFRdzlUSFBiODY5SXg4dTQ3WGVGQk9OcEhUWm1ta3B0NFU1ek1VcC15ck9IbFBWbmtkRmxuWGRpdVloOXNmSVI5THVNdnBzd2hjb2VBVkJ6eTRzR05vLWJjTDhlUFhnVmNiTHFJejdLc2hVWUxycl9fOHNxLVdPUFE1NTdielFpTnJodlZkMkgwbFRIMVk0cEo3d0ZubjRn?oc=5"
-  },
   {
    "o": "Investing.com",
    "t": "AMD stock rating downgraded by Erste Group on valuation concerns",
@@ -71,23 +44,37 @@
    "o": "Club386",
    "t": "AMD Ryzen 7 9800X3D dives to its lowest ever price in both US and UK",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0JlWFQ3UXFyU1FHX3I4UzZQdnk0S0RkWHhqa1hzOFlhWFA0aUpPLU1Ic0h0emxfZERXNlF1RkFHZThDYU96WU1aY1pKOXhuRnZwQ2lzdUZpenJUX2VHZGVkS0pBWGVxTk5iYVdTQkkwdFlBdTNTSFp2S01KcnRCd0tkT05kaWM?oc=5"
+  },
+  {
+   "o": "Yahoo Finance",
+   "t": "Why Is Advanced Micro Devices Stock Rallying Today?",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTHluRzJsN0J5dHFzZXVXRzVEM01uVmdteTg1WFNucWhwS0JDa2tkUTRjOGFFd1J0WTFLUkVMQjdHbUdXNmpiV0lEcGh6MHY4VGVCY0VvZ25nenptZVhrWEhRWjFLN2J3eDFjOFF0TGV2QkIwUFlybjB4b2lQU3gxaFBuZGdVcDhfV2lsdkdIdnFhS3JVaDJmMWJQRVdYZw?oc=5"
+  },
+  {
+   "o": "Revista ADVFN",
+   "t": "¿Por qué repuntan hoy las acciones de Advanced Micro Devices?",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYTJ3TTY2SFhFQ181NWEwcHBDaEdlY1lGMTFmSXJ3SmJ5SEFMTTlNU0ZuUTVsZlY5VEhmQ25aNVRmc0lEZ0RJWDNoWVZ6eWt3OGtJMFh5endDYkhsMUlNUndmVm5oa1dTbms0TzVZNXB2QndzX3c5cDlmckdGVVJlREtSNk9WY2EyQ011OFQ1YUFBZElZZndJRm1LU0tvWUc4WnJzSXExSU40UDQyTlhOYlZaeHU?oc=5"
+  },
+  {
+   "o": "Invezz",
+   "t": "AMD, Intel y Broadcom suben en preapertura del viernes tras recuperación de acciones de IA",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVWEzc3hiMUlXSUtIUDZLb0wtWWw4c1YxY0l0VmFCV19SbHVQdG1IQkNWd2FteFlQdTl2SGMxcUJ3OUpGVk8xUlFiYmprRGw2ckJoZVZWekdValh6Uk5wQW9LODNVTEVxdkctemV3RkpteFV1c0ZkdUtmRzBZd0JWMzlqckNxWldxdFF0ZkJmX3BzN3FUWERMdWdkWFZUMzlld29GOWlIdHNpMXFObTMxa1FDVk5yZ3FwMHV5bE5VS211OHhKcXVHSE92bEg?oc=5"
+  },
+  {
+   "o": "24/7 Wall St.",
+   "t": "Broadcom Makes More AI Money Than AMD—So Why Is AMD’s Stock Crushing It?",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSVlVaEZQaUJpeFNkUWc0MEEyQ1dWUG5vSDdYY0NQSkVPeVJBS2o2X0NFM0JXcFg1NWlTRkQxZVdFb2tzN0wtZ09QWDVrWm40eEJTaVVmaUNPMFY2cXRhOFR1Ml93eE9oVWtJY2sxMkhQc3FJamJqX0ZQMGpCUkJsWlFsam5EZTR0VUNmeW1YWGNzNy1sWVZ2dzZoeUU3SWZ0X2kzbTNoRnpPeklIeTlidS01dnI?oc=5"
+  },
+  {
+   "o": "Tom's Hardware",
+   "t": "AMD and Winbond vulnerabilities let attackers brute-force BitLocker PINs on millions of PCs — cracking a six-digit PIN drops from 19 years to 20 days",
+   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQS3FZUDNKSzBQd25ZYkg4NDA0dlhwWUE5cVFvMkUzak1ZdE1UYnJxU1J3N0gwTERWNGMxVGw0MXRsNWVORUY2Z3ZfcUE2UXppVWpFNmZDNXhmXzBLdFNoQmdaTFBNODR5aFFJLURCUFNiOUxXTTZ3OVpzTGZfQWlYZ21CZVpCemtwanphZUhoNkpDU2JNdlF2X0lWSEtBaFZRWmFyMkN5aGkxMXBIR2dfU3NlbjctZnVIVW5kMkx0UzdRUWJ4b0RxaDk2Q0NEbkpVSDZMc1RIRDhhWWhmel9fVkgtRjdMaUZHSk56am9CZ0dtQ091VjdrRlZMTkJjSFFXWWZ0ZW95ei1iZ2tIcFV2Ym1vdWdOcGxNZEc4YnU3NmZ5bHVqa1BQSVo0ZEFrZw?oc=5"
   }
  ],
  "en_espanol": [
-  "¿Por qué sube hoy la acción de Advanced Micro Devices Inc?",
-  "Erste Group rebaja la calificación de AMD por preocupaciones de valoración",
   "¿Por qué las acciones de Advanced Micro Devices suben hoy? - Investing.com México",
   "¿Por qué repuntan hoy las acciones de Advanced Micro Devices?",
   "AMD, Intel y Broadcom suben en preapertura del viernes tras recuperación de acciones de IA"
  ],
- "investing": [
-  {
-   "t": "¿Por qué sube hoy la acción de Advanced Micro Devices Inc?",
-   "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-advanced-micro-devices-inc-93CH-3945209"
-  },
-  {
-   "t": "Erste Group rebaja la calificación de AMD por preocupaciones de valoración",
-   "link": "https://es.investing.com/news/analyst-ratings/erste-group-rebaja-la-calificacion-de-amd-por-preocupaciones-de-valoracion-93CH-3945206"
-  }
- ]
+ "investing": []
 }
