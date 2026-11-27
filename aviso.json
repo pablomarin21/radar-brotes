@@ -1,81 +1,93 @@
 {
- "ts": "2026-11-27T10:13:38+01:00",
+ "ts": "2026-11-27T13:16:05+01:00",
  "fichas": [
-  "caixabank"
+  "amd",
+  "advanced",
+  "micro",
+  "devices"
  ],
- "medios": 12,
- "normal": 0.5,
- "titular": "CaixaBank ejecuta casi el 80% de su programa de recompra de acciones de 500 millones de euros",
- "medio": "Europa Press",
- "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNFYwby0zZTgybS1BWmtoSTVLbWpnZnFmbl9hdHNYYm1TU1pRWHVkOXB0cExURGhlWXgxVzI1QTBWdFliWG9rMU1walNQOFNnd3FwczlIaFFVV0E1dkJfOTJVN184OUQtUXJpQmdlUTlSa1E2MkxzSWVWU1o5dUk1NnBYRWNFWm1KNXctcjJQYUpYZjh4QUR3MkRMMTlaX0p5ZGRRUWZac1BHQ3ZJSWhBa0ZhVUdCb0RPd2xta29TM2NNbEVkRUxUTVdLcVlZTFYwaVBBVzdtWi1HUnpYV1Q5Wm01Nkw?oc=5",
+ "medios": 13,
+ "normal": 1.3,
+ "titular": "¿Por qué sube hoy la acción de Advanced Micro Devices Inc?",
+ "medio": "Investing.com España",
+ "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-advanced-micro-devices-inc-93CH-3945209",
  "titulares": [
   {
-   "o": "Finect",
-   "t": "El PP plantea sacar al Estado de CaixaBank, Telefónica y Talgo: ¿qué se juegan los accionistas?",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWVdDWVRTY2Jva3N2cUc2Ui0zOUVpWXFlNlNqTF9aX19RczBIN3dVcEJtdVRnNXpYVW1idGlEQ2F2WnJDeWtHaGtfVWYxQ1NoZnRGT21xcXZaRzJZQWFfS1NSbFFhNVI0LXplS2d1czBtaXJjd1htS1BTTXpOc0I1R0RHU1JfRjEyRXhNVnZmODNKbjJaVWpkbDNyNHE0cGlZVzBSZ0VISHoxT09BQTVPZVJ6cXEtVEhFWTk2aDVlcEtOLTdycDIzVThfZ0xVWm1XdG92NlVGQmVSN0lPVl9N?oc=5"
+   "o": "Barron's",
+   "t": "Sandisk, Bloom, Marvell, AMD, Nvidia, HP, and More Stocks That Explain Today’s Market",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14UUVNa2RYOGJ2eHdTeDh6WnpuZFJrU2ViWTVwak00dUxXU1R2RlI1YW9INk12TTBwbnNhS1pWMl9Kc0UxaWFoVU1mY3lLRjd0UWpEanExVHVOM2pWc01qMExaRWM?oc=5"
   },
   {
-   "o": "Dosya Haber",
-   "t": "La Caixa mantendrá el control de CaixaBank pese a una venta estatal",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYms5WFZNb3o4ZFl6U3JTMVctcFBpYzBlUGtIOVFLX19qdXFFUGlGR0VnZU5JVE5zQmQ2RWlYX0FwWnNIT0FSMWVTaFlIUlZzWm1pbDY5VTlmcGVVN3I3REgwVFdHamg1X2hfc1IxMkk4Q25zRTdsZVFRdlJHdHNVbFlkb19nR3FpSG5xV3U4X2FlMDlpVWtWMC0tOU9iTlJHM0EzZmhTNkxJYmQzZkVv?oc=5"
+   "o": "TechPowerUp",
+   "t": "AMD's RDNA 5 Set for Linux Kernel 7.5 Support",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTHA2ZnFrYUZ1UnVQaVFTMjdtVm4xbVkyTkRTRWdIQlVoaTktTXkxRVhTcEVyYXBRM1VURXFWdGkyeThrY0x6RVhlWmtKTVc3NEY4RDdiamZFc3pLa0E0clJueERKcXc2MXZHVWZubVUyOGJGZlhYb0V3TmZQMDB2bmpNOWhlQdIBiwFBVV95cUxNYlp3ZVhreWNQOWROelNsUGM2WldnMGNURHo4c0JiY0dOV3djYkVPU0FQWXR3bWlMeGZqemdRbmpBUzBiYWhmMWdRY0duN1E1UHlQRnR2X3JSSDF1TXZQdFZOUHBxeGl2Ul82aWY2Y2g2WUZleEJwbzZjd2huOTEybmRfTFM0U1k2WXZB?oc=5"
   },
   {
-   "o": "Cadena SER",
-   "t": "FAE ASEMAR y CaixaBank abordan las novedades fiscales, laborales y de movilidad sostenible",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRHJINEJCMXZIRGQ4bFB6c0JGcWkyYUlySGg0bGVuaDRleUJ4Z2N0dmR2NlQ1NzVCZVl5VjNSMUI5d04zNFNwb0I3TS1VZTZmNmVpWVVJYjN5aUltdGNJMVQ3aDllMmtrdkhKMVZvSHRDQWdfQmNBMHhidEZKYjdkcTNkbnB2VXVnNmlsX3lGY3dyZk1YdUk1ckxYdVd4ekt5cVpxZ3EwVUdjSndsbWNnTk1ib1hHd0p0UnRGNEtVYUdoZ211cHh1R2hQWFNyUTE4SkltMmc1enJody14UnJ2VkdQMGjSAfgBQVVfeXFMTXRJcHR2V3JJMlpVSGpPUklWZEFNbGlmOGtMZExsSEtuMDEyZ05rSmtnc3pvWk9HemNZYWFEaUFqZURaZDZzTk0xRU1JWkYtdnBIMS0xR3R6YlptcGFvUTJoQ1JaS212WHdwdzJzYUlkWklLRTM2bE0zYWM5ZHl2dzJ1QzRVdE9MV1owRGdTZmZWTXR6RGdhQ1RPbDdmaldvMFcyUmtwamtOaUdKNGVLc3FjTjhURW1yQ0FpaVVMWEpSQTJYZ1dEdkJGZWFDQmJKUmxBaVQ1SU9RS3BXSnVULWY1WG9KTDBPTGF6M0JtQVZSc0EtY2Z2Wkc?oc=5"
+   "o": "Investing.com España",
+   "t": "Erste Group rebaja la calificación de AMD por preocupaciones de valoración",
+   "link": "https://es.investing.com/news/analyst-ratings/erste-group-rebaja-la-calificacion-de-amd-por-preocupaciones-de-valoracion-93CH-3945206"
   },
   {
-   "o": "Economía Digital",
-   "t": "CaixaBank realiza nuevas compras dentro de su programa de recompra de acciones propias durante noviembre de 2026",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcnNKajdmM3M0em95Sy1LTjUxNmRoeVdaeWNyRHI5VUZpajJfT3Z0bGhkaXk0OTR4ZEdfWmpVeGRJNlA1UVVKMmpoWC1wcGdBaUh5RVZzOHVqdUU3X09WbUJvNEc5QkJudDBQd3ZLUjdKSVI1SUk0dmNCUXBUZzh5UFNxQ1FzZTVPWVNmNWpqSTB2cDE5a2dDTmFfXzNHVUlvMlhYQ0Y2WDl3VmxPR2RyTjRfZlNVVlExMW9CdFR6Mi1CNndXZjNET2E1QUkwYnBRVE1vVzBB0gHbAUFVX3lxTE93MlFCQlc1Q0JvR295Y0JOODlsNG1uVVBVdVQ3Sk9QdFVmV2tnZFh3bGRrVEtKZ05OZThCdWUxRXRmcTlrVkVJa2hNLWZYOTNpZXNMdmxyVkIxRFhZcWVhZWIxRzI5QW02M00xakptZEZoSWVvdGtMS0ZPOW5jemZIRkVRM0xYWHZKN3l2aS1BNmxxM2xwdjJPNTljQVhuaHB3Y0U1elpjR3UtQVdZOEdwNnhCbC0wZGJlMV9OSV9HbEctWkZuZ2V4TnVWSWJXZXhiN3YtUzBidW8tQQ?oc=5"
+   "o": "Investing.com España",
+   "t": "¿Por qué sube hoy la acción de Advanced Micro Devices Inc?",
+   "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-advanced-micro-devices-inc-93CH-3945209"
   },
   {
-   "o": "Europa Press",
-   "t": "CaixaBank ejecuta casi el 80% de su programa de recompra de acciones de 500 millones de euros",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNFYwby0zZTgybS1BWmtoSTVLbWpnZnFmbl9hdHNYYm1TU1pRWHVkOXB0cExURGhlWXgxVzI1QTBWdFliWG9rMU1walNQOFNnd3FwczlIaFFVV0E1dkJfOTJVN184OUQtUXJpQmdlUTlSa1E2MkxzSWVWU1o5dUk1NnBYRWNFWm1KNXctcjJQYUpYZjh4QUR3MkRMMTlaX0p5ZGRRUWZac1BHQ3ZJSWhBa0ZhVUdCb0RPd2xta29TM2NNbEVkRUxUTVdLcVlZTFYwaVBBVzdtWi1HUnpYV1Q5Wm01Nkw?oc=5"
+   "o": "Investing.com",
+   "t": "Why is Advanced Micro Devices stock rallying today?",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjA5WTlJVHowRGZWQW12VndxRVFRdzlUSFBiODY5SXg4dTQ3WGVGQk9OcEhUWm1ta3B0NFU1ek1VcC15ck9IbFBWbmtkRmxuWGRpdVloOXNmSVI5THVNdnBzd2hjb2VBVkJ6eTRzR05vLWJjTDhlUFhnVmNiTHFJejdLc2hVWUxycl9fOHNxLVdPUFE1NTdielFpTnJodlZkMkgwbFRIMVk0cEo3d0ZubjRn?oc=5"
   },
   {
-   "o": "IPMARK",
-   "t": "‘Historias Compartidas’, el proyecto de CaixaBank que busca la inclusión financiera",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORVpCRm0zcVQzc2ZLenh1QVBrV3dWc0UtZmJoV29VZC1tOEZ6bDZTYzdSY0ltcEFQV1puTlc2ZjFueEhsWUtWVkVEcGIzcVViYmQtTHBvYmVxcUpDZlg2U0RCeEs4bm94V3VDSTNtTXJrbU1IVldReFFEbUVSTXVBM05xSlVXRHV3Sl9sNERoRFQ?oc=5"
+   "o": "Investing.com",
+   "t": "AMD stock rating downgraded by Erste Group on valuation concerns",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWHZWN0ZkSDdOMVdPdUhsclNwcjBPeGNfejNQYjVDNWJFWjNEMUNIWmllM0lCdm9ab1NUb05NRGVDbTFkdWVDTFduQzZLVzVnWnFnRjN3QVlUM19DWjFtdUw5YXVlbnpGUGx6dVl2VDM3V1JiX2VTV3ZhYnFoWWhtMXJ4UUpmTXlaVjlZTzM3WjVOVU5EVElSRzVHMVRPWUlNSUVCeUdvUWVVMjRSSWlMTXNFR1ZZM21JY3RwR3pMLVBpUQ?oc=5"
   },
   {
-   "o": "Estrategias de Inversión",
-   "t": "CaixaBank ejecuta casi el 80% de su programa de recompra de acciones de 500 millones de euros",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOVhoZlVRSHpaNnFMalJLNXc5NUpVb18zaXVUMVJHTEFNZU9SOTJaMEdyR2wxWU1EbmRYQ3NGeGF6a2dFd1ItZmFnV0ZPRE9jdUxLSjZtVDFuVHpiLWo4MlNOYlhncUZXRjZBRnU2LXZHanRTUFZQOHVWRmRKZjVhUGxkRGtyWUl0UE5WdElxSXNwOUxLcWxYa2luNGN0YmdkeWpMQ2NKWnQzZkJJVERvREwxVE9ONDVDU0d0U3VjTVZqeWJtUUE?oc=5"
+   "o": "Investing.com México - Finanzas, Bolsa y Forex",
+   "t": "¿Por qué las acciones de Advanced Micro Devices suben hoy? - Investing.com México",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNakpnRDIycF9HUmxIYk90NTRTZHA3dmZNUm5NbnRlT3hLNlpsYml0YlZ3R19uN1F4QzRDbEtJcnQxaldwLWNBdUxMd0xMdXhGVU1zbkdCMjhTOEZhUENwRGdsUTNldThZOXdnMXhPbHVmYTNkX3NiTnRfbjVxbXNtMU9yUzFmekNFbTJVOTBzc3pFTW9ya2FOV2JoVzRfOFlHNUhSM3NzcXBaRnVWc2cyVnhrSEpVQkRf?oc=5"
   },
   {
-   "o": "Demócrata",
-   "t": "CaixaBank roza el 80% de su plan de recompra de 500 millones",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUJhcGVDd2Rnbl80ZW04U3QtYU9wZ21PTTVvT2dkcVhXUEFvdjZYQXM3WC1MS2F0YVhWLXlGazR4SV9WTVhiZlluTHVxN2l1UFN3VWdCM3BXdkFZV3NkTDB6TDBWQzh0TDJYaVBmdXRrNnpZQ0xmZHdkOEpVSk9HT3RlM3dKclVEMVJQLS0wUGJ1WFNjM0R1VUxR0gGfAUFVX3lxTE1GeUJJdF9MZkJodVk1RXFWOUNNaUxxSFprSHBaaWhNWVFzT25oWFBVVExvekhGeS01cHhtS0xxMk5keV9BMFZHckt6Tk1hSER1NkVtZUpxVEVIRjJKUzBPOVpXRi10RW5TSW0teXAtdGZ0Z2ZXUDZuVDRZTlZOUmlHYzN6U2xydk9BNE5PbWV2WGJKMEFPZXoycnBxdFVfNA?oc=5"
+   "o": "Phoronix",
+   "t": "ZenSMU Provides A Rust CLI/TUI & GUI For AMD Ryzen Monitoring/Tweaking",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmOVFXdl91WWJaMHFoSUxGNmNpbnB2eXpqV0VDTkZWWXpIVk5MZ25wYTZuRmVuUlhvNUN4RXhOVjFQY3o3MVFJYmcyMFJIRXR4LXo5UEVfbDFLd0IweXVJ?oc=5"
   },
   {
-   "o": "Demócrata",
-   "t": "CaixaBank is close to 80% of its share buyback plan of 500 million",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSUJjSWNoWlNYOXJiOW5DdzItTFNqZVpHd0R2M1RZcEtEbGV2M21VS2dic1ZtazlCdk9hMGFoSVVZMnNjd2pMdXhHc0JjekJ5Vjh2SEhwWUFZU05KQmJWODJmMXE1Q0xMUnRLRUE3YzBqanc3cFVpMUJIQks5OFFCOHpESHlwWmI0eVBwcDItRFdwZFlUUUlrWHFBbHhON3RsUFJWcNIBqgFBVV95cUxPTFNQUEF4S3VVNWFuUzRqeDQzUEppUWl3RkJ5dHhnQ1RIdG9ERW9hX0tNNjlRaHk2WmU3YTc0U3c3WUl1aUNpQ3UxOWthOU95NEJtaEs3bjNiQUtVMHJDeThZRkhlWkZVMHE1NF9qMUJWMGxSSkFxdHh2RHNlMnc4c2FqeVJmMzR2RmRQZlllV3Y3bDdpYmZWdmY1dldnbkNYb0hQOWtYeVRhQQ?oc=5"
+   "o": "Notebookcheck",
+   "t": "Intel handheld vs AMD Ryzen Mini PC: MSI Claw 8 EX AI+ can double as work PC",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVkxR2hCZEZseWw4cVMtdnRNSDNQcU9xcmhDT1Q2d3JkVVF0azBxZ1dTa2lDQ041a001elR5ZkpxT0hnTy1kR0d5S21TeUM2OWxEMGpQYkxoUnVCRXJCay05QTNaclB5ei1BNTlyd2p3NkxmWFJyZEVHTGZTY1puemJvaU92cU1oUlY4VFNndzdhQWZRcXpabVdMNzhYVVBJdWw0TEFTMF9yUHFZaVVOOTFhV0M1UkpYcXRj?oc=5"
   },
   {
-   "o": "MarketingNews",
-   "t": "CaixaBank apela a las historias personales para comunicar su propósito de marca",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRnh6VmRZS2IxSnZXTjNuSVdKTXRFejJWZEc2RmIyY3Z2QmhQQTdRb0lxUk9XNmQ0OXdNWUhWa1JiMWlzdDYwd1R4VFNhVUJpWW5GenlZT0hwd29CWV9oT2Q2TjdFdmQ0a1NYUTFyVkszWU5kYTdhVUlNSnFENHpya05QTGQwMHFISGVCZWh0TjN3VnNOT21EdkUyYXB0RE5YTTFXNDNIa3pRejZaVC0tZGMweXFpMUwzUHk0ZDdaUGNSaXl3VlZmbFpfQ25JbGY0d2t6LWR4QkFNaHFW?oc=5"
+   "o": "PC Guide",
+   "t": "AMD Ryzen 7 9700X hits best price of the year for Amazon Black Friday deal",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONk1VbUhlV2o3VU9lMGg2V2xuUWRaTk50a3J1YVlBZzVTeDVVX01FaXNLYUZXVVh6eUpqWXhVcjduZER1OW1OYVA1bFBac3dLRHduckxEUUN6bVQ0ZUtmZVdONFdiX0NraGF1OEdHWG5YRmJfRFc1VGJqU2JEanlhYkZKUWJlYkh3cXRFOWhOVE9RU0xqR19EQzdYcXRlSXk1ME1NMnZqLUc?oc=5"
   },
   {
-   "o": "Business People España",
-   "t": "CaixaBank roza los 400 millones invertidos en su recompra de acciones",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1lhXzJ1QlNsMVluaFlGbzhERHE3T2tfSkEzelNpZWRDV2NhYXpfdmpUckMtQTl5Mjh0QW4td0tMYjk4ZzNCc3BrS2lTLTZiSVdTRTNTekJxWnphN28zbkVNOEVobzk0bjVDMUt6Sld3QndhQTJFZXBDdmNIZVJDUGR0ZTd2Mi1Mdm11eWd2ejNnajZCbS1XM3pZaHJRQ0JLZU1sWlVhSUVYZTVqMVZ4OVlfcEVWQQ?oc=5"
+   "o": "TradingView",
+   "t": "AMD Stock Gets A Downgrade From Erste Group – Analyst Flags Valuation Concerns, Low Potential For Share Gains",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSDdFNDh3MXEtLUdnMmNidzRZOWVFenI4MHFWdUJlQ2RyVXYxS0Q2N1dxdnJrNDZuOHBzNUtiWlNJUE1uRHFZNGgtT2J6ejQxRHpUNjgwWndmMUVLTU1hWXVZU3kxV0F5clFfR2RQSGIwTS03LXFqYlc4YUZhWnVkN1g2N3Q2VGJQRDBMYUJ1VnFfVkJyREFrSFFBRnBaaXk5dHYyRU5vR1M2NVVobkNqU29FZkQwbmxUdFd5VzJHYW1nMm41ZU1NTzRLa3ZSaTQzYlNUaVcxa1BnNFVyN1c0QmtPc0tMY0J0MXE1dzBYOGVycFctVWU2UnVFZw?oc=5"
   },
   {
-   "o": "Observatorio Inmobiliario",
-   "t": "La Generalitat de Catalunya adquiere 460 viviendas a CaixaBank por 40,3 millones",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU3NEYmtLUnNnQl83XzJ0MVRwaXZZdmh0aWNnQWhWTU5aakZTbDJxSnNLZTZ3V2ZRWXZBN3pwdV9qQ2kyVFg5SGI0UFREQllieWQwbmJYaDNWWVhsZXpZUi01QmVaTWFKWllYY0s2a2Ita2NHakxuVXEyeHREWmR2Mm91WTVkRVJNU3E0YUJrUzRGa25rV05VM2VrUVZMWUFUTkpreHRkS0xSNFB4VUc0MjdscTFZYy1MZHZwS1lEbG5QT2FaU2hncW9YRzNDNHNOOHJz?oc=5"
+   "o": "Club386",
+   "t": "AMD Ryzen 7 9800X3D dives to its lowest ever price in both US and UK",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0JlWFQ3UXFyU1FHX3I4UzZQdnk0S0RkWHhqa1hzOFlhWFA0aUpPLU1Ic0h0emxfZERXNlF1RkFHZThDYU96WU1aY1pKOXhuRnZwQ2lzdUZpenJUX2VHZGVkS0pBWGVxTk5iYVdTQkkwdFlBdTNTSFp2S01KcnRCd0tkT05kaWM?oc=5"
   }
  ],
  "en_espanol": [
-  "El PP plantea sacar al Estado de CaixaBank, Telefónica y Talgo: ¿qué se juegan los accionistas?",
-  "La Caixa mantendrá el control de CaixaBank pese a una venta estatal",
-  "FAE ASEMAR y CaixaBank abordan las novedades fiscales, laborales y de movilidad sostenible",
-  "CaixaBank ejecuta casi el 80% de su programa de recompra de acciones de 500 millones de euros",
-  "‘Historias Compartidas’, el proyecto de CaixaBank que busca la inclusión financiera"
+  "¿Por qué sube hoy la acción de Advanced Micro Devices Inc?",
+  "Erste Group rebaja la calificación de AMD por preocupaciones de valoración",
+  "¿Por qué las acciones de Advanced Micro Devices suben hoy? - Investing.com México",
+  "¿Por qué repuntan hoy las acciones de Advanced Micro Devices?",
+  "AMD, Intel y Broadcom suben en preapertura del viernes tras recuperación de acciones de IA"
  ],
- "investing": []
+ "investing": [
+  {
+   "t": "¿Por qué sube hoy la acción de Advanced Micro Devices Inc?",
+   "link": "https://es.investing.com/news/stock-market-news/por-que-sube-hoy-la-accion-de-advanced-micro-devices-inc-93CH-3945209"
+  },
+  {
+   "t": "Erste Group rebaja la calificación de AMD por preocupaciones de valoración",
+   "link": "https://es.investing.com/news/analyst-ratings/erste-group-rebaja-la-calificacion-de-amd-por-preocupaciones-de-valoracion-93CH-3945206"
+  }
+ ]
 }
