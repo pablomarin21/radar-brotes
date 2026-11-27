@@ -1,88 +1,81 @@
 {
- "ts": "2026-11-27T09:41:42+01:00",
+ "ts": "2026-11-27T10:13:38+01:00",
  "fichas": [
-  "inflacion",
-  "espana"
+  "caixabank"
  ],
- "medios": 16,
- "normal": 0,
- "red": "investing",
- "titular": "La inflación en España cae al 4,1% en noviembre, impulsada por los combustibles",
- "medio": "Investing.com España",
- "link": "https://es.investing.com/news/economic-indicators/la-inflacion-en-espana-cae-al-41-en-noviembre-impulsada-por-los-combustibles-93CH-3945089",
+ "medios": 12,
+ "normal": 0.5,
+ "titular": "CaixaBank ejecuta casi el 80% de su programa de recompra de acciones de 500 millones de euros",
+ "medio": "Europa Press",
+ "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNFYwby0zZTgybS1BWmtoSTVLbWpnZnFmbl9hdHNYYm1TU1pRWHVkOXB0cExURGhlWXgxVzI1QTBWdFliWG9rMU1walNQOFNnd3FwczlIaFFVV0E1dkJfOTJVN184OUQtUXJpQmdlUTlSa1E2MkxzSWVWU1o5dUk1NnBYRWNFWm1KNXctcjJQYUpYZjh4QUR3MkRMMTlaX0p5ZGRRUWZac1BHQ3ZJSWhBa0ZhVUdCb0RPd2xta29TM2NNbEVkRUxUTVdLcVlZTFYwaVBBVzdtWi1HUnpYV1Q5Wm01Nkw?oc=5",
  "titulares": [
   {
-   "o": "Investing.com España",
-   "t": "La inflación en España cae al 4,1% en noviembre, impulsada por los combustibles",
-   "link": "https://es.investing.com/news/economic-indicators/la-inflacion-en-espana-cae-al-41-en-noviembre-impulsada-por-los-combustibles-93CH-3945089"
-  },
-  {
    "o": "Finect",
-   "t": "El IPC se modera al 4,1% en noviembre por la caída de los carburantes",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZUw5clp6VkZaSjlTbGY5bF9xYkY5cDlWVXhNWEtxNjNQY2dXbkx0U09GblFGTmthcmxUcWpIT2tBZnRBMF9lNkFKWVo5UUk1eHdsX2pQRFFidnlSVENmc3ZtcTdIc1VLYjlCMGRYMW5MZjgyOUQyWG5GQWhyaGhZblJON0NFbUEyM2E5WHZPUmJWbUNVV0R1VDRVbzNJa2lfRG1TeUh3UzBYUWtqWHhYM21nWFRXOTFkaWYyNVBQdw?oc=5"
+   "t": "El PP plantea sacar al Estado de CaixaBank, Telefónica y Talgo: ¿qué se juegan los accionistas?",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWVdDWVRTY2Jva3N2cUc2Ui0zOUVpWXFlNlNqTF9aX19RczBIN3dVcEJtdVRnNXpYVW1idGlEQ2F2WnJDeWtHaGtfVWYxQ1NoZnRGT21xcXZaRzJZQWFfS1NSbFFhNVI0LXplS2d1czBtaXJjd1htS1BTTXpOc0I1R0RHU1JfRjEyRXhNVnZmODNKbjJaVWpkbDNyNHE0cGlZVzBSZ0VISHoxT09BQTVPZVJ6cXEtVEhFWTk2aDVlcEtOLTdycDIzVThfZ0xVWm1XdG92NlVGQmVSN0lPVl9N?oc=5"
   },
   {
-   "o": "LaSexta",
-   "t": "El IPC se modera ocho décimas en noviembre por el abaratamiento de las gasolinas",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd01CMWtkQTBONzRqVU5nVG04aFVCSUNxVUxZZ05SaTFibGpsaU10SjJvVWppS1QwQXNmZTk2TFRYVURiMTRmZmdYbG1EWWdOUlpac01wRzBsYXhob1hYLWxWSnJwbjFlWVQ2RF9DaU15akhoQnIzeUR5dWF5X1pWVHFHV0hlSWRobXFKZzBtRVdmZy1TRlZ4SGpoSTlSc0pQeWpiNm1sX3pBRnNKblowMXhjTVJOY1FsZHVfdmlJLVM1b3M4d2wzLXp3b3VwY0NuZk1V0gHTAUFVX3lxTE5fTDJoYlhiRmlfdTMxWm9FaTdTNWduRTVBdUw2d2wtTkJUT2RhYW5FUjZQYkpXQ1dKRTNXWXJFMTNaYlhJOHVjRlBfZml4VE8xREl3REJaWU9kWklBQXU5V1E1WklGbjRCeGxkMWFUOWctM1I1Z3k0YzYwM0EtYUdvMXpobm83dkV5aHN0UUhBM2N0YU1yZlpwQlRBZlU2ZVRvXzdIVFFValVxdWhXMXRMaHhzcnpvbGVnUTI1UWhqRVRlY1FrS3hKbUtteVA4bzVkaE0?oc=5"
+   "o": "Dosya Haber",
+   "t": "La Caixa mantendrá el control de CaixaBank pese a una venta estatal",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYms5WFZNb3o4ZFl6U3JTMVctcFBpYzBlUGtIOVFLX19qdXFFUGlGR0VnZU5JVE5zQmQ2RWlYX0FwWnNIT0FSMWVTaFlIUlZzWm1pbDY5VTlmcGVVN3I3REgwVFdHamg1X2hfc1IxMkk4Q25zRTdsZVFRdlJHdHNVbFlkb19nR3FpSG5xV3U4X2FlMDlpVWtWMC0tOU9iTlJHM0EzZmhTNkxJYmQzZkVv?oc=5"
   },
   {
-   "o": "AOL.com",
-   "t": "Spain's 12-month EU-harmonised inflation falls to 4.1% in November",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kVjdLbEV2eVB3UFFaTUU2ejh2OFF3V1lXS2tkLTZxaXM2MEZzUFNPMFl1aGtubV9HTkxydHd1a2piaUczMng5bXNHbnV4bFJmclo4Y2NCWVNBWEZXNHA3LUlUWllnSGUzQjhNZ29FeXh3WWRCSU5nT3BYZDZvZw?oc=5"
+   "o": "Cadena SER",
+   "t": "FAE ASEMAR y CaixaBank abordan las novedades fiscales, laborales y de movilidad sostenible",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRHJINEJCMXZIRGQ4bFB6c0JGcWkyYUlySGg0bGVuaDRleUJ4Z2N0dmR2NlQ1NzVCZVl5VjNSMUI5d04zNFNwb0I3TS1VZTZmNmVpWVVJYjN5aUltdGNJMVQ3aDllMmtrdkhKMVZvSHRDQWdfQmNBMHhidEZKYjdkcTNkbnB2VXVnNmlsX3lGY3dyZk1YdUk1ckxYdVd4ekt5cVpxZ3EwVUdjSndsbWNnTk1ib1hHd0p0UnRGNEtVYUdoZ211cHh1R2hQWFNyUTE4SkltMmc1enJody14UnJ2VkdQMGjSAfgBQVVfeXFMTXRJcHR2V3JJMlpVSGpPUklWZEFNbGlmOGtMZExsSEtuMDEyZ05rSmtnc3pvWk9HemNZYWFEaUFqZURaZDZzTk0xRU1JWkYtdnBIMS0xR3R6YlptcGFvUTJoQ1JaS212WHdwdzJzYUlkWklLRTM2bE0zYWM5ZHl2dzJ1QzRVdE9MV1owRGdTZmZWTXR6RGdhQ1RPbDdmaldvMFcyUmtwamtOaUdKNGVLc3FjTjhURW1yQ0FpaVVMWEpSQTJYZ1dEdkJGZWFDQmJKUmxBaVQ1SU9RS3BXSnVULWY1WG9KTDBPTGF6M0JtQVZSc0EtY2Z2Wkc?oc=5"
   },
   {
-   "o": "EL CEO",
-   "t": "#InformaciónConfidencial: la ruta de Banxico para guiar la inflación hacia su objetivo en 2027",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR0RLZHA2N1hWclZ5SHMwelV4QldELVdpcUdrWVFFTVllS3RsOFZzbk5KV3NNbzR6ZHdXZ1YyeE02alAxSkJSZmRrTWFvckFTUVpQNzl3ZXBPUHJObDU2Wk1yYmd4REdDVWhHb21LbHZhdHhIQ0lseE4ySTZ0UUloWEo0OC1lenViNmc?oc=5"
-  },
-  {
-   "o": "Livemint",
-   "t": "US PCE inflation rises in Oct: Is a US Fed rate hike confirmed in Dec meet? How will it impact Sensex, Nifty, and Gold?",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQLWZVZTZDVGdnZG5aSlZmYVpVNklETmV4R3NNR0ozc0YzNWUzbmFzV0hKZHJncjR0Y0wzUjIteGpFTy1mUjdRd1ZVMWZyVTFYclFXWlBvb0FldC1xWWxoRTh2VVRWTWxkb3FEUDFldHdjYmVfUmlKUEFIUE1aamxNRXQ0MkdCbFBXTlBZcEtoNVNPTEd2WmthUG9CV0oybVB2eGdfUUFJYVhDTy05Wm9wRDJtODJYMEQtU0ROSlROSTRiUGI4MGdKQnBVZ0t4RFdyVlNfVTc3UEt0NUFqNmlHOXJHRExOeWpvTEktcExZUDd4OWFOUmJET21FbkpPR3lKUW9idWxWTUFmdy1ucVRyYTdn0gGXAkFVX3lxTE9EMEQzcEppLTI3X1lWSkJ2WTdmR1JEbUJaX3VRU04xMU5xSXBZQVFBU1RkcVlqTDQyMVlGSXJQNm9MS2xOcWlkSDZXTm1CN25yWS1YS0tOWHVkbWdhbVB2eFZRaGFDUi0zWm9Na3NyRjVTWTk4S29iWl9FWnF1S3ZrU0dXMHpkQ0FQQ29VV1h2UW9PQndDNy1zX1RiTHBjSVpCUUEtNU80OUVwamdDZ0EwRXdDdUFaQ1o3ZnktUnRWek00eDRTZmh2M1JsS2hwb2ZwaFM3Y3hndjBUTjNUUjBJZjlDYmd2RjVFY2RQbTZlRUltMDI5YVdXWFJ0RGRDT1lwUnhjb080MDdSYzNLTlJCRVlsekp4SQ?oc=5"
+   "o": "Economía Digital",
+   "t": "CaixaBank realiza nuevas compras dentro de su programa de recompra de acciones propias durante noviembre de 2026",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcnNKajdmM3M0em95Sy1LTjUxNmRoeVdaeWNyRHI5VUZpajJfT3Z0bGhkaXk0OTR4ZEdfWmpVeGRJNlA1UVVKMmpoWC1wcGdBaUh5RVZzOHVqdUU3X09WbUJvNEc5QkJudDBQd3ZLUjdKSVI1SUk0dmNCUXBUZzh5UFNxQ1FzZTVPWVNmNWpqSTB2cDE5a2dDTmFfXzNHVUlvMlhYQ0Y2WDl3VmxPR2RyTjRfZlNVVlExMW9CdFR6Mi1CNndXZjNET2E1QUkwYnBRVE1vVzBB0gHbAUFVX3lxTE93MlFCQlc1Q0JvR295Y0JOODlsNG1uVVBVdVQ3Sk9QdFVmV2tnZFh3bGRrVEtKZ05OZThCdWUxRXRmcTlrVkVJa2hNLWZYOTNpZXNMdmxyVkIxRFhZcWVhZWIxRzI5QW02M00xakptZEZoSWVvdGtMS0ZPOW5jemZIRkVRM0xYWHZKN3l2aS1BNmxxM2xwdjJPNTljQVhuaHB3Y0U1elpjR3UtQVdZOEdwNnhCbC0wZGJlMV9OSV9HbEctWkZuZ2V4TnVWSWJXZXhiN3YtUzBidW8tQQ?oc=5"
   },
   {
    "o": "Europa Press",
-   "t": "El IPC se modera ocho décimas en noviembre, hasta el 4,1%, por el abaratamiento de las gasolinas",
-   "link": "https://www.europapress.es/economia/macroeconomia-00338/noticia-ipc-modera-ocho-decimas-noviembre-41-abaratamiento-gasolinas-20261127090034.html"
+   "t": "CaixaBank ejecuta casi el 80% de su programa de recompra de acciones de 500 millones de euros",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNFYwby0zZTgybS1BWmtoSTVLbWpnZnFmbl9hdHNYYm1TU1pRWHVkOXB0cExURGhlWXgxVzI1QTBWdFliWG9rMU1walNQOFNnd3FwczlIaFFVV0E1dkJfOTJVN184OUQtUXJpQmdlUTlSa1E2MkxzSWVWU1o5dUk1NnBYRWNFWm1KNXctcjJQYUpYZjh4QUR3MkRMMTlaX0p5ZGRRUWZac1BHQ3ZJSWhBa0ZhVUdCb0RPd2xta29TM2NNbEVkRUxUTVdLcVlZTFYwaVBBVzdtWi1HUnpYV1Q5Wm01Nkw?oc=5"
   },
   {
-   "o": "investingLive",
-   "t": "La inflación española se modera en noviembre, ofreciendo un respiro para el BCE",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEN4NWNnRkJhMzFQX2xnY2lxVGRPLUt5Ym16U3NzbEtGSVhRMmdDdTlWeVptVGpzWGt3MkR1cHBQcnJvWUpReEY2SnMxZnZwNmJSTHhqOUpNYXEwcUdOSmZfNF9TQzliWERJWVp5aDZNN3VySkJhUVlPank1TnphVjdWanU0MjJpUEhBMmZxVFNPNjR0NWdmVDR5TVZDUXM1eFFSMURLZVM2WVhVZG8yQUF4UmgyR3JV?oc=5"
+   "o": "IPMARK",
+   "t": "‘Historias Compartidas’, el proyecto de CaixaBank que busca la inclusión financiera",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORVpCRm0zcVQzc2ZLenh1QVBrV3dWc0UtZmJoV29VZC1tOEZ6bDZTYzdSY0ltcEFQV1puTlc2ZjFueEhsWUtWVkVEcGIzcVViYmQtTHBvYmVxcUpDZlg2U0RCeEs4bm94V3VDSTNtTXJrbU1IVldReFFEbUVSTXVBM05xSlVXRHV3Sl9sNERoRFQ?oc=5"
   },
   {
-   "o": "Cinco Días",
-   "t": "Las pensiones subirán un 3,5% en 2027 tras crecer la inflación el 4,1% en noviembre",
-   "link": "https://elpais.com/economia/2026-11-27/las-pensiones-subiran-un-35-en-2027.html"
+   "o": "Estrategias de Inversión",
+   "t": "CaixaBank ejecuta casi el 80% de su programa de recompra de acciones de 500 millones de euros",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOVhoZlVRSHpaNnFMalJLNXc5NUpVb18zaXVUMVJHTEFNZU9SOTJaMEdyR2wxWU1EbmRYQ3NGeGF6a2dFd1ItZmFnV0ZPRE9jdUxLSjZtVDFuVHpiLWo4MlNOYlhncUZXRjZBRnU2LXZHanRTUFZQOHVWRmRKZjVhUGxkRGtyWUl0UE5WdElxSXNwOUxLcWxYa2luNGN0YmdkeWpMQ2NKWnQzZkJJVERvREwxVE9ONDVDU0d0U3VjTVZqeWJtUUE?oc=5"
   },
   {
-   "o": "Pound Sterling Live",
-   "t": "Yen's Rate Hike Support Set to Survive Tokyo Inflation Miss",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbFJpdzRGTUpDanVqeHUwUDlaS1laTFlKMmtoR21uUVQ3VldjUnQyTmM3ZGZFT2NpclFrWmpOekdLUXM0RkxTcThlczdlYllNdDdaQkM0bEV6Z0t1SHp1UFpVcW5KemZPY01kR1RfX1hGMld4aGNoeEt4SWl2ajM1bWxwaHhFbWFlSTF2X2tjVk1sOXlJUFgwTmxmWnBFdWZGRmJRcVlwQVdfaGliUFE?oc=5"
+   "o": "Demócrata",
+   "t": "CaixaBank roza el 80% de su plan de recompra de 500 millones",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbUJhcGVDd2Rnbl80ZW04U3QtYU9wZ21PTTVvT2dkcVhXUEFvdjZYQXM3WC1MS2F0YVhWLXlGazR4SV9WTVhiZlluTHVxN2l1UFN3VWdCM3BXdkFZV3NkTDB6TDBWQzh0TDJYaVBmdXRrNnpZQ0xmZHdkOEpVSk9HT3RlM3dKclVEMVJQLS0wUGJ1WFNjM0R1VUxR0gGfAUFVX3lxTE1GeUJJdF9MZkJodVk1RXFWOUNNaUxxSFprSHBaaWhNWVFzT25oWFBVVExvekhGeS01cHhtS0xxMk5keV9BMFZHckt6Tk1hSER1NkVtZUpxVEVIRjJKUzBPOVpXRi10RW5TSW0teXAtdGZ0Z2ZXUDZuVDRZTlZOUmlHYzN6U2xydk9BNE5PbWV2WGJKMEFPZXoycnBxdFVfNA?oc=5"
   },
   {
-   "o": "AP News",
-   "t": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWjFKVU92YjgtRlZKS1BWWTFDYWthODExQ0VMLXJ0OHY5T2tzamlmemN0akZCS0RKaGR4MGRlamtQbzFzUUsxWURPRHVqZWMtd3VnOHFldzdPYnVEcVNNZDBJLTIxMHFlOUE2ZjAza2UxZkFmbG55N04wSS1hR1JUcWNyNXVaaGFkUUFNc0JRekpqZTUzR0JWMzJwdmxKMmVWS3JXeQ?oc=5"
+   "o": "Demócrata",
+   "t": "CaixaBank is close to 80% of its share buyback plan of 500 million",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSUJjSWNoWlNYOXJiOW5DdzItTFNqZVpHd0R2M1RZcEtEbGV2M21VS2dic1ZtazlCdk9hMGFoSVVZMnNjd2pMdXhHc0JjekJ5Vjh2SEhwWUFZU05KQmJWODJmMXE1Q0xMUnRLRUE3YzBqanc3cFVpMUJIQks5OFFCOHpESHlwWmI0eVBwcDItRFdwZFlUUUlrWHFBbHhON3RsUFJWcNIBqgFBVV95cUxPTFNQUEF4S3VVNWFuUzRqeDQzUEppUWl3RkJ5dHhnQ1RIdG9ERW9hX0tNNjlRaHk2WmU3YTc0U3c3WUl1aUNpQ3UxOWthOU95NEJtaEs3bjNiQUtVMHJDeThZRkhlWkZVMHE1NF9qMUJWMGxSSkFxdHh2RHNlMnc4c2FqeVJmMzR2RmRQZlllV3Y3bDdpYmZWdmY1dldnbkNYb0hQOWtYeVRhQQ?oc=5"
   },
   {
-   "o": "TradingView",
-   "t": "Marruecos se come a la economía de España durante la crisis energética: el PIB crece el doble mientras que su inflación no llega al 1%",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSdkN4R0hSeVF4bnVqQ3pRLXA0Ykcwd2lvVWVNdDh5cnpmalNYaFowSGlTNE1VUE1jTDVnNm01RjlWTlp0R2daRE0xbUotWVc5Q1VvT1I0Y0hDa0lrb2dYXzdyYXpFQQ?oc=5"
+   "o": "MarketingNews",
+   "t": "CaixaBank apela a las historias personales para comunicar su propósito de marca",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRnh6VmRZS2IxSnZXTjNuSVdKTXRFejJWZEc2RmIyY3Z2QmhQQTdRb0lxUk9XNmQ0OXdNWUhWa1JiMWlzdDYwd1R4VFNhVUJpWW5GenlZT0hwd29CWV9oT2Q2TjdFdmQ0a1NYUTFyVkszWU5kYTdhVUlNSnFENHpya05QTGQwMHFISGVCZWh0TjN3VnNOT21EdkUyYXB0RE5YTTFXNDNIa3pRejZaVC0tZGMweXFpMUwzUHk0ZDdaUGNSaXl3VlZmbFpfQ25JbGY0d2t6LWR4QkFNaHFW?oc=5"
+  },
+  {
+   "o": "Business People España",
+   "t": "CaixaBank roza los 400 millones invertidos en su recompra de acciones",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1lhXzJ1QlNsMVluaFlGbzhERHE3T2tfSkEzelNpZWRDV2NhYXpfdmpUckMtQTl5Mjh0QW4td0tMYjk4ZzNCc3BrS2lTLTZiSVdTRTNTekJxWnphN28zbkVNOEVobzk0bjVDMUt6Sld3QndhQTJFZXBDdmNIZVJDUGR0ZTd2Mi1Mdm11eWd2ejNnajZCbS1XM3pZaHJRQ0JLZU1sWlVhSUVYZTVqMVZ4OVlfcEVWQQ?oc=5"
+  },
+  {
+   "o": "Observatorio Inmobiliario",
+   "t": "La Generalitat de Catalunya adquiere 460 viviendas a CaixaBank por 40,3 millones",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU3NEYmtLUnNnQl83XzJ0MVRwaXZZdmh0aWNnQWhWTU5aakZTbDJxSnNLZTZ3V2ZRWXZBN3pwdV9qQ2kyVFg5SGI0UFREQllieWQwbmJYaDNWWVhsZXpZUi01QmVaTWFKWllYY0s2a2Ita2NHakxuVXEyeHREWmR2Mm91WTVkRVJNU3E0YUJrUzRGa25rV05VM2VrUVZMWUFUTkpreHRkS0xSNFB4VUc0MjdscTFZYy1MZHZwS1lEbG5QT2FaU2hncW9YRzNDNHNOOHJz?oc=5"
   }
  ],
  "en_espanol": [
-  "La inflación en España cae al 4,1% en noviembre, impulsada por los combustibles",
-  "El IPC se modera al 4,1% en noviembre por la caída de los carburantes",
-  "El IPC se modera ocho décimas en noviembre por el abaratamiento de las gasolinas",
-  "#InformaciónConfidencial: la ruta de Banxico para guiar la inflación hacia su objetivo en 2027",
-  "El IPC se modera ocho décimas en noviembre, hasta el 4,1%, por el abaratamiento de las gasolinas"
+  "El PP plantea sacar al Estado de CaixaBank, Telefónica y Talgo: ¿qué se juegan los accionistas?",
+  "La Caixa mantendrá el control de CaixaBank pese a una venta estatal",
+  "FAE ASEMAR y CaixaBank abordan las novedades fiscales, laborales y de movilidad sostenible",
+  "CaixaBank ejecuta casi el 80% de su programa de recompra de acciones de 500 millones de euros",
+  "‘Historias Compartidas’, el proyecto de CaixaBank que busca la inclusión financiera"
  ],
- "investing": [
-  {
-   "t": "La inflación en España cae al 4,1% en noviembre, impulsada por los combustibles",
-   "link": "https://es.investing.com/news/economic-indicators/la-inflacion-en-espana-cae-al-41-en-noviembre-impulsada-por-los-combustibles-93CH-3945089"
-  }
- ]
+ "investing": []
 }
