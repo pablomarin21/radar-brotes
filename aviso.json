@@ -1,77 +1,88 @@
 {
- "ts": "2026-11-27T04:32:30+01:00",
+ "ts": "2026-11-27T09:41:42+01:00",
  "fichas": [
-  "bitcoin"
+  "inflacion",
+  "espana"
  ],
- "medios": 6,
+ "medios": 16,
  "normal": 0,
  "red": "investing",
- "titular": "El Bitcoin pierde un 10% en un día de desplome generalizado",
+ "titular": "La inflación en España cae al 4,1% en noviembre, impulsada por los combustibles",
  "medio": "Investing.com España",
- "link": "https://es.investing.com/news/cryptocurrency-news/el-bitcoin-pierde-un-10-en-un-dia-de-desplome-generalizado-3939020",
+ "link": "https://es.investing.com/news/economic-indicators/la-inflacion-en-espana-cae-al-41-en-noviembre-impulsada-por-los-combustibles-93CH-3945089",
  "titulares": [
   {
    "o": "Investing.com España",
-   "t": "El Bitcoin pierde un 10% en un día de desplome generalizado",
-   "link": "https://es.investing.com/news/cryptocurrency-news/el-bitcoin-pierde-un-10-en-un-dia-de-desplome-generalizado-3939020"
+   "t": "La inflación en España cae al 4,1% en noviembre, impulsada por los combustibles",
+   "link": "https://es.investing.com/news/economic-indicators/la-inflacion-en-espana-cae-al-41-en-noviembre-impulsada-por-los-combustibles-93CH-3945089"
   },
   {
-   "o": "Investing.com España",
-   "t": "Bitcoin ronda los 60.000 dólares en medio de incertidumbre regulatoria y de tipos",
-   "link": "https://es.investing.com/news/cryptocurrency-news/bitcoin-ronda-los-60000-dolares-en-medio-de-incertidumbre-regulatoria-y-de-tipos-3941185"
+   "o": "Finect",
+   "t": "El IPC se modera al 4,1% en noviembre por la caída de los carburantes",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZUw5clp6VkZaSjlTbGY5bF9xYkY5cDlWVXhNWEtxNjNQY2dXbkx0U09GblFGTmthcmxUcWpIT2tBZnRBMF9lNkFKWVo5UUk1eHdsX2pQRFFidnlSVENmc3ZtcTdIc1VLYjlCMGRYMW5MZjgyOUQyWG5GQWhyaGhZblJON0NFbUEyM2E5WHZPUmJWbUNVV0R1VDRVbzNJa2lfRG1TeUh3UzBYUWtqWHhYM21nWFRXOTFkaWYyNVBQdw?oc=5"
   },
   {
-   "o": "Investing.com España",
-   "t": "Bitcoin recorta ganancias tras el rally de IA en Wall Street, pero se mantiene sobre los 61.000 dólares",
-   "link": "https://es.investing.com/news/cryptocurrency-news/bitcoin-rebota-por-encima-de-los-61000-dolares-tras-la-ola-de-liquidaciones-3939417"
+   "o": "LaSexta",
+   "t": "El IPC se modera ocho décimas en noviembre por el abaratamiento de las gasolinas",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd01CMWtkQTBONzRqVU5nVG04aFVCSUNxVUxZZ05SaTFibGpsaU10SjJvVWppS1QwQXNmZTk2TFRYVURiMTRmZmdYbG1EWWdOUlpac01wRzBsYXhob1hYLWxWSnJwbjFlWVQ2RF9DaU15akhoQnIzeUR5dWF5X1pWVHFHV0hlSWRobXFKZzBtRVdmZy1TRlZ4SGpoSTlSc0pQeWpiNm1sX3pBRnNKblowMXhjTVJOY1FsZHVfdmlJLVM1b3M4d2wzLXp3b3VwY0NuZk1V0gHTAUFVX3lxTE5fTDJoYlhiRmlfdTMxWm9FaTdTNWduRTVBdUw2d2wtTkJUT2RhYW5FUjZQYkpXQ1dKRTNXWXJFMTNaYlhJOHVjRlBfZml4VE8xREl3REJaWU9kWklBQXU5V1E1WklGbjRCeGxkMWFUOWctM1I1Z3k0YzYwM0EtYUdvMXpobm83dkV5aHN0UUhBM2N0YU1yZlpwQlRBZlU2ZVRvXzdIVFFValVxdWhXMXRMaHhzcnpvbGVnUTI1UWhqRVRlY1FrS3hKbUtteVA4bzVkaE0?oc=5"
   },
   {
-   "o": "Investing.com España",
-   "t": "Bitcoin repunta más del 1% y recupera los 60.000 dólares",
-   "link": "https://es.investing.com/news/cryptocurrency-news/bitcoin-lucha-por-mantenerse-bajo-los-60000-dolares-ante-caida-de-rentabilidad-minera-3939166"
+   "o": "AOL.com",
+   "t": "Spain's 12-month EU-harmonised inflation falls to 4.1% in November",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kVjdLbEV2eVB3UFFaTUU2ejh2OFF3V1lXS2tkLTZxaXM2MEZzUFNPMFl1aGtubV9HTkxydHd1a2piaUczMng5bXNHbnV4bFJmclo4Y2NCWVNBWEZXNHA3LUlUWllnSGUzQjhNZ29FeXh3WWRCSU5nT3BYZDZvZw?oc=5"
   },
   {
-   "o": "Investing.com España",
-   "t": "Bitcoin cae a 55.326 dólares, su nivel más bajo desde septiembre de 2024",
-   "link": "https://es.investing.com/news/cryptocurrency-news/bitcoin-cae-por-debajo-de-los-56000-dolares-en-medio-de-una-crisis-de-liquidez-3939017"
+   "o": "EL CEO",
+   "t": "#InformaciónConfidencial: la ruta de Banxico para guiar la inflación hacia su objetivo en 2027",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR0RLZHA2N1hWclZ5SHMwelV4QldELVdpcUdrWVFFTVllS3RsOFZzbk5KV3NNbzR6ZHdXZ1YyeE02alAxSkJSZmRrTWFvckFTUVpQNzl3ZXBPUHJObDU2Wk1yYmd4REdDVWhHb21LbHZhdHhIQ0lseE4ySTZ0UUloWEo0OC1lenViNmc?oc=5"
   },
   {
-   "o": "Cryptonews.net",
-   "t": "Bought Nvidia stock during the 2017 crypto boom? You could qualify for a $290 million settlement",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Mc09LSGNtaVlmcFJLRGZUUXB4aFo0SEE2TXFjcDRnV1RoUkk3anZBVzJXRzRUd2g5NG1ycG44UGQyaHphQ0p0TTRZQ2ZlSlVNWXhaeXk0NWo?oc=5"
+   "o": "Livemint",
+   "t": "US PCE inflation rises in Oct: Is a US Fed rate hike confirmed in Dec meet? How will it impact Sensex, Nifty, and Gold?",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQLWZVZTZDVGdnZG5aSlZmYVpVNklETmV4R3NNR0ozc0YzNWUzbmFzV0hKZHJncjR0Y0wzUjIteGpFTy1mUjdRd1ZVMWZyVTFYclFXWlBvb0FldC1xWWxoRTh2VVRWTWxkb3FEUDFldHdjYmVfUmlKUEFIUE1aamxNRXQ0MkdCbFBXTlBZcEtoNVNPTEd2WmthUG9CV0oybVB2eGdfUUFJYVhDTy05Wm9wRDJtODJYMEQtU0ROSlROSTRiUGI4MGdKQnBVZ0t4RFdyVlNfVTc3UEt0NUFqNmlHOXJHRExOeWpvTEktcExZUDd4OWFOUmJET21FbkpPR3lKUW9idWxWTUFmdy1ucVRyYTdn0gGXAkFVX3lxTE9EMEQzcEppLTI3X1lWSkJ2WTdmR1JEbUJaX3VRU04xMU5xSXBZQVFBU1RkcVlqTDQyMVlGSXJQNm9MS2xOcWlkSDZXTm1CN25yWS1YS0tOWHVkbWdhbVB2eFZRaGFDUi0zWm9Na3NyRjVTWTk4S29iWl9FWnF1S3ZrU0dXMHpkQ0FQQ29VV1h2UW9PQndDNy1zX1RiTHBjSVpCUUEtNU80OUVwamdDZ0EwRXdDdUFaQ1o3ZnktUnRWek00eDRTZmh2M1JsS2hwb2ZwaFM3Y3hndjBUTjNUUjBJZjlDYmd2RjVFY2RQbTZlRUltMDI5YVdXWFJ0RGRDT1lwUnhjb080MDdSYzNLTlJCRVlsekp4SQ?oc=5"
   },
   {
-   "o": "BigGo Finance",
-   "t": "Tudor Investment Nearly Doubles IBIT Stake to $64.6 Million as Bitcoin ETF Bet Revives",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EWVN2Z3RzQmFZb0JxU2dYMWttSmtqeXBmWC1weGpVSTNEbk92X1hqdXlxNFRDSmJqeFZ0S09IWG9SY0xEUUEzOWdJNWJ5aVZSelh0Z05LYU1ONGNjaTh0ZEd6T1JNUXB2SHVDeFNCNXo0TEhzNlE?oc=5"
+   "o": "Europa Press",
+   "t": "El IPC se modera ocho décimas en noviembre, hasta el 4,1%, por el abaratamiento de las gasolinas",
+   "link": "https://www.europapress.es/economia/macroeconomia-00338/noticia-ipc-modera-ocho-decimas-noviembre-41-abaratamiento-gasolinas-20261127090034.html"
   },
   {
-   "o": "CryptoSlate",
-   "t": "Bought Nvidia stock during the 2017 crypto boom? You could qualify for a $290 million settlement",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjY5bnM1eURUWEthM1Z6c3JtTk1CMzBfZERPdVBtVWlnWUlLRU4wd2FxamFDMl9JYkZuYU5RUktuMlNqc2FJb0tuWlB2TXhNRm1ZWlhJdUgtT0dRY3ZRNGhnc2E5bUd6d3hjTmxwRXZPQ1VoeXNNWTZIWEE2X29uME1kXzYySURuWWxYYWdrSzA5dkZNWUEyTw?oc=5"
+   "o": "investingLive",
+   "t": "La inflación española se modera en noviembre, ofreciendo un respiro para el BCE",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaEN4NWNnRkJhMzFQX2xnY2lxVGRPLUt5Ym16U3NzbEtGSVhRMmdDdTlWeVptVGpzWGt3MkR1cHBQcnJvWUpReEY2SnMxZnZwNmJSTHhqOUpNYXEwcUdOSmZfNF9TQzliWERJWVp5aDZNN3VySkJhUVlPank1TnphVjdWanU0MjJpUEhBMmZxVFNPNjR0NWdmVDR5TVZDUXM1eFFSMURLZVM2WVhVZG8yQUF4UmgyR3JV?oc=5"
   },
   {
-   "o": "Pluang",
-   "t": "Bitcoin may rebound sharply if AI stock confidence returns, says Devere Group CEO.",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU1FQQVhYZTRDUTdDUGtFQlJtcWU4Tl8teWFHQkhNbzQwcUoxZFdCOVdFWFNFS2JMLWFPY05XQlhoOGxBYWxFSUtnSTViLWU0UW9jSHRLSXd6ZVN2M1B0b190QThKbVVydGZ0RldEMUlRTUxnNloyS202MXNCTFpsMTdCb0l4dC05WHZiUw?oc=5"
+   "o": "Cinco Días",
+   "t": "Las pensiones subirán un 3,5% en 2027 tras crecer la inflación el 4,1% en noviembre",
+   "link": "https://elpais.com/economia/2026-11-27/las-pensiones-subiran-un-35-en-2027.html"
   },
   {
-   "o": "www.tokenpost.com",
-   "t": "Green Links Bitcoin Rebound Potential to AI Stock Recovery",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wU3NXNFpoeXVjaU5rQ2hIWU4zbzF1Yi1LZWpTZ1B2Mzc2M2xYQUphLWhsdUQ0c3VScC1qcUpxd2JKVnZFYlg2bkdsUWEwci00WHgtOVpUd1ZnUQ?oc=5"
+   "o": "Pound Sterling Live",
+   "t": "Yen's Rate Hike Support Set to Survive Tokyo Inflation Miss",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbFJpdzRGTUpDanVqeHUwUDlaS1laTFlKMmtoR21uUVQ3VldjUnQyTmM3ZGZFT2NpclFrWmpOekdLUXM0RkxTcThlczdlYllNdDdaQkM0bEV6Z0t1SHp1UFpVcW5KemZPY01kR1RfX1hGMld4aGNoeEt4SWl2ajM1bWxwaHhFbWFlSTF2X2tjVk1sOXlJUFgwTmxmWnBFdWZGRmJRcVlwQVdfaGliUFE?oc=5"
+  },
+  {
+   "o": "AP News",
+   "t": "Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWjFKVU92YjgtRlZKS1BWWTFDYWthODExQ0VMLXJ0OHY5T2tzamlmemN0akZCS0RKaGR4MGRlamtQbzFzUUsxWURPRHVqZWMtd3VnOHFldzdPYnVEcVNNZDBJLTIxMHFlOUE2ZjAza2UxZkFmbG55N04wSS1hR1JUcWNyNXVaaGFkUUFNc0JRekpqZTUzR0JWMzJwdmxKMmVWS3JXeQ?oc=5"
+  },
+  {
+   "o": "TradingView",
+   "t": "Marruecos se come a la economía de España durante la crisis energética: el PIB crece el doble mientras que su inflación no llega al 1%",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSdkN4R0hSeVF4bnVqQ3pRLXA0Ykcwd2lvVWVNdDh5cnpmalNYaFowSGlTNE1VUE1jTDVnNm01RjlWTlp0R2daRE0xbUotWVc5Q1VvT1I0Y0hDa0lrb2dYXzdyYXpFQQ?oc=5"
   }
  ],
  "en_espanol": [
-  "El Bitcoin pierde un 10% en un día de desplome generalizado",
-  "Bitcoin ronda los 60.000 dólares en medio de incertidumbre regulatoria y de tipos",
-  "Bitcoin recorta ganancias tras el rally de IA en Wall Street, pero se mantiene sobre los 61.000 dólares",
-  "Bitcoin repunta más del 1% y recupera los 60.000 dólares",
-  "Bitcoin cae a 55.326 dólares, su nivel más bajo desde septiembre de 2024"
+  "La inflación en España cae al 4,1% en noviembre, impulsada por los combustibles",
+  "El IPC se modera al 4,1% en noviembre por la caída de los carburantes",
+  "El IPC se modera ocho décimas en noviembre por el abaratamiento de las gasolinas",
+  "#InformaciónConfidencial: la ruta de Banxico para guiar la inflación hacia su objetivo en 2027",
+  "El IPC se modera ocho décimas en noviembre, hasta el 4,1%, por el abaratamiento de las gasolinas"
  ],
  "investing": [
   {
-   "t": "El Bitcoin pierde un 10% en un día de desplome generalizado",
-   "link": "https://es.investing.com/news/cryptocurrency-news/el-bitcoin-pierde-un-10-en-un-dia-de-desplome-generalizado-3939020"
+   "t": "La inflación en España cae al 4,1% en noviembre, impulsada por los combustibles",
+   "link": "https://es.investing.com/news/economic-indicators/la-inflacion-en-espana-cae-al-41-en-noviembre-impulsada-por-los-combustibles-93CH-3945089"
   }
  ]
 }
