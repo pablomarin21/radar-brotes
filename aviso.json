@@ -1,76 +1,77 @@
 {
- "ts": "2026-11-26T15:07:59+01:00",
+ "ts": "2026-11-27T04:32:30+01:00",
  "fichas": [
-  "oct",
-  "bce"
+  "bitcoin"
  ],
- "medios": 12,
- "normal": 0.5,
- "titular": "ECB already had large support for rate hike in Oct, accounts show By Reuters",
- "medio": "Investing.com",
- "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0F2c2liN2w3aWJLVUUwUU1EZ2prWUNxaTdpZXk0SlpGS3pfUFBqamhBTXgzOWdJOGh0cjVSRGNIck5LbVo5N2x4VGpyNjU2Nnp0U0JpQzJ3UlJrZzF2NFJaeVUycWJsZGxrdWpWUGJ5U2VmLTV3U2RKQy1hLWtNRF9SXy1teGRxMTZpNjVrSkN1R1lkc3VOVFNVekFUbGJMWlhLamIyWFcwTFJadmh1WU1CVVVCajA?oc=5",
+ "medios": 6,
+ "normal": 0,
+ "red": "investing",
+ "titular": "El Bitcoin pierde un 10% en un día de desplome generalizado",
+ "medio": "Investing.com España",
+ "link": "https://es.investing.com/news/cryptocurrency-news/el-bitcoin-pierde-un-10-en-un-dia-de-desplome-generalizado-3939020",
  "titulares": [
   {
-   "o": "TradingView",
-   "t": "ECB already had large support for rate hike in Oct, accounts show",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdmFrdHBBaVFxZTU5Q1UzM28zcFJrTFVaamp0VkNxQzdqV0pWM216UDJWNktHenR5RTkxSEQ2OGtNTGVKNzFlTFBKbUNkUkNsQmVXVlhndDlCaEQwZmRuN2dLTE1CTzJUcEVNalFQMEctVlVWVUtOekNtWGJ0Q1lmcmVvakhtOHpFcEl4d01JZ0pDUURRMTZtanRnZlZfQW5NbUZGdFpuM2NTUzZ4VEJKaFp6SG1jWWJsVXZMYUhJcDNRdW5rbGNkRHVyZ3o3YTg?oc=5"
+   "o": "Investing.com España",
+   "t": "El Bitcoin pierde un 10% en un día de desplome generalizado",
+   "link": "https://es.investing.com/news/cryptocurrency-news/el-bitcoin-pierde-un-10-en-un-dia-de-desplome-generalizado-3939020"
   },
   {
-   "o": "The Lufkin Daily News",
-   "t": "ECB already had large support for rate hike in Oct, accounts show",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTGVNRW53N0lhcGwzMUhzUjhkc3BPRlVDekVMSVJuZUZuRkR2QTlsSng1eVJ3VkhTZ2Vnb0lwN2JlY25pdmc5cWxjNkNnX2FqeHUzbkg4cVFLSXVaQV92cS11d2pHb2FfTjdQZkJHaXY4TG9rYWduZTlJRnJ3akhoTklqRW04MDRPbFkwakRuTTJTSUlNS3lpVUZtUDRWakFLcGFRODBoS2VkbmlFSFMzX2xNUk9VekJNbndIc25OeC03UWZWYWdmNEFXSUk5d01GVVVJZ2dwTWdhSnFKbTg4czJ1NkZOVF9fMFRPNXNZVzJleE1PLVQw?oc=5"
+   "o": "Investing.com España",
+   "t": "Bitcoin ronda los 60.000 dólares en medio de incertidumbre regulatoria y de tipos",
+   "link": "https://es.investing.com/news/cryptocurrency-news/bitcoin-ronda-los-60000-dolares-en-medio-de-incertidumbre-regulatoria-y-de-tipos-3941185"
   },
   {
-   "o": "StreetInsider",
-   "t": "ECB already had large support for rate hike in Oct, accounts show",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZXNYQlhuTnJObldxVUhDa05senhaOE81UVE5WXo4Vkp2cXAwR1lpc3JzVXBrbHVXWjVGcVg1cDktWnZTYVloMWNIeUUxLXJIOUxzMzBJQ1ZBRng5VzBRMzJyQlVmOGpEZnV4RU1sMVFDcHM1LUN3QUVGYmZPUVprNFJsNjNndXpjQzBocE1oWkEwX1pRbkxTNGlBMEdTZWZZdjRuaFNncUNMUnlRT3N5cUhsRVQxOTdIdUxF?oc=5"
+   "o": "Investing.com España",
+   "t": "Bitcoin recorta ganancias tras el rally de IA en Wall Street, pero se mantiene sobre los 61.000 dólares",
+   "link": "https://es.investing.com/news/cryptocurrency-news/bitcoin-rebota-por-encima-de-los-61000-dolares-tras-la-ola-de-liquidaciones-3939417"
   },
   {
-   "o": "Reuters",
-   "t": "ECB already had large support for rate hike in Oct, accounts show",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0pwMG9feGVEYVhMdnB4SDFTdFNQV0FtWmt1QWdhS0t4akxqbVJhTW96MXVlU1k2T21mc1VJaVRMM3huQUZLanZrdXVlcTRneXhCUGRpcUJaSEZ2T2VMUTRSR252S2FzYkhkR0wzbHRpQjNhb3kwM09TaVVrUndBaHBBc3BmZXl2TDVVZUxJcTVELWc1WUlJZ0JKNDNOaUxLQldaQWtFTm9CX0p4?oc=5"
+   "o": "Investing.com España",
+   "t": "Bitcoin repunta más del 1% y recupera los 60.000 dólares",
+   "link": "https://es.investing.com/news/cryptocurrency-news/bitcoin-lucha-por-mantenerse-bajo-los-60000-dolares-ante-caida-de-rentabilidad-minera-3939166"
   },
   {
-   "o": "Investing.com",
-   "t": "ECB already had large support for rate hike in Oct, accounts show By Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0F2c2liN2w3aWJLVUUwUU1EZ2prWUNxaTdpZXk0SlpGS3pfUFBqamhBTXgzOWdJOGh0cjVSRGNIck5LbVo5N2x4VGpyNjU2Nnp0U0JpQzJ3UlJrZzF2NFJaeVUycWJsZGxrdWpWUGJ5U2VmLTV3U2RKQy1hLWtNRF9SXy1teGRxMTZpNjVrSkN1R1lkc3VOVFNVekFUbGJMWlhLamIyWFcwTFJadmh1WU1CVVVCajA?oc=5"
+   "o": "Investing.com España",
+   "t": "Bitcoin cae a 55.326 dólares, su nivel más bajo desde septiembre de 2024",
+   "link": "https://es.investing.com/news/cryptocurrency-news/bitcoin-cae-por-debajo-de-los-56000-dolares-en-medio-de-una-crisis-de-liquidez-3939017"
   },
   {
-   "o": "شبكة تواصل الإخبارية",
-   "t": "ECB already had large support for rate hike in Oct, accounts show",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzYnFrb25lYWRqTVhvbXZMbGZWdUQxUjhWYWphbWFZTUhWNllYNVdVMHoxRWR2OFBCbnFSRWRzOF9JOHRrS2k0WTY5Nl9hVXpXUE4w?oc=5"
+   "o": "Cryptonews.net",
+   "t": "Bought Nvidia stock during the 2017 crypto boom? You could qualify for a $290 million settlement",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Mc09LSGNtaVlmcFJLRGZUUXB4aFo0SEE2TXFjcDRnV1RoUkk3anZBVzJXRzRUd2g5NG1ycG44UGQyaHphQ0p0TTRZQ2ZlSlVNWXhaeXk0NWo?oc=5"
   },
   {
-   "o": "Lexington Herald Leader",
-   "t": "ECB already had large support for rate hike in Oct, accounts show",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hOW90bDg1d3hCWDdHT25pNHEwbG9GMm5Qd0JoZnFBYlA3TncyTmU4VjlqZzk5b3B5RUdEZnR0THRyb0pTaDlESE9faThMU1p5WlJhY2l4NlUtSHI1ajBKd2RjbDcyZXUzMkhUMjdaV3JfX2xJNGZsYmtaVmYtdw?oc=5"
+   "o": "BigGo Finance",
+   "t": "Tudor Investment Nearly Doubles IBIT Stake to $64.6 Million as Bitcoin ETF Bet Revives",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EWVN2Z3RzQmFZb0JxU2dYMWttSmtqeXBmWC1weGpVSTNEbk92X1hqdXlxNFRDSmJqeFZ0S09IWG9SY0xEUUEzOWdJNWJ5aVZSelh0Z05LYU1ONGNjaTh0ZEd6T1JNUXB2SHVDeFNCNXo0TEhzNlE?oc=5"
   },
   {
-   "o": "Tri-City Herald",
-   "t": "ECB already had large support for rate hike in Oct, accounts show - Tri-City Herald",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR3lGeWFPYWpsWnBBYjB4N2tCNjB0TGdWLXhFTS14SF9YdlFkcTBOWWtLbTN3ZWc2U2oxX2piVHNBakx6Z2JOWWI3RUVsTUduby1BcXk3S0tiNlZGRDcwX200XzRjVWZrWnFfbFlhSTNXRXFQdlBrdHVXQUxibXNMLU4tSjdRdw?oc=5"
+   "o": "CryptoSlate",
+   "t": "Bought Nvidia stock during the 2017 crypto boom? You could qualify for a $290 million settlement",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjY5bnM1eURUWEthM1Z6c3JtTk1CMzBfZERPdVBtVWlnWUlLRU4wd2FxamFDMl9JYkZuYU5RUktuMlNqc2FJb0tuWlB2TXhNRm1ZWlhJdUgtT0dRY3ZRNGhnc2E5bUd6d3hjTmxwRXZPQ1VoeXNNWTZIWEE2X29uME1kXzYySURuWWxYYWdrSzA5dkZNWUEyTw?oc=5"
   },
   {
-   "o": "Bellingham Herald",
-   "t": "ECB already had large support for rate hike in Oct, accounts show",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcmNCbE1iUVJGcHd2cHZLSmhDSVJyMEptejUzcG1Fck5qMEF4TEViYzh4SFZ3RXlkQXRET1pOOEd6WGZMOHZNWTkySlplcUtzNTNPUFZyb19fcWlmcG5adFBmMzMwVjdxWlE5U3paLUlJU1dYQnRWNFVuLUh0Y3E2clhjVjRzcEFz?oc=5"
+   "o": "Pluang",
+   "t": "Bitcoin may rebound sharply if AI stock confidence returns, says Devere Group CEO.",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU1FQQVhYZTRDUTdDUGtFQlJtcWU4Tl8teWFHQkhNbzQwcUoxZFdCOVdFWFNFS2JMLWFPY05XQlhoOGxBYWxFSUtnSTViLWU0UW9jSHRLSXd6ZVN2M1B0b190QThKbVVydGZ0RldEMUlRTUxnNloyS202MXNCTFpsMTdCb0l4dC05WHZiUw?oc=5"
   },
   {
-   "o": "Kansas City Star",
-   "t": "ECB already had large support for rate hike in Oct, accounts show",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ003TEpHMDFWY3JYRzNiZm1RUlZIZi1xbEpFY2pGQ3R4WmVNdk51cWNMN2RBR2xERGNCdkU3cnZIdXNoT3RKUFAyendRWnZuWlp6WTZQbjAtd3otUncwSlVnTU5DMEotQ3NlX0x4ZEd2SHY1UTBFNl91Tm5NdHJfRw?oc=5"
-  },
-  {
-   "o": "The Mighty 790 KFGO",
-   "t": "ECB already had large support for rate hike in Oct, accounts show",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjU5TWhuUl9uU3lWMjVmLTZlTlZmejY2WGh1TFRZdjFndzAxQVFPUGZhRmNjVUN5YlJJc0VaOTRZbnhNOVIyUVExNF9KS0gtSThrZ1J0QWczTjNZSnYwaHhtTDNtOE1Tenl6NFRRVG1ZQTVHbEx5R201T21mOUFCTkFKNHZNYTBJQTVjT1lhb2VEcy1HLVZrQQ?oc=5"
-  },
-  {
-   "o": "93.3 The Drive",
-   "t": "ECB already had large support for rate hike in Oct, accounts show",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTzZzcUNqSnRITHFQa1BwTmtLbXdqOXRHX3lLcGg1XzVuR2szQmF1YjFfd1dpRnRfUE10QW1CanVyS1EyaEhiXzRwWUIzcTJ5Y1BVcFlqNDYtTmFJUlNLQ29oaFNEc2puRENLOHRobDRUdXFZbDJfSmZXTmdCZ2NhMDd5VEJBZU5nTnQ3U05VV0lKTEU5TENDUU5GUTl5cDhuUW44d0NFcw?oc=5"
+   "o": "www.tokenpost.com",
+   "t": "Green Links Bitcoin Rebound Potential to AI Stock Recovery",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wU3NXNFpoeXVjaU5rQ2hIWU4zbzF1Yi1LZWpTZ1B2Mzc2M2xYQUphLWhsdUQ0c3VScC1qcUpxd2JKVnZFYlg2bkdsUWEwci00WHgtOVpUd1ZnUQ?oc=5"
   }
  ],
- "en_espanol": [],
- "investing": []
+ "en_espanol": [
+  "El Bitcoin pierde un 10% en un día de desplome generalizado",
+  "Bitcoin ronda los 60.000 dólares en medio de incertidumbre regulatoria y de tipos",
+  "Bitcoin recorta ganancias tras el rally de IA en Wall Street, pero se mantiene sobre los 61.000 dólares",
+  "Bitcoin repunta más del 1% y recupera los 60.000 dólares",
+  "Bitcoin cae a 55.326 dólares, su nivel más bajo desde septiembre de 2024"
+ ],
+ "investing": [
+  {
+   "t": "El Bitcoin pierde un 10% en un día de desplome generalizado",
+   "link": "https://es.investing.com/news/cryptocurrency-news/el-bitcoin-pierde-un-10-en-un-dia-de-desplome-generalizado-3939020"
+  }
+ ]
 }
