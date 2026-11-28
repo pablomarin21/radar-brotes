@@ -1,88 +1,68 @@
 {
- "ts": "2026-11-28T01:27:19+01:00",
+ "ts": "2026-11-28T08:48:52+01:00",
  "fichas": [
-  "apple",
-  "perspectivas"
+  "oro"
  ],
- "medios": 72,
+ "medios": 7,
  "normal": 0,
  "red": "investing",
- "titular": "Perspectivas del mercado de smartphones en 2027: Apple superará al sector con caída del 5%",
+ "titular": "El oro sube un 3% tras marcar mínimos de 15 meses a principios de semana",
  "medio": "Investing.com España",
- "link": "https://es.investing.com/news/stock-market-news/perspectivas-del-mercado-de-smartphones-en-2027-apple-superara-al-sector-3945595",
+ "link": "https://es.investing.com/news/commodities-news/el-oro-se-estabiliza-cerca-de-minimos-de-15-meses-por-apuestas-a-subidas-de-la-fed-3944903",
  "titulares": [
   {
    "o": "Investing.com España",
-   "t": "Perspectivas del mercado de smartphones en 2027: Apple superará al sector con caída del 5%",
-   "link": "https://es.investing.com/news/stock-market-news/perspectivas-del-mercado-de-smartphones-en-2027-apple-superara-al-sector-3945595"
+   "t": "El oro sube un 3% tras marcar mínimos de 15 meses a principios de semana",
+   "link": "https://es.investing.com/news/commodities-news/el-oro-se-estabiliza-cerca-de-minimos-de-15-meses-por-apuestas-a-subidas-de-la-fed-3944903"
   },
   {
-   "o": "PhoneArena",
-   "t": "With One UI 9.5, Samsung’s Galaxy AI will mimic Apple Intelligence and then surpass it greatly",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUDBoNlFhU1A5OWFHTkpVVDBabUgzYThHemFzQlZGTkFIWVI0SmZERHVMbDRDTGljc2lra3NUdEx5Rl9wYkFOcVVtYTJyZ1hUZEk3Y0ZJQlFIS0hidHZCWEJaNEV2RERsUWdQazhMNUY2Ql90WVE4ajdRVFNuY2lPVXNQamxtQm10LTNIYXFUTjl6VThBN1k5ckRSTTdYOHFXZ3l3ZUYxZGM0VW1LdXFnc0JpYlBnZUstOEZn?oc=5"
+   "o": "IANS LIVE",
+   "t": "Gold, silver surge up to 1 pc despite Fed rate hike fears",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbllOYzlGQW1FdXNPak83Rmh5cTJta01kUTVvWHZ6Q01Qc0s3WHF4S0JDaVZhOExSdmRXclJsd3N4d2J6N0xYdTVzUThkbV9IVWhPZWNVNWpvTEQ3dHd1bWhxanpOejVCbHQxNFhTZm9EaXhpUXh3cGNMaVhzXzNVcHF3RXVfbFBmZmRqZmI4N3c4V0ZTYTZiMXJDcmtUNXc?oc=5"
   },
   {
-   "o": "Reto Diario",
-   "t": "OpenAI contrademanda a Apple y la acusa de apropiarse de secretos comerciales",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTjhnMEpjMDkwMkhoY08tMWl2TWk0QkdUNFE0TnVDZFlmLTl2ZUlNejVLUkR2UFRRYkdTX3dvYzBqLTJsdWFlQjMxaXlXR3F2TkNxYWlzVFhDMFg1ZGx4aXRwbnEwaFBtMlF6NDVMMk1qUzZmcV93aE55UmtEeVZsOVRlbERpaUZiRDgwM3pMLUNlUnNQUDBfT1p3VTVrM3ZleEFkZnQwR0VUekFIVGtST1FLWGItNEZOcXR1SVlqQjg2VXpP?oc=5"
+   "o": "Bloomberg",
+   "t": "RBI Steps Up Gold Loan Scrutiny as Bullion Rout Signals Strain",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-28/rbi-steps-up-gold-loan-scrutiny-as-bullion-rout-signals-strain"
   },
   {
-   "o": "NST Online",
-   "t": "OpenAI countersues Apple, alleges trade secret theft and supplier pressure",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZVM5ODVVRWhZaFNNWktjWEJ0ZmxNRUVYSXZyczZvcGc3TkRuRlI3QnpUelFzZHA4VnZtODlBR3N4djRxQ3IyekQtUy16VDBZZnVOMmJhNGRDQmpXekt5Y0J2SVBVUVJTTWw0LW9GbnVZbDM3aWhReVhHbFViUlNiRkNKLTkxVXpiN2p2dXRCZ1pNRXI1VHFzMnRJNXlWN2x0WFpwZUFOYUdkUTJVUGJxbjR3clFoQdIBuwFBVV95cUxNTkRCWmtvT0JlcUJYY29zZjRCN25FaTJNTkJRS2ZfNElTWDVaLXRMVF92NkU2d1pySWk2VDluVzVPM3VQclR3NE9udFlsazBUM1BEUG9rRUlDRDhLNXFtdjNSSlAtamRMQ2pEb3Jtc3dLdFNTeVpkdUdDbUlmTDd0MFdlZW9sV0o2NUFoUWVQRDBWRlFRcndmQ3NtU1lLeEZoRGFJT2JqLVlpYTFmdExqSHNrQTgwbmVkMUdj?oc=5"
+   "o": "Bloomberg.com",
+   "t": "RBI Steps Up Gold Loan Scrutiny as Bullion Rout Signals Strain",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYjhmSUs2VlExTUlfWUZQWW9iaW1RZGxBbWgzOTE0NjhYc0k2ZUZjdm1US2d0Z1BZNmR6cDVpUnZqQU5kTVFPbk1LdzQ2SEhxZE5PMWhJUGZxS1Q1TVVZMS1ybndvOExyTlZNdVJ0aHhnOGFSb1NmX1luaG93dy1SVXdEUl9CZmRHQnVPR3FRZlRCSjM1dFptNER4dTVtb1ZTLWtQd0VlY2ZoX2xWaFFGUmIzTQ?oc=5"
   },
   {
-   "o": "El Financiero",
-   "t": "¡Se están peleando! OpenAI contrademanda a Apple por robo de secretos comerciales",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU1pQQTBfRmlzS2pnaVFJVlN0Qnd6TEszNVI1Njg5a3dyTHYzY000SmhtakZHYkxqYWlYLXlmdHlaU0RUWks3cno0MGU0MzdkV2lsdDVpVWJxYU1qLUZ0Y1ZPbjNxS1hNQjVTaUhfbVZUTnphTm9tam0zdjRkMWhXU3JmcDBFMWY5dEpIU1VEYU1oN2tnRFpHd0FEaWNnYUh2VmN5aWpfQW5hb0VQRjZCa2xBbWVRTnVvSHZ6bzhPRnVrOHdqdk9R?oc=5"
+   "o": "ad-hoc-news.de",
+   "t": "Gold's 2.4% Rebound Lures Bullion Buyers, Yet Rate Headwinds Hold the Line - ad-hoc-news.de",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZHQyaWVlTHZ3dDZ2T2tmR1NFMHZ3ODZTRDBKbEJxUi1WTDJDLVV3cHRIYnVxNUtqdzZiLWZDRXoxbk5SWlZ2OGZUeEFNN3FVdnd3TWhURmk5SHR3dEo0LUo5NHVBMTN0anJmVmFaWTItVThCUTEyaDVOclpDd2llQnVWWWItV21BYVJEV2N6bkpvcWg5Ym11SjF3R3EyMURINVJhYWV3SWoxRWMzUjZKcG9icE9nZldaSkdWZWRvSVdFc0xfdzVVcUlvZVZfS1VNR0FGRzA3UDVnNUpQ?oc=5"
   },
   {
-   "o": "Noticias Telemicro",
-   "t": "6. ¡Guerra tecnológica! OpenAI y Apple se enfrentan por supuesto robo de secretos comerciales",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaGFJLVZzX0JXUXowYXAtdzdYRkhkcjdCNHdhN3BMZm1YS1hZUmJ4cENjVDFERGxyU3VBM1FGYzJZZ05CSFhaZUpzbFlsQmN4RE44X1doeWdnMGg2WDR4M2hfR2FRZ05kSmZLYjctTVFTa2k4X0FrMU5lNlNKRkRhVl9CaDNwek14X3Y5N2Q1Rk5PUktKMXdQdnUzQ0wyeG1YVld6UWRFQm92bm1sdHN5VHJwbkg?oc=5"
+   "o": "Vietnam.vn",
+   "t": "Gold prices today, November 28, 2026: Global market recovers strongly, SJC gold bars maintain at 136 million VND/ounce.",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZk80SXd3bGc4dk1mS2I5TzIwR01kaDhnVWlHenVRT1c0QmxNS0RLRFQybmxKZ1NNazdaRkZ3LWFqZERkQUVNcEd6OWJQeEIxbXZPNzFNQUhSaGNyS3ItT3dEWjZNUUZWbGpWdFdrMUtTdmppa3BIYlJBLU5zcGN2OEE2VkhkcVBOQUkxT3RvRms4TnZsUV9LTFoyODNkanNEcFF0OTVQQzlmSzlORVJrSUVBQ3BnRmVselMycQ?oc=5"
   },
   {
-   "o": "Pluang",
-   "t": "OpenAI sues Apple over alleged trade secret the...",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWldmeGtFekRrVGtIeGhCVkVFQ3J1ei1kSUwyTkxfby1MclpsZ3N6akFYQ191QnNZVGJBaFhsMHI2TXZ0U2g4R01ENnZXU09YRDVzLW8tZThmcGNyS0lxTkdadk91YjU0SFVfYVJmMVpQU1BvMWFuTU0xcWIzN1NPQ29pR1NWWEVEQ3VxX1hKQ0h0aU9iT1UxbEJkUlo2TEJTWkt5cHZR?oc=5"
+   "o": "Bloomberg",
+   "t": "Gold Rises as Rebound in Tech Stocks Helps Revive Risk Appetite",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week"
   },
   {
-   "o": "Investing.com UK",
-   "t": "2027 smartphone market outlook: Apple to outperform as shipments fall 5%",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX21yVE8zd3pqTGozQjczMTlVcWpaLXdqWVJaX0ZZX0R2YjNvbzVSMXlOanMwZFRNc2dwdloxYzhHVlpxZXVtYXRadEtaUTA2MF9MckZhRzN3RTAtNnpVSWh1OTNXdHd3SUdlVkUwSEZ6TmlRUjNtQWdibGl2aXJ1WDFlOTFSM2Ixd1J6bkwzT0R0UHIwSmZ2WG53aktxS2FOVHUtV21PYVBUSVFhc2g1ZW5Pc3R2U2JxV0hnakxFd3l4MFFT?oc=5"
+   "o": "Vietnam.vn",
+   "t": "Gold prices today, November 28th: ​​SJC gold rises to 136 million VND, is the recovery sustainable?",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcFVTYkJWdXVYQVJvanoxQTZNazh3NGNoZmtUTkp4Wkh6V3lIUjZUQUtqSEVoT3lvRHNnNS1Ia1hDUFBxV3ViZ051aUNGZ2ZMaFZuUE8weFBNcUtHdmtocUFEVEd3UXQxS1cxX29GN3o4Z0pOMW1IMnJtY2p2T0dmM3ROOTdEQ3pXblp2Z01UX1Fpb2EtbUlyR2NOdFNwM1hqOGc?oc=5"
   },
   {
-   "o": "Investing.com México - Finanzas, Bolsa y Forex",
-   "t": "Perspectivas 2027: Apple superará al mercado pese a caída de 5% - Investing.com México",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdWljT1VpQ1BKcHY3MHdZYzdHcG1peEJ6R25WMmkxVVB3QnZYUWN5RFJrOGtOQnM0dktXT3pQTWF2ekNGMzRmVXBMU0hBTTF6S1RDX1QtQWdJR2xzMFpuRlUtUzVNcTZOR0g0OHJpeVFoemFJbUMwb19fMFAxakN6T3Azd1lZOUwwX2pYRWxuZTZFNTJ4b2RvRjlUQlZhX3hVcEt2bnNYTmtLaTlpd09ZaFo5Nld5YmNL?oc=5"
-  },
-  {
-   "o": "Gizmodo",
-   "t": "Amazon Cut Belkin's 2-in-1 iPhone Dock by 50%, Includes the Power Adapter Apple Won't Give You",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQS1kOHhBRFdMNXk2al9xejRVTFVmNGxEZml0T2w1N1hNRnUwb0FzNjFoalJ3TXo5VC1rSDg0NEpMMElpRWFyVlQ1YkVkSF9YMFZqN1pVS1M5dVFPQTBmU0FoSUhhbkJ5VmJSc0p5QWxhcmt0Vjg3eXZFbmZ6RlRyZTB3MC03akhIM0ZIWlpKc0ltWnF5WkxmYUNvcnFFVkdQNEN1LS16R2ktbmtta1VfSE1SN2M3NEJRemtUMDB3?oc=5"
-  },
-  {
-   "o": "Investing.com",
-   "t": "2027 smartphone market outlook: Apple to outperform as shipments fall 5%",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQemF6ajcxMGRhZkpTelBET0ZlVFY4LXlCVW1Nb2ljMkpjaU9STGNLQ2N4OUxMOUEwR3lhMXpqMDhORlhBTWRDMFRlMVFwS0w3cmo3N0JKSzR2R3d1d2ZoYnp0cTNqcUR6Uk9BNHdRdjQ0VlBGZmhJMWZfRnlScS1lTnN5RllNdEV6a05tRW5jc1ZuOEZMTFFDcGNaaE5GUUxSSkJJYVRDOHNlVFZ6OWZKdXNjeUdpZ2d1R2xXRnZ6Yi1JcVFOUnc?oc=5"
-  },
-  {
-   "o": "Identidad Correntina",
-   "t": "Durov burló al iPhone Duo y Apple enfrenta críticas",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSTlFdDZubFgwc0ZPdmxqcXNQcERvSmdFUUdxeVVFSXQ1UF8xcDNEV0EwblhyWHdhVFFOVy1yNlY3cFd0ZWV1UUEtZjlSSGpHOEpKOVFjbmRSV0dObmZkV1JIU1BaUkJIQXdzZWhlOUg0cU5wdGRrOEdwd1UwWlRQbnBSdlBVdVZsWVlfVXVpNFU0M3JfRXhkN2dpTzBSR1hsMm5KWTc0RFNyUQ?oc=5"
+   "o": "Around Prague",
+   "t": "Is Gold's Selloff Over? What Analysts Say Ahead of the Fed's December Decision",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3duaER2LWpUZVVhNGZJRC11VzR4Q0VCYmduWVFPMFg5VVBhcDVtUVBhelRhd0stVlp0ZDg3YlBTdXBBYXloeC04QWM1RG9oUTltb190djlXWjN4Y1luNXMtaHlMSlQ4dE94N1o0eU45ZlpXaThidjdaT20zRjZNRl8tSUdzd21fS09VcHlSdjBuaXkxSlYwZUJkRUttWEY1NEZ5dUcyY1NadEdxRmxTbFVn?oc=5"
   }
  ],
  "en_espanol": [
-  "Perspectivas del mercado de smartphones en 2027: Apple superará al sector con caída del 5%",
-  "OpenAI contrademanda a Apple y la acusa de apropiarse de secretos comerciales",
-  "¡Se están peleando! OpenAI contrademanda a Apple por robo de secretos comerciales",
-  "6. ¡Guerra tecnológica! OpenAI y Apple se enfrentan por supuesto robo de secretos comerciales",
-  "Perspectivas 2027: Apple superará al mercado pese a caída de 5% - Investing.com México"
+  "El oro sube un 3% tras marcar mínimos de 15 meses a principios de semana"
  ],
  "investing": [
   {
-   "t": "Perspectivas del mercado de smartphones en 2027: Apple superará al sector con caída del 5%",
-   "link": "https://es.investing.com/news/stock-market-news/perspectivas-del-mercado-de-smartphones-en-2027-apple-superara-al-sector-3945595"
+   "t": "El oro sube un 3% tras marcar mínimos de 15 meses a principios de semana",
+   "link": "https://es.investing.com/news/commodities-news/el-oro-se-estabiliza-cerca-de-minimos-de-15-meses-por-apuestas-a-subidas-de-la-fed-3944903"
   }
  ]
 }
