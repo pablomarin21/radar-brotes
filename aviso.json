@@ -1,68 +1,77 @@
 {
- "ts": "2026-11-28T08:48:52+01:00",
+ "ts": "2026-11-28T18:55:10+01:00",
  "fichas": [
-  "oro"
+  "now",
+  "amazon",
+  "sell-off"
  ],
- "medios": 7,
- "normal": 0,
- "red": "investing",
- "titular": "El oro sube un 3% tras marcar mínimos de 15 meses a principios de semana",
- "medio": "Investing.com España",
- "link": "https://es.investing.com/news/commodities-news/el-oro-se-estabiliza-cerca-de-minimos-de-15-meses-por-apuestas-a-subidas-de-la-fed-3944903",
+ "medios": 12,
+ "normal": 3.0,
+ "titular": "Tech Stock Sell-Off: Down 13%, Is Amazon a Buy Now?",
+ "medio": "The Motley Fool",
+ "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc3c0V1FCYnR6dlNScGVEQS14eWZPTHFJQ0t2RGwwTVVBTHZSYW1uM04zbU9EbnFfODl5ZGNEbTU0bnR1N2g1QkJ1Z1djajVIaDcxRk0xX2VBNzJta2t1U0xUTG1NMHZVQXJYU25SN1RFekRGMm0zUkNUNDFINUYxLVc0SWgzMFJ6SktrQUpuZVZwTnVZ?oc=5",
  "titulares": [
   {
-   "o": "Investing.com España",
-   "t": "El oro sube un 3% tras marcar mínimos de 15 meses a principios de semana",
-   "link": "https://es.investing.com/news/commodities-news/el-oro-se-estabiliza-cerca-de-minimos-de-15-meses-por-apuestas-a-subidas-de-la-fed-3944903"
+   "o": "The Bureau | Sam Cooper | Substack",
+   "t": "Trump Restored Jensen Huang. Now He Must Secure Accountability",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yNDFrVExFVnJBc2hRWXhPemhPd1ZfcHoyVjg3RDlWUk5WLVpPblg4akxKVGVFLXFuRTMtbTAteGYzWTBZeEUzNXZ1dDhIejFreERockEwdkc0dExLM19iaFNYSFRVcFYzYllaLUFKaGY?oc=5"
   },
   {
-   "o": "IANS LIVE",
-   "t": "Gold, silver surge up to 1 pc despite Fed rate hike fears",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbllOYzlGQW1FdXNPak83Rmh5cTJta01kUTVvWHZ6Q01Qc0s3WHF4S0JDaVZhOExSdmRXclJsd3N4d2J6N0xYdTVzUThkbV9IVWhPZWNVNWpvTEQ3dHd1bWhxanpOejVCbHQxNFhTZm9EaXhpUXh3cGNMaVhzXzNVcHF3RXVfbFBmZmRqZmI4N3c4V0ZTYTZiMXJDcmtUNXc?oc=5"
+   "o": "Kotaku",
+   "t": "Marshall Goes Into Clearance Mode With 43% Off Its Acton III Bluetooth Home Speaker, Now Priced Like a No-Name Audio System",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTE9waktLRXZmQm5lZXdWNXJPTG9nU0tsNE9pLWRTVEFDbHpnblg1cUwxY1Z5QTlJVGNoNDZlWFJJaW1MTXZSMTFjTFFTbFZGZlJXWl95OWNPM3hSbzlhN05VR3NFZ294dk00eVVVbURZb3BJQ1Z5RS1seHZMWTJ1ZEtVNndjMTNCMHhiREhFYlNMdng2VjRzN3cyeGhVRi10ZXhWNGtnTDN2c3VQb2xWbkF4dHhXWFpsaXBzcklhRzdkUnNpTjhrTHJEMy1PWGlacURBbktBaEt3SWRQR1hGQVFZZlJ5dw?oc=5"
   },
   {
-   "o": "Bloomberg",
-   "t": "RBI Steps Up Gold Loan Scrutiny as Bullion Rout Signals Strain",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-28/rbi-steps-up-gold-loan-scrutiny-as-bullion-rout-signals-strain"
+   "o": "Talk Android",
+   "t": "Telegram iOS Warning: Update Your iPhone Now",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFNGQ05wNnJMaVZtWEYzVVBiTFB3eUtOWGFhdXRYNjZYNTY3ZktmU0ZNazRmS3VodDZVMmlaVmZ3Vy1GVjlNREplLXJjbV85S3VJZm5mZE9BckQ1SzBWQWRIZG9SRWxaY3haWDNKMm16Q2d4bUJfYW5fM2FIVFA4Sw?oc=5"
   },
   {
-   "o": "Bloomberg.com",
-   "t": "RBI Steps Up Gold Loan Scrutiny as Bullion Rout Signals Strain",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYjhmSUs2VlExTUlfWUZQWW9iaW1RZGxBbWgzOTE0NjhYc0k2ZUZjdm1US2d0Z1BZNmR6cDVpUnZqQU5kTVFPbk1LdzQ2SEhxZE5PMWhJUGZxS1Q1TVVZMS1ybndvOExyTlZNdVJ0aHhnOGFSb1NmX1luaG93dy1SVXdEUl9CZmRHQnVPR3FRZlRCSjM1dFptNER4dTVtb1ZTLWtQd0VlY2ZoX2xWaFFGUmIzTQ?oc=5"
+   "o": "the deep dive",
+   "t": "Gold is Crashing! What Now?!",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tOUFyNTZYSXNIMVliQzFDOXFQeElSdFVVci1tMWxOVlZNeG45bzBmd0MtOGQ1S3ZDajZNa3ZhMERwdFdMQlMwRjN3Q3ltbVliVXcyMlpSS0tJT04xVUE?oc=5"
   },
   {
-   "o": "ad-hoc-news.de",
-   "t": "Gold's 2.4% Rebound Lures Bullion Buyers, Yet Rate Headwinds Hold the Line - ad-hoc-news.de",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZHQyaWVlTHZ3dDZ2T2tmR1NFMHZ3ODZTRDBKbEJxUi1WTDJDLVV3cHRIYnVxNUtqdzZiLWZDRXoxbk5SWlZ2OGZUeEFNN3FVdnd3TWhURmk5SHR3dEo0LUo5NHVBMTN0anJmVmFaWTItVThCUTEyaDVOclpDd2llQnVWWWItV21BYVJEV2N6bkpvcWg5Ym11SjF3R3EyMURINVJhYWV3SWoxRWMzUjZKcG9icE9nZldaSkdWZWRvSVdFc0xfdzVVcUlvZVZfS1VNR0FGRzA3UDVnNUpQ?oc=5"
+   "o": "The Motley Fool",
+   "t": "Tech Stock Sell-Off: Down 13%, Is Amazon a Buy Now?",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc3c0V1FCYnR6dlNScGVEQS14eWZPTHFJQ0t2RGwwTVVBTHZSYW1uM04zbU9EbnFfODl5ZGNEbTU0bnR1N2g1QkJ1Z1djajVIaDcxRk0xX2VBNzJta2t1U0xUTG1NMHZVQXJYU25SN1RFekRGMm0zUkNUNDFINUYxLVc0SWgzMFJ6SktrQUpuZVZwTnVZ?oc=5"
   },
   {
-   "o": "Vietnam.vn",
-   "t": "Gold prices today, November 28, 2026: Global market recovers strongly, SJC gold bars maintain at 136 million VND/ounce.",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZk80SXd3bGc4dk1mS2I5TzIwR01kaDhnVWlHenVRT1c0QmxNS0RLRFQybmxKZ1NNazdaRkZ3LWFqZERkQUVNcEd6OWJQeEIxbXZPNzFNQUhSaGNyS3ItT3dEWjZNUUZWbGpWdFdrMUtTdmppa3BIYlJBLU5zcGN2OEE2VkhkcVBOQUkxT3RvRms4TnZsUV9LTFoyODNkanNEcFF0OTVQQzlmSzlORVJrSUVBQ3BnRmVselMycQ?oc=5"
+   "o": "Better Homes & Gardens",
+   "t": "I’m a Pet Owner, and This Cordless Vacuum Is My Black Friday Deal to Beat—Now $130 at Amazon",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeF9xdXpZRFlTcHhqdm5lMHppV1QySURiTGtRZ0xEUzlPb0xfektORHBUenhPR2luYmoyei1pQ2UzaVA5bFlHY1hPUkFfd1d6d21qYjdESzdlXzZTT1ZfYm1QbU96YnVJLUtyb0ZhUDBtaFJzcGJ6dUhJMzBSbXFiai1ZR1hsTGVnczJpYkNfZw?oc=5"
   },
   {
-   "o": "Bloomberg",
-   "t": "Gold Rises as Rebound in Tech Stocks Helps Revive Risk Appetite",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-26/gold-steadies-as-fed-rate-path-and-ai-stocks-frame-volatile-week"
+   "o": "AOL.com",
+   "t": "Tech Stock Sell-Off: Down 13%, Is Amazon a Buy Now?",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YelpYeTF2SU5JaEZ5Uk8yZGJpYnBULTJtM3F1QUxaSGFXMkxONnh2ZWVYVFZ0dUQwWWpGTTJYamNoWEZMYXlGY1piOGhIU253aEpUOEhHd1BHQ2l5RS1PR1c0bEZfQllyYng1am5XSElfMTF2bzBZ?oc=5"
   },
   {
-   "o": "Vietnam.vn",
-   "t": "Gold prices today, November 28th: ​​SJC gold rises to 136 million VND, is the recovery sustainable?",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcFVTYkJWdXVYQVJvanoxQTZNazh3NGNoZmtUTkp4Wkh6V3lIUjZUQUtqSEVoT3lvRHNnNS1Ia1hDUFBxV3ViZ051aUNGZ2ZMaFZuUE8weFBNcUtHdmtocUFEVEd3UXQxS1cxX29GN3o4Z0pOMW1IMnJtY2p2T0dmM3ROOTdEQ3pXblp2Z01UX1Fpb2EtbUlyR2NOdFNwM1hqOGc?oc=5"
+   "o": "Yahoo Finance",
+   "t": "Tech Stock Sell-Off: Down 13%, Is Amazon a Buy Now?",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbnY4Nm80QlJiN2dpZU5JLWQweTAxTTFsYWFDMlZCNlR6MjVYbkJaa1RPbkxTX0o4U3BRS1BfRVV5QUV4TlViLVhDcFM0MklVWE1XQ0ZLZmQ2VHdsMmxPZlBmdnVYWlh3dEFDRjJmYnphS0NFb3JpSjdhMDhSQnE0RDBLOWYybUJJMTM4ZVNDZ0lnSWs?oc=5"
   },
   {
-   "o": "Around Prague",
-   "t": "Is Gold's Selloff Over? What Analysts Say Ahead of the Fed's December Decision",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3duaER2LWpUZVVhNGZJRC11VzR4Q0VCYmduWVFPMFg5VVBhcDVtUVBhelRhd0stVlp0ZDg3YlBTdXBBYXloeC04QWM1RG9oUTltb190djlXWjN4Y1luNXMtaHlMSlQ4dE94N1o0eU45ZlpXaThidjdaT20zRjZNRl8tSUdzd21fS09VcHlSdjBuaXkxSlYwZUJkRUttWEY1NEZ5dUcyY1NadEdxRmxTbFVn?oc=5"
+   "o": "The Globe and Mail",
+   "t": "Tech Stock Sell-Off: Down 13%, Is Amazon a Buy Now?",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWnY1RUhtN0dzYWlWZ2pNRXJKcDQ1ZlB2M3MzQXBRNkRtbGZFVG1iSFBzYUZZSERtTGxhOUt1RUpBZlhIY3pacTRhSFhkYmhTa2FGYW9sRl9fMHBCei1VZGlIVE5JQjBWV3IzMFRZRm9RNzl3MVNnX1BCSXR0VE9RYWdmOWVWeEY5WHRWc0VCY0NRQnVxZ2kwSi1nNnB1WFd3UnNNNG5TcFVHa082QnNNdjMzaGxLM044QTJ1WTloS09UU0xzbVBUSTRMWTJaRE0?oc=5"
+  },
+  {
+   "o": "The Globe and Mail",
+   "t": "Tech Stock Sell-Off: Down 13%, Is Amazon a Buy Now?",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORkdGclRVclJDWXNvanAxNnVzeU5BVVVlQ2dXMWY0YnFmM3FIbHN2eG1PNUZNWVR4Ymk5bDBaR2FmX0hRc3BGTWo4WFZqUlJHV0NZb0RKeXJaMHc1REJkSFJVMVRBZDNDY3hNelBaaUhZTkZvdFMxSy1uVG51RE1xMVFUSTczTk9ZcEZONVVQTG44cHZsRG5ZUEpvYkhZNmYycUxNYTliQ3VGaFV5aGtEWFMwdExaNElhY2FwTEVnWkZNeUJYX0ZZMGNJVFk?oc=5"
+  },
+  {
+   "o": "24/7 Wall St.",
+   "t": "Walmart Is Now a $1 Trillion Stock at 51 Times Earnings. Time to Take Profits?",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTlMQ0pUcHlMN0JjTVMwWnd6cDRZLTA2RW9qRGJHalFUbWs2Vl9jME9KXzludGk2djB4ME85SWxtNUpTVWZScXlYbWJuakthalE1V0gtVmg4elNnWEZxTnFacUVib2NpTWRLMGVzMVJTUjVtMWVBbmlWTVltQlRDSzhQZmNRRGRoejVQTjZoOTY0N04yeU5iZUw1YzAyQjF5ZjMzUTZsaklWcFpEZ29yOUl0YkxPV2Nrek9r?oc=5"
+  },
+  {
+   "o": "Parade Magazine",
+   "t": "Amazon’s Lifelike Lily Crystal Lamp Is a Dreamy Find for Flower Lovers, Now Just $22",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM3dqTUR0dGthSG1TSVUwbjl4azN6YjVuVGZyQzZXdG56enpyQzRMTC1PNC1HdXdxVm5Vd2xPNWpJU2lNdURhYmRwNzhNN0RKNFc1V0lpTF8wYVFlX1hsSkpRQTNzZ3Q5WU45RGtJNnZWNDZuWnRuTE8zdVV2bUgyNEpyRkNlZWY1aFRKVUNfSQ?oc=5"
   }
  ],
- "en_espanol": [
-  "El oro sube un 3% tras marcar mínimos de 15 meses a principios de semana"
- ],
- "investing": [
-  {
-   "t": "El oro sube un 3% tras marcar mínimos de 15 meses a principios de semana",
-   "link": "https://es.investing.com/news/commodities-news/el-oro-se-estabiliza-cerca-de-minimos-de-15-meses-por-apuestas-a-subidas-de-la-fed-3944903"
-  }
- ]
+ "en_espanol": [],
+ "investing": []
 }
